@@ -1,0 +1,5 @@
+"Rule: ocaml: cmx* & o* -> native (%=ps0 )": "\241h\200\151U,\021\1791U7\018A\211\000\\"
+"Rule: ocaml: ml & cmi -> cmx & o (%=ps0 )": "==a\129@\232\238\179<\192:h\184\163\179p"
+"Resource: /home/jharvard/Dropbox/cs51/spitiss-psets51/0/ps0.ml": "j1\\\128\167\146\210`;;|\030\145\144\154A"
+"Rule: ocaml dependencies ml (%=ps0 )": "\248\138!\232\0002+\162+U\189\244\158nl\152"
+"Rule: ocaml: ml -> cmo & cmi (%=ps0 )": "e2\1363\167v\0170\023\139\0165\029\164\218\167"

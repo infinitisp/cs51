@@ -1,0 +1,2665 @@
+"expression.ml" 18 472 480 "expression.ml" 18 472 492
+type(
+  expression -> bool
+)
+ident(
+  def contains_var "expression.ml" 18 472 472 "expression.ml" 1 0 -1
+)
+"expression.ml" 18 472 494 "expression.ml" 18 472 495
+type(
+  expression
+)
+ident(
+  def e "expression.ml" 18 472 508 "expression.ml" 23 626 659
+)
+"expression.ml" 19 517 527 "expression.ml" 19 517 528
+type(
+  expression
+)
+ident(
+  int_ref e "expression.ml" 18 472 494 "expression.ml" 18 472 495
+)
+"expression.ml" 20 534 543 "expression.ml" 20 534 544
+type(
+  float
+)
+"expression.ml" 20 534 539 "expression.ml" 20 534 544
+type(
+  expression
+)
+"expression.ml" 20 534 548 "expression.ml" 20 534 553
+type(
+  bool
+)
+"expression.ml" 21 554 559 "expression.ml" 21 554 562
+type(
+  expression
+)
+"expression.ml" 21 554 566 "expression.ml" 21 554 570
+type(
+  bool
+)
+"expression.ml" 22 571 583 "expression.ml" 22 571 584
+type(
+  binop
+)
+"expression.ml" 22 571 585 "expression.ml" 22 571 586
+type(
+  expression
+)
+ident(
+  def x "expression.ml" 22 571 593 "expression.ml" 22 571 625
+)
+"expression.ml" 22 571 587 "expression.ml" 22 571 588
+type(
+  expression
+)
+ident(
+  def y "expression.ml" 22 571 593 "expression.ml" 22 571 625
+)
+"expression.ml" 22 571 576 "expression.ml" 22 571 589
+type(
+  expression
+)
+"expression.ml" 22 571 593 "expression.ml" 22 571 605
+type(
+  expression -> bool
+)
+ident(
+  int_ref contains_var "expression.ml" 18 472 480 "expression.ml" 18 472 492
+)
+"expression.ml" 22 571 606 "expression.ml" 22 571 607
+type(
+  expression
+)
+ident(
+  int_ref x "expression.ml" 22 571 585 "expression.ml" 22 571 586
+)
+"expression.ml" 22 571 593 "expression.ml" 22 571 607
+call(
+  stack
+)
+type(
+  bool
+)
+"expression.ml" 22 571 608 "expression.ml" 22 571 610
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( || )
+)
+"expression.ml" 22 571 611 "expression.ml" 22 571 623
+type(
+  expression -> bool
+)
+ident(
+  int_ref contains_var "expression.ml" 18 472 480 "expression.ml" 18 472 492
+)
+"expression.ml" 22 571 624 "expression.ml" 22 571 625
+type(
+  expression
+)
+ident(
+  int_ref y "expression.ml" 22 571 587 "expression.ml" 22 571 588
+)
+"expression.ml" 22 571 611 "expression.ml" 22 571 625
+call(
+  tail
+)
+type(
+  bool
+)
+"expression.ml" 22 571 593 "expression.ml" 22 571 625
+type(
+  bool
+)
+"expression.ml" 23 626 637 "expression.ml" 23 626 638
+type(
+  unop
+)
+"expression.ml" 23 626 639 "expression.ml" 23 626 640
+type(
+  expression
+)
+ident(
+  def x "expression.ml" 23 626 645 "expression.ml" 23 626 659
+)
+"expression.ml" 23 626 631 "expression.ml" 23 626 641
+type(
+  expression
+)
+"expression.ml" 23 626 645 "expression.ml" 23 626 657
+type(
+  expression -> bool
+)
+ident(
+  int_ref contains_var "expression.ml" 18 472 480 "expression.ml" 18 472 492
+)
+"expression.ml" 23 626 658 "expression.ml" 23 626 659
+type(
+  expression
+)
+ident(
+  int_ref x "expression.ml" 23 626 639 "expression.ml" 23 626 640
+)
+"expression.ml" 23 626 645 "expression.ml" 23 626 659
+call(
+  tail
+)
+type(
+  bool
+)
+"expression.ml" 19 517 521 "expression.ml" 23 626 659
+type(
+  bool
+)
+type(
+  bool
+)
+"expression.ml" 18 472 493 "expression.ml" 23 626 659
+type(
+  expression -> bool
+)
+"expression.ml" 25 661 669 "expression.ml" 25 661 681
+type(
+  expression -> bool
+)
+ident(
+  int_ref contains_var "expression.ml" 18 472 480 "expression.ml" 18 472 492
+)
+"expression.ml" 25 661 683 "expression.ml" 25 661 688
+type(
+  string -> expression
+)
+ident(
+  ext_ref ExpressionLibrary.parse
+)
+"expression.ml" 25 661 689 "expression.ml" 25 661 694
+type(
+  string
+)
+"expression.ml" 25 661 683 "expression.ml" 25 661 694
+call(
+  stack
+)
+type(
+  expression
+)
+"expression.ml" 25 661 669 "expression.ml" 25 661 695
+call(
+  stack
+)
+type(
+  bool
+)
+"expression.ml" 25 661 661 "expression.ml" 25 661 696
+type(
+  unit
+)
+"expression.ml" 26 697 705 "expression.ml" 26 697 717
+type(
+  expression -> bool
+)
+ident(
+  int_ref contains_var "expression.ml" 18 472 480 "expression.ml" 18 472 492
+)
+"expression.ml" 26 697 719 "expression.ml" 26 697 724
+type(
+  string -> expression
+)
+ident(
+  ext_ref ExpressionLibrary.parse
+)
+"expression.ml" 26 697 725 "expression.ml" 26 697 730
+type(
+  string
+)
+"expression.ml" 26 697 719 "expression.ml" 26 697 730
+call(
+  stack
+)
+type(
+  expression
+)
+"expression.ml" 26 697 705 "expression.ml" 26 697 731
+call(
+  stack
+)
+type(
+  bool
+)
+"expression.ml" 26 697 732 "expression.ml" 26 697 733
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"expression.ml" 26 697 734 "expression.ml" 26 697 739
+type(
+  bool
+)
+"expression.ml" 26 697 705 "expression.ml" 26 697 739
+type(
+  bool
+)
+"expression.ml" 26 697 697 "expression.ml" 26 697 740
+type(
+  unit
+)
+"expression.ml" 35 955 963 "expression.ml" 35 955 971
+type(
+  expression -> float -> float
+)
+ident(
+  def evaluate "expression.ml" 35 955 955 "expression.ml" 1 0 -1
+)
+"expression.ml" 35 955 973 "expression.ml" 35 955 974
+type(
+  expression
+)
+ident(
+  def e "expression.ml" 35 955 987 "expression.ml" 49 1418 1451
+)
+"expression.ml" 35 955 988 "expression.ml" 35 955 989
+type(
+  float
+)
+ident(
+  def x "expression.ml" 35 955 997 "expression.ml" 49 1418 1451
+)
+"expression.ml" 36 1007 1015 "expression.ml" 36 1007 1016
+type(
+  expression
+)
+ident(
+  int_ref e "expression.ml" 35 955 973 "expression.ml" 35 955 974
+)
+"expression.ml" 37 1022 1029 "expression.ml" 37 1022 1030
+type(
+  float
+)
+ident(
+  def y "expression.ml" 37 1022 1034 "expression.ml" 37 1022 1035
+)
+"expression.ml" 37 1022 1025 "expression.ml" 37 1022 1030
+type(
+  expression
+)
+"expression.ml" 37 1022 1034 "expression.ml" 37 1022 1035
+type(
+  float
+)
+ident(
+  int_ref y "expression.ml" 37 1022 1029 "expression.ml" 37 1022 1030
+)
+"expression.ml" 38 1036 1039 "expression.ml" 38 1036 1042
+type(
+  expression
+)
+"expression.ml" 38 1036 1046 "expression.ml" 38 1036 1047
+type(
+  float
+)
+ident(
+  int_ref x "expression.ml" 35 955 988 "expression.ml" 35 955 989
+)
+"expression.ml" 39 1048 1058 "expression.ml" 39 1048 1059
+type(
+  binop
+)
+ident(
+  def b "expression.ml" 39 1048 1069 "expression.ml" 44 1254 1296
+)
+"expression.ml" 39 1048 1060 "expression.ml" 39 1048 1061
+type(
+  expression
+)
+ident(
+  def y "expression.ml" 39 1048 1069 "expression.ml" 44 1254 1296
+)
+"expression.ml" 39 1048 1062 "expression.ml" 39 1048 1063
+type(
+  expression
+)
+ident(
+  def z "expression.ml" 39 1048 1069 "expression.ml" 44 1254 1296
+)
+"expression.ml" 39 1048 1051 "expression.ml" 39 1048 1064
+type(
+  expression
+)
+"expression.ml" 39 1048 1075 "expression.ml" 39 1048 1076
+type(
+  binop
+)
+ident(
+  int_ref b "expression.ml" 39 1048 1058 "expression.ml" 39 1048 1059
+)
+"expression.ml" 40 1082 1089 "expression.ml" 40 1082 1092
+type(
+  binop
+)
+"expression.ml" 40 1082 1096 "expression.ml" 40 1082 1104
+type(
+  expression -> float -> float
+)
+ident(
+  int_ref evaluate "expression.ml" 35 955 963 "expression.ml" 35 955 971
+)
+"expression.ml" 40 1082 1105 "expression.ml" 40 1082 1106
+type(
+  expression
+)
+ident(
+  int_ref y "expression.ml" 39 1048 1060 "expression.ml" 39 1048 1061
+)
+"expression.ml" 40 1082 1107 "expression.ml" 40 1082 1108
+type(
+  float
+)
+ident(
+  int_ref x "expression.ml" 35 955 988 "expression.ml" 35 955 989
+)
+"expression.ml" 40 1082 1096 "expression.ml" 40 1082 1108
+call(
+  stack
+)
+type(
+  float
+)
+"expression.ml" 40 1082 1109 "expression.ml" 40 1082 1111
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( +. )
+)
+"expression.ml" 40 1082 1112 "expression.ml" 40 1082 1120
+type(
+  expression -> float -> float
+)
+ident(
+  int_ref evaluate "expression.ml" 35 955 963 "expression.ml" 35 955 971
+)
+"expression.ml" 40 1082 1121 "expression.ml" 40 1082 1122
+type(
+  expression
+)
+ident(
+  int_ref z "expression.ml" 39 1048 1062 "expression.ml" 39 1048 1063
+)
+"expression.ml" 40 1082 1123 "expression.ml" 40 1082 1124
+type(
+  float
+)
+ident(
+  int_ref x "expression.ml" 35 955 988 "expression.ml" 35 955 989
+)
+"expression.ml" 40 1082 1112 "expression.ml" 40 1082 1124
+call(
+  stack
+)
+type(
+  float
+)
+"expression.ml" 40 1082 1096 "expression.ml" 40 1082 1124
+type(
+  float
+)
+"expression.ml" 41 1125 1132 "expression.ml" 41 1125 1135
+type(
+  binop
+)
+"expression.ml" 41 1125 1139 "expression.ml" 41 1125 1147
+type(
+  expression -> float -> float
+)
+ident(
+  int_ref evaluate "expression.ml" 35 955 963 "expression.ml" 35 955 971
+)
+"expression.ml" 41 1125 1148 "expression.ml" 41 1125 1149
+type(
+  expression
+)
+ident(
+  int_ref y "expression.ml" 39 1048 1060 "expression.ml" 39 1048 1061
+)
+"expression.ml" 41 1125 1150 "expression.ml" 41 1125 1151
+type(
+  float
+)
+ident(
+  int_ref x "expression.ml" 35 955 988 "expression.ml" 35 955 989
+)
+"expression.ml" 41 1125 1139 "expression.ml" 41 1125 1151
+call(
+  stack
+)
+type(
+  float
+)
+"expression.ml" 41 1125 1152 "expression.ml" 41 1125 1154
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( -. )
+)
+"expression.ml" 41 1125 1155 "expression.ml" 41 1125 1163
+type(
+  expression -> float -> float
+)
+ident(
+  int_ref evaluate "expression.ml" 35 955 963 "expression.ml" 35 955 971
+)
+"expression.ml" 41 1125 1164 "expression.ml" 41 1125 1165
+type(
+  expression
+)
+ident(
+  int_ref z "expression.ml" 39 1048 1062 "expression.ml" 39 1048 1063
+)
+"expression.ml" 41 1125 1166 "expression.ml" 41 1125 1167
+type(
+  float
+)
+ident(
+  int_ref x "expression.ml" 35 955 988 "expression.ml" 35 955 989
+)
+"expression.ml" 41 1125 1155 "expression.ml" 41 1125 1167
+call(
+  stack
+)
+type(
+  float
+)
+"expression.ml" 41 1125 1139 "expression.ml" 41 1125 1167
+type(
+  float
+)
+"expression.ml" 42 1168 1175 "expression.ml" 42 1168 1178
+type(
+  binop
+)
+"expression.ml" 42 1168 1182 "expression.ml" 42 1168 1190
+type(
+  expression -> float -> float
+)
+ident(
+  int_ref evaluate "expression.ml" 35 955 963 "expression.ml" 35 955 971
+)
+"expression.ml" 42 1168 1191 "expression.ml" 42 1168 1192
+type(
+  expression
+)
+ident(
+  int_ref y "expression.ml" 39 1048 1060 "expression.ml" 39 1048 1061
+)
+"expression.ml" 42 1168 1193 "expression.ml" 42 1168 1194
+type(
+  float
+)
+ident(
+  int_ref x "expression.ml" 35 955 988 "expression.ml" 35 955 989
+)
+"expression.ml" 42 1168 1182 "expression.ml" 42 1168 1194
+call(
+  stack
+)
+type(
+  float
+)
+"expression.ml" 42 1168 1195 "expression.ml" 42 1168 1197
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( *. )
+)
+"expression.ml" 42 1168 1198 "expression.ml" 42 1168 1206
+type(
+  expression -> float -> float
+)
+ident(
+  int_ref evaluate "expression.ml" 35 955 963 "expression.ml" 35 955 971
+)
+"expression.ml" 42 1168 1207 "expression.ml" 42 1168 1208
+type(
+  expression
+)
+ident(
+  int_ref z "expression.ml" 39 1048 1062 "expression.ml" 39 1048 1063
+)
+"expression.ml" 42 1168 1209 "expression.ml" 42 1168 1210
+type(
+  float
+)
+ident(
+  int_ref x "expression.ml" 35 955 988 "expression.ml" 35 955 989
+)
+"expression.ml" 42 1168 1198 "expression.ml" 42 1168 1210
+call(
+  stack
+)
+type(
+  float
+)
+"expression.ml" 42 1168 1182 "expression.ml" 42 1168 1210
+type(
+  float
+)
+"expression.ml" 43 1211 1218 "expression.ml" 43 1211 1221
+type(
+  binop
+)
+"expression.ml" 43 1211 1225 "expression.ml" 43 1211 1233
+type(
+  expression -> float -> float
+)
+ident(
+  int_ref evaluate "expression.ml" 35 955 963 "expression.ml" 35 955 971
+)
+"expression.ml" 43 1211 1234 "expression.ml" 43 1211 1235
+type(
+  expression
+)
+ident(
+  int_ref y "expression.ml" 39 1048 1060 "expression.ml" 39 1048 1061
+)
+"expression.ml" 43 1211 1236 "expression.ml" 43 1211 1237
+type(
+  float
+)
+ident(
+  int_ref x "expression.ml" 35 955 988 "expression.ml" 35 955 989
+)
+"expression.ml" 43 1211 1225 "expression.ml" 43 1211 1237
+call(
+  stack
+)
+type(
+  float
+)
+"expression.ml" 43 1211 1238 "expression.ml" 43 1211 1240
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( /. )
+)
+"expression.ml" 43 1211 1241 "expression.ml" 43 1211 1249
+type(
+  expression -> float -> float
+)
+ident(
+  int_ref evaluate "expression.ml" 35 955 963 "expression.ml" 35 955 971
+)
+"expression.ml" 43 1211 1250 "expression.ml" 43 1211 1251
+type(
+  expression
+)
+ident(
+  int_ref z "expression.ml" 39 1048 1062 "expression.ml" 39 1048 1063
+)
+"expression.ml" 43 1211 1252 "expression.ml" 43 1211 1253
+type(
+  float
+)
+ident(
+  int_ref x "expression.ml" 35 955 988 "expression.ml" 35 955 989
+)
+"expression.ml" 43 1211 1241 "expression.ml" 43 1211 1253
+call(
+  stack
+)
+type(
+  float
+)
+"expression.ml" 43 1211 1225 "expression.ml" 43 1211 1253
+type(
+  float
+)
+"expression.ml" 44 1254 1261 "expression.ml" 44 1254 1264
+type(
+  binop
+)
+"expression.ml" 44 1254 1268 "expression.ml" 44 1254 1276
+type(
+  expression -> float -> float
+)
+ident(
+  int_ref evaluate "expression.ml" 35 955 963 "expression.ml" 35 955 971
+)
+"expression.ml" 44 1254 1277 "expression.ml" 44 1254 1278
+type(
+  expression
+)
+ident(
+  int_ref y "expression.ml" 39 1048 1060 "expression.ml" 39 1048 1061
+)
+"expression.ml" 44 1254 1279 "expression.ml" 44 1254 1280
+type(
+  float
+)
+ident(
+  int_ref x "expression.ml" 35 955 988 "expression.ml" 35 955 989
+)
+"expression.ml" 44 1254 1268 "expression.ml" 44 1254 1280
+call(
+  stack
+)
+type(
+  float
+)
+"expression.ml" 44 1254 1281 "expression.ml" 44 1254 1283
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( ** )
+)
+"expression.ml" 44 1254 1284 "expression.ml" 44 1254 1292
+type(
+  expression -> float -> float
+)
+ident(
+  int_ref evaluate "expression.ml" 35 955 963 "expression.ml" 35 955 971
+)
+"expression.ml" 44 1254 1293 "expression.ml" 44 1254 1294
+type(
+  expression
+)
+ident(
+  int_ref z "expression.ml" 39 1048 1062 "expression.ml" 39 1048 1063
+)
+"expression.ml" 44 1254 1295 "expression.ml" 44 1254 1296
+type(
+  float
+)
+ident(
+  int_ref x "expression.ml" 35 955 988 "expression.ml" 35 955 989
+)
+"expression.ml" 44 1254 1284 "expression.ml" 44 1254 1296
+call(
+  stack
+)
+type(
+  float
+)
+"expression.ml" 44 1254 1268 "expression.ml" 44 1254 1296
+type(
+  float
+)
+"expression.ml" 39 1048 1069 "expression.ml" 44 1254 1296
+type(
+  float
+)
+"expression.ml" 45 1298 1307 "expression.ml" 45 1298 1308
+type(
+  unop
+)
+ident(
+  def b "expression.ml" 45 1298 1316 "expression.ml" 49 1418 1450
+)
+"expression.ml" 45 1298 1309 "expression.ml" 45 1298 1310
+type(
+  expression
+)
+ident(
+  def y "expression.ml" 45 1298 1316 "expression.ml" 49 1418 1450
+)
+"expression.ml" 45 1298 1301 "expression.ml" 45 1298 1311
+type(
+  expression
+)
+"expression.ml" 45 1298 1322 "expression.ml" 45 1298 1323
+type(
+  unop
+)
+ident(
+  int_ref b "expression.ml" 45 1298 1307 "expression.ml" 45 1298 1308
+)
+"expression.ml" 46 1329 1333 "expression.ml" 46 1329 1336
+type(
+  unop
+)
+"expression.ml" 46 1329 1340 "expression.ml" 46 1329 1343
+type(
+  float -> float
+)
+ident(
+  ext_ref Pervasives.sin
+)
+"expression.ml" 46 1329 1345 "expression.ml" 46 1329 1353
+type(
+  expression -> float -> float
+)
+ident(
+  int_ref evaluate "expression.ml" 35 955 963 "expression.ml" 35 955 971
+)
+"expression.ml" 46 1329 1354 "expression.ml" 46 1329 1355
+type(
+  expression
+)
+ident(
+  int_ref y "expression.ml" 45 1298 1309 "expression.ml" 45 1298 1310
+)
+"expression.ml" 46 1329 1356 "expression.ml" 46 1329 1357
+type(
+  float
+)
+ident(
+  int_ref x "expression.ml" 35 955 988 "expression.ml" 35 955 989
+)
+"expression.ml" 46 1329 1345 "expression.ml" 46 1329 1357
+call(
+  stack
+)
+type(
+  float
+)
+"expression.ml" 46 1329 1340 "expression.ml" 46 1329 1358
+type(
+  float
+)
+"expression.ml" 47 1359 1363 "expression.ml" 47 1359 1366
+type(
+  unop
+)
+"expression.ml" 47 1359 1370 "expression.ml" 47 1359 1373
+type(
+  float -> float
+)
+ident(
+  ext_ref Pervasives.cos
+)
+"expression.ml" 47 1359 1375 "expression.ml" 47 1359 1383
+type(
+  expression -> float -> float
+)
+ident(
+  int_ref evaluate "expression.ml" 35 955 963 "expression.ml" 35 955 971
+)
+"expression.ml" 47 1359 1384 "expression.ml" 47 1359 1385
+type(
+  expression
+)
+ident(
+  int_ref y "expression.ml" 45 1298 1309 "expression.ml" 45 1298 1310
+)
+"expression.ml" 47 1359 1386 "expression.ml" 47 1359 1387
+type(
+  float
+)
+ident(
+  int_ref x "expression.ml" 35 955 988 "expression.ml" 35 955 989
+)
+"expression.ml" 47 1359 1375 "expression.ml" 47 1359 1387
+call(
+  stack
+)
+type(
+  float
+)
+"expression.ml" 47 1359 1370 "expression.ml" 47 1359 1388
+type(
+  float
+)
+"expression.ml" 48 1389 1393 "expression.ml" 48 1389 1395
+type(
+  unop
+)
+"expression.ml" 48 1389 1399 "expression.ml" 48 1389 1402
+type(
+  float -> float
+)
+ident(
+  ext_ref Pervasives.log
+)
+"expression.ml" 48 1389 1404 "expression.ml" 48 1389 1412
+type(
+  expression -> float -> float
+)
+ident(
+  int_ref evaluate "expression.ml" 35 955 963 "expression.ml" 35 955 971
+)
+"expression.ml" 48 1389 1413 "expression.ml" 48 1389 1414
+type(
+  expression
+)
+ident(
+  int_ref y "expression.ml" 45 1298 1309 "expression.ml" 45 1298 1310
+)
+"expression.ml" 48 1389 1415 "expression.ml" 48 1389 1416
+type(
+  float
+)
+ident(
+  int_ref x "expression.ml" 35 955 988 "expression.ml" 35 955 989
+)
+"expression.ml" 48 1389 1404 "expression.ml" 48 1389 1416
+call(
+  stack
+)
+type(
+  float
+)
+"expression.ml" 48 1389 1399 "expression.ml" 48 1389 1417
+type(
+  float
+)
+"expression.ml" 49 1418 1422 "expression.ml" 49 1418 1425
+type(
+  unop
+)
+"expression.ml" 49 1418 1429 "expression.ml" 49 1418 1432
+type(
+  float
+)
+"expression.ml" 49 1418 1433 "expression.ml" 49 1418 1435
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( *. )
+)
+"expression.ml" 49 1418 1437 "expression.ml" 49 1418 1445
+type(
+  expression -> float -> float
+)
+ident(
+  int_ref evaluate "expression.ml" 35 955 963 "expression.ml" 35 955 971
+)
+"expression.ml" 49 1418 1446 "expression.ml" 49 1418 1447
+type(
+  expression
+)
+ident(
+  int_ref y "expression.ml" 45 1298 1309 "expression.ml" 45 1298 1310
+)
+"expression.ml" 49 1418 1448 "expression.ml" 49 1418 1449
+type(
+  float
+)
+ident(
+  int_ref x "expression.ml" 35 955 988 "expression.ml" 35 955 989
+)
+"expression.ml" 49 1418 1437 "expression.ml" 49 1418 1449
+call(
+  stack
+)
+type(
+  float
+)
+"expression.ml" 49 1418 1429 "expression.ml" 49 1418 1450
+type(
+  float
+)
+"expression.ml" 45 1298 1316 "expression.ml" 49 1418 1450
+type(
+  float
+)
+"expression.ml" 36 1007 1009 "expression.ml" 49 1418 1451
+type(
+  float
+)
+type(
+  float
+)
+"expression.ml" 35 955 987 "expression.ml" 49 1418 1451
+type(
+  float -> float
+)
+"expression.ml" 35 955 972 "expression.ml" 49 1418 1451
+type(
+  expression -> float -> float
+)
+"expression.ml" 51 1453 1462 "expression.ml" 51 1453 1470
+type(
+  expression -> float -> float
+)
+ident(
+  int_ref evaluate "expression.ml" 35 955 963 "expression.ml" 35 955 971
+)
+"expression.ml" 51 1453 1472 "expression.ml" 51 1453 1477
+type(
+  string -> expression
+)
+ident(
+  ext_ref ExpressionLibrary.parse
+)
+"expression.ml" 51 1453 1478 "expression.ml" 51 1453 1487
+type(
+  string
+)
+"expression.ml" 51 1453 1472 "expression.ml" 51 1453 1487
+call(
+  stack
+)
+type(
+  expression
+)
+"expression.ml" 51 1453 1489 "expression.ml" 51 1453 1492
+type(
+  float
+)
+"expression.ml" 51 1453 1462 "expression.ml" 51 1453 1492
+call(
+  stack
+)
+type(
+  float
+)
+"expression.ml" 51 1453 1493 "expression.ml" 51 1453 1494
+type(
+  float -> float -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"expression.ml" 51 1453 1495 "expression.ml" 51 1453 1499
+type(
+  float
+)
+"expression.ml" 51 1453 1462 "expression.ml" 51 1453 1499
+type(
+  bool
+)
+"expression.ml" 51 1453 1453 "expression.ml" 51 1453 1500
+type(
+  unit
+)
+"expression.ml" 57 1581 1589 "expression.ml" 57 1581 1599
+type(
+  expression -> expression
+)
+ident(
+  def derivative "expression.ml" 57 1581 1581 "expression.ml" 1 0 -1
+)
+"expression.ml" 57 1581 1601 "expression.ml" 57 1581 1602
+type(
+  expression
+)
+ident(
+  def e "expression.ml" 57 1581 1615 "expression.ml" 79 2438 2491
+)
+"expression.ml" 58 1630 1640 "expression.ml" 58 1630 1641
+type(
+  expression
+)
+ident(
+  int_ref e "expression.ml" 57 1581 1601 "expression.ml" 57 1581 1602
+)
+"expression.ml" 59 1647 1657 "expression.ml" 59 1647 1658
+type(
+  float
+)
+"expression.ml" 59 1647 1653 "expression.ml" 59 1647 1658
+type(
+  expression
+)
+"expression.ml" 59 1647 1666 "expression.ml" 59 1647 1668
+type(
+  float
+)
+"expression.ml" 59 1647 1662 "expression.ml" 59 1647 1668
+type(
+  expression
+)
+"expression.ml" 60 1669 1675 "expression.ml" 60 1669 1678
+type(
+  expression
+)
+"expression.ml" 60 1669 1686 "expression.ml" 60 1669 1688
+type(
+  float
+)
+"expression.ml" 60 1669 1682 "expression.ml" 60 1669 1688
+type(
+  expression
+)
+"expression.ml" 61 1689 1701 "expression.ml" 61 1689 1702
+type(
+  unop
+)
+ident(
+  def u "expression.ml" 62 1710 1719 "expression.ml" 66 1897 1937
+)
+"expression.ml" 61 1689 1703 "expression.ml" 61 1689 1705
+type(
+  expression
+)
+ident(
+  def e1 "expression.ml" 62 1710 1719 "expression.ml" 66 1897 1937
+)
+"expression.ml" 61 1689 1695 "expression.ml" 61 1689 1706
+type(
+  expression
+)
+"expression.ml" 62 1710 1725 "expression.ml" 62 1710 1726
+type(
+  unop
+)
+ident(
+  int_ref u "expression.ml" 61 1689 1701 "expression.ml" 61 1689 1702
+)
+"expression.ml" 63 1732 1742 "expression.ml" 63 1732 1745
+type(
+  unop
+)
+"expression.ml" 63 1732 1755 "expression.ml" 63 1732 1758
+type(
+  binop
+)
+"expression.ml" 63 1732 1764 "expression.ml" 63 1732 1767
+type(
+  unop
+)
+"expression.ml" 63 1732 1768 "expression.ml" 63 1732 1770
+type(
+  expression
+)
+ident(
+  int_ref e1 "expression.ml" 61 1689 1703 "expression.ml" 61 1689 1705
+)
+"expression.ml" 63 1732 1759 "expression.ml" 63 1732 1771
+type(
+  expression
+)
+"expression.ml" 63 1732 1772 "expression.ml" 63 1732 1782
+type(
+  expression -> expression
+)
+ident(
+  int_ref derivative "expression.ml" 57 1581 1589 "expression.ml" 57 1581 1599
+)
+"expression.ml" 63 1732 1783 "expression.ml" 63 1732 1785
+type(
+  expression
+)
+ident(
+  int_ref e1 "expression.ml" 61 1689 1703 "expression.ml" 61 1689 1705
+)
+"expression.ml" 63 1732 1772 "expression.ml" 63 1732 1785
+call(
+  stack
+)
+type(
+  expression
+)
+"expression.ml" 63 1732 1749 "expression.ml" 63 1732 1786
+type(
+  expression
+)
+"expression.ml" 64 1787 1797 "expression.ml" 64 1787 1800
+type(
+  unop
+)
+"expression.ml" 64 1787 1810 "expression.ml" 64 1787 1813
+type(
+  binop
+)
+"expression.ml" 64 1787 1819 "expression.ml" 64 1787 1822
+type(
+  unop
+)
+"expression.ml" 64 1787 1828 "expression.ml" 64 1787 1831
+type(
+  unop
+)
+"expression.ml" 64 1787 1832 "expression.ml" 64 1787 1834
+type(
+  expression
+)
+ident(
+  int_ref e1 "expression.ml" 61 1689 1703 "expression.ml" 61 1689 1705
+)
+"expression.ml" 64 1787 1823 "expression.ml" 64 1787 1835
+type(
+  expression
+)
+"expression.ml" 64 1787 1814 "expression.ml" 64 1787 1836
+type(
+  expression
+)
+"expression.ml" 64 1787 1837 "expression.ml" 64 1787 1847
+type(
+  expression -> expression
+)
+ident(
+  int_ref derivative "expression.ml" 57 1581 1589 "expression.ml" 57 1581 1599
+)
+"expression.ml" 64 1787 1848 "expression.ml" 64 1787 1850
+type(
+  expression
+)
+ident(
+  int_ref e1 "expression.ml" 61 1689 1703 "expression.ml" 61 1689 1705
+)
+"expression.ml" 64 1787 1837 "expression.ml" 64 1787 1850
+call(
+  stack
+)
+type(
+  expression
+)
+"expression.ml" 64 1787 1804 "expression.ml" 64 1787 1851
+type(
+  expression
+)
+"expression.ml" 65 1852 1862 "expression.ml" 65 1852 1864
+type(
+  unop
+)
+"expression.ml" 65 1852 1874 "expression.ml" 65 1852 1877
+type(
+  binop
+)
+"expression.ml" 65 1852 1878 "expression.ml" 65 1852 1888
+type(
+  expression -> expression
+)
+ident(
+  int_ref derivative "expression.ml" 57 1581 1589 "expression.ml" 57 1581 1599
+)
+"expression.ml" 65 1852 1889 "expression.ml" 65 1852 1891
+type(
+  expression
+)
+ident(
+  int_ref e1 "expression.ml" 61 1689 1703 "expression.ml" 61 1689 1705
+)
+"expression.ml" 65 1852 1878 "expression.ml" 65 1852 1891
+call(
+  stack
+)
+type(
+  expression
+)
+"expression.ml" 65 1852 1893 "expression.ml" 65 1852 1895
+type(
+  expression
+)
+ident(
+  int_ref e1 "expression.ml" 61 1689 1703 "expression.ml" 61 1689 1705
+)
+"expression.ml" 65 1852 1868 "expression.ml" 65 1852 1896
+type(
+  expression
+)
+"expression.ml" 66 1897 1907 "expression.ml" 66 1897 1910
+type(
+  unop
+)
+"expression.ml" 66 1897 1919 "expression.ml" 66 1897 1922
+type(
+  unop
+)
+"expression.ml" 66 1897 1923 "expression.ml" 66 1897 1933
+type(
+  expression -> expression
+)
+ident(
+  int_ref derivative "expression.ml" 57 1581 1589 "expression.ml" 57 1581 1599
+)
+"expression.ml" 66 1897 1934 "expression.ml" 66 1897 1936
+type(
+  expression
+)
+ident(
+  int_ref e1 "expression.ml" 61 1689 1703 "expression.ml" 61 1689 1705
+)
+"expression.ml" 66 1897 1923 "expression.ml" 66 1897 1936
+call(
+  stack
+)
+type(
+  expression
+)
+"expression.ml" 66 1897 1914 "expression.ml" 66 1897 1937
+type(
+  expression
+)
+"expression.ml" 62 1710 1719 "expression.ml" 66 1897 1937
+type(
+  expression
+)
+"expression.ml" 67 1939 1952 "expression.ml" 67 1939 1953
+type(
+  binop
+)
+ident(
+  def b "expression.ml" 68 1964 1972 "expression.ml" 79 2438 2491
+)
+"expression.ml" 67 1939 1954 "expression.ml" 67 1939 1956
+type(
+  expression
+)
+ident(
+  def e1 "expression.ml" 68 1964 1972 "expression.ml" 79 2438 2491
+)
+"expression.ml" 67 1939 1957 "expression.ml" 67 1939 1959
+type(
+  expression
+)
+ident(
+  def e2 "expression.ml" 68 1964 1972 "expression.ml" 79 2438 2491
+)
+"expression.ml" 67 1939 1945 "expression.ml" 67 1939 1960
+type(
+  expression
+)
+"expression.ml" 68 1964 1978 "expression.ml" 68 1964 1979
+type(
+  binop
+)
+ident(
+  int_ref b "expression.ml" 67 1939 1952 "expression.ml" 67 1939 1953
+)
+"expression.ml" 69 1985 1995 "expression.ml" 69 1985 1998
+type(
+  binop
+)
+"expression.ml" 69 1985 2008 "expression.ml" 69 1985 2011
+type(
+  binop
+)
+"expression.ml" 69 1985 2012 "expression.ml" 69 1985 2022
+type(
+  expression -> expression
+)
+ident(
+  int_ref derivative "expression.ml" 57 1581 1589 "expression.ml" 57 1581 1599
+)
+"expression.ml" 69 1985 2023 "expression.ml" 69 1985 2025
+type(
+  expression
+)
+ident(
+  int_ref e1 "expression.ml" 67 1939 1954 "expression.ml" 67 1939 1956
+)
+"expression.ml" 69 1985 2012 "expression.ml" 69 1985 2025
+call(
+  stack
+)
+type(
+  expression
+)
+"expression.ml" 69 1985 2026 "expression.ml" 69 1985 2036
+type(
+  expression -> expression
+)
+ident(
+  int_ref derivative "expression.ml" 57 1581 1589 "expression.ml" 57 1581 1599
+)
+"expression.ml" 69 1985 2037 "expression.ml" 69 1985 2039
+type(
+  expression
+)
+ident(
+  int_ref e2 "expression.ml" 67 1939 1957 "expression.ml" 67 1939 1959
+)
+"expression.ml" 69 1985 2026 "expression.ml" 69 1985 2039
+call(
+  stack
+)
+type(
+  expression
+)
+"expression.ml" 69 1985 2002 "expression.ml" 69 1985 2040
+type(
+  expression
+)
+"expression.ml" 70 2041 2051 "expression.ml" 70 2041 2054
+type(
+  binop
+)
+"expression.ml" 70 2041 2064 "expression.ml" 70 2041 2067
+type(
+  binop
+)
+"expression.ml" 70 2041 2068 "expression.ml" 70 2041 2078
+type(
+  expression -> expression
+)
+ident(
+  int_ref derivative "expression.ml" 57 1581 1589 "expression.ml" 57 1581 1599
+)
+"expression.ml" 70 2041 2079 "expression.ml" 70 2041 2081
+type(
+  expression
+)
+ident(
+  int_ref e1 "expression.ml" 67 1939 1954 "expression.ml" 67 1939 1956
+)
+"expression.ml" 70 2041 2068 "expression.ml" 70 2041 2081
+call(
+  stack
+)
+type(
+  expression
+)
+"expression.ml" 70 2041 2082 "expression.ml" 70 2041 2092
+type(
+  expression -> expression
+)
+ident(
+  int_ref derivative "expression.ml" 57 1581 1589 "expression.ml" 57 1581 1599
+)
+"expression.ml" 70 2041 2093 "expression.ml" 70 2041 2095
+type(
+  expression
+)
+ident(
+  int_ref e2 "expression.ml" 67 1939 1957 "expression.ml" 67 1939 1959
+)
+"expression.ml" 70 2041 2082 "expression.ml" 70 2041 2095
+call(
+  stack
+)
+type(
+  expression
+)
+"expression.ml" 70 2041 2058 "expression.ml" 70 2041 2096
+type(
+  expression
+)
+"expression.ml" 71 2097 2107 "expression.ml" 71 2097 2110
+type(
+  binop
+)
+"expression.ml" 71 2097 2120 "expression.ml" 71 2097 2123
+type(
+  binop
+)
+"expression.ml" 71 2097 2130 "expression.ml" 71 2097 2133
+type(
+  binop
+)
+"expression.ml" 71 2097 2134 "expression.ml" 71 2097 2136
+type(
+  expression
+)
+ident(
+  int_ref e1 "expression.ml" 67 1939 1954 "expression.ml" 67 1939 1956
+)
+"expression.ml" 71 2097 2137 "expression.ml" 71 2097 2147
+type(
+  expression -> expression
+)
+ident(
+  int_ref derivative "expression.ml" 57 1581 1589 "expression.ml" 57 1581 1599
+)
+"expression.ml" 71 2097 2148 "expression.ml" 71 2097 2150
+type(
+  expression
+)
+ident(
+  int_ref e2 "expression.ml" 67 1939 1957 "expression.ml" 67 1939 1959
+)
+"expression.ml" 71 2097 2137 "expression.ml" 71 2097 2150
+call(
+  stack
+)
+type(
+  expression
+)
+"expression.ml" 71 2097 2124 "expression.ml" 71 2097 2151
+type(
+  expression
+)
+"expression.ml" 72 2153 2183 "expression.ml" 72 2153 2186
+type(
+  binop
+)
+"expression.ml" 72 2153 2187 "expression.ml" 72 2153 2197
+type(
+  expression -> expression
+)
+ident(
+  int_ref derivative "expression.ml" 57 1581 1589 "expression.ml" 57 1581 1599
+)
+"expression.ml" 72 2153 2198 "expression.ml" 72 2153 2200
+type(
+  expression
+)
+ident(
+  int_ref e1 "expression.ml" 67 1939 1954 "expression.ml" 67 1939 1956
+)
+"expression.ml" 72 2153 2187 "expression.ml" 72 2153 2200
+call(
+  stack
+)
+type(
+  expression
+)
+"expression.ml" 72 2153 2201 "expression.ml" 72 2153 2203
+type(
+  expression
+)
+ident(
+  int_ref e2 "expression.ml" 67 1939 1957 "expression.ml" 67 1939 1959
+)
+"expression.ml" 72 2153 2177 "expression.ml" 72 2153 2204
+type(
+  expression
+)
+"expression.ml" 71 2097 2114 "expression.ml" 72 2153 2205
+type(
+  expression
+)
+"expression.ml" 73 2206 2216 "expression.ml" 73 2206 2219
+type(
+  binop
+)
+"expression.ml" 73 2206 2229 "expression.ml" 73 2206 2232
+type(
+  binop
+)
+"expression.ml" 73 2206 2240 "expression.ml" 73 2206 2243
+type(
+  binop
+)
+"expression.ml" 74 2245 2258 "expression.ml" 74 2245 2261
+type(
+  binop
+)
+"expression.ml" 74 2245 2262 "expression.ml" 74 2245 2272
+type(
+  expression -> expression
+)
+ident(
+  int_ref derivative "expression.ml" 57 1581 1589 "expression.ml" 57 1581 1599
+)
+"expression.ml" 74 2245 2273 "expression.ml" 74 2245 2275
+type(
+  expression
+)
+ident(
+  int_ref e1 "expression.ml" 67 1939 1954 "expression.ml" 67 1939 1956
+)
+"expression.ml" 74 2245 2262 "expression.ml" 74 2245 2275
+call(
+  stack
+)
+type(
+  expression
+)
+"expression.ml" 74 2245 2277 "expression.ml" 74 2245 2279
+type(
+  expression
+)
+ident(
+  int_ref e2 "expression.ml" 67 1939 1957 "expression.ml" 67 1939 1959
+)
+"expression.ml" 74 2245 2252 "expression.ml" 74 2245 2280
+type(
+  expression
+)
+"expression.ml" 75 2282 2295 "expression.ml" 75 2282 2298
+type(
+  binop
+)
+"expression.ml" 75 2282 2299 "expression.ml" 75 2282 2301
+type(
+  expression
+)
+ident(
+  int_ref e1 "expression.ml" 67 1939 1954 "expression.ml" 67 1939 1956
+)
+"expression.ml" 75 2282 2302 "expression.ml" 75 2282 2312
+type(
+  expression -> expression
+)
+ident(
+  int_ref derivative "expression.ml" 57 1581 1589 "expression.ml" 57 1581 1599
+)
+"expression.ml" 75 2282 2313 "expression.ml" 75 2282 2315
+type(
+  expression
+)
+ident(
+  int_ref e2 "expression.ml" 67 1939 1957 "expression.ml" 67 1939 1959
+)
+"expression.ml" 75 2282 2302 "expression.ml" 75 2282 2315
+call(
+  stack
+)
+type(
+  expression
+)
+"expression.ml" 75 2282 2289 "expression.ml" 75 2282 2316
+type(
+  expression
+)
+"expression.ml" 73 2206 2234 "expression.ml" 75 2282 2317
+type(
+  expression
+)
+"expression.ml" 76 2319 2333 "expression.ml" 76 2319 2336
+type(
+  binop
+)
+"expression.ml" 76 2319 2337 "expression.ml" 76 2319 2339
+type(
+  expression
+)
+ident(
+  int_ref e2 "expression.ml" 67 1939 1957 "expression.ml" 67 1939 1959
+)
+"expression.ml" 76 2319 2344 "expression.ml" 76 2319 2346
+type(
+  float
+)
+"expression.ml" 76 2319 2340 "expression.ml" 76 2319 2346
+type(
+  expression
+)
+"expression.ml" 76 2319 2327 "expression.ml" 76 2319 2347
+type(
+  expression
+)
+"expression.ml" 73 2206 2223 "expression.ml" 76 2319 2348
+type(
+  expression
+)
+"expression.ml" 77 2349 2359 "expression.ml" 77 2349 2362
+type(
+  binop
+)
+"expression.ml" 77 2349 2372 "expression.ml" 77 2349 2375
+type(
+  binop
+)
+"expression.ml" 77 2349 2376 "expression.ml" 77 2349 2377
+type(
+  expression
+)
+ident(
+  int_ref e "expression.ml" 57 1581 1601 "expression.ml" 57 1581 1602
+)
+"expression.ml" 78 2379 2394 "expression.ml" 78 2379 2397
+type(
+  binop
+)
+"expression.ml" 78 2379 2405 "expression.ml" 78 2379 2408
+type(
+  binop
+)
+"expression.ml" 78 2379 2409 "expression.ml" 78 2379 2419
+type(
+  expression -> expression
+)
+ident(
+  int_ref derivative "expression.ml" 57 1581 1589 "expression.ml" 57 1581 1599
+)
+"expression.ml" 78 2379 2420 "expression.ml" 78 2379 2422
+type(
+  expression
+)
+ident(
+  int_ref e2 "expression.ml" 67 1939 1957 "expression.ml" 67 1939 1959
+)
+"expression.ml" 78 2379 2409 "expression.ml" 78 2379 2422
+call(
+  stack
+)
+type(
+  expression
+)
+"expression.ml" 78 2379 2429 "expression.ml" 78 2379 2431
+type(
+  unop
+)
+"expression.ml" 78 2379 2432 "expression.ml" 78 2379 2434
+type(
+  expression
+)
+ident(
+  int_ref e1 "expression.ml" 67 1939 1954 "expression.ml" 67 1939 1956
+)
+"expression.ml" 78 2379 2424 "expression.ml" 78 2379 2435
+type(
+  expression
+)
+"expression.ml" 78 2379 2399 "expression.ml" 78 2379 2436
+type(
+  expression
+)
+"expression.ml" 79 2438 2452 "expression.ml" 79 2438 2455
+type(
+  binop
+)
+"expression.ml" 79 2438 2462 "expression.ml" 79 2438 2465
+type(
+  binop
+)
+"expression.ml" 79 2438 2467 "expression.ml" 79 2438 2477
+type(
+  expression -> expression
+)
+ident(
+  int_ref derivative "expression.ml" 57 1581 1589 "expression.ml" 57 1581 1599
+)
+"expression.ml" 79 2438 2478 "expression.ml" 79 2438 2480
+type(
+  expression
+)
+ident(
+  int_ref e1 "expression.ml" 67 1939 1954 "expression.ml" 67 1939 1956
+)
+"expression.ml" 79 2438 2467 "expression.ml" 79 2438 2480
+call(
+  stack
+)
+type(
+  expression
+)
+"expression.ml" 79 2438 2482 "expression.ml" 79 2438 2484
+type(
+  expression
+)
+ident(
+  int_ref e2 "expression.ml" 67 1939 1957 "expression.ml" 67 1939 1959
+)
+"expression.ml" 79 2438 2456 "expression.ml" 79 2438 2485
+type(
+  expression
+)
+"expression.ml" 79 2438 2486 "expression.ml" 79 2438 2488
+type(
+  expression
+)
+ident(
+  int_ref e1 "expression.ml" 67 1939 1954 "expression.ml" 67 1939 1956
+)
+"expression.ml" 79 2438 2446 "expression.ml" 79 2438 2489
+type(
+  expression
+)
+"expression.ml" 78 2379 2388 "expression.ml" 79 2438 2490
+type(
+  expression
+)
+"expression.ml" 77 2349 2366 "expression.ml" 79 2438 2491
+type(
+  expression
+)
+"expression.ml" 68 1964 1972 "expression.ml" 79 2438 2491
+type(
+  expression
+)
+"expression.ml" 58 1630 1634 "expression.ml" 79 2438 2491
+type(
+  expression
+)
+type(
+  expression
+)
+"expression.ml" 57 1581 1600 "expression.ml" 79 2438 2491
+type(
+  expression -> expression
+)
+"expression.ml" 87 2836 2840 "expression.ml" 87 2836 2848
+type(
+  string -> float -> unit
+)
+ident(
+  def checkexp "expression.ml" 107 3433 3433 "expression.ml" 1 0 -1
+)
+"expression.ml" 87 2836 2849 "expression.ml" 87 2836 2853
+type(
+  string
+)
+ident(
+  def strs "expression.ml" 87 2836 2854 "expression.ml" 100 3363 3368
+)
+"expression.ml" 87 2836 2854 "expression.ml" 87 2836 2858
+type(
+  float
+)
+ident(
+  def xval "expression.ml" 88 2861 2865 "expression.ml" 100 3363 3368
+)
+"expression.ml" 88 2861 2865 "expression.ml" 88 2861 2877
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_string
+)
+"expression.ml" 88 2861 2879 "expression.ml" 88 2861 2902
+type(
+  string
+)
+"expression.ml" 88 2861 2903 "expression.ml" 88 2861 2904
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"expression.ml" 88 2861 2905 "expression.ml" 88 2861 2909
+type(
+  string
+)
+ident(
+  int_ref strs "expression.ml" 87 2836 2849 "expression.ml" 87 2836 2853
+)
+"expression.ml" 88 2861 2910 "expression.ml" 88 2861 2911
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"expression.ml" 88 2861 2912 "expression.ml" 88 2861 2916
+type(
+  string
+)
+"expression.ml" 88 2861 2905 "expression.ml" 88 2861 2916
+call(
+  stack
+)
+type(
+  string
+)
+"expression.ml" 88 2861 2879 "expression.ml" 88 2861 2916
+call(
+  stack
+)
+type(
+  string
+)
+"expression.ml" 88 2861 2865 "expression.ml" 88 2861 2917
+call(
+  stack
+)
+type(
+  unit
+)
+"expression.ml" 89 2919 2927 "expression.ml" 89 2919 2933
+type(
+  expression
+)
+ident(
+  def parsed "expression.ml" 90 2952 2960 "expression.ml" 99 3337 3362
+)
+"expression.ml" 89 2919 2936 "expression.ml" 89 2919 2941
+type(
+  string -> expression
+)
+ident(
+  ext_ref ExpressionLibrary.parse
+)
+"expression.ml" 89 2919 2942 "expression.ml" 89 2919 2946
+type(
+  string
+)
+ident(
+  int_ref strs "expression.ml" 87 2836 2849 "expression.ml" 87 2836 2853
+)
+"expression.ml" 89 2919 2936 "expression.ml" 89 2919 2946
+call(
+  stack
+)
+type(
+  expression
+)
+"expression.ml" 90 2952 2960 "expression.ml" 90 2952 2972
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_string
+)
+"expression.ml" 90 2952 2973 "expression.ml" 90 2952 2995
+type(
+  string
+)
+"expression.ml" 90 2952 2960 "expression.ml" 90 2952 2995
+call(
+  stack
+)
+type(
+  unit
+)
+"expression.ml" 91 2997 3005 "expression.ml" 91 2997 3017
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_string
+)
+"expression.ml" 91 2997 3019 "expression.ml" 91 2997 3033
+type(
+  bool -> string
+)
+ident(
+  ext_ref Pervasives.string_of_bool
+)
+"expression.ml" 91 2997 3035 "expression.ml" 91 2997 3047
+type(
+  expression -> bool
+)
+ident(
+  int_ref contains_var "expression.ml" 18 472 480 "expression.ml" 18 472 492
+)
+"expression.ml" 91 2997 3048 "expression.ml" 91 2997 3054
+type(
+  expression
+)
+ident(
+  int_ref parsed "expression.ml" 89 2919 2927 "expression.ml" 89 2919 2933
+)
+"expression.ml" 91 2997 3035 "expression.ml" 91 2997 3054
+call(
+  stack
+)
+type(
+  bool
+)
+"expression.ml" 91 2997 3019 "expression.ml" 91 2997 3055
+call(
+  stack
+)
+type(
+  string
+)
+"expression.ml" 91 2997 3005 "expression.ml" 91 2997 3056
+call(
+  stack
+)
+type(
+  unit
+)
+"expression.ml" 92 3058 3066 "expression.ml" 92 3058 3079
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_endline
+)
+"expression.ml" 92 3058 3080 "expression.ml" 92 3058 3083
+type(
+  string
+)
+"expression.ml" 92 3058 3066 "expression.ml" 92 3058 3083
+call(
+  stack
+)
+type(
+  unit
+)
+"expression.ml" 93 3085 3093 "expression.ml" 93 3085 3105
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_string
+)
+"expression.ml" 93 3085 3106 "expression.ml" 93 3085 3130
+type(
+  string
+)
+"expression.ml" 93 3085 3093 "expression.ml" 93 3085 3130
+call(
+  stack
+)
+type(
+  unit
+)
+"expression.ml" 94 3132 3140 "expression.ml" 94 3132 3151
+type(
+  float -> unit
+)
+ident(
+  ext_ref Pervasives.print_float
+)
+"expression.ml" 94 3132 3153 "expression.ml" 94 3132 3161
+type(
+  expression -> float -> float
+)
+ident(
+  int_ref evaluate "expression.ml" 35 955 963 "expression.ml" 35 955 971
+)
+"expression.ml" 94 3132 3162 "expression.ml" 94 3132 3168
+type(
+  expression
+)
+ident(
+  int_ref parsed "expression.ml" 89 2919 2927 "expression.ml" 89 2919 2933
+)
+"expression.ml" 94 3132 3169 "expression.ml" 94 3132 3173
+type(
+  float
+)
+ident(
+  int_ref xval "expression.ml" 87 2836 2854 "expression.ml" 87 2836 2858
+)
+"expression.ml" 94 3132 3153 "expression.ml" 94 3132 3173
+call(
+  stack
+)
+type(
+  float
+)
+"expression.ml" 94 3132 3140 "expression.ml" 94 3132 3174
+call(
+  stack
+)
+type(
+  unit
+)
+"expression.ml" 95 3176 3184 "expression.ml" 95 3176 3197
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_endline
+)
+"expression.ml" 95 3176 3198 "expression.ml" 95 3176 3201
+type(
+  string
+)
+"expression.ml" 95 3176 3184 "expression.ml" 95 3176 3201
+call(
+  stack
+)
+type(
+  unit
+)
+"expression.ml" 96 3203 3211 "expression.ml" 96 3203 3223
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_string
+)
+"expression.ml" 96 3203 3224 "expression.ml" 96 3203 3248
+type(
+  string
+)
+"expression.ml" 96 3203 3211 "expression.ml" 96 3203 3248
+call(
+  stack
+)
+type(
+  unit
+)
+"expression.ml" 97 3250 3258 "expression.ml" 97 3250 3271
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_endline
+)
+"expression.ml" 97 3250 3272 "expression.ml" 97 3250 3275
+type(
+  string
+)
+"expression.ml" 97 3250 3258 "expression.ml" 97 3250 3275
+call(
+  stack
+)
+type(
+  unit
+)
+"expression.ml" 98 3277 3285 "expression.ml" 98 3277 3297
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_string
+)
+"expression.ml" 98 3277 3299 "expression.ml" 98 3277 3314
+type(
+  expression -> string
+)
+ident(
+  ext_ref ExpressionLibrary.to_string_smart
+)
+"expression.ml" 98 3277 3316 "expression.ml" 98 3277 3326
+type(
+  expression -> expression
+)
+ident(
+  int_ref derivative "expression.ml" 57 1581 1589 "expression.ml" 57 1581 1599
+)
+"expression.ml" 98 3277 3327 "expression.ml" 98 3277 3333
+type(
+  expression
+)
+ident(
+  int_ref parsed "expression.ml" 89 2919 2927 "expression.ml" 89 2919 2933
+)
+"expression.ml" 98 3277 3316 "expression.ml" 98 3277 3333
+call(
+  stack
+)
+type(
+  expression
+)
+"expression.ml" 98 3277 3299 "expression.ml" 98 3277 3334
+call(
+  stack
+)
+type(
+  string
+)
+"expression.ml" 98 3277 3285 "expression.ml" 98 3277 3335
+call(
+  stack
+)
+type(
+  unit
+)
+"expression.ml" 99 3337 3345 "expression.ml" 99 3337 3358
+type(
+  string -> unit
+)
+ident(
+  ext_ref Pervasives.print_endline
+)
+"expression.ml" 99 3337 3359 "expression.ml" 99 3337 3362
+type(
+  string
+)
+"expression.ml" 99 3337 3345 "expression.ml" 99 3337 3362
+call(
+  tail
+)
+type(
+  unit
+)
+"expression.ml" 98 3277 3285 "expression.ml" 99 3337 3362
+type(
+  unit
+)
+"expression.ml" 97 3250 3258 "expression.ml" 99 3337 3362
+type(
+  unit
+)
+"expression.ml" 96 3203 3211 "expression.ml" 99 3337 3362
+type(
+  unit
+)
+"expression.ml" 95 3176 3184 "expression.ml" 99 3337 3362
+type(
+  unit
+)
+"expression.ml" 94 3132 3140 "expression.ml" 99 3337 3362
+type(
+  unit
+)
+"expression.ml" 93 3085 3093 "expression.ml" 99 3337 3362
+type(
+  unit
+)
+"expression.ml" 92 3058 3066 "expression.ml" 99 3337 3362
+type(
+  unit
+)
+"expression.ml" 91 2997 3005 "expression.ml" 99 3337 3362
+type(
+  unit
+)
+"expression.ml" 90 2952 2960 "expression.ml" 99 3337 3362
+type(
+  unit
+)
+"expression.ml" 89 2919 2923 "expression.ml" 100 3363 3368
+type(
+  unit
+)
+"expression.ml" 88 2861 2865 "expression.ml" 100 3363 3368
+type(
+  unit
+)
+"expression.ml" 87 2836 2854 "expression.ml" 100 3363 3368
+type(
+  float -> unit
+)
+"expression.ml" 87 2836 2849 "expression.ml" 100 3363 3368
+type(
+  string -> float -> unit
+)
+"expression.ml" 107 3433 3441 "expression.ml" 107 3433 3450
+type(
+  expression -> float -> float -> int -> float option
+)
+ident(
+  def find_zero "expression.ml" 107 3433 3433 "expression.ml" 1 0 -1
+)
+"expression.ml" 107 3433 3452 "expression.ml" 107 3433 3453
+type(
+  expression
+)
+ident(
+  def e "expression.ml" 107 3433 3466 "expression.ml" 112 3627 3700
+)
+"expression.ml" 107 3433 3467 "expression.ml" 107 3433 3468
+type(
+  float
+)
+ident(
+  def g "expression.ml" 107 3433 3476 "expression.ml" 112 3627 3700
+)
+"expression.ml" 107 3433 3477 "expression.ml" 107 3433 3484
+type(
+  float
+)
+ident(
+  def epsilon "expression.ml" 107 3433 3492 "expression.ml" 112 3627 3700
+)
+"expression.ml" 107 3433 3493 "expression.ml" 107 3433 3496
+type(
+  int
+)
+ident(
+  def lim "expression.ml" 108 3502 3506 "expression.ml" 112 3627 3700
+)
+"expression.ml" 109 3523 3528 "expression.ml" 109 3523 3531
+type(
+  int
+)
+ident(
+  int_ref lim "expression.ml" 107 3433 3493 "expression.ml" 107 3433 3496
+)
+"expression.ml" 109 3523 3532 "expression.ml" 109 3523 3533
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"expression.ml" 109 3523 3534 "expression.ml" 109 3523 3535
+type(
+  int
+)
+"expression.ml" 109 3523 3528 "expression.ml" 109 3523 3535
+type(
+  bool
+)
+"expression.ml" 109 3523 3541 "expression.ml" 109 3523 3545
+type(
+  float option
+)
+"expression.ml" 110 3551 3558 "expression.ml" 110 3551 3567
+type(
+  float -> float
+)
+ident(
+  ext_ref Core.Std.Float.abs
+)
+"expression.ml" 110 3551 3569 "expression.ml" 110 3551 3577
+type(
+  expression -> float -> float
+)
+ident(
+  int_ref evaluate "expression.ml" 35 955 963 "expression.ml" 35 955 971
+)
+"expression.ml" 110 3551 3578 "expression.ml" 110 3551 3579
+type(
+  expression
+)
+ident(
+  int_ref e "expression.ml" 107 3433 3452 "expression.ml" 107 3433 3453
+)
+"expression.ml" 110 3551 3580 "expression.ml" 110 3551 3581
+type(
+  float
+)
+ident(
+  int_ref g "expression.ml" 107 3433 3467 "expression.ml" 107 3433 3468
+)
+"expression.ml" 110 3551 3569 "expression.ml" 110 3551 3581
+call(
+  stack
+)
+type(
+  float
+)
+"expression.ml" 110 3551 3558 "expression.ml" 110 3551 3582
+call(
+  stack
+)
+type(
+  float
+)
+"expression.ml" 110 3551 3583 "expression.ml" 110 3551 3584
+type(
+  float -> float -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"expression.ml" 110 3551 3585 "expression.ml" 110 3551 3592
+type(
+  float
+)
+ident(
+  int_ref epsilon "expression.ml" 107 3433 3477 "expression.ml" 107 3433 3484
+)
+"expression.ml" 110 3551 3558 "expression.ml" 110 3551 3592
+type(
+  bool
+)
+"expression.ml" 110 3551 3603 "expression.ml" 110 3551 3604
+type(
+  float
+)
+ident(
+  int_ref g "expression.ml" 107 3433 3467 "expression.ml" 107 3433 3468
+)
+"expression.ml" 110 3551 3598 "expression.ml" 110 3551 3604
+type(
+  float option
+)
+"expression.ml" 111 3610 3616 "expression.ml" 111 3610 3625
+type(
+  expression -> float -> float -> int -> float option
+)
+ident(
+  int_ref find_zero "expression.ml" 107 3433 3441 "expression.ml" 107 3433 3450
+)
+"expression.ml" 112 3627 3628 "expression.ml" 112 3627 3629
+type(
+  expression
+)
+ident(
+  int_ref e "expression.ml" 107 3433 3452 "expression.ml" 107 3433 3453
+)
+"expression.ml" 112 3627 3631 "expression.ml" 112 3627 3632
+type(
+  float
+)
+ident(
+  int_ref g "expression.ml" 107 3433 3467 "expression.ml" 107 3433 3468
+)
+"expression.ml" 112 3627 3633 "expression.ml" 112 3627 3635
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( -. )
+)
+"expression.ml" 112 3627 3637 "expression.ml" 112 3627 3645
+type(
+  expression -> float -> float
+)
+ident(
+  int_ref evaluate "expression.ml" 35 955 963 "expression.ml" 35 955 971
+)
+"expression.ml" 112 3627 3646 "expression.ml" 112 3627 3647
+type(
+  expression
+)
+ident(
+  int_ref e "expression.ml" 107 3433 3452 "expression.ml" 107 3433 3453
+)
+"expression.ml" 112 3627 3648 "expression.ml" 112 3627 3649
+type(
+  float
+)
+ident(
+  int_ref g "expression.ml" 107 3433 3467 "expression.ml" 107 3433 3468
+)
+"expression.ml" 112 3627 3637 "expression.ml" 112 3627 3649
+call(
+  stack
+)
+type(
+  float
+)
+"expression.ml" 112 3627 3651 "expression.ml" 112 3627 3653
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( /. )
+)
+"expression.ml" 112 3627 3655 "expression.ml" 112 3627 3663
+type(
+  expression -> float -> float
+)
+ident(
+  int_ref evaluate "expression.ml" 35 955 963 "expression.ml" 35 955 971
+)
+"expression.ml" 112 3627 3665 "expression.ml" 112 3627 3675
+type(
+  expression -> expression
+)
+ident(
+  int_ref derivative "expression.ml" 57 1581 1589 "expression.ml" 57 1581 1599
+)
+"expression.ml" 112 3627 3676 "expression.ml" 112 3627 3677
+type(
+  expression
+)
+ident(
+  int_ref e "expression.ml" 107 3433 3452 "expression.ml" 107 3433 3453
+)
+"expression.ml" 112 3627 3665 "expression.ml" 112 3627 3677
+call(
+  stack
+)
+type(
+  expression
+)
+"expression.ml" 112 3627 3679 "expression.ml" 112 3627 3680
+type(
+  float
+)
+ident(
+  int_ref g "expression.ml" 107 3433 3467 "expression.ml" 107 3433 3468
+)
+"expression.ml" 112 3627 3655 "expression.ml" 112 3627 3680
+call(
+  stack
+)
+type(
+  float
+)
+"expression.ml" 112 3627 3636 "expression.ml" 112 3627 3681
+type(
+  float
+)
+"expression.ml" 112 3627 3631 "expression.ml" 112 3627 3681
+type(
+  float
+)
+"expression.ml" 112 3627 3683 "expression.ml" 112 3627 3690
+type(
+  float
+)
+ident(
+  int_ref epsilon "expression.ml" 107 3433 3477 "expression.ml" 107 3433 3484
+)
+"expression.ml" 112 3627 3692 "expression.ml" 112 3627 3695
+type(
+  int
+)
+ident(
+  int_ref lim "expression.ml" 107 3433 3493 "expression.ml" 107 3433 3496
+)
+"expression.ml" 112 3627 3696 "expression.ml" 112 3627 3697
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"expression.ml" 112 3627 3698 "expression.ml" 112 3627 3699
+type(
+  int
+)
+"expression.ml" 112 3627 3692 "expression.ml" 112 3627 3699
+type(
+  int
+)
+"expression.ml" 111 3610 3616 "expression.ml" 112 3627 3700
+call(
+  tail
+)
+type(
+  float option
+)
+"expression.ml" 110 3551 3555 "expression.ml" 112 3627 3700
+type(
+  float option
+)
+"expression.ml" 109 3523 3525 "expression.ml" 112 3627 3700
+type(
+  float option
+)
+type(
+  float option
+)
+"expression.ml" 107 3433 3492 "expression.ml" 112 3627 3700
+type(
+  int -> float option
+)
+"expression.ml" 107 3433 3476 "expression.ml" 112 3627 3700
+type(
+  float -> int -> float option
+)
+"expression.ml" 107 3433 3466 "expression.ml" 112 3627 3700
+type(
+  float -> float -> int -> float option
+)
+"expression.ml" 107 3433 3451 "expression.ml" 112 3627 3700
+type(
+  expression -> float -> float -> int -> float option
+)
+"expression.ml" 115 3705 3705 "expression.ml" 115 3705 3714
+type(
+  expression -> float -> float -> int -> float option
+)
+ident(
+  int_ref find_zero "expression.ml" 107 3433 3441 "expression.ml" 107 3433 3450
+)
+"expression.ml" 115 3705 3716 "expression.ml" 115 3705 3721
+type(
+  string -> expression
+)
+ident(
+  ext_ref ExpressionLibrary.parse
+)
+"expression.ml" 115 3705 3723 "expression.ml" 115 3705 3728
+type(
+  string
+)
+"expression.ml" 115 3705 3716 "expression.ml" 115 3705 3729
+call(
+  stack
+)
+type(
+  expression
+)
+"expression.ml" 115 3705 3731 "expression.ml" 115 3705 3734
+type(
+  float
+)
+"expression.ml" 115 3705 3735 "expression.ml" 115 3705 3741
+type(
+  float
+)
+"expression.ml" 115 3705 3742 "expression.ml" 115 3705 3743
+type(
+  int
+)
+"expression.ml" 115 3705 3705 "expression.ml" 115 3705 3743
+call(
+  stack
+)
+type(
+  float option
+)
+"expression.ml" 116 3746 3746 "expression.ml" 116 3746 3755
+type(
+  expression -> float -> float -> int -> float option
+)
+ident(
+  int_ref find_zero "expression.ml" 107 3433 3441 "expression.ml" 107 3433 3450
+)
+"expression.ml" 116 3746 3757 "expression.ml" 116 3746 3762
+type(
+  string -> expression
+)
+ident(
+  ext_ref ExpressionLibrary.parse
+)
+"expression.ml" 116 3746 3764 "expression.ml" 116 3746 3769
+type(
+  string
+)
+"expression.ml" 116 3746 3757 "expression.ml" 116 3746 3770
+call(
+  stack
+)
+type(
+  expression
+)
+"expression.ml" 116 3746 3772 "expression.ml" 116 3746 3775
+type(
+  float
+)
+"expression.ml" 116 3746 3776 "expression.ml" 116 3746 3782
+type(
+  float
+)
+"expression.ml" 116 3746 3783 "expression.ml" 116 3746 3784
+type(
+  int
+)
+"expression.ml" 116 3746 3746 "expression.ml" 116 3746 3784
+call(
+  stack
+)
+type(
+  float option
+)
+"expression.ml" 117 3787 3787 "expression.ml" 117 3787 3796
+type(
+  expression -> float -> float -> int -> float option
+)
+ident(
+  int_ref find_zero "expression.ml" 107 3433 3441 "expression.ml" 107 3433 3450
+)
+"expression.ml" 117 3787 3798 "expression.ml" 117 3787 3803
+type(
+  string -> expression
+)
+ident(
+  ext_ref ExpressionLibrary.parse
+)
+"expression.ml" 117 3787 3805 "expression.ml" 117 3787 3810
+type(
+  string
+)
+"expression.ml" 117 3787 3798 "expression.ml" 117 3787 3811
+call(
+  stack
+)
+type(
+  expression
+)
+"expression.ml" 117 3787 3813 "expression.ml" 117 3787 3816
+type(
+  float
+)
+"expression.ml" 117 3787 3817 "expression.ml" 117 3787 3822
+type(
+  float
+)
+"expression.ml" 117 3787 3823 "expression.ml" 117 3787 3824
+type(
+  int
+)
+"expression.ml" 117 3787 3787 "expression.ml" 117 3787 3824
+call(
+  stack
+)
+type(
+  float option
+)
+"expression.ml" 118 3827 3827 "expression.ml" 118 3827 3836
+type(
+  expression -> float -> float -> int -> float option
+)
+ident(
+  int_ref find_zero "expression.ml" 107 3433 3441 "expression.ml" 107 3433 3450
+)
+"expression.ml" 118 3827 3838 "expression.ml" 118 3827 3843
+type(
+  string -> expression
+)
+ident(
+  ext_ref ExpressionLibrary.parse
+)
+"expression.ml" 118 3827 3845 "expression.ml" 118 3827 3850
+type(
+  string
+)
+"expression.ml" 118 3827 3838 "expression.ml" 118 3827 3851
+call(
+  stack
+)
+type(
+  expression
+)
+"expression.ml" 118 3827 3853 "expression.ml" 118 3827 3855
+type(
+  float
+)
+"expression.ml" 118 3827 3856 "expression.ml" 118 3827 3861
+type(
+  float
+)
+"expression.ml" 118 3827 3862 "expression.ml" 118 3827 3865
+type(
+  int
+)
+"expression.ml" 118 3827 3827 "expression.ml" 118 3827 3865
+call(
+  stack
+)
+type(
+  float option
+)
+"expression.ml" 128 4047 4055 "expression.ml" 128 4047 4070
+type(
+  expression -> expression option
+)
+ident(
+  def find_zero_exact "expression.ml" 128 4047 4047 "expression.ml" 1 0 -1
+)
+"expression.ml" 128 4047 4072 "expression.ml" 128 4047 4073
+type(
+  expression
+)
+ident(
+  def e "expression.ml" 128 4047 4086 "expression.ml" 129 4108 4138
+)
+"expression.ml" 129 4108 4112 "expression.ml" 129 4108 4120
+type(
+  string -> expression option
+)
+ident(
+  ext_ref Pervasives.failwith
+)
+"expression.ml" 129 4108 4121 "expression.ml" 129 4108 4138
+type(
+  string
+)
+"expression.ml" 129 4108 4112 "expression.ml" 129 4108 4138
+call(
+  tail
+)
+type(
+  expression option
+)
+type(
+  expression option
+)
+"expression.ml" 128 4047 4071 "expression.ml" 129 4108 4138
+type(
+  expression -> expression option
+)
+"expression.ml" 135 4167 4171 "expression.ml" 135 4167 4194
+type(
+  int
+)
+ident(
+  def minutes_spent_on_part_2 "expression.ml" 135 4167 4206 "expression.ml" 1 0 -1
+)
+"expression.ml" 135 4167 4203 "expression.ml" 135 4167 4206
+type(
+  int
+)
+type(
+  int
+)

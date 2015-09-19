@@ -1,0 +1,269 @@
+"Lannister.ml" 6 61 77 "Lannister.ml" 6 61 78
+type(
+  int * int
+)
+"Lannister.ml" 6 61 79 "Lannister.ml" 6 61 83
+type(
+  < get_danger_event : < get_die_event : unit Event51.Event51.event;
+                         get_pos : int * int; receive_damage : unit; .. >
+                       Event51.Event51.event;
+    get_pos : int * int; .. >
+)
+"Lannister.ml" 7 96 104 "Lannister.ml" 7 96 108
+type(
+  < danger : world_object_i -> unit; die : unit; draw : unit;
+    draw_picture : unit; draw_z_axis : int; forfeit_gold : int option;
+    get_danger_event : world_object_i Event51.Event51.event;
+    get_die_event : unit Event51.Event51.event; get_name : string;
+    get_pos : int * int; is_obstacle : bool;
+    next_direction : Direction.direction option; receive_damage : unit;
+    receive_gold : int list -> int list; reset_life : unit;
+    smells_like_gold : int option; .. >
+)
+"Lannister.ml" 8 110 126 "Lannister.ml" 8 110 127
+type(
+  int * int
+)
+ident(
+  int_ref p "Lannister.ml" 6 61 77 "Lannister.ml" 6 61 78
+)
+"Lannister.ml" 8 110 128 "Lannister.ml" 8 110 132
+type(
+  < get_danger_event : < get_die_event : unit Event51.Event51.event;
+                         get_pos : int * int; receive_damage : unit; .. >
+                       Event51.Event51.event;
+    get_pos : int * int; .. >
+  as 'a
+)
+ident(
+  int_ref city "Lannister.ml" 6 61 79 "Lannister.ml" 6 61 83
+)
+"Lannister.ml" 17 329 339 "Lannister.ml" 17 329 355
+type(
+  (int -> int) -> Direction.direction
+)
+ident(
+  ext_ref Direction.random
+)
+"Lannister.ml" 17 329 356 "Lannister.ml" 17 329 366
+type(
+  int -> int
+)
+ident(
+  ext_ref World.rand
+)
+"Lannister.ml" 17 329 339 "Lannister.ml" 17 329 366
+call(
+  stack
+)
+type(
+  Direction.direction
+)
+"Lannister.ml" 17 329 333 "Lannister.ml" 17 329 367
+type(
+  Direction.direction option
+)
+type(
+  Direction.direction option
+)
+"Lannister.ml" 25 520 541 "Lannister.ml" 25 520 552
+type(
+  string
+)
+type(
+  string
+)
+"Lannister.ml" 25 520 522 "Lannister.ml" 25 520 552
+type(
+  (< danger : world_object_i -> unit; die : unit; draw : unit;
+     draw_picture : unit; draw_z_axis : int; forfeit_gold : int option;
+     get_danger_event : world_object_i Event51.Event51.event;
+     get_die_event : unit Event51.Event51.event; get_name : string;
+     get_pos : int * int; is_obstacle : bool;
+     next_direction : Direction.direction option; receive_damage : unit;
+     receive_gold : int list -> int list; reset_life : unit;
+     smells_like_gold : int option; .. >
+   as 'b) ->
+  string
+)
+"Lannister.ml" 27 554 587 "Lannister.ml" 27 554 591
+type(
+  'b
+)
+ident(
+  int_ref self "Lannister.ml" 7 96 104 "Lannister.ml" 7 96 108
+)
+"Lannister.ml" 27 554 587 "Lannister.ml" 27 554 603
+call(
+  tail
+)
+type(
+  int -> int -> string -> unit
+)
+"Lannister.ml" 28 605 608 "Lannister.ml" 28 605 623
+type(
+  int
+)
+ident(
+  ext_ref Graphics.yellow
+)
+"Lannister.ml" 28 605 624 "Lannister.ml" 28 605 638
+type(
+  int
+)
+ident(
+  ext_ref Graphics.black
+)
+"Lannister.ml" 29 639 643 "Lannister.ml" 29 639 656
+type(
+  int -> string
+)
+ident(
+  ext_ref Pervasives.string_of_int
+)
+"Lannister.ml" 29 639 658 "Lannister.ml" 29 639 669
+type(
+  int list -> int
+)
+ident(
+  ext_ref Core.Std.List.length
+)
+"Lannister.ml" 29 639 670 "Lannister.ml" 29 639 683
+type(
+  int list
+)
+ident(
+  ext_ref gold_obj_list
+)
+"Lannister.ml" 29 639 658 "Lannister.ml" 29 639 683
+call(
+  stack
+)
+type(
+  int
+)
+"Lannister.ml" 29 639 643 "Lannister.ml" 29 639 684
+call(
+  stack
+)
+type(
+  string
+)
+"Lannister.ml" 27 554 587 "Lannister.ml" 29 639 685
+type(
+  unit
+)
+type(
+  unit
+)
+"Lannister.ml" 27 554 556 "Lannister.ml" 29 639 685
+type(
+  'b -> unit
+)
+"Lannister.ml" 32 732 739 "Lannister.ml" 32 732 753
+type(
+  int * int -> bool
+)
+ident(
+  ext_ref World.can_move
+)
+"Lannister.ml" 33 756 760 "Lannister.ml" 33 756 780
+type(
+  int * int -> Direction.direction option -> int * int
+)
+ident(
+  ext_ref Direction.move_point
+)
+"Lannister.ml" 33 756 781 "Lannister.ml" 33 756 785
+type(
+  'b
+)
+ident(
+  int_ref self "Lannister.ml" 7 96 104 "Lannister.ml" 7 96 108
+)
+"Lannister.ml" 33 756 781 "Lannister.ml" 33 756 793
+call(
+  stack
+)
+type(
+  int * int
+)
+"Lannister.ml" 33 756 794 "Lannister.ml" 33 756 797
+type(
+  Direction.direction option
+)
+ident(
+  ext_ref dir
+)
+"Lannister.ml" 33 756 760 "Lannister.ml" 33 756 797
+call(
+  stack
+)
+type(
+  int * int
+)
+"Lannister.ml" 32 732 739 "Lannister.ml" 33 756 798
+call(
+  stack
+)
+type(
+  bool
+)
+"Lannister.ml" 34 804 810 "Lannister.ml" 34 804 813
+type(
+  Direction.direction option
+)
+ident(
+  ext_ref dir
+)
+"Lannister.ml" 35 819 839 "Lannister.ml" 35 819 855
+type(
+  (int -> int) -> Direction.direction
+)
+ident(
+  ext_ref Direction.random
+)
+"Lannister.ml" 35 819 856 "Lannister.ml" 35 819 866
+type(
+  int -> int
+)
+ident(
+  ext_ref World.rand
+)
+"Lannister.ml" 35 819 839 "Lannister.ml" 35 819 866
+call(
+  stack
+)
+type(
+  Direction.direction
+)
+"Lannister.ml" 35 819 833 "Lannister.ml" 35 819 867
+type(
+  Direction.direction option
+)
+"Lannister.ml" 35 819 826 "Lannister.ml" 35 819 867
+type(
+  unit
+)
+"Lannister.ml" 35 819 869 "Lannister.ml" 35 819 872
+type(
+  Direction.direction option
+)
+ident(
+  ext_ref dir
+)
+"Lannister.ml" 35 819 826 "Lannister.ml" 35 819 872
+type(
+  Direction.direction option
+)
+"Lannister.ml" 32 732 736 "Lannister.ml" 35 819 873
+type(
+  Direction.direction option
+)
+type(
+  Direction.direction option
+)
+"Lannister.ml" 31 688 690 "Lannister.ml" 35 819 873
+type(
+  'b -> Direction.direction option
+)

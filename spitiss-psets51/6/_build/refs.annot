@@ -1,0 +1,2586 @@
+"refs.ml" 23 748 752 "refs.ml" 23 748 758
+type(
+  int mlist
+)
+ident(
+  def list1a "refs.ml" 24 778 778 "refs.ml" 1 0 -1
+)
+"refs.ml" 23 748 766 "refs.ml" 23 748 767
+type(
+  int
+)
+"refs.ml" 23 748 769 "refs.ml" 23 748 772
+type(
+  int mlist -> int mlist ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"refs.ml" 23 748 773 "refs.ml" 23 748 776
+type(
+  int mlist
+)
+"refs.ml" 23 748 769 "refs.ml" 23 748 776
+type(
+  int mlist ref
+)
+"refs.ml" 23 748 761 "refs.ml" 23 748 777
+type(
+  int mlist
+)
+"refs.ml" 24 778 782 "refs.ml" 24 778 788
+type(
+  int mlist
+)
+ident(
+  def list1b "refs.ml" 25 811 811 "refs.ml" 1 0 -1
+)
+"refs.ml" 24 778 796 "refs.ml" 24 778 797
+type(
+  int
+)
+"refs.ml" 24 778 799 "refs.ml" 24 778 802
+type(
+  int mlist -> int mlist ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"refs.ml" 24 778 803 "refs.ml" 24 778 809
+type(
+  int mlist
+)
+ident(
+  int_ref list1a "refs.ml" 23 748 752 "refs.ml" 23 748 758
+)
+"refs.ml" 24 778 799 "refs.ml" 24 778 809
+type(
+  int mlist ref
+)
+"refs.ml" 24 778 791 "refs.ml" 24 778 810
+type(
+  int mlist
+)
+"refs.ml" 25 811 815 "refs.ml" 25 811 820
+type(
+  int mlist
+)
+ident(
+  def list1 "refs.ml" 27 844 844 "refs.ml" 1 0 -1
+)
+"refs.ml" 25 811 828 "refs.ml" 25 811 829
+type(
+  int
+)
+"refs.ml" 25 811 831 "refs.ml" 25 811 834
+type(
+  int mlist -> int mlist ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"refs.ml" 25 811 835 "refs.ml" 25 811 841
+type(
+  int mlist
+)
+ident(
+  int_ref list1b "refs.ml" 24 778 782 "refs.ml" 24 778 788
+)
+"refs.ml" 25 811 831 "refs.ml" 25 811 841
+type(
+  int mlist ref
+)
+"refs.ml" 25 811 823 "refs.ml" 25 811 842
+type(
+  int mlist
+)
+"refs.ml" 27 844 848 "refs.ml" 27 844 855
+type(
+  int mlist ref
+)
+ident(
+  def reflist "refs.ml" 28 881 881 "refs.ml" 1 0 -1
+)
+"refs.ml" 27 844 858 "refs.ml" 27 844 861
+type(
+  int mlist -> int mlist ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"refs.ml" 27 844 868 "refs.ml" 27 844 869
+type(
+  int
+)
+"refs.ml" 27 844 871 "refs.ml" 27 844 874
+type(
+  int mlist -> int mlist ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"refs.ml" 27 844 875 "refs.ml" 27 844 878
+type(
+  int mlist
+)
+"refs.ml" 27 844 871 "refs.ml" 27 844 878
+type(
+  int mlist ref
+)
+"refs.ml" 27 844 863 "refs.ml" 27 844 879
+type(
+  int mlist
+)
+"refs.ml" 27 844 858 "refs.ml" 27 844 880
+type(
+  int mlist ref
+)
+"refs.ml" 28 881 885 "refs.ml" 28 881 890
+type(
+  int mlist
+)
+ident(
+  def list2 "refs.ml" 29 926 926 "refs.ml" 1 0 -1
+)
+"refs.ml" 28 881 898 "refs.ml" 28 881 899
+type(
+  int
+)
+"refs.ml" 28 881 901 "refs.ml" 28 881 904
+type(
+  int mlist -> int mlist ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"refs.ml" 28 881 912 "refs.ml" 28 881 913
+type(
+  int
+)
+"refs.ml" 28 881 915 "refs.ml" 28 881 922
+type(
+  int mlist ref
+)
+ident(
+  int_ref reflist "refs.ml" 27 844 848 "refs.ml" 27 844 855
+)
+"refs.ml" 28 881 906 "refs.ml" 28 881 923
+type(
+  int mlist
+)
+"refs.ml" 28 881 901 "refs.ml" 28 881 924
+type(
+  int mlist ref
+)
+"refs.ml" 28 881 893 "refs.ml" 28 881 925
+type(
+  int mlist
+)
+"refs.ml" 29 926 934 "refs.ml" 29 926 941
+type(
+  int mlist ref
+)
+ident(
+  int_ref reflist "refs.ml" 27 844 848 "refs.ml" 27 844 855
+)
+"refs.ml" 29 926 945 "refs.ml" 29 926 950
+type(
+  int mlist
+)
+ident(
+  int_ref list2 "refs.ml" 28 881 885 "refs.ml" 28 881 890
+)
+"refs.ml" 29 926 934 "refs.ml" 29 926 950
+type(
+  unit
+)
+type(
+  int mlist ref -> int mlist -> unit
+)
+ident(
+  ext_ref Pervasives.( := )
+)
+"refs.ml" 31 952 956 "refs.ml" 31 952 965
+type(
+  'a mlist -> bool
+)
+ident(
+  def has_cycle "refs.ml" 56 1829 1829 "refs.ml" 1 0 -1
+)
+"refs.ml" 31 952 967 "refs.ml" 31 952 970
+type(
+  'a mlist
+)
+ident(
+  def lst "refs.ml" 31 952 983 "refs.ml" 54 1807 1827
+)
+"refs.ml" 34 1062 1072 "refs.ml" 34 1062 1082
+type(
+  'a mlist -> 'a mlist -> bool
+)
+ident(
+  def checksofar "refs.ml" 34 1062 1064 "refs.ml" 54 1807 1827
+)
+"refs.ml" 34 1062 1083 "refs.ml" 34 1062 1087
+type(
+  'a mlist
+)
+ident(
+  def lst' "refs.ml" 34 1062 1088 "refs.ml" 51 1769 1800
+)
+"refs.ml" 34 1062 1088 "refs.ml" 34 1062 1089
+type(
+  'a mlist
+)
+ident(
+  def e "refs.ml" 34 1062 1090 "refs.ml" 51 1769 1800
+)
+"refs.ml" 35 1099 1109 "refs.ml" 35 1099 1113
+type(
+  'a mlist
+)
+ident(
+  int_ref lst' "refs.ml" 34 1062 1083 "refs.ml" 34 1062 1087
+)
+"refs.ml" 36 1119 1124 "refs.ml" 36 1119 1127
+type(
+  'a mlist
+)
+"refs.ml" 36 1119 1131 "refs.ml" 36 1119 1136
+type(
+  bool
+)
+"refs.ml" 37 1137 1148 "refs.ml" 37 1137 1149
+type(
+  'a
+)
+ident(
+  def x "refs.ml" 37 1137 1158 "refs.ml" 51 1769 1799
+)
+"refs.ml" 37 1137 1151 "refs.ml" 37 1137 1152
+type(
+  'a mlist ref
+)
+ident(
+  def r "refs.ml" 37 1137 1158 "refs.ml" 51 1769 1799
+)
+"refs.ml" 37 1137 1142 "refs.ml" 37 1137 1153
+type(
+  'a mlist
+)
+"refs.ml" 37 1137 1164 "refs.ml" 37 1137 1165
+type(
+  'a mlist
+)
+ident(
+  int_ref e "refs.ml" 34 1062 1088 "refs.ml" 34 1062 1089
+)
+"refs.ml" 38 1171 1179 "refs.ml" 38 1171 1182
+type(
+  'a mlist
+)
+"refs.ml" 38 1171 1186 "refs.ml" 38 1171 1191
+type(
+  bool
+)
+"refs.ml" 41 1319 1333 "refs.ml" 41 1319 1335
+type(
+  'a
+)
+ident(
+  def x' "refs.ml" 42 1345 1355 "refs.ml" 51 1769 1798
+)
+"refs.ml" 41 1319 1337 "refs.ml" 41 1319 1339
+type(
+  'a mlist ref
+)
+ident(
+  def r' "refs.ml" 42 1345 1355 "refs.ml" 51 1769 1798
+)
+"refs.ml" 41 1319 1327 "refs.ml" 41 1319 1340
+type(
+  'a mlist
+)
+"refs.ml" 42 1345 1362 "refs.ml" 42 1345 1364
+type(
+  'a mlist ref
+)
+ident(
+  int_ref r' "refs.ml" 41 1319 1337 "refs.ml" 41 1319 1339
+)
+"refs.ml" 42 1345 1361 "refs.ml" 42 1345 1364
+type(
+  'a mlist
+)
+type(
+  'a mlist ref -> 'a mlist
+)
+ident(
+  ext_ref Pervasives.( ! )
+)
+"refs.ml" 43 1406 1410 "refs.ml" 43 1406 1413
+type(
+  'a mlist
+)
+"refs.ml" 43 1406 1417 "refs.ml" 43 1406 1422
+type(
+  bool
+)
+"refs.ml" 44 1459 1469 "refs.ml" 44 1459 1472
+type(
+  'a
+)
+ident(
+  def x'' "refs.ml" 45 1482 1487 "refs.ml" 51 1769 1798
+)
+"refs.ml" 44 1459 1474 "refs.ml" 44 1459 1477
+type(
+  'a mlist ref
+)
+ident(
+  def r'' "refs.ml" 45 1482 1487 "refs.ml" 51 1769 1798
+)
+"refs.ml" 44 1459 1463 "refs.ml" 44 1459 1478
+type(
+  'a mlist
+)
+"refs.ml" 45 1482 1491 "refs.ml" 45 1482 1492
+type(
+  'a
+)
+ident(
+  int_ref x "refs.ml" 37 1137 1148 "refs.ml" 37 1137 1149
+)
+"refs.ml" 45 1482 1493 "refs.ml" 45 1482 1494
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"refs.ml" 45 1482 1495 "refs.ml" 45 1482 1498
+type(
+  'a
+)
+ident(
+  int_ref x'' "refs.ml" 44 1459 1469 "refs.ml" 44 1459 1472
+)
+"refs.ml" 45 1482 1491 "refs.ml" 45 1482 1498
+type(
+  bool
+)
+"refs.ml" 45 1482 1500 "refs.ml" 45 1482 1502
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"refs.ml" 45 1482 1504 "refs.ml" 45 1482 1514
+type(
+  'a mlist -> 'a mlist -> bool
+)
+ident(
+  ext_ref Core.Std.phys_equal
+)
+"refs.ml" 45 1482 1517 "refs.ml" 45 1482 1518
+type(
+  'a mlist ref
+)
+ident(
+  int_ref r "refs.ml" 37 1137 1151 "refs.ml" 37 1137 1152
+)
+"refs.ml" 45 1482 1516 "refs.ml" 45 1482 1518
+type(
+  'a mlist
+)
+type(
+  'a mlist ref -> 'a mlist
+)
+ident(
+  ext_ref Pervasives.( ! )
+)
+"refs.ml" 45 1482 1522 "refs.ml" 45 1482 1525
+type(
+  'a mlist ref
+)
+ident(
+  int_ref r'' "refs.ml" 44 1459 1474 "refs.ml" 44 1459 1477
+)
+"refs.ml" 45 1482 1521 "refs.ml" 45 1482 1525
+type(
+  'a mlist
+)
+type(
+  'a mlist ref -> 'a mlist
+)
+ident(
+  ext_ref Pervasives.( ! )
+)
+"refs.ml" 45 1482 1504 "refs.ml" 45 1482 1526
+call(
+  stack
+)
+type(
+  bool
+)
+"refs.ml" 45 1482 1490 "refs.ml" 45 1482 1527
+type(
+  bool
+)
+"refs.ml" 45 1482 1533 "refs.ml" 45 1482 1537
+type(
+  bool
+)
+"refs.ml" 49 1688 1699 "refs.ml" 49 1688 1700
+type(
+  'a
+)
+ident(
+  int_ref x "refs.ml" 37 1137 1148 "refs.ml" 37 1137 1149
+)
+"refs.ml" 49 1688 1701 "refs.ml" 49 1688 1702
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"refs.ml" 49 1688 1703 "refs.ml" 49 1688 1705
+type(
+  'a
+)
+ident(
+  int_ref x' "refs.ml" 41 1319 1333 "refs.ml" 41 1319 1335
+)
+"refs.ml" 49 1688 1699 "refs.ml" 49 1688 1705
+type(
+  bool
+)
+"refs.ml" 49 1688 1707 "refs.ml" 49 1688 1709
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"refs.ml" 49 1688 1711 "refs.ml" 49 1688 1721
+type(
+  'a mlist -> 'a mlist -> bool
+)
+ident(
+  ext_ref Core.Std.phys_equal
+)
+"refs.ml" 49 1688 1724 "refs.ml" 49 1688 1725
+type(
+  'a mlist ref
+)
+ident(
+  int_ref r "refs.ml" 37 1137 1151 "refs.ml" 37 1137 1152
+)
+"refs.ml" 49 1688 1723 "refs.ml" 49 1688 1725
+type(
+  'a mlist
+)
+type(
+  'a mlist ref -> 'a mlist
+)
+ident(
+  ext_ref Pervasives.( ! )
+)
+"refs.ml" 49 1688 1729 "refs.ml" 49 1688 1731
+type(
+  'a mlist ref
+)
+ident(
+  int_ref r' "refs.ml" 41 1319 1337 "refs.ml" 41 1319 1339
+)
+"refs.ml" 49 1688 1728 "refs.ml" 49 1688 1731
+type(
+  'a mlist
+)
+type(
+  'a mlist ref -> 'a mlist
+)
+ident(
+  ext_ref Pervasives.( ! )
+)
+"refs.ml" 49 1688 1711 "refs.ml" 49 1688 1732
+call(
+  stack
+)
+type(
+  bool
+)
+"refs.ml" 49 1688 1698 "refs.ml" 49 1688 1733
+type(
+  bool
+)
+"refs.ml" 50 1739 1748 "refs.ml" 50 1739 1758
+type(
+  'a mlist -> 'a mlist -> bool
+)
+ident(
+  int_ref checksofar "refs.ml" 34 1062 1072 "refs.ml" 34 1062 1082
+)
+"refs.ml" 50 1739 1759 "refs.ml" 50 1739 1762
+type(
+  'a mlist
+)
+ident(
+  int_ref lst "refs.ml" 31 952 967 "refs.ml" 31 952 970
+)
+"refs.ml" 50 1739 1765 "refs.ml" 50 1739 1767
+type(
+  'a mlist ref
+)
+ident(
+  int_ref r' "refs.ml" 41 1319 1337 "refs.ml" 41 1319 1339
+)
+"refs.ml" 50 1739 1764 "refs.ml" 50 1739 1767
+type(
+  'a mlist
+)
+type(
+  'a mlist ref -> 'a mlist
+)
+ident(
+  ext_ref Pervasives.( ! )
+)
+"refs.ml" 50 1739 1748 "refs.ml" 50 1739 1768
+call(
+  tail
+)
+type(
+  bool
+)
+"refs.ml" 51 1769 1781 "refs.ml" 51 1769 1791
+type(
+  'a mlist -> 'a mlist -> bool
+)
+ident(
+  int_ref checksofar "refs.ml" 34 1062 1072 "refs.ml" 34 1062 1082
+)
+"refs.ml" 51 1769 1794 "refs.ml" 51 1769 1795
+type(
+  'a mlist ref
+)
+ident(
+  int_ref r "refs.ml" 37 1137 1151 "refs.ml" 37 1137 1152
+)
+"refs.ml" 51 1769 1793 "refs.ml" 51 1769 1795
+type(
+  'a mlist
+)
+type(
+  'a mlist ref -> 'a mlist
+)
+ident(
+  ext_ref Pervasives.( ! )
+)
+"refs.ml" 51 1769 1797 "refs.ml" 51 1769 1798
+type(
+  'a mlist
+)
+ident(
+  int_ref e "refs.ml" 34 1062 1088 "refs.ml" 34 1062 1089
+)
+"refs.ml" 51 1769 1781 "refs.ml" 51 1769 1798
+call(
+  tail
+)
+type(
+  bool
+)
+"refs.ml" 49 1688 1695 "refs.ml" 51 1769 1798
+type(
+  bool
+)
+"refs.ml" 45 1482 1487 "refs.ml" 51 1769 1798
+type(
+  bool
+)
+"refs.ml" 42 1345 1355 "refs.ml" 51 1769 1798
+type(
+  bool
+)
+"refs.ml" 37 1137 1158 "refs.ml" 51 1769 1799
+type(
+  bool
+)
+"refs.ml" 35 1099 1103 "refs.ml" 51 1769 1800
+type(
+  bool
+)
+type(
+  bool
+)
+"refs.ml" 34 1062 1088 "refs.ml" 51 1769 1800
+type(
+  'a mlist -> bool
+)
+"refs.ml" 34 1062 1083 "refs.ml" 51 1769 1800
+type(
+  'a mlist -> 'a mlist -> bool
+)
+"refs.ml" 54 1807 1809 "refs.ml" 54 1807 1819
+type(
+  'a mlist -> 'a mlist -> bool
+)
+ident(
+  int_ref checksofar "refs.ml" 34 1062 1072 "refs.ml" 34 1062 1082
+)
+"refs.ml" 54 1807 1820 "refs.ml" 54 1807 1823
+type(
+  'a mlist
+)
+ident(
+  int_ref lst "refs.ml" 31 952 967 "refs.ml" 31 952 970
+)
+"refs.ml" 54 1807 1824 "refs.ml" 54 1807 1827
+type(
+  'a mlist
+)
+ident(
+  int_ref lst "refs.ml" 31 952 967 "refs.ml" 31 952 970
+)
+"refs.ml" 54 1807 1809 "refs.ml" 54 1807 1827
+call(
+  tail
+)
+type(
+  bool
+)
+"refs.ml" 34 1062 1064 "refs.ml" 54 1807 1827
+type(
+  bool
+)
+type(
+  bool
+)
+"refs.ml" 31 952 966 "refs.ml" 54 1807 1827
+type(
+  'a mlist -> bool
+)
+"refs.ml" 56 1829 1837 "refs.ml" 56 1829 1846
+type(
+  int mlist -> bool
+)
+ident(
+  int_ref has_cycle "refs.ml" 31 952 956 "refs.ml" 31 952 965
+)
+"refs.ml" 56 1829 1847 "refs.ml" 56 1829 1852
+type(
+  int mlist
+)
+ident(
+  int_ref list2 "refs.ml" 28 881 885 "refs.ml" 28 881 890
+)
+"refs.ml" 56 1829 1837 "refs.ml" 56 1829 1852
+call(
+  stack
+)
+type(
+  bool
+)
+"refs.ml" 56 1829 1829 "refs.ml" 56 1829 1853
+type(
+  unit
+)
+"refs.ml" 57 1854 1862 "refs.ml" 57 1854 1865
+type(
+  bool -> bool
+)
+ident(
+  ext_ref Pervasives.not
+)
+"refs.ml" 57 1854 1866 "refs.ml" 57 1854 1875
+type(
+  int mlist -> bool
+)
+ident(
+  int_ref has_cycle "refs.ml" 31 952 956 "refs.ml" 31 952 965
+)
+"refs.ml" 57 1854 1876 "refs.ml" 57 1854 1881
+type(
+  int mlist
+)
+ident(
+  int_ref list1 "refs.ml" 25 811 815 "refs.ml" 25 811 820
+)
+"refs.ml" 57 1854 1866 "refs.ml" 57 1854 1881
+call(
+  stack
+)
+type(
+  bool
+)
+"refs.ml" 57 1854 1862 "refs.ml" 57 1854 1882
+type(
+  bool
+)
+"refs.ml" 57 1854 1854 "refs.ml" 57 1854 1883
+type(
+  unit
+)
+"refs.ml" 64 2103 2107 "refs.ml" 64 2103 2114
+type(
+  'a mlist -> unit
+)
+ident(
+  def flatten "refs.ml" 86 2653 2653 "refs.ml" 1 0 -1
+)
+"refs.ml" 64 2103 2116 "refs.ml" 64 2103 2119
+type(
+  'a mlist
+)
+ident(
+  def lst "refs.ml" 64 2103 2132 "refs.ml" 84 2631 2651
+)
+"refs.ml" 65 2141 2151 "refs.ml" 65 2141 2161
+type(
+  'a mlist -> 'a mlist -> unit
+)
+ident(
+  def checksofar "refs.ml" 65 2141 2143 "refs.ml" 84 2631 2651
+)
+"refs.ml" 65 2141 2162 "refs.ml" 65 2141 2166
+type(
+  'a mlist
+)
+ident(
+  def lst' "refs.ml" 65 2141 2167 "refs.ml" 81 2593 2624
+)
+"refs.ml" 65 2141 2167 "refs.ml" 65 2141 2168
+type(
+  'a mlist
+)
+ident(
+  def e "refs.ml" 65 2141 2169 "refs.ml" 81 2593 2624
+)
+"refs.ml" 66 2178 2188 "refs.ml" 66 2178 2192
+type(
+  'a mlist
+)
+ident(
+  int_ref lst' "refs.ml" 65 2141 2162 "refs.ml" 65 2141 2166
+)
+"refs.ml" 67 2198 2203 "refs.ml" 67 2198 2206
+type(
+  'a mlist
+)
+"refs.ml" 67 2198 2210 "refs.ml" 67 2198 2212
+type(
+  unit
+)
+"refs.ml" 68 2213 2224 "refs.ml" 68 2213 2225
+type(
+  'a
+)
+ident(
+  def x "refs.ml" 68 2213 2234 "refs.ml" 81 2593 2623
+)
+"refs.ml" 68 2213 2227 "refs.ml" 68 2213 2228
+type(
+  'a mlist ref
+)
+ident(
+  def r "refs.ml" 68 2213 2234 "refs.ml" 81 2593 2623
+)
+"refs.ml" 68 2213 2218 "refs.ml" 68 2213 2229
+type(
+  'a mlist
+)
+"refs.ml" 68 2213 2240 "refs.ml" 68 2213 2241
+type(
+  'a mlist
+)
+ident(
+  int_ref e "refs.ml" 65 2141 2167 "refs.ml" 65 2141 2168
+)
+"refs.ml" 69 2247 2255 "refs.ml" 69 2247 2258
+type(
+  'a mlist
+)
+"refs.ml" 69 2247 2262 "refs.ml" 69 2247 2264
+type(
+  unit
+)
+"refs.ml" 70 2265 2279 "refs.ml" 70 2265 2281
+type(
+  'a
+)
+ident(
+  def x' "refs.ml" 71 2291 2301 "refs.ml" 81 2593 2622
+)
+"refs.ml" 70 2265 2283 "refs.ml" 70 2265 2285
+type(
+  'a mlist ref
+)
+ident(
+  def r' "refs.ml" 71 2291 2301 "refs.ml" 81 2593 2622
+)
+"refs.ml" 70 2265 2273 "refs.ml" 70 2265 2286
+type(
+  'a mlist
+)
+"refs.ml" 71 2291 2308 "refs.ml" 71 2291 2310
+type(
+  'a mlist ref
+)
+ident(
+  int_ref r' "refs.ml" 70 2265 2283 "refs.ml" 70 2265 2285
+)
+"refs.ml" 71 2291 2307 "refs.ml" 71 2291 2310
+type(
+  'a mlist
+)
+type(
+  'a mlist ref -> 'a mlist
+)
+ident(
+  ext_ref Pervasives.( ! )
+)
+"refs.ml" 72 2316 2320 "refs.ml" 72 2316 2323
+type(
+  'a mlist
+)
+"refs.ml" 72 2316 2327 "refs.ml" 72 2316 2329
+type(
+  unit
+)
+"refs.ml" 73 2330 2340 "refs.ml" 73 2330 2343
+type(
+  'a
+)
+ident(
+  def x'' "refs.ml" 74 2353 2358 "refs.ml" 81 2593 2622
+)
+"refs.ml" 73 2330 2345 "refs.ml" 73 2330 2348
+type(
+  'a mlist ref
+)
+ident(
+  def r'' "refs.ml" 74 2353 2358 "refs.ml" 81 2593 2622
+)
+"refs.ml" 73 2330 2334 "refs.ml" 73 2330 2349
+type(
+  'a mlist
+)
+"refs.ml" 74 2353 2362 "refs.ml" 74 2353 2363
+type(
+  'a
+)
+ident(
+  int_ref x "refs.ml" 68 2213 2224 "refs.ml" 68 2213 2225
+)
+"refs.ml" 74 2353 2364 "refs.ml" 74 2353 2365
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"refs.ml" 74 2353 2366 "refs.ml" 74 2353 2369
+type(
+  'a
+)
+ident(
+  int_ref x'' "refs.ml" 73 2330 2340 "refs.ml" 73 2330 2343
+)
+"refs.ml" 74 2353 2362 "refs.ml" 74 2353 2369
+type(
+  bool
+)
+"refs.ml" 74 2353 2371 "refs.ml" 74 2353 2373
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"refs.ml" 74 2353 2375 "refs.ml" 74 2353 2385
+type(
+  'a mlist -> 'a mlist -> bool
+)
+ident(
+  ext_ref Core.Std.phys_equal
+)
+"refs.ml" 74 2353 2388 "refs.ml" 74 2353 2389
+type(
+  'a mlist ref
+)
+ident(
+  int_ref r "refs.ml" 68 2213 2227 "refs.ml" 68 2213 2228
+)
+"refs.ml" 74 2353 2387 "refs.ml" 74 2353 2389
+type(
+  'a mlist
+)
+type(
+  'a mlist ref -> 'a mlist
+)
+ident(
+  ext_ref Pervasives.( ! )
+)
+"refs.ml" 74 2353 2393 "refs.ml" 74 2353 2396
+type(
+  'a mlist ref
+)
+ident(
+  int_ref r'' "refs.ml" 73 2330 2345 "refs.ml" 73 2330 2348
+)
+"refs.ml" 74 2353 2392 "refs.ml" 74 2353 2396
+type(
+  'a mlist
+)
+type(
+  'a mlist ref -> 'a mlist
+)
+ident(
+  ext_ref Pervasives.( ! )
+)
+"refs.ml" 74 2353 2375 "refs.ml" 74 2353 2397
+call(
+  stack
+)
+type(
+  bool
+)
+"refs.ml" 74 2353 2361 "refs.ml" 74 2353 2398
+type(
+  bool
+)
+"refs.ml" 77 2482 2490 "refs.ml" 77 2482 2492
+type(
+  'a mlist ref
+)
+ident(
+  int_ref r' "refs.ml" 70 2265 2283 "refs.ml" 70 2265 2285
+)
+"refs.ml" 77 2482 2496 "refs.ml" 77 2482 2499
+type(
+  'a mlist
+)
+"refs.ml" 77 2482 2490 "refs.ml" 77 2482 2499
+type(
+  unit
+)
+type(
+  'a mlist ref -> 'a mlist -> unit
+)
+ident(
+  ext_ref Pervasives.( := )
+)
+"refs.ml" 79 2512 2523 "refs.ml" 79 2512 2524
+type(
+  'a
+)
+ident(
+  int_ref x "refs.ml" 68 2213 2224 "refs.ml" 68 2213 2225
+)
+"refs.ml" 79 2512 2525 "refs.ml" 79 2512 2526
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"refs.ml" 79 2512 2527 "refs.ml" 79 2512 2529
+type(
+  'a
+)
+ident(
+  int_ref x' "refs.ml" 70 2265 2279 "refs.ml" 70 2265 2281
+)
+"refs.ml" 79 2512 2523 "refs.ml" 79 2512 2529
+type(
+  bool
+)
+"refs.ml" 79 2512 2531 "refs.ml" 79 2512 2533
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"refs.ml" 79 2512 2535 "refs.ml" 79 2512 2545
+type(
+  'a mlist -> 'a mlist -> bool
+)
+ident(
+  ext_ref Core.Std.phys_equal
+)
+"refs.ml" 79 2512 2548 "refs.ml" 79 2512 2549
+type(
+  'a mlist ref
+)
+ident(
+  int_ref r "refs.ml" 68 2213 2227 "refs.ml" 68 2213 2228
+)
+"refs.ml" 79 2512 2547 "refs.ml" 79 2512 2549
+type(
+  'a mlist
+)
+type(
+  'a mlist ref -> 'a mlist
+)
+ident(
+  ext_ref Pervasives.( ! )
+)
+"refs.ml" 79 2512 2553 "refs.ml" 79 2512 2555
+type(
+  'a mlist ref
+)
+ident(
+  int_ref r' "refs.ml" 70 2265 2283 "refs.ml" 70 2265 2285
+)
+"refs.ml" 79 2512 2552 "refs.ml" 79 2512 2555
+type(
+  'a mlist
+)
+type(
+  'a mlist ref -> 'a mlist
+)
+ident(
+  ext_ref Pervasives.( ! )
+)
+"refs.ml" 79 2512 2535 "refs.ml" 79 2512 2556
+call(
+  stack
+)
+type(
+  bool
+)
+"refs.ml" 79 2512 2522 "refs.ml" 79 2512 2557
+type(
+  bool
+)
+"refs.ml" 80 2563 2572 "refs.ml" 80 2563 2582
+type(
+  'a mlist -> 'a mlist -> unit
+)
+ident(
+  int_ref checksofar "refs.ml" 65 2141 2151 "refs.ml" 65 2141 2161
+)
+"refs.ml" 80 2563 2583 "refs.ml" 80 2563 2586
+type(
+  'a mlist
+)
+ident(
+  int_ref lst "refs.ml" 64 2103 2116 "refs.ml" 64 2103 2119
+)
+"refs.ml" 80 2563 2589 "refs.ml" 80 2563 2591
+type(
+  'a mlist ref
+)
+ident(
+  int_ref r' "refs.ml" 70 2265 2283 "refs.ml" 70 2265 2285
+)
+"refs.ml" 80 2563 2588 "refs.ml" 80 2563 2591
+type(
+  'a mlist
+)
+type(
+  'a mlist ref -> 'a mlist
+)
+ident(
+  ext_ref Pervasives.( ! )
+)
+"refs.ml" 80 2563 2572 "refs.ml" 80 2563 2592
+call(
+  tail
+)
+type(
+  unit
+)
+"refs.ml" 81 2593 2605 "refs.ml" 81 2593 2615
+type(
+  'a mlist -> 'a mlist -> unit
+)
+ident(
+  int_ref checksofar "refs.ml" 65 2141 2151 "refs.ml" 65 2141 2161
+)
+"refs.ml" 81 2593 2618 "refs.ml" 81 2593 2619
+type(
+  'a mlist ref
+)
+ident(
+  int_ref r "refs.ml" 68 2213 2227 "refs.ml" 68 2213 2228
+)
+"refs.ml" 81 2593 2617 "refs.ml" 81 2593 2619
+type(
+  'a mlist
+)
+type(
+  'a mlist ref -> 'a mlist
+)
+ident(
+  ext_ref Pervasives.( ! )
+)
+"refs.ml" 81 2593 2621 "refs.ml" 81 2593 2622
+type(
+  'a mlist
+)
+ident(
+  int_ref e "refs.ml" 65 2141 2167 "refs.ml" 65 2141 2168
+)
+"refs.ml" 81 2593 2605 "refs.ml" 81 2593 2622
+call(
+  tail
+)
+type(
+  unit
+)
+"refs.ml" 79 2512 2519 "refs.ml" 81 2593 2622
+type(
+  unit
+)
+"refs.ml" 74 2353 2358 "refs.ml" 81 2593 2622
+type(
+  unit
+)
+"refs.ml" 71 2291 2301 "refs.ml" 81 2593 2622
+type(
+  unit
+)
+"refs.ml" 68 2213 2234 "refs.ml" 81 2593 2623
+type(
+  unit
+)
+"refs.ml" 66 2178 2182 "refs.ml" 81 2593 2624
+type(
+  unit
+)
+type(
+  unit
+)
+"refs.ml" 65 2141 2167 "refs.ml" 81 2593 2624
+type(
+  'a mlist -> unit
+)
+"refs.ml" 65 2141 2162 "refs.ml" 81 2593 2624
+type(
+  'a mlist -> 'a mlist -> unit
+)
+"refs.ml" 84 2631 2633 "refs.ml" 84 2631 2643
+type(
+  'a mlist -> 'a mlist -> unit
+)
+ident(
+  int_ref checksofar "refs.ml" 65 2141 2151 "refs.ml" 65 2141 2161
+)
+"refs.ml" 84 2631 2644 "refs.ml" 84 2631 2647
+type(
+  'a mlist
+)
+ident(
+  int_ref lst "refs.ml" 64 2103 2116 "refs.ml" 64 2103 2119
+)
+"refs.ml" 84 2631 2648 "refs.ml" 84 2631 2651
+type(
+  'a mlist
+)
+ident(
+  int_ref lst "refs.ml" 64 2103 2116 "refs.ml" 64 2103 2119
+)
+"refs.ml" 84 2631 2633 "refs.ml" 84 2631 2651
+call(
+  tail
+)
+type(
+  unit
+)
+"refs.ml" 65 2141 2143 "refs.ml" 84 2631 2651
+type(
+  unit
+)
+type(
+  unit
+)
+"refs.ml" 64 2103 2115 "refs.ml" 84 2631 2651
+type(
+  'a mlist -> unit
+)
+"refs.ml" 86 2653 2657 "refs.ml" 86 2653 2663
+type(
+  int mlist
+)
+ident(
+  def list1a "refs.ml" 87 2683 2683 "refs.ml" 1 0 -1
+)
+"refs.ml" 86 2653 2671 "refs.ml" 86 2653 2672
+type(
+  int
+)
+"refs.ml" 86 2653 2674 "refs.ml" 86 2653 2677
+type(
+  int mlist -> int mlist ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"refs.ml" 86 2653 2678 "refs.ml" 86 2653 2681
+type(
+  int mlist
+)
+"refs.ml" 86 2653 2674 "refs.ml" 86 2653 2681
+type(
+  int mlist ref
+)
+"refs.ml" 86 2653 2666 "refs.ml" 86 2653 2682
+type(
+  int mlist
+)
+"refs.ml" 87 2683 2687 "refs.ml" 87 2683 2693
+type(
+  int mlist
+)
+ident(
+  def list1b "refs.ml" 88 2716 2716 "refs.ml" 1 0 -1
+)
+"refs.ml" 87 2683 2701 "refs.ml" 87 2683 2702
+type(
+  int
+)
+"refs.ml" 87 2683 2704 "refs.ml" 87 2683 2707
+type(
+  int mlist -> int mlist ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"refs.ml" 87 2683 2708 "refs.ml" 87 2683 2714
+type(
+  int mlist
+)
+ident(
+  int_ref list1a "refs.ml" 86 2653 2657 "refs.ml" 86 2653 2663
+)
+"refs.ml" 87 2683 2704 "refs.ml" 87 2683 2714
+type(
+  int mlist ref
+)
+"refs.ml" 87 2683 2696 "refs.ml" 87 2683 2715
+type(
+  int mlist
+)
+"refs.ml" 88 2716 2720 "refs.ml" 88 2716 2725
+type(
+  int mlist
+)
+ident(
+  def list1 "refs.ml" 90 2751 2751 "refs.ml" 1 0 -1
+)
+"refs.ml" 88 2716 2733 "refs.ml" 88 2716 2734
+type(
+  int
+)
+"refs.ml" 88 2716 2736 "refs.ml" 88 2716 2739
+type(
+  int mlist -> int mlist ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"refs.ml" 88 2716 2740 "refs.ml" 88 2716 2746
+type(
+  int mlist
+)
+ident(
+  int_ref list1b "refs.ml" 87 2683 2687 "refs.ml" 87 2683 2693
+)
+"refs.ml" 88 2716 2736 "refs.ml" 88 2716 2746
+type(
+  int mlist ref
+)
+"refs.ml" 88 2716 2728 "refs.ml" 88 2716 2747
+type(
+  int mlist
+)
+"refs.ml" 90 2751 2751 "refs.ml" 90 2751 2758
+type(
+  int mlist -> unit
+)
+ident(
+  int_ref flatten "refs.ml" 64 2103 2107 "refs.ml" 64 2103 2114
+)
+"refs.ml" 90 2751 2759 "refs.ml" 90 2751 2764
+type(
+  int mlist
+)
+ident(
+  int_ref list1 "refs.ml" 88 2716 2720 "refs.ml" 88 2716 2725
+)
+"refs.ml" 90 2751 2751 "refs.ml" 90 2751 2764
+call(
+  stack
+)
+type(
+  unit
+)
+"refs.ml" 91 2766 2774 "refs.ml" 91 2766 2779
+type(
+  int mlist
+)
+ident(
+  int_ref list1 "refs.ml" 88 2716 2720 "refs.ml" 88 2716 2725
+)
+"refs.ml" 91 2766 2780 "refs.ml" 91 2766 2781
+type(
+  int mlist -> int mlist -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"refs.ml" 91 2766 2787 "refs.ml" 91 2766 2788
+type(
+  int
+)
+"refs.ml" 91 2766 2790 "refs.ml" 91 2766 2793
+type(
+  int mlist -> int mlist ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"refs.ml" 91 2766 2794 "refs.ml" 91 2766 2800
+type(
+  int mlist
+)
+ident(
+  int_ref list1b "refs.ml" 87 2683 2687 "refs.ml" 87 2683 2693
+)
+"refs.ml" 91 2766 2790 "refs.ml" 91 2766 2800
+type(
+  int mlist ref
+)
+"refs.ml" 91 2766 2782 "refs.ml" 91 2766 2801
+type(
+  int mlist
+)
+"refs.ml" 91 2766 2774 "refs.ml" 91 2766 2801
+type(
+  bool
+)
+"refs.ml" 91 2766 2766 "refs.ml" 91 2766 2802
+type(
+  unit
+)
+"refs.ml" 92 2804 2812 "refs.ml" 92 2804 2818
+type(
+  int mlist
+)
+ident(
+  int_ref list1a "refs.ml" 86 2653 2657 "refs.ml" 86 2653 2663
+)
+"refs.ml" 92 2804 2819 "refs.ml" 92 2804 2820
+type(
+  int mlist -> int mlist -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"refs.ml" 92 2804 2826 "refs.ml" 92 2804 2827
+type(
+  int
+)
+"refs.ml" 92 2804 2829 "refs.ml" 92 2804 2832
+type(
+  int mlist -> int mlist ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"refs.ml" 92 2804 2833 "refs.ml" 92 2804 2836
+type(
+  int mlist
+)
+"refs.ml" 92 2804 2829 "refs.ml" 92 2804 2836
+type(
+  int mlist ref
+)
+"refs.ml" 92 2804 2821 "refs.ml" 92 2804 2837
+type(
+  int mlist
+)
+"refs.ml" 92 2804 2812 "refs.ml" 92 2804 2837
+type(
+  bool
+)
+"refs.ml" 92 2804 2804 "refs.ml" 92 2804 2838
+type(
+  unit
+)
+"refs.ml" 91 2766 2766 "refs.ml" 92 2804 2838
+type(
+  unit
+)
+"refs.ml" 90 2751 2751 "refs.ml" 92 2804 2838
+type(
+  unit
+)
+"refs.ml" 94 2842 2846 "refs.ml" 94 2842 2853
+type(
+  int mlist ref
+)
+ident(
+  def reflist "refs.ml" 95 2879 2879 "refs.ml" 1 0 -1
+)
+"refs.ml" 94 2842 2856 "refs.ml" 94 2842 2859
+type(
+  int mlist -> int mlist ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"refs.ml" 94 2842 2866 "refs.ml" 94 2842 2867
+type(
+  int
+)
+"refs.ml" 94 2842 2869 "refs.ml" 94 2842 2872
+type(
+  int mlist -> int mlist ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"refs.ml" 94 2842 2873 "refs.ml" 94 2842 2876
+type(
+  int mlist
+)
+"refs.ml" 94 2842 2869 "refs.ml" 94 2842 2876
+type(
+  int mlist ref
+)
+"refs.ml" 94 2842 2861 "refs.ml" 94 2842 2877
+type(
+  int mlist
+)
+"refs.ml" 94 2842 2856 "refs.ml" 94 2842 2878
+type(
+  int mlist ref
+)
+"refs.ml" 95 2879 2883 "refs.ml" 95 2879 2888
+type(
+  int mlist
+)
+ident(
+  def list2 "refs.ml" 96 2924 2924 "refs.ml" 1 0 -1
+)
+"refs.ml" 95 2879 2896 "refs.ml" 95 2879 2897
+type(
+  int
+)
+"refs.ml" 95 2879 2899 "refs.ml" 95 2879 2902
+type(
+  int mlist -> int mlist ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"refs.ml" 95 2879 2910 "refs.ml" 95 2879 2911
+type(
+  int
+)
+"refs.ml" 95 2879 2913 "refs.ml" 95 2879 2920
+type(
+  int mlist ref
+)
+ident(
+  int_ref reflist "refs.ml" 94 2842 2846 "refs.ml" 94 2842 2853
+)
+"refs.ml" 95 2879 2904 "refs.ml" 95 2879 2921
+type(
+  int mlist
+)
+"refs.ml" 95 2879 2899 "refs.ml" 95 2879 2922
+type(
+  int mlist ref
+)
+"refs.ml" 95 2879 2891 "refs.ml" 95 2879 2923
+type(
+  int mlist
+)
+"refs.ml" 96 2924 2932 "refs.ml" 96 2924 2939
+type(
+  int mlist ref
+)
+ident(
+  int_ref reflist "refs.ml" 94 2842 2846 "refs.ml" 94 2842 2853
+)
+"refs.ml" 96 2924 2943 "refs.ml" 96 2924 2948
+type(
+  int mlist
+)
+ident(
+  int_ref list2 "refs.ml" 95 2879 2883 "refs.ml" 95 2879 2888
+)
+"refs.ml" 96 2924 2932 "refs.ml" 96 2924 2948
+type(
+  unit
+)
+type(
+  int mlist ref -> int mlist -> unit
+)
+ident(
+  ext_ref Pervasives.( := )
+)
+"refs.ml" 98 2952 2960 "refs.ml" 98 2952 2969
+type(
+  int mlist -> bool
+)
+ident(
+  int_ref has_cycle "refs.ml" 31 952 956 "refs.ml" 31 952 965
+)
+"refs.ml" 98 2952 2970 "refs.ml" 98 2952 2975
+type(
+  int mlist
+)
+ident(
+  int_ref list2 "refs.ml" 95 2879 2883 "refs.ml" 95 2879 2888
+)
+"refs.ml" 98 2952 2960 "refs.ml" 98 2952 2976
+call(
+  stack
+)
+type(
+  bool
+)
+"refs.ml" 98 2952 2952 "refs.ml" 98 2952 2977
+type(
+  unit
+)
+"refs.ml" 99 2979 2979 "refs.ml" 99 2979 2986
+type(
+  int mlist -> unit
+)
+ident(
+  int_ref flatten "refs.ml" 64 2103 2107 "refs.ml" 64 2103 2114
+)
+"refs.ml" 99 2979 2987 "refs.ml" 99 2979 2992
+type(
+  int mlist
+)
+ident(
+  int_ref list2 "refs.ml" 95 2879 2883 "refs.ml" 95 2879 2888
+)
+"refs.ml" 99 2979 2979 "refs.ml" 99 2979 2992
+call(
+  stack
+)
+type(
+  unit
+)
+"refs.ml" 100 2994 3002 "refs.ml" 100 2994 3007
+type(
+  int mlist
+)
+ident(
+  int_ref list2 "refs.ml" 95 2879 2883 "refs.ml" 95 2879 2888
+)
+"refs.ml" 100 2994 3008 "refs.ml" 100 2994 3009
+type(
+  int mlist -> int mlist -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"refs.ml" 100 2994 3015 "refs.ml" 100 2994 3016
+type(
+  int
+)
+"refs.ml" 100 2994 3018 "refs.ml" 100 2994 3021
+type(
+  int mlist -> int mlist ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"refs.ml" 100 2994 3029 "refs.ml" 100 2994 3030
+type(
+  int
+)
+"refs.ml" 100 2994 3032 "refs.ml" 100 2994 3035
+type(
+  int mlist -> int mlist ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"refs.ml" 100 2994 3036 "refs.ml" 100 2994 3039
+type(
+  int mlist
+)
+"refs.ml" 100 2994 3032 "refs.ml" 100 2994 3039
+type(
+  int mlist ref
+)
+"refs.ml" 100 2994 3023 "refs.ml" 100 2994 3040
+type(
+  int mlist
+)
+"refs.ml" 100 2994 3018 "refs.ml" 100 2994 3041
+type(
+  int mlist ref
+)
+"refs.ml" 100 2994 3010 "refs.ml" 100 2994 3042
+type(
+  int mlist
+)
+"refs.ml" 100 2994 3002 "refs.ml" 100 2994 3042
+type(
+  bool
+)
+"refs.ml" 100 2994 2994 "refs.ml" 100 2994 3043
+type(
+  unit
+)
+"refs.ml" 101 3045 3053 "refs.ml" 101 3045 3056
+type(
+  bool -> bool
+)
+ident(
+  ext_ref Pervasives.not
+)
+"refs.ml" 101 3045 3057 "refs.ml" 101 3045 3066
+type(
+  int mlist -> bool
+)
+ident(
+  int_ref has_cycle "refs.ml" 31 952 956 "refs.ml" 31 952 965
+)
+"refs.ml" 101 3045 3067 "refs.ml" 101 3045 3072
+type(
+  int mlist
+)
+ident(
+  int_ref list2 "refs.ml" 95 2879 2883 "refs.ml" 95 2879 2888
+)
+"refs.ml" 101 3045 3057 "refs.ml" 101 3045 3072
+call(
+  stack
+)
+type(
+  bool
+)
+"refs.ml" 101 3045 3053 "refs.ml" 101 3045 3073
+type(
+  bool
+)
+"refs.ml" 101 3045 3045 "refs.ml" 101 3045 3074
+type(
+  unit
+)
+"refs.ml" 100 2994 2994 "refs.ml" 101 3045 3074
+type(
+  unit
+)
+"refs.ml" 99 2979 2979 "refs.ml" 101 3045 3074
+type(
+  unit
+)
+"refs.ml" 98 2952 2952 "refs.ml" 101 3045 3074
+type(
+  unit
+)
+"refs.ml" 106 3173 3177 "refs.ml" 106 3173 3184
+type(
+  'a mlist -> int
+)
+ident(
+  def mlength "refs.ml" 133 3908 3908 "refs.ml" 1 0 -1
+)
+"refs.ml" 106 3173 3186 "refs.ml" 106 3173 3189
+type(
+  'a mlist
+)
+ident(
+  def lst "refs.ml" 106 3173 3202 "refs.ml" 131 3866 3906
+)
+"refs.ml" 108 3244 3250 "refs.ml" 108 3244 3251
+type(
+  int ref
+)
+ident(
+  def y "refs.ml" 109 3263 3265 "refs.ml" 131 3866 3906
+)
+"refs.ml" 108 3244 3254 "refs.ml" 108 3244 3257
+type(
+  int -> int ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"refs.ml" 108 3244 3258 "refs.ml" 108 3244 3259
+type(
+  int
+)
+"refs.ml" 108 3244 3254 "refs.ml" 108 3244 3259
+type(
+  int ref
+)
+"refs.ml" 109 3263 3273 "refs.ml" 109 3263 3283
+type(
+  'a mlist -> 'a mlist -> unit
+)
+ident(
+  def checksofar "refs.ml" 109 3263 3265 "refs.ml" 131 3866 3906
+)
+"refs.ml" 109 3263 3284 "refs.ml" 109 3263 3288
+type(
+  'a mlist
+)
+ident(
+  def lst' "refs.ml" 109 3263 3289 "refs.ml" 126 3799 3830
+)
+"refs.ml" 109 3263 3289 "refs.ml" 109 3263 3290
+type(
+  'a mlist
+)
+ident(
+  def e "refs.ml" 109 3263 3291 "refs.ml" 126 3799 3830
+)
+"refs.ml" 110 3300 3310 "refs.ml" 110 3300 3314
+type(
+  'a mlist
+)
+ident(
+  int_ref lst' "refs.ml" 109 3263 3284 "refs.ml" 109 3263 3288
+)
+"refs.ml" 111 3320 3325 "refs.ml" 111 3320 3328
+type(
+  'a mlist
+)
+"refs.ml" 111 3320 3332 "refs.ml" 111 3320 3334
+type(
+  unit
+)
+"refs.ml" 112 3335 3346 "refs.ml" 112 3335 3347
+type(
+  'a
+)
+ident(
+  def x "refs.ml" 112 3335 3356 "refs.ml" 126 3799 3829
+)
+"refs.ml" 112 3335 3349 "refs.ml" 112 3335 3350
+type(
+  'a mlist ref
+)
+ident(
+  def r "refs.ml" 112 3335 3356 "refs.ml" 126 3799 3829
+)
+"refs.ml" 112 3335 3340 "refs.ml" 112 3335 3351
+type(
+  'a mlist
+)
+"refs.ml" 112 3335 3362 "refs.ml" 112 3335 3363
+type(
+  'a mlist
+)
+ident(
+  int_ref e "refs.ml" 109 3263 3289 "refs.ml" 109 3263 3290
+)
+"refs.ml" 113 3369 3377 "refs.ml" 113 3369 3380
+type(
+  'a mlist
+)
+"refs.ml" 113 3369 3384 "refs.ml" 113 3369 3386
+type(
+  unit
+)
+"refs.ml" 114 3387 3401 "refs.ml" 114 3387 3403
+type(
+  'a
+)
+ident(
+  def x' "refs.ml" 115 3413 3423 "refs.ml" 126 3799 3828
+)
+"refs.ml" 114 3387 3405 "refs.ml" 114 3387 3407
+type(
+  'a mlist ref
+)
+ident(
+  def r' "refs.ml" 115 3413 3423 "refs.ml" 126 3799 3828
+)
+"refs.ml" 114 3387 3395 "refs.ml" 114 3387 3408
+type(
+  'a mlist
+)
+"refs.ml" 115 3413 3430 "refs.ml" 115 3413 3432
+type(
+  'a mlist ref
+)
+ident(
+  int_ref r' "refs.ml" 114 3387 3405 "refs.ml" 114 3387 3407
+)
+"refs.ml" 115 3413 3429 "refs.ml" 115 3413 3432
+type(
+  'a mlist
+)
+type(
+  'a mlist ref -> 'a mlist
+)
+ident(
+  ext_ref Pervasives.( ! )
+)
+"refs.ml" 116 3438 3442 "refs.ml" 116 3438 3445
+type(
+  'a mlist
+)
+"refs.ml" 116 3438 3449 "refs.ml" 116 3438 3451
+type(
+  unit
+)
+"refs.ml" 117 3452 3462 "refs.ml" 117 3452 3465
+type(
+  'a
+)
+ident(
+  def x'' "refs.ml" 118 3475 3480 "refs.ml" 126 3799 3828
+)
+"refs.ml" 117 3452 3467 "refs.ml" 117 3452 3470
+type(
+  'a mlist ref
+)
+ident(
+  def r'' "refs.ml" 118 3475 3480 "refs.ml" 126 3799 3828
+)
+"refs.ml" 117 3452 3456 "refs.ml" 117 3452 3471
+type(
+  'a mlist
+)
+"refs.ml" 118 3475 3484 "refs.ml" 118 3475 3485
+type(
+  'a
+)
+ident(
+  int_ref x "refs.ml" 112 3335 3346 "refs.ml" 112 3335 3347
+)
+"refs.ml" 118 3475 3486 "refs.ml" 118 3475 3487
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"refs.ml" 118 3475 3488 "refs.ml" 118 3475 3491
+type(
+  'a
+)
+ident(
+  int_ref x'' "refs.ml" 117 3452 3462 "refs.ml" 117 3452 3465
+)
+"refs.ml" 118 3475 3484 "refs.ml" 118 3475 3491
+type(
+  bool
+)
+"refs.ml" 118 3475 3493 "refs.ml" 118 3475 3495
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"refs.ml" 118 3475 3497 "refs.ml" 118 3475 3507
+type(
+  'a mlist -> 'a mlist -> bool
+)
+ident(
+  ext_ref Core.Std.phys_equal
+)
+"refs.ml" 118 3475 3510 "refs.ml" 118 3475 3511
+type(
+  'a mlist ref
+)
+ident(
+  int_ref r "refs.ml" 112 3335 3349 "refs.ml" 112 3335 3350
+)
+"refs.ml" 118 3475 3509 "refs.ml" 118 3475 3511
+type(
+  'a mlist
+)
+type(
+  'a mlist ref -> 'a mlist
+)
+ident(
+  ext_ref Pervasives.( ! )
+)
+"refs.ml" 118 3475 3515 "refs.ml" 118 3475 3518
+type(
+  'a mlist ref
+)
+ident(
+  int_ref r'' "refs.ml" 117 3452 3467 "refs.ml" 117 3452 3470
+)
+"refs.ml" 118 3475 3514 "refs.ml" 118 3475 3518
+type(
+  'a mlist
+)
+type(
+  'a mlist ref -> 'a mlist
+)
+ident(
+  ext_ref Pervasives.( ! )
+)
+"refs.ml" 118 3475 3497 "refs.ml" 118 3475 3519
+call(
+  stack
+)
+type(
+  bool
+)
+"refs.ml" 118 3475 3483 "refs.ml" 118 3475 3520
+type(
+  bool
+)
+"refs.ml" 120 3576 3583 "refs.ml" 120 3576 3585
+type(
+  unit
+)
+"refs.ml" 122 3597 3608 "refs.ml" 122 3597 3609
+type(
+  'a
+)
+ident(
+  int_ref x "refs.ml" 112 3335 3346 "refs.ml" 112 3335 3347
+)
+"refs.ml" 122 3597 3610 "refs.ml" 122 3597 3611
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"refs.ml" 122 3597 3612 "refs.ml" 122 3597 3614
+type(
+  'a
+)
+ident(
+  int_ref x' "refs.ml" 114 3387 3401 "refs.ml" 114 3387 3403
+)
+"refs.ml" 122 3597 3608 "refs.ml" 122 3597 3614
+type(
+  bool
+)
+"refs.ml" 122 3597 3616 "refs.ml" 122 3597 3618
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"refs.ml" 122 3597 3620 "refs.ml" 122 3597 3630
+type(
+  'a mlist -> 'a mlist -> bool
+)
+ident(
+  ext_ref Core.Std.phys_equal
+)
+"refs.ml" 122 3597 3633 "refs.ml" 122 3597 3634
+type(
+  'a mlist ref
+)
+ident(
+  int_ref r "refs.ml" 112 3335 3349 "refs.ml" 112 3335 3350
+)
+"refs.ml" 122 3597 3632 "refs.ml" 122 3597 3634
+type(
+  'a mlist
+)
+type(
+  'a mlist ref -> 'a mlist
+)
+ident(
+  ext_ref Pervasives.( ! )
+)
+"refs.ml" 122 3597 3638 "refs.ml" 122 3597 3640
+type(
+  'a mlist ref
+)
+ident(
+  int_ref r' "refs.ml" 114 3387 3405 "refs.ml" 114 3387 3407
+)
+"refs.ml" 122 3597 3637 "refs.ml" 122 3597 3640
+type(
+  'a mlist
+)
+type(
+  'a mlist ref -> 'a mlist
+)
+ident(
+  ext_ref Pervasives.( ! )
+)
+"refs.ml" 122 3597 3620 "refs.ml" 122 3597 3641
+call(
+  stack
+)
+type(
+  bool
+)
+"refs.ml" 122 3597 3607 "refs.ml" 122 3597 3642
+type(
+  bool
+)
+"refs.ml" 125 3745 3758 "refs.ml" 125 3745 3759
+type(
+  unit
+)
+"refs.ml" 125 3745 3763 "refs.ml" 125 3745 3764
+type(
+  int ref
+)
+ident(
+  int_ref y "refs.ml" 108 3244 3250 "refs.ml" 108 3244 3251
+)
+"refs.ml" 125 3745 3769 "refs.ml" 125 3745 3770
+type(
+  int ref
+)
+ident(
+  int_ref y "refs.ml" 108 3244 3250 "refs.ml" 108 3244 3251
+)
+"refs.ml" 125 3745 3768 "refs.ml" 125 3745 3770
+type(
+  int
+)
+type(
+  int ref -> int
+)
+ident(
+  ext_ref Pervasives.( ! )
+)
+"refs.ml" 125 3745 3771 "refs.ml" 125 3745 3772
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"refs.ml" 125 3745 3773 "refs.ml" 125 3745 3774
+type(
+  int
+)
+"refs.ml" 125 3745 3768 "refs.ml" 125 3745 3774
+type(
+  int
+)
+"refs.ml" 125 3745 3763 "refs.ml" 125 3745 3774
+type(
+  unit
+)
+type(
+  int ref -> int -> unit
+)
+ident(
+  ext_ref Pervasives.( := )
+)
+"refs.ml" 125 3745 3778 "refs.ml" 125 3745 3788
+type(
+  'a mlist -> 'a mlist -> unit
+)
+ident(
+  int_ref checksofar "refs.ml" 109 3263 3273 "refs.ml" 109 3263 3283
+)
+"refs.ml" 125 3745 3789 "refs.ml" 125 3745 3792
+type(
+  'a mlist
+)
+ident(
+  int_ref lst "refs.ml" 106 3173 3186 "refs.ml" 106 3173 3189
+)
+"refs.ml" 125 3745 3795 "refs.ml" 125 3745 3797
+type(
+  'a mlist ref
+)
+ident(
+  int_ref r' "refs.ml" 114 3387 3405 "refs.ml" 114 3387 3407
+)
+"refs.ml" 125 3745 3794 "refs.ml" 125 3745 3797
+type(
+  'a mlist
+)
+type(
+  'a mlist ref -> 'a mlist
+)
+ident(
+  ext_ref Pervasives.( ! )
+)
+"refs.ml" 125 3745 3778 "refs.ml" 125 3745 3798
+call(
+  tail
+)
+type(
+  unit
+)
+"refs.ml" 125 3745 3754 "refs.ml" 125 3745 3798
+type(
+  unit
+)
+"refs.ml" 126 3799 3811 "refs.ml" 126 3799 3821
+type(
+  'a mlist -> 'a mlist -> unit
+)
+ident(
+  int_ref checksofar "refs.ml" 109 3263 3273 "refs.ml" 109 3263 3283
+)
+"refs.ml" 126 3799 3824 "refs.ml" 126 3799 3825
+type(
+  'a mlist ref
+)
+ident(
+  int_ref r "refs.ml" 112 3335 3349 "refs.ml" 112 3335 3350
+)
+"refs.ml" 126 3799 3823 "refs.ml" 126 3799 3825
+type(
+  'a mlist
+)
+type(
+  'a mlist ref -> 'a mlist
+)
+ident(
+  ext_ref Pervasives.( ! )
+)
+"refs.ml" 126 3799 3827 "refs.ml" 126 3799 3828
+type(
+  'a mlist
+)
+ident(
+  int_ref e "refs.ml" 109 3263 3289 "refs.ml" 109 3263 3290
+)
+"refs.ml" 126 3799 3811 "refs.ml" 126 3799 3828
+call(
+  tail
+)
+type(
+  unit
+)
+"refs.ml" 122 3597 3604 "refs.ml" 126 3799 3828
+type(
+  unit
+)
+"refs.ml" 118 3475 3480 "refs.ml" 126 3799 3828
+type(
+  unit
+)
+"refs.ml" 115 3413 3423 "refs.ml" 126 3799 3828
+type(
+  unit
+)
+"refs.ml" 112 3335 3356 "refs.ml" 126 3799 3829
+type(
+  unit
+)
+"refs.ml" 110 3300 3304 "refs.ml" 126 3799 3830
+type(
+  unit
+)
+type(
+  unit
+)
+"refs.ml" 109 3263 3289 "refs.ml" 126 3799 3830
+type(
+  'a mlist -> unit
+)
+"refs.ml" 109 3263 3284 "refs.ml" 126 3799 3830
+type(
+  'a mlist -> 'a mlist -> unit
+)
+"refs.ml" 129 3837 3845 "refs.ml" 129 3837 3848
+type(
+  'a mlist
+)
+ident(
+  int_ref lst "refs.ml" 106 3173 3186 "refs.ml" 106 3173 3189
+)
+"refs.ml" 130 3854 3857 "refs.ml" 130 3854 3860
+type(
+  'a mlist
+)
+"refs.ml" 130 3854 3864 "refs.ml" 130 3854 3865
+type(
+  int
+)
+"refs.ml" 131 3866 3875 "refs.ml" 131 3866 3876
+type(
+  'a
+)
+"refs.ml" 131 3866 3878 "refs.ml" 131 3866 3879
+type(
+  'a mlist ref
+)
+"refs.ml" 131 3866 3869 "refs.ml" 131 3866 3880
+type(
+  'a mlist
+)
+"refs.ml" 131 3866 3884 "refs.ml" 131 3866 3894
+type(
+  'a mlist -> 'a mlist -> unit
+)
+ident(
+  int_ref checksofar "refs.ml" 109 3263 3273 "refs.ml" 109 3263 3283
+)
+"refs.ml" 131 3866 3895 "refs.ml" 131 3866 3898
+type(
+  'a mlist
+)
+ident(
+  int_ref lst "refs.ml" 106 3173 3186 "refs.ml" 106 3173 3189
+)
+"refs.ml" 131 3866 3899 "refs.ml" 131 3866 3902
+type(
+  'a mlist
+)
+ident(
+  int_ref lst "refs.ml" 106 3173 3186 "refs.ml" 106 3173 3189
+)
+"refs.ml" 131 3866 3884 "refs.ml" 131 3866 3902
+call(
+  stack
+)
+type(
+  unit
+)
+"refs.ml" 131 3866 3905 "refs.ml" 131 3866 3906
+type(
+  int ref
+)
+ident(
+  int_ref y "refs.ml" 108 3244 3250 "refs.ml" 108 3244 3251
+)
+"refs.ml" 131 3866 3904 "refs.ml" 131 3866 3906
+type(
+  int
+)
+type(
+  int ref -> int
+)
+ident(
+  ext_ref Pervasives.( ! )
+)
+"refs.ml" 131 3866 3884 "refs.ml" 131 3866 3906
+type(
+  int
+)
+"refs.ml" 129 3837 3839 "refs.ml" 131 3866 3906
+type(
+  int
+)
+"refs.ml" 109 3263 3265 "refs.ml" 131 3866 3906
+type(
+  int
+)
+"refs.ml" 108 3244 3246 "refs.ml" 131 3866 3906
+type(
+  int
+)
+type(
+  int
+)
+"refs.ml" 106 3173 3185 "refs.ml" 131 3866 3906
+type(
+  'a mlist -> int
+)
+"refs.ml" 133 3908 3912 "refs.ml" 133 3908 3918
+type(
+  int mlist
+)
+ident(
+  def list1a "refs.ml" 134 3940 3940 "refs.ml" 1 0 -1
+)
+"refs.ml" 133 3908 3926 "refs.ml" 133 3908 3927
+type(
+  int
+)
+"refs.ml" 133 3908 3929 "refs.ml" 133 3908 3932
+type(
+  int mlist -> int mlist ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"refs.ml" 133 3908 3933 "refs.ml" 133 3908 3936
+type(
+  int mlist
+)
+"refs.ml" 133 3908 3929 "refs.ml" 133 3908 3936
+type(
+  int mlist ref
+)
+"refs.ml" 133 3908 3921 "refs.ml" 133 3908 3937
+type(
+  int mlist
+)
+"refs.ml" 134 3940 3948 "refs.ml" 134 3940 3955
+type(
+  int mlist -> int
+)
+ident(
+  int_ref mlength "refs.ml" 106 3173 3177 "refs.ml" 106 3173 3184
+)
+"refs.ml" 134 3940 3956 "refs.ml" 134 3940 3962
+type(
+  int mlist
+)
+ident(
+  int_ref list1a "refs.ml" 133 3908 3912 "refs.ml" 133 3908 3918
+)
+"refs.ml" 134 3940 3948 "refs.ml" 134 3940 3962
+call(
+  stack
+)
+type(
+  int
+)
+"refs.ml" 134 3940 3963 "refs.ml" 134 3940 3964
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"refs.ml" 134 3940 3965 "refs.ml" 134 3940 3966
+type(
+  int
+)
+"refs.ml" 134 3940 3948 "refs.ml" 134 3940 3966
+type(
+  bool
+)
+"refs.ml" 134 3940 3940 "refs.ml" 134 3940 3967
+type(
+  unit
+)
+"refs.ml" 135 3970 3974 "refs.ml" 135 3970 3980
+type(
+  int mlist
+)
+ident(
+  def list1b "refs.ml" 136 4005 4005 "refs.ml" 1 0 -1
+)
+"refs.ml" 135 3970 3988 "refs.ml" 135 3970 3989
+type(
+  int
+)
+"refs.ml" 135 3970 3991 "refs.ml" 135 3970 3994
+type(
+  int mlist -> int mlist ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"refs.ml" 135 3970 3995 "refs.ml" 135 3970 4001
+type(
+  int mlist
+)
+ident(
+  int_ref list1a "refs.ml" 133 3908 3912 "refs.ml" 133 3908 3918
+)
+"refs.ml" 135 3970 3991 "refs.ml" 135 3970 4001
+type(
+  int mlist ref
+)
+"refs.ml" 135 3970 3983 "refs.ml" 135 3970 4002
+type(
+  int mlist
+)
+"refs.ml" 136 4005 4013 "refs.ml" 136 4005 4020
+type(
+  int mlist -> int
+)
+ident(
+  int_ref mlength "refs.ml" 106 3173 3177 "refs.ml" 106 3173 3184
+)
+"refs.ml" 136 4005 4021 "refs.ml" 136 4005 4027
+type(
+  int mlist
+)
+ident(
+  int_ref list1b "refs.ml" 135 3970 3974 "refs.ml" 135 3970 3980
+)
+"refs.ml" 136 4005 4013 "refs.ml" 136 4005 4027
+call(
+  stack
+)
+type(
+  int
+)
+"refs.ml" 136 4005 4028 "refs.ml" 136 4005 4029
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"refs.ml" 136 4005 4030 "refs.ml" 136 4005 4031
+type(
+  int
+)
+"refs.ml" 136 4005 4013 "refs.ml" 136 4005 4031
+type(
+  bool
+)
+"refs.ml" 136 4005 4005 "refs.ml" 136 4005 4032
+type(
+  unit
+)
+"refs.ml" 138 4036 4040 "refs.ml" 138 4036 4047
+type(
+  int mlist ref
+)
+ident(
+  def reflist "refs.ml" 139 4073 4073 "refs.ml" 1 0 -1
+)
+"refs.ml" 138 4036 4050 "refs.ml" 138 4036 4053
+type(
+  int mlist -> int mlist ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"refs.ml" 138 4036 4060 "refs.ml" 138 4036 4061
+type(
+  int
+)
+"refs.ml" 138 4036 4063 "refs.ml" 138 4036 4066
+type(
+  int mlist -> int mlist ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"refs.ml" 138 4036 4067 "refs.ml" 138 4036 4070
+type(
+  int mlist
+)
+"refs.ml" 138 4036 4063 "refs.ml" 138 4036 4070
+type(
+  int mlist ref
+)
+"refs.ml" 138 4036 4055 "refs.ml" 138 4036 4071
+type(
+  int mlist
+)
+"refs.ml" 138 4036 4050 "refs.ml" 138 4036 4072
+type(
+  int mlist ref
+)
+"refs.ml" 139 4073 4077 "refs.ml" 139 4073 4082
+type(
+  int mlist
+)
+ident(
+  def list2 "refs.ml" 140 4118 4118 "refs.ml" 1 0 -1
+)
+"refs.ml" 139 4073 4090 "refs.ml" 139 4073 4091
+type(
+  int
+)
+"refs.ml" 139 4073 4093 "refs.ml" 139 4073 4096
+type(
+  int mlist -> int mlist ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"refs.ml" 139 4073 4104 "refs.ml" 139 4073 4105
+type(
+  int
+)
+"refs.ml" 139 4073 4107 "refs.ml" 139 4073 4114
+type(
+  int mlist ref
+)
+ident(
+  int_ref reflist "refs.ml" 138 4036 4040 "refs.ml" 138 4036 4047
+)
+"refs.ml" 139 4073 4098 "refs.ml" 139 4073 4115
+type(
+  int mlist
+)
+"refs.ml" 139 4073 4093 "refs.ml" 139 4073 4116
+type(
+  int mlist ref
+)
+"refs.ml" 139 4073 4085 "refs.ml" 139 4073 4117
+type(
+  int mlist
+)
+"refs.ml" 140 4118 4126 "refs.ml" 140 4118 4133
+type(
+  int mlist ref
+)
+ident(
+  int_ref reflist "refs.ml" 138 4036 4040 "refs.ml" 138 4036 4047
+)
+"refs.ml" 140 4118 4137 "refs.ml" 140 4118 4142
+type(
+  int mlist
+)
+ident(
+  int_ref list2 "refs.ml" 139 4073 4077 "refs.ml" 139 4073 4082
+)
+"refs.ml" 140 4118 4126 "refs.ml" 140 4118 4142
+type(
+  unit
+)
+type(
+  int mlist ref -> int mlist -> unit
+)
+ident(
+  ext_ref Pervasives.( := )
+)
+"refs.ml" 141 4145 4153 "refs.ml" 141 4145 4160
+type(
+  int mlist -> int
+)
+ident(
+  int_ref mlength "refs.ml" 106 3173 3177 "refs.ml" 106 3173 3184
+)
+"refs.ml" 141 4145 4161 "refs.ml" 141 4145 4166
+type(
+  int mlist
+)
+ident(
+  int_ref list2 "refs.ml" 139 4073 4077 "refs.ml" 139 4073 4082
+)
+"refs.ml" 141 4145 4153 "refs.ml" 141 4145 4166
+call(
+  stack
+)
+type(
+  int
+)
+"refs.ml" 141 4145 4167 "refs.ml" 141 4145 4168
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"refs.ml" 141 4145 4169 "refs.ml" 141 4145 4170
+type(
+  int
+)
+"refs.ml" 141 4145 4153 "refs.ml" 141 4145 4170
+type(
+  bool
+)
+"refs.ml" 141 4145 4145 "refs.ml" 141 4145 4171
+type(
+  unit
+)
+"refs.ml" 148 4387 4391 "refs.ml" 148 4387 4404
+type(
+  int
+)
+ident(
+  def minutes_spent "refs.ml" 148 4387 4415 "refs.ml" 1 0 -1
+)
+"refs.ml" 148 4387 4413 "refs.ml" 148 4387 4415
+type(
+  int
+)
+type(
+  int
+)

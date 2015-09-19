@@ -1,0 +1,7904 @@
+"music.ml" 14 295 299 "music.ml" 14 295 307
+type(
+  p -> int
+)
+ident(
+  def p_to_int "music.ml" 18 447 447 "music.ml" 1 0 -1
+)
+"music.ml" 14 295 308 "music.ml" 14 295 309
+type(
+  p
+)
+ident(
+  def p "music.ml" 15 312 314 "music.ml" 16 383 445
+)
+"music.ml" 15 312 320 "music.ml" 15 312 321
+type(
+  p
+)
+ident(
+  int_ref p "music.ml" 14 295 308 "music.ml" 14 295 309
+)
+"music.ml" 15 312 329 "music.ml" 15 312 330
+type(
+  p
+)
+"music.ml" 15 312 334 "music.ml" 15 312 335
+type(
+  int
+)
+"music.ml" 15 312 338 "music.ml" 15 312 340
+type(
+  p
+)
+"music.ml" 15 312 344 "music.ml" 15 312 345
+type(
+  int
+)
+"music.ml" 15 312 348 "music.ml" 15 312 349
+type(
+  p
+)
+"music.ml" 15 312 353 "music.ml" 15 312 354
+type(
+  int
+)
+"music.ml" 15 312 357 "music.ml" 15 312 359
+type(
+  p
+)
+"music.ml" 15 312 363 "music.ml" 15 312 364
+type(
+  int
+)
+"music.ml" 15 312 367 "music.ml" 15 312 368
+type(
+  p
+)
+"music.ml" 15 312 372 "music.ml" 15 312 373
+type(
+  int
+)
+"music.ml" 15 312 376 "music.ml" 15 312 377
+type(
+  p
+)
+"music.ml" 15 312 381 "music.ml" 15 312 382
+type(
+  int
+)
+"music.ml" 16 383 389 "music.ml" 16 383 391
+type(
+  p
+)
+"music.ml" 16 383 395 "music.ml" 16 383 396
+type(
+  int
+)
+"music.ml" 16 383 399 "music.ml" 16 383 400
+type(
+  p
+)
+"music.ml" 16 383 404 "music.ml" 16 383 405
+type(
+  int
+)
+"music.ml" 16 383 408 "music.ml" 16 383 410
+type(
+  p
+)
+"music.ml" 16 383 414 "music.ml" 16 383 415
+type(
+  int
+)
+"music.ml" 16 383 418 "music.ml" 16 383 419
+type(
+  p
+)
+"music.ml" 16 383 423 "music.ml" 16 383 424
+type(
+  int
+)
+"music.ml" 16 383 427 "music.ml" 16 383 429
+type(
+  p
+)
+"music.ml" 16 383 433 "music.ml" 16 383 435
+type(
+  int
+)
+"music.ml" 16 383 438 "music.ml" 16 383 439
+type(
+  p
+)
+"music.ml" 16 383 443 "music.ml" 16 383 445
+type(
+  int
+)
+"music.ml" 15 312 314 "music.ml" 16 383 445
+type(
+  int
+)
+"music.ml" 14 295 308 "music.ml" 16 383 445
+type(
+  p -> int
+)
+"music.ml" 18 447 451 "music.ml" 18 447 459
+type(
+  int -> p
+)
+ident(
+  def int_to_p "music.ml" 24 623 623 "music.ml" 1 0 -1
+)
+"music.ml" 18 447 460 "music.ml" 18 447 461
+type(
+  int
+)
+ident(
+  def n "music.ml" 19 464 466 "music.ml" 21 570 594
+)
+"music.ml" 19 464 470 "music.ml" 19 464 471
+type(
+  int
+)
+ident(
+  int_ref n "music.ml" 18 447 460 "music.ml" 18 447 461
+)
+"music.ml" 19 464 472 "music.ml" 19 464 473
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"music.ml" 19 464 474 "music.ml" 19 464 475
+type(
+  int
+)
+"music.ml" 19 464 470 "music.ml" 19 464 475
+type(
+  bool
+)
+"music.ml" 19 464 477 "music.ml" 19 464 479
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( || )
+)
+"music.ml" 19 464 481 "music.ml" 19 464 482
+type(
+  int
+)
+ident(
+  int_ref n "music.ml" 18 447 460 "music.ml" 18 447 461
+)
+"music.ml" 19 464 483 "music.ml" 19 464 484
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( > )
+)
+"music.ml" 19 464 485 "music.ml" 19 464 487
+type(
+  int
+)
+"music.ml" 19 464 481 "music.ml" 19 464 487
+type(
+  bool
+)
+"music.ml" 19 464 469 "music.ml" 19 464 488
+type(
+  bool
+)
+"music.ml" 19 464 494 "music.ml" 19 464 499
+type(
+  exn -> p
+)
+ident(
+  ext_ref Pervasives.raise
+)
+"music.ml" 19 464 500 "music.ml" 19 464 512
+type(
+  exn
+)
+"music.ml" 19 464 494 "music.ml" 19 464 512
+type(
+  p
+)
+"music.ml" 20 518 526 "music.ml" 20 518 533
+type(
+  p list
+)
+ident(
+  def pitches "music.ml" 21 570 572 "music.ml" 21 570 594
+)
+"music.ml" 20 518 537 "music.ml" 20 518 538
+type(
+  p
+)
+"music.ml" 20 518 539 "music.ml" 20 518 541
+type(
+  p
+)
+"music.ml" 20 518 542 "music.ml" 20 518 543
+type(
+  p
+)
+"music.ml" 20 518 544 "music.ml" 20 518 546
+type(
+  p
+)
+"music.ml" 20 518 547 "music.ml" 20 518 548
+type(
+  p
+)
+"music.ml" 20 518 549 "music.ml" 20 518 550
+type(
+  p
+)
+"music.ml" 20 518 551 "music.ml" 20 518 553
+type(
+  p
+)
+"music.ml" 20 518 554 "music.ml" 20 518 555
+type(
+  p
+)
+"music.ml" 20 518 556 "music.ml" 20 518 558
+type(
+  p
+)
+"music.ml" 20 518 559 "music.ml" 20 518 560
+type(
+  p
+)
+"music.ml" 20 518 561 "music.ml" 20 518 563
+type(
+  p
+)
+"music.ml" 20 518 564 "music.ml" 20 518 565
+type(
+  p
+)
+type(
+  p list
+)
+"music.ml" 20 518 561 "music.ml" 20 518 565
+type(
+  p list
+)
+"music.ml" 20 518 559 "music.ml" 20 518 565
+type(
+  p list
+)
+"music.ml" 20 518 556 "music.ml" 20 518 565
+type(
+  p list
+)
+"music.ml" 20 518 554 "music.ml" 20 518 565
+type(
+  p list
+)
+"music.ml" 20 518 551 "music.ml" 20 518 565
+type(
+  p list
+)
+"music.ml" 20 518 549 "music.ml" 20 518 565
+type(
+  p list
+)
+"music.ml" 20 518 547 "music.ml" 20 518 565
+type(
+  p list
+)
+"music.ml" 20 518 544 "music.ml" 20 518 565
+type(
+  p list
+)
+"music.ml" 20 518 542 "music.ml" 20 518 565
+type(
+  p list
+)
+"music.ml" 20 518 539 "music.ml" 20 518 565
+type(
+  p list
+)
+"music.ml" 20 518 537 "music.ml" 20 518 565
+type(
+  p list
+)
+"music.ml" 20 518 536 "music.ml" 20 518 566
+type(
+  p list
+)
+"music.ml" 21 570 572 "music.ml" 21 570 584
+type(
+  p list -> int -> p
+)
+ident(
+  ext_ref Core.Std.List.nth_exn
+)
+"music.ml" 21 570 585 "music.ml" 21 570 592
+type(
+  p list
+)
+ident(
+  int_ref pitches "music.ml" 20 518 526 "music.ml" 20 518 533
+)
+"music.ml" 21 570 593 "music.ml" 21 570 594
+type(
+  int
+)
+ident(
+  int_ref n "music.ml" 18 447 460 "music.ml" 18 447 461
+)
+"music.ml" 21 570 572 "music.ml" 21 570 594
+call(
+  tail
+)
+type(
+  p
+)
+"music.ml" 20 518 522 "music.ml" 21 570 594
+type(
+  p
+)
+"music.ml" 19 464 466 "music.ml" 21 570 594
+type(
+  p
+)
+"music.ml" 18 447 460 "music.ml" 21 570 594
+type(
+  int -> p
+)
+"music.ml" 27 695 699 "music.ml" 27 695 703
+type(
+  'a stream -> 'a
+)
+ident(
+  def head "music.ml" 31 759 759 "music.ml" 1 0 -1
+)
+"music.ml" 27 695 705 "music.ml" 27 695 706
+type(
+  'a stream
+)
+ident(
+  def s "music.ml" 27 695 719 "music.ml" 28 726 754
+)
+"music.ml" 28 726 737 "music.ml" 28 726 738
+type(
+  'a
+)
+ident(
+  def v "music.ml" 28 726 753 "music.ml" 28 726 754
+)
+"music.ml" 28 726 740 "music.ml" 28 726 741
+type(
+  'a stream
+)
+"music.ml" 28 726 732 "music.ml" 28 726 742
+type(
+  'a str
+)
+"music.ml" 28 726 745 "music.ml" 28 726 746
+type(
+  'a stream
+)
+ident(
+  int_ref s "music.ml" 27 695 705 "music.ml" 27 695 706
+)
+"music.ml" 28 726 747 "music.ml" 28 726 749
+type(
+  unit
+)
+"music.ml" 28 726 745 "music.ml" 28 726 749
+call(
+  stack
+)
+type(
+  'a str
+)
+"music.ml" 28 726 753 "music.ml" 28 726 754
+type(
+  'a
+)
+ident(
+  int_ref v "music.ml" 28 726 737 "music.ml" 28 726 738
+)
+"music.ml" 28 726 728 "music.ml" 28 726 754
+type(
+  'a
+)
+type(
+  'a
+)
+"music.ml" 27 695 704 "music.ml" 28 726 754
+type(
+  'a stream -> 'a
+)
+"music.ml" 31 759 763 "music.ml" 31 759 767
+type(
+  'a stream -> 'a stream
+)
+ident(
+  def tail "music.ml" 35 832 832 "music.ml" 1 0 -1
+)
+"music.ml" 31 759 769 "music.ml" 31 759 770
+type(
+  'a stream
+)
+ident(
+  def s "music.ml" 31 759 783 "music.ml" 32 797 827
+)
+"music.ml" 32 797 808 "music.ml" 32 797 809
+type(
+  'a
+)
+"music.ml" 32 797 811 "music.ml" 32 797 813
+type(
+  'a stream
+)
+ident(
+  def s' "music.ml" 32 797 825 "music.ml" 32 797 827
+)
+"music.ml" 32 797 803 "music.ml" 32 797 814
+type(
+  'a str
+)
+"music.ml" 32 797 817 "music.ml" 32 797 818
+type(
+  'a stream
+)
+ident(
+  int_ref s "music.ml" 31 759 769 "music.ml" 31 759 770
+)
+"music.ml" 32 797 819 "music.ml" 32 797 821
+type(
+  unit
+)
+"music.ml" 32 797 817 "music.ml" 32 797 821
+call(
+  stack
+)
+type(
+  'a str
+)
+"music.ml" 32 797 825 "music.ml" 32 797 827
+type(
+  'a stream
+)
+ident(
+  int_ref s' "music.ml" 32 797 811 "music.ml" 32 797 813
+)
+"music.ml" 32 797 799 "music.ml" 32 797 827
+type(
+  'a stream
+)
+type(
+  'a stream
+)
+"music.ml" 31 759 768 "music.ml" 32 797 827
+type(
+  'a stream -> 'a stream
+)
+"music.ml" 35 832 840 "music.ml" 35 832 843
+type(
+  ('a -> 'b) -> 'a stream -> 'b stream
+)
+ident(
+  def map "music.ml" 35 832 832 "music.ml" 1 0 -1
+)
+"music.ml" 35 832 845 "music.ml" 35 832 846
+type(
+  'a -> 'b
+)
+ident(
+  def f "music.ml" 35 832 858 "music.ml" 36 887 931
+)
+"music.ml" 35 832 859 "music.ml" 35 832 860
+type(
+  'a stream
+)
+ident(
+  def s "music.ml" 35 832 873 "music.ml" 36 887 931
+)
+"music.ml" 36 887 893 "music.ml" 36 887 895
+type(
+  unit
+)
+"music.ml" 36 887 904 "music.ml" 36 887 905
+type(
+  'a -> 'b
+)
+ident(
+  int_ref f "music.ml" 35 832 845 "music.ml" 35 832 846
+)
+"music.ml" 36 887 907 "music.ml" 36 887 911
+type(
+  'a stream -> 'a
+)
+ident(
+  int_ref head "music.ml" 27 695 699 "music.ml" 27 695 703
+)
+"music.ml" 36 887 912 "music.ml" 36 887 913
+type(
+  'a stream
+)
+ident(
+  int_ref s "music.ml" 35 832 859 "music.ml" 35 832 860
+)
+"music.ml" 36 887 907 "music.ml" 36 887 913
+call(
+  stack
+)
+type(
+  'a
+)
+"music.ml" 36 887 904 "music.ml" 36 887 914
+call(
+  stack
+)
+type(
+  'b
+)
+"music.ml" 36 887 916 "music.ml" 36 887 919
+type(
+  ('a -> 'b) -> 'a stream -> 'b stream
+)
+ident(
+  int_ref map "music.ml" 35 832 840 "music.ml" 35 832 843
+)
+"music.ml" 36 887 920 "music.ml" 36 887 921
+type(
+  'a -> 'b
+)
+ident(
+  int_ref f "music.ml" 35 832 845 "music.ml" 35 832 846
+)
+"music.ml" 36 887 923 "music.ml" 36 887 927
+type(
+  'a stream -> 'a stream
+)
+ident(
+  int_ref tail "music.ml" 31 759 763 "music.ml" 31 759 767
+)
+"music.ml" 36 887 928 "music.ml" 36 887 929
+type(
+  'a stream
+)
+ident(
+  int_ref s "music.ml" 35 832 859 "music.ml" 35 832 860
+)
+"music.ml" 36 887 923 "music.ml" 36 887 929
+call(
+  stack
+)
+type(
+  'a stream
+)
+"music.ml" 36 887 916 "music.ml" 36 887 930
+call(
+  stack
+)
+type(
+  'b stream
+)
+"music.ml" 36 887 899 "music.ml" 36 887 931
+type(
+  'b str
+)
+"music.ml" 36 887 893 "music.ml" 36 887 931
+type(
+  'b stream
+)
+type(
+  'b stream
+)
+"music.ml" 35 832 858 "music.ml" 36 887 931
+type(
+  'a stream -> 'b stream
+)
+"music.ml" 35 832 844 "music.ml" 36 887 931
+type(
+  ('a -> 'b) -> 'a stream -> 'b stream
+)
+"music.ml" 41 968 972 "music.ml" 41 968 982
+type(
+  string -> int
+)
+ident(
+  def hex_to_int "music.ml" 43 1015 1015 "music.ml" 1 0 -1
+)
+"music.ml" 41 968 983 "music.ml" 41 968 986
+type(
+  string
+)
+ident(
+  def hex "music.ml" 41 968 989 "music.ml" 41 968 1013
+)
+"music.ml" 41 968 989 "music.ml" 41 968 1002
+type(
+  string -> int
+)
+ident(
+  ext_ref Pervasives.int_of_string
+)
+"music.ml" 41 968 1004 "music.ml" 41 968 1008
+type(
+  string
+)
+"music.ml" 41 968 1008 "music.ml" 41 968 1009
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"music.ml" 41 968 1009 "music.ml" 41 968 1012
+type(
+  string
+)
+ident(
+  int_ref hex "music.ml" 41 968 983 "music.ml" 41 968 986
+)
+"music.ml" 41 968 1004 "music.ml" 41 968 1012
+call(
+  stack
+)
+type(
+  string
+)
+"music.ml" 41 968 989 "music.ml" 41 968 1013
+type(
+  int
+)
+"music.ml" 41 968 983 "music.ml" 41 968 1013
+type(
+  string -> int
+)
+"music.ml" 43 1015 1019 "music.ml" 43 1015 1029
+type(
+  int -> string
+)
+ident(
+  def int_to_hex "music.ml" 45 1059 1059 "music.ml" 1 0 -1
+)
+"music.ml" 43 1015 1030 "music.ml" 43 1015 1031
+type(
+  int
+)
+ident(
+  def n "music.ml" 43 1015 1034 "music.ml" 43 1015 1057
+)
+"music.ml" 43 1015 1034 "music.ml" 43 1015 1048
+type(
+  (int -> string, unit, string) format -> int -> string
+)
+ident(
+  ext_ref Core.Std.Printf.sprintf
+)
+"music.ml" 43 1015 1049 "music.ml" 43 1015 1055
+type(
+  (int -> string, unit, string) format
+)
+"music.ml" 43 1015 1056 "music.ml" 43 1015 1057
+type(
+  int
+)
+ident(
+  int_ref n "music.ml" 43 1015 1030 "music.ml" 43 1015 1031
+)
+"music.ml" 43 1015 1034 "music.ml" 43 1015 1057
+call(
+  tail
+)
+type(
+  string
+)
+"music.ml" 43 1015 1030 "music.ml" 43 1015 1057
+type(
+  int -> string
+)
+"music.ml" 45 1059 1067 "music.ml" 45 1059 1077
+type(
+  out_channel -> string -> unit
+)
+ident(
+  def output_hex "music.ml" 45 1059 1059 "music.ml" 1 0 -1
+)
+"music.ml" 45 1059 1078 "music.ml" 45 1059 1085
+type(
+  out_channel
+)
+ident(
+  def outchan "music.ml" 45 1059 1086 "music.ml" 51 1269 1337
+)
+"music.ml" 45 1059 1086 "music.ml" 45 1059 1089
+type(
+  string
+)
+ident(
+  def hex "music.ml" 46 1092 1094 "music.ml" 51 1269 1337
+)
+"music.ml" 46 1092 1098 "music.ml" 46 1092 1101
+type(
+  int
+)
+ident(
+  def len "music.ml" 47 1125 1127 "music.ml" 51 1269 1337
+)
+"music.ml" 46 1092 1104 "music.ml" 46 1092 1117
+type(
+  string -> int
+)
+ident(
+  ext_ref Core.Std.String.length
+)
+"music.ml" 46 1092 1118 "music.ml" 46 1092 1121
+type(
+  string
+)
+ident(
+  int_ref hex "music.ml" 45 1059 1086 "music.ml" 45 1059 1089
+)
+"music.ml" 46 1092 1104 "music.ml" 46 1092 1121
+type(
+  int
+)
+"music.ml" 47 1125 1131 "music.ml" 47 1125 1134
+type(
+  int
+)
+ident(
+  int_ref len "music.ml" 46 1092 1098 "music.ml" 46 1092 1101
+)
+"music.ml" 47 1125 1135 "music.ml" 47 1125 1136
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"music.ml" 47 1125 1137 "music.ml" 47 1125 1138
+type(
+  int
+)
+"music.ml" 47 1125 1131 "music.ml" 47 1125 1138
+type(
+  bool
+)
+"music.ml" 47 1125 1145 "music.ml" 47 1125 1147
+type(
+  unit
+)
+"music.ml" 48 1148 1160 "music.ml" 48 1148 1163
+type(
+  int
+)
+ident(
+  int_ref len "music.ml" 46 1092 1098 "music.ml" 46 1092 1101
+)
+"music.ml" 48 1148 1164 "music.ml" 48 1148 1165
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"music.ml" 48 1148 1166 "music.ml" 48 1148 1167
+type(
+  int
+)
+"music.ml" 48 1148 1160 "music.ml" 48 1148 1167
+type(
+  bool
+)
+"music.ml" 48 1148 1174 "music.ml" 48 1148 1179
+type(
+  exn -> unit
+)
+ident(
+  ext_ref Pervasives.raise
+)
+"music.ml" 48 1148 1180 "music.ml" 48 1148 1190
+type(
+  exn
+)
+"music.ml" 48 1148 1174 "music.ml" 48 1148 1190
+type(
+  unit
+)
+"music.ml" 49 1191 1199 "music.ml" 49 1191 1210
+type(
+  out_channel -> int -> unit
+)
+ident(
+  ext_ref Pervasives.output_byte
+)
+"music.ml" 49 1191 1211 "music.ml" 49 1191 1218
+type(
+  out_channel
+)
+ident(
+  int_ref outchan "music.ml" 45 1059 1078 "music.ml" 45 1059 1085
+)
+"music.ml" 50 1219 1224 "music.ml" 50 1219 1234
+type(
+  string -> int
+)
+ident(
+  int_ref hex_to_int "music.ml" 41 968 972 "music.ml" 41 968 982
+)
+"music.ml" 50 1219 1236 "music.ml" 50 1219 1246
+type(
+  (string, string) Blit.sub
+)
+ident(
+  ext_ref Core.Std.String.sub
+)
+"music.ml" 50 1219 1247 "music.ml" 50 1219 1250
+type(
+  string
+)
+ident(
+  int_ref hex "music.ml" 45 1059 1086 "music.ml" 45 1059 1089
+)
+"music.ml" 50 1219 1256 "music.ml" 50 1219 1257
+type(
+  int
+)
+"music.ml" 50 1219 1263 "music.ml" 50 1219 1264
+type(
+  int
+)
+"music.ml" 50 1219 1236 "music.ml" 50 1219 1264
+call(
+  stack
+)
+type(
+  string
+)
+"music.ml" 50 1219 1224 "music.ml" 50 1219 1265
+call(
+  stack
+)
+type(
+  int
+)
+"music.ml" 49 1191 1199 "music.ml" 50 1219 1266
+call(
+  stack
+)
+type(
+  unit
+)
+"music.ml" 48 1148 1156 "music.ml" 50 1219 1267
+type(
+  unit
+)
+"music.ml" 51 1269 1278 "music.ml" 51 1269 1288
+type(
+  out_channel -> string -> unit
+)
+ident(
+  int_ref output_hex "music.ml" 45 1059 1067 "music.ml" 45 1059 1077
+)
+"music.ml" 51 1269 1289 "music.ml" 51 1269 1296
+type(
+  out_channel
+)
+ident(
+  int_ref outchan "music.ml" 45 1059 1078 "music.ml" 45 1059 1085
+)
+"music.ml" 51 1269 1298 "music.ml" 51 1269 1308
+type(
+  (string, string) Blit.sub
+)
+ident(
+  ext_ref Core.Std.String.sub
+)
+"music.ml" 51 1269 1309 "music.ml" 51 1269 1312
+type(
+  string
+)
+ident(
+  int_ref hex "music.ml" 45 1059 1086 "music.ml" 45 1059 1089
+)
+"music.ml" 51 1269 1318 "music.ml" 51 1269 1319
+type(
+  int
+)
+"music.ml" 51 1269 1326 "music.ml" 51 1269 1329
+type(
+  int
+)
+ident(
+  int_ref len "music.ml" 46 1092 1098 "music.ml" 46 1092 1101
+)
+"music.ml" 51 1269 1330 "music.ml" 51 1269 1331
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"music.ml" 51 1269 1332 "music.ml" 51 1269 1333
+type(
+  int
+)
+"music.ml" 51 1269 1326 "music.ml" 51 1269 1333
+type(
+  int
+)
+"music.ml" 51 1269 1298 "music.ml" 51 1269 1334
+call(
+  stack
+)
+type(
+  string
+)
+"music.ml" 51 1269 1278 "music.ml" 51 1269 1335
+call(
+  tail
+)
+type(
+  unit
+)
+"music.ml" 48 1148 1156 "music.ml" 51 1269 1335
+type(
+  unit
+)
+"music.ml" 47 1125 1127 "music.ml" 51 1269 1337
+type(
+  unit
+)
+"music.ml" 46 1092 1094 "music.ml" 51 1269 1337
+type(
+  unit
+)
+"music.ml" 45 1059 1086 "music.ml" 51 1269 1337
+type(
+  string -> unit
+)
+"music.ml" 45 1059 1078 "music.ml" 51 1269 1337
+type(
+  out_channel -> string -> unit
+)
+"music.ml" 53 1339 1343 "music.ml" 53 1339 1354
+type(
+  int
+)
+ident(
+  def ticks_per_q "music.ml" 55 1361 1361 "music.ml" 1 0 -1
+)
+"music.ml" 53 1339 1357 "music.ml" 53 1339 1359
+type(
+  int
+)
+"music.ml" 55 1361 1365 "music.ml" 55 1361 1371
+type(
+  string
+)
+ident(
+  def header "music.ml" 56 1439 1439 "music.ml" 1 0 -1
+)
+"music.ml" 55 1361 1374 "music.ml" 55 1361 1402
+type(
+  string
+)
+"music.ml" 55 1361 1402 "music.ml" 55 1361 1403
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"music.ml" 55 1361 1404 "music.ml" 55 1361 1414
+type(
+  int -> string
+)
+ident(
+  int_ref int_to_hex "music.ml" 43 1015 1019 "music.ml" 43 1015 1029
+)
+"music.ml" 55 1361 1415 "music.ml" 55 1361 1426
+type(
+  int
+)
+ident(
+  int_ref ticks_per_q "music.ml" 53 1339 1343 "music.ml" 53 1339 1354
+)
+"music.ml" 55 1361 1404 "music.ml" 55 1361 1426
+call(
+  stack
+)
+type(
+  string
+)
+"music.ml" 55 1361 1427 "music.ml" 55 1361 1428
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"music.ml" 55 1361 1428 "music.ml" 55 1361 1438
+type(
+  string
+)
+"music.ml" 55 1361 1403 "music.ml" 55 1361 1438
+call(
+  stack
+)
+type(
+  string
+)
+"music.ml" 55 1361 1374 "music.ml" 55 1361 1438
+call(
+  stack
+)
+type(
+  string
+)
+"music.ml" 56 1439 1443 "music.ml" 56 1439 1449
+type(
+  string
+)
+ident(
+  def footer "music.ml" 58 1464 1464 "music.ml" 1 0 -1
+)
+"music.ml" 56 1439 1452 "music.ml" 56 1439 1462
+type(
+  string
+)
+"music.ml" 58 1464 1468 "music.ml" 58 1464 1480
+type(
+  p * int -> string
+)
+ident(
+  def pitch_to_hex "music.ml" 61 1553 1553 "music.ml" 1 0 -1
+)
+"music.ml" 58 1464 1481 "music.ml" 58 1464 1486
+type(
+  p * int
+)
+ident(
+  def pitch "music.ml" 59 1489 1491 "music.ml" 59 1489 1551
+)
+"music.ml" 59 1489 1496 "music.ml" 59 1489 1497
+type(
+  p
+)
+ident(
+  def p "music.ml" 59 1489 1515 "music.ml" 59 1489 1551
+)
+"music.ml" 59 1489 1499 "music.ml" 59 1489 1502
+type(
+  int
+)
+ident(
+  def oct "music.ml" 59 1489 1515 "music.ml" 59 1489 1551
+)
+"music.ml" 59 1489 1496 "music.ml" 59 1489 1502
+type(
+  p * int
+)
+"music.ml" 59 1489 1506 "music.ml" 59 1489 1511
+type(
+  p * int
+)
+ident(
+  int_ref pitch "music.ml" 58 1464 1481 "music.ml" 58 1464 1486
+)
+"music.ml" 59 1489 1515 "music.ml" 59 1489 1525
+type(
+  int -> string
+)
+ident(
+  int_ref int_to_hex "music.ml" 43 1015 1019 "music.ml" 43 1015 1029
+)
+"music.ml" 59 1489 1528 "music.ml" 59 1489 1531
+type(
+  int
+)
+ident(
+  int_ref oct "music.ml" 59 1489 1499 "music.ml" 59 1489 1502
+)
+"music.ml" 59 1489 1531 "music.ml" 59 1489 1532
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"music.ml" 59 1489 1532 "music.ml" 59 1489 1533
+type(
+  int
+)
+"music.ml" 59 1489 1528 "music.ml" 59 1489 1533
+type(
+  int
+)
+"music.ml" 59 1489 1534 "music.ml" 59 1489 1535
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( * )
+)
+"music.ml" 59 1489 1535 "music.ml" 59 1489 1537
+type(
+  int
+)
+"music.ml" 59 1489 1527 "music.ml" 59 1489 1537
+type(
+  int
+)
+"music.ml" 59 1489 1537 "music.ml" 59 1489 1538
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"music.ml" 59 1489 1539 "music.ml" 59 1489 1547
+type(
+  p -> int
+)
+ident(
+  int_ref p_to_int "music.ml" 14 295 299 "music.ml" 14 295 307
+)
+"music.ml" 59 1489 1548 "music.ml" 59 1489 1549
+type(
+  p
+)
+ident(
+  int_ref p "music.ml" 59 1489 1496 "music.ml" 59 1489 1497
+)
+"music.ml" 59 1489 1539 "music.ml" 59 1489 1549
+call(
+  stack
+)
+type(
+  int
+)
+"music.ml" 59 1489 1527 "music.ml" 59 1489 1550
+type(
+  int
+)
+"music.ml" 59 1489 1515 "music.ml" 59 1489 1551
+call(
+  tail
+)
+type(
+  string
+)
+"music.ml" 59 1489 1491 "music.ml" 59 1489 1551
+type(
+  string
+)
+"music.ml" 58 1464 1481 "music.ml" 59 1489 1551
+type(
+  p * int -> string
+)
+"music.ml" 61 1553 1557 "music.ml" 61 1553 1568
+type(
+  float -> string
+)
+ident(
+  def time_to_hex "music.ml" 68 1807 1807 "music.ml" 1 0 -1
+)
+"music.ml" 61 1553 1569 "music.ml" 61 1553 1573
+type(
+  float
+)
+ident(
+  def time "music.ml" 62 1576 1578 "music.ml" 66 1758 1805
+)
+"music.ml" 62 1576 1582 "music.ml" 62 1576 1589
+type(
+  int
+)
+ident(
+  def measure "music.ml" 63 1611 1613 "music.ml" 66 1758 1805
+)
+"music.ml" 62 1576 1592 "music.ml" 62 1576 1603
+type(
+  int
+)
+ident(
+  int_ref ticks_per_q "music.ml" 53 1339 1343 "music.ml" 53 1339 1354
+)
+"music.ml" 62 1576 1604 "music.ml" 62 1576 1605
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( * )
+)
+"music.ml" 62 1576 1606 "music.ml" 62 1576 1607
+type(
+  int
+)
+"music.ml" 62 1576 1592 "music.ml" 62 1576 1607
+type(
+  int
+)
+"music.ml" 63 1611 1617 "music.ml" 63 1611 1622
+type(
+  int
+)
+ident(
+  def itime "music.ml" 64 1667 1669 "music.ml" 66 1758 1805
+)
+"music.ml" 63 1611 1625 "music.ml" 63 1611 1637
+type(
+  float -> int
+)
+ident(
+  ext_ref Core.Std.Float.to_int
+)
+"music.ml" 63 1611 1639 "music.ml" 63 1611 1643
+type(
+  float
+)
+ident(
+  int_ref time "music.ml" 61 1553 1569 "music.ml" 61 1553 1573
+)
+"music.ml" 63 1611 1644 "music.ml" 63 1611 1646
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( *. )
+)
+"music.ml" 63 1611 1648 "music.ml" 63 1611 1653
+type(
+  int -> float
+)
+ident(
+  ext_ref Pervasives.float
+)
+"music.ml" 63 1611 1654 "music.ml" 63 1611 1661
+type(
+  int
+)
+ident(
+  int_ref measure "music.ml" 62 1576 1582 "music.ml" 62 1576 1589
+)
+"music.ml" 63 1611 1648 "music.ml" 63 1611 1661
+type(
+  float
+)
+"music.ml" 63 1611 1639 "music.ml" 63 1611 1662
+type(
+  float
+)
+"music.ml" 63 1611 1625 "music.ml" 63 1611 1663
+call(
+  stack
+)
+type(
+  int
+)
+"music.ml" 64 1667 1672 "music.ml" 64 1667 1677
+type(
+  int
+)
+ident(
+  int_ref itime "music.ml" 63 1611 1617 "music.ml" 63 1611 1622
+)
+"music.ml" 64 1667 1678 "music.ml" 64 1667 1679
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"music.ml" 64 1667 1680 "music.ml" 64 1667 1687
+type(
+  int
+)
+ident(
+  int_ref measure "music.ml" 62 1576 1582 "music.ml" 62 1576 1589
+)
+"music.ml" 64 1667 1672 "music.ml" 64 1667 1687
+type(
+  bool
+)
+"music.ml" 64 1667 1694 "music.ml" 64 1667 1704
+type(
+  int -> string
+)
+ident(
+  int_ref int_to_hex "music.ml" 43 1015 1019 "music.ml" 43 1015 1029
+)
+"music.ml" 64 1667 1705 "music.ml" 64 1667 1710
+type(
+  int
+)
+ident(
+  int_ref itime "music.ml" 63 1611 1617 "music.ml" 63 1611 1622
+)
+"music.ml" 64 1667 1694 "music.ml" 64 1667 1710
+call(
+  tail
+)
+type(
+  string
+)
+"music.ml" 65 1712 1719 "music.ml" 65 1712 1722
+type(
+  string
+)
+"music.ml" 65 1712 1722 "music.ml" 65 1712 1723
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"music.ml" 65 1712 1724 "music.ml" 65 1712 1737
+type(
+  int -> string
+)
+ident(
+  ext_ref Pervasives.string_of_int
+)
+"music.ml" 65 1712 1739 "music.ml" 65 1712 1744
+type(
+  int
+)
+ident(
+  int_ref itime "music.ml" 63 1611 1617 "music.ml" 63 1611 1622
+)
+"music.ml" 65 1712 1745 "music.ml" 65 1712 1746
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( / )
+)
+"music.ml" 65 1712 1747 "music.ml" 65 1712 1754
+type(
+  int
+)
+ident(
+  int_ref measure "music.ml" 62 1576 1582 "music.ml" 62 1576 1589
+)
+"music.ml" 65 1712 1739 "music.ml" 65 1712 1754
+type(
+  int
+)
+"music.ml" 65 1712 1724 "music.ml" 65 1712 1755
+call(
+  stack
+)
+type(
+  string
+)
+"music.ml" 65 1712 1756 "music.ml" 65 1712 1757
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"music.ml" 66 1758 1763 "music.ml" 66 1758 1777
+type(
+  (int -> string, unit, string) format -> int -> string
+)
+ident(
+  ext_ref Core.Std.Printf.sprintf
+)
+"music.ml" 66 1758 1778 "music.ml" 66 1758 1784
+type(
+  (int -> string, unit, string) format
+)
+"music.ml" 66 1758 1786 "music.ml" 66 1758 1791
+type(
+  int
+)
+ident(
+  int_ref itime "music.ml" 63 1611 1617 "music.ml" 63 1611 1622
+)
+"music.ml" 66 1758 1796 "music.ml" 66 1758 1803
+type(
+  int
+)
+ident(
+  int_ref measure "music.ml" 62 1576 1582 "music.ml" 62 1576 1589
+)
+"music.ml" 66 1758 1786 "music.ml" 66 1758 1803
+type(
+  int
+)
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( mod )
+)
+"music.ml" 66 1758 1763 "music.ml" 66 1758 1804
+call(
+  stack
+)
+type(
+  string
+)
+"music.ml" 65 1712 1723 "music.ml" 66 1758 1805
+call(
+  stack
+)
+type(
+  string
+)
+"music.ml" 65 1712 1719 "music.ml" 66 1758 1805
+call(
+  tail
+)
+type(
+  string
+)
+"music.ml" 64 1667 1669 "music.ml" 66 1758 1805
+type(
+  string
+)
+"music.ml" 63 1611 1613 "music.ml" 66 1758 1805
+type(
+  string
+)
+"music.ml" 62 1576 1578 "music.ml" 66 1758 1805
+type(
+  string
+)
+"music.ml" 61 1553 1569 "music.ml" 66 1758 1805
+type(
+  float -> string
+)
+"music.ml" 68 1807 1815 "music.ml" 68 1807 1820
+type(
+  ('a * int) list -> 'a -> int * ('a * int) list
+)
+ident(
+  def insts "music.ml" 68 1807 1807 "music.ml" 1 0 -1
+)
+"music.ml" 68 1807 1821 "music.ml" 68 1807 1828
+type(
+  ('a * int) list
+)
+ident(
+  def playing "music.ml" 68 1807 1829 "music.ml" 72 1943 2004
+)
+"music.ml" 68 1807 1829 "music.ml" 68 1807 1834
+type(
+  'a
+)
+ident(
+  def pitch "music.ml" 69 1837 1839 "music.ml" 72 1943 2004
+)
+"music.ml" 69 1837 1845 "music.ml" 69 1837 1852
+type(
+  ('a * int) list
+)
+ident(
+  int_ref playing "music.ml" 68 1807 1821 "music.ml" 68 1807 1828
+)
+"music.ml" 70 1858 1864 "music.ml" 70 1858 1866
+type(
+  ('a * int) list
+)
+"music.ml" 70 1858 1871 "music.ml" 70 1858 1872
+type(
+  int
+)
+"music.ml" 70 1858 1874 "music.ml" 70 1858 1876
+type(
+  ('a * int) list
+)
+"music.ml" 70 1858 1871 "music.ml" 70 1858 1876
+type(
+  int * ('a * int) list
+)
+"music.ml" 71 1878 1885 "music.ml" 71 1878 1891
+type(
+  'a
+)
+ident(
+  def pitch2 "music.ml" 71 1878 1902 "music.ml" 72 1943 2004
+)
+"music.ml" 71 1878 1893 "music.ml" 71 1878 1894
+type(
+  int
+)
+ident(
+  def n "music.ml" 71 1878 1902 "music.ml" 72 1943 2004
+)
+"music.ml" 71 1878 1885 "music.ml" 71 1878 1894
+type(
+  'a * int
+)
+"music.ml" 71 1878 1897 "music.ml" 71 1878 1898
+type(
+  ('a * int) list
+)
+ident(
+  def t "music.ml" 71 1878 1902 "music.ml" 72 1943 2004
+)
+"music.ml" 71 1878 1884 "music.ml" 71 1878 1898
+type(
+  ('a * int) list
+)
+"music.ml" 71 1878 1905 "music.ml" 71 1878 1911
+type(
+  'a
+)
+ident(
+  int_ref pitch2 "music.ml" 71 1878 1885 "music.ml" 71 1878 1891
+)
+"music.ml" 71 1878 1912 "music.ml" 71 1878 1913
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"music.ml" 71 1878 1914 "music.ml" 71 1878 1919
+type(
+  'a
+)
+ident(
+  int_ref pitch "music.ml" 68 1807 1829 "music.ml" 68 1807 1834
+)
+"music.ml" 71 1878 1905 "music.ml" 71 1878 1919
+type(
+  bool
+)
+"music.ml" 71 1878 1926 "music.ml" 71 1878 1927
+type(
+  int
+)
+ident(
+  int_ref n "music.ml" 71 1878 1893 "music.ml" 71 1878 1894
+)
+"music.ml" 71 1878 1929 "music.ml" 71 1878 1936
+type(
+  ('a * int) list
+)
+ident(
+  int_ref playing "music.ml" 68 1807 1821 "music.ml" 68 1807 1828
+)
+"music.ml" 71 1878 1926 "music.ml" 71 1878 1936
+type(
+  int * ('a * int) list
+)
+"music.ml" 72 1943 1956 "music.ml" 72 1943 1958
+type(
+  int
+)
+ident(
+  def n2 "music.ml" 72 1943 1984 "music.ml" 72 1943 2003
+)
+"music.ml" 72 1943 1960 "music.ml" 72 1943 1962
+type(
+  ('a * int) list
+)
+ident(
+  def p2 "music.ml" 72 1943 1984 "music.ml" 72 1943 2003
+)
+"music.ml" 72 1943 1956 "music.ml" 72 1943 1962
+type(
+  int * ('a * int) list
+)
+"music.ml" 72 1943 1966 "music.ml" 72 1943 1971
+type(
+  ('a * int) list -> 'a -> int * ('a * int) list
+)
+ident(
+  int_ref insts "music.ml" 68 1807 1815 "music.ml" 68 1807 1820
+)
+"music.ml" 72 1943 1972 "music.ml" 72 1943 1973
+type(
+  ('a * int) list
+)
+ident(
+  int_ref t "music.ml" 71 1878 1897 "music.ml" 71 1878 1898
+)
+"music.ml" 72 1943 1974 "music.ml" 72 1943 1979
+type(
+  'a
+)
+ident(
+  int_ref pitch "music.ml" 68 1807 1829 "music.ml" 68 1807 1834
+)
+"music.ml" 72 1943 1966 "music.ml" 72 1943 1979
+call(
+  stack
+)
+type(
+  int * ('a * int) list
+)
+"music.ml" 72 1943 1984 "music.ml" 72 1943 1986
+type(
+  int
+)
+ident(
+  int_ref n2 "music.ml" 72 1943 1956 "music.ml" 72 1943 1958
+)
+"music.ml" 72 1943 1989 "music.ml" 72 1943 1995
+type(
+  'a
+)
+ident(
+  int_ref pitch2 "music.ml" 71 1878 1885 "music.ml" 71 1878 1891
+)
+"music.ml" 72 1943 1997 "music.ml" 72 1943 1998
+type(
+  int
+)
+ident(
+  int_ref n "music.ml" 71 1878 1893 "music.ml" 71 1878 1894
+)
+"music.ml" 72 1943 1989 "music.ml" 72 1943 1998
+type(
+  'a * int
+)
+"music.ml" 72 1943 2001 "music.ml" 72 1943 2003
+type(
+  ('a * int) list
+)
+ident(
+  int_ref p2 "music.ml" 72 1943 1960 "music.ml" 72 1943 1962
+)
+"music.ml" 72 1943 1988 "music.ml" 72 1943 2003
+type(
+  ('a * int) list
+)
+"music.ml" 72 1943 1984 "music.ml" 72 1943 2003
+type(
+  int * ('a * int) list
+)
+"music.ml" 72 1943 1951 "music.ml" 72 1943 2004
+type(
+  int * ('a * int) list
+)
+"music.ml" 71 1878 1902 "music.ml" 72 1943 2004
+type(
+  int * ('a * int) list
+)
+"music.ml" 69 1837 1839 "music.ml" 72 1943 2004
+type(
+  int * ('a * int) list
+)
+"music.ml" 68 1807 1829 "music.ml" 72 1943 2004
+type(
+  'a -> int * ('a * int) list
+)
+"music.ml" 68 1807 1821 "music.ml" 72 1943 2004
+type(
+  ('a * int) list -> 'a -> int * ('a * int) list
+)
+"music.ml" 74 2006 2010 "music.ml" 74 2006 2015
+type(
+  float -> event -> event
+)
+ident(
+  def shift "music.ml" 79 2167 2167 "music.ml" 1 0 -1
+)
+"music.ml" 74 2006 2017 "music.ml" 74 2006 2019
+type(
+  float
+)
+ident(
+  def by "music.ml" 74 2006 2029 "music.ml" 77 2117 2165
+)
+"music.ml" 74 2006 2030 "music.ml" 74 2006 2031
+type(
+  event
+)
+ident(
+  def e "music.ml" 75 2043 2045 "music.ml" 77 2117 2165
+)
+"music.ml" 75 2043 2051 "music.ml" 75 2043 2052
+type(
+  event
+)
+ident(
+  int_ref e "music.ml" 74 2006 2030 "music.ml" 74 2006 2031
+)
+"music.ml" 76 2058 2070 "music.ml" 76 2058 2074
+type(
+  float
+)
+ident(
+  def time "music.ml" 76 2058 2089 "music.ml" 76 2058 2116
+)
+"music.ml" 76 2058 2076 "music.ml" 76 2058 2079
+type(
+  pitch
+)
+ident(
+  def pit "music.ml" 76 2058 2089 "music.ml" 76 2058 2116
+)
+"music.ml" 76 2058 2081 "music.ml" 76 2058 2084
+type(
+  int
+)
+ident(
+  def vol "music.ml" 76 2058 2089 "music.ml" 76 2058 2116
+)
+"music.ml" 76 2058 2064 "music.ml" 76 2058 2085
+type(
+  event
+)
+"music.ml" 76 2058 2095 "music.ml" 76 2058 2099
+type(
+  float
+)
+ident(
+  int_ref time "music.ml" 76 2058 2070 "music.ml" 76 2058 2074
+)
+"music.ml" 76 2058 2100 "music.ml" 76 2058 2102
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( +. )
+)
+"music.ml" 76 2058 2103 "music.ml" 76 2058 2105
+type(
+  float
+)
+ident(
+  int_ref by "music.ml" 74 2006 2017 "music.ml" 74 2006 2019
+)
+"music.ml" 76 2058 2095 "music.ml" 76 2058 2105
+type(
+  float
+)
+"music.ml" 76 2058 2107 "music.ml" 76 2058 2110
+type(
+  pitch
+)
+ident(
+  int_ref pit "music.ml" 76 2058 2076 "music.ml" 76 2058 2079
+)
+"music.ml" 76 2058 2112 "music.ml" 76 2058 2115
+type(
+  int
+)
+ident(
+  int_ref vol "music.ml" 76 2058 2081 "music.ml" 76 2058 2084
+)
+"music.ml" 76 2058 2089 "music.ml" 76 2058 2116
+type(
+  event
+)
+"music.ml" 77 2117 2129 "music.ml" 77 2117 2133
+type(
+  float
+)
+ident(
+  def time "music.ml" 77 2117 2143 "music.ml" 77 2117 2165
+)
+"music.ml" 77 2117 2135 "music.ml" 77 2117 2138
+type(
+  pitch
+)
+ident(
+  def pit "music.ml" 77 2117 2143 "music.ml" 77 2117 2165
+)
+"music.ml" 77 2117 2123 "music.ml" 77 2117 2139
+type(
+  event
+)
+"music.ml" 77 2117 2149 "music.ml" 77 2117 2153
+type(
+  float
+)
+ident(
+  int_ref time "music.ml" 77 2117 2129 "music.ml" 77 2117 2133
+)
+"music.ml" 77 2117 2154 "music.ml" 77 2117 2156
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( +. )
+)
+"music.ml" 77 2117 2157 "music.ml" 77 2117 2159
+type(
+  float
+)
+ident(
+  int_ref by "music.ml" 74 2006 2017 "music.ml" 74 2006 2019
+)
+"music.ml" 77 2117 2149 "music.ml" 77 2117 2159
+type(
+  float
+)
+"music.ml" 77 2117 2161 "music.ml" 77 2117 2164
+type(
+  pitch
+)
+ident(
+  int_ref pit "music.ml" 77 2117 2135 "music.ml" 77 2117 2138
+)
+"music.ml" 77 2117 2143 "music.ml" 77 2117 2165
+type(
+  event
+)
+"music.ml" 75 2043 2045 "music.ml" 77 2117 2165
+type(
+  event
+)
+"music.ml" 74 2006 2029 "music.ml" 77 2117 2165
+type(
+  event -> event
+)
+"music.ml" 74 2006 2016 "music.ml" 77 2117 2165
+type(
+  float -> event -> event
+)
+"music.ml" 79 2167 2171 "music.ml" 79 2167 2182
+type(
+  float -> event stream -> unit -> event str
+)
+ident(
+  def shift_start "music.ml" 83 2284 2284 "music.ml" 1 0 -1
+)
+"music.ml" 79 2167 2184 "music.ml" 79 2167 2186
+type(
+  float
+)
+ident(
+  def by "music.ml" 79 2167 2196 "music.ml" 81 2249 2282
+)
+"music.ml" 79 2167 2197 "music.ml" 79 2167 2200
+type(
+  event stream
+)
+ident(
+  def str "music.ml" 80 2219 2221 "music.ml" 81 2249 2282
+)
+"music.ml" 80 2219 2231 "music.ml" 80 2219 2232
+type(
+  event
+)
+ident(
+  def e "music.ml" 81 2249 2257 "music.ml" 81 2249 2282
+)
+"music.ml" 80 2219 2234 "music.ml" 80 2219 2235
+type(
+  event stream
+)
+ident(
+  def t "music.ml" 81 2249 2257 "music.ml" 81 2249 2282
+)
+"music.ml" 80 2219 2225 "music.ml" 80 2219 2236
+type(
+  event str
+)
+"music.ml" 80 2219 2239 "music.ml" 80 2219 2242
+type(
+  event stream
+)
+ident(
+  int_ref str "music.ml" 79 2167 2197 "music.ml" 79 2167 2200
+)
+"music.ml" 80 2219 2243 "music.ml" 80 2219 2245
+type(
+  unit
+)
+"music.ml" 80 2219 2239 "music.ml" 80 2219 2245
+call(
+  stack
+)
+type(
+  event str
+)
+"music.ml" 81 2249 2257 "music.ml" 81 2249 2259
+type(
+  unit
+)
+"music.ml" 81 2249 2268 "music.ml" 81 2249 2273
+type(
+  float -> event -> event
+)
+ident(
+  int_ref shift "music.ml" 74 2006 2010 "music.ml" 74 2006 2015
+)
+"music.ml" 81 2249 2274 "music.ml" 81 2249 2276
+type(
+  float
+)
+ident(
+  int_ref by "music.ml" 79 2167 2184 "music.ml" 79 2167 2186
+)
+"music.ml" 81 2249 2277 "music.ml" 81 2249 2278
+type(
+  event
+)
+ident(
+  int_ref e "music.ml" 80 2219 2231 "music.ml" 80 2219 2232
+)
+"music.ml" 81 2249 2268 "music.ml" 81 2249 2278
+call(
+  stack
+)
+type(
+  event
+)
+"music.ml" 81 2249 2280 "music.ml" 81 2249 2281
+type(
+  event stream
+)
+ident(
+  int_ref t "music.ml" 80 2219 2234 "music.ml" 80 2219 2235
+)
+"music.ml" 81 2249 2263 "music.ml" 81 2249 2282
+type(
+  event str
+)
+"music.ml" 81 2249 2257 "music.ml" 81 2249 2282
+type(
+  unit -> event str
+)
+"music.ml" 80 2219 2221 "music.ml" 81 2249 2282
+type(
+  unit -> event str
+)
+"music.ml" 79 2167 2196 "music.ml" 81 2249 2282
+type(
+  event stream -> unit -> event str
+)
+"music.ml" 79 2167 2183 "music.ml" 81 2249 2282
+type(
+  float -> event stream -> unit -> event str
+)
+"music.ml" 83 2284 2288 "music.ml" 83 2284 2301
+type(
+  int -> event stream -> string
+)
+ident(
+  def stream_to_hex "music.ml" 98 2886 2886 "music.ml" 1 0 -1
+)
+"music.ml" 83 2284 2303 "music.ml" 83 2284 2304
+type(
+  int
+)
+ident(
+  def n "music.ml" 83 2284 2312 "music.ml" 96 2866 2884
+)
+"music.ml" 83 2284 2313 "music.ml" 83 2284 2316
+type(
+  event stream
+)
+ident(
+  def str "music.ml" 84 2335 2337 "music.ml" 96 2866 2884
+)
+"music.ml" 84 2335 2345 "music.ml" 84 2335 2349
+type(
+  int -> event stream -> (pitch * int) list -> string
+)
+ident(
+  def sthr "music.ml" 84 2335 2337 "music.ml" 96 2866 2884
+)
+"music.ml" 84 2335 2350 "music.ml" 84 2335 2351
+type(
+  int
+)
+ident(
+  def n "music.ml" 84 2335 2352 "music.ml" 95 2821 2865
+)
+"music.ml" 84 2335 2352 "music.ml" 84 2335 2355
+type(
+  event stream
+)
+ident(
+  def str "music.ml" 84 2335 2356 "music.ml" 95 2821 2865
+)
+"music.ml" 84 2335 2356 "music.ml" 84 2335 2363
+type(
+  (pitch * int) list
+)
+ident(
+  def playing "music.ml" 85 2366 2368 "music.ml" 95 2821 2865
+)
+"music.ml" 85 2366 2371 "music.ml" 85 2366 2372
+type(
+  int
+)
+ident(
+  int_ref n "music.ml" 84 2335 2350 "music.ml" 84 2335 2351
+)
+"music.ml" 85 2366 2373 "music.ml" 85 2366 2374
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"music.ml" 85 2366 2375 "music.ml" 85 2366 2376
+type(
+  int
+)
+"music.ml" 85 2366 2371 "music.ml" 85 2366 2376
+type(
+  bool
+)
+"music.ml" 85 2366 2382 "music.ml" 85 2366 2384
+type(
+  string
+)
+"music.ml" 86 2390 2398 "music.ml" 86 2390 2401
+type(
+  event stream
+)
+ident(
+  int_ref str "music.ml" 84 2335 2352 "music.ml" 84 2335 2355
+)
+"music.ml" 86 2390 2402 "music.ml" 86 2390 2404
+type(
+  unit
+)
+"music.ml" 86 2390 2398 "music.ml" 86 2390 2404
+call(
+  stack
+)
+type(
+  event str
+)
+"music.ml" 87 2410 2427 "music.ml" 87 2410 2428
+type(
+  float
+)
+ident(
+  def t "music.ml" 88 2450 2458 "music.ml" 90 2565 2611
+)
+"music.ml" 87 2410 2430 "music.ml" 87 2410 2435
+type(
+  pitch
+)
+ident(
+  def pitch "music.ml" 88 2450 2458 "music.ml" 90 2565 2611
+)
+"music.ml" 87 2410 2437 "music.ml" 87 2410 2440
+type(
+  int
+)
+ident(
+  def vol "music.ml" 88 2450 2458 "music.ml" 90 2565 2611
+)
+"music.ml" 87 2410 2421 "music.ml" 87 2410 2441
+type(
+  event
+)
+"music.ml" 87 2410 2443 "music.ml" 87 2410 2445
+type(
+  event stream
+)
+ident(
+  def tl "music.ml" 88 2450 2458 "music.ml" 90 2565 2611
+)
+"music.ml" 87 2410 2416 "music.ml" 87 2410 2446
+type(
+  event str
+)
+"music.ml" 88 2450 2463 "music.ml" 88 2450 2464
+type(
+  int
+)
+ident(
+  def i "music.ml" 89 2495 2505 "music.ml" 90 2565 2611
+)
+"music.ml" 88 2450 2466 "music.ml" 88 2450 2468
+type(
+  (pitch * int) list
+)
+ident(
+  def np "music.ml" 89 2495 2505 "music.ml" 90 2565 2611
+)
+"music.ml" 88 2450 2463 "music.ml" 88 2450 2468
+type(
+  int * (pitch * int) list
+)
+"music.ml" 88 2450 2472 "music.ml" 88 2450 2477
+type(
+  (pitch * int) list -> pitch -> int * (pitch * int) list
+)
+ident(
+  int_ref insts "music.ml" 68 1807 1815 "music.ml" 68 1807 1820
+)
+"music.ml" 88 2450 2478 "music.ml" 88 2450 2485
+type(
+  (pitch * int) list
+)
+ident(
+  int_ref playing "music.ml" 84 2335 2356 "music.ml" 84 2335 2363
+)
+"music.ml" 88 2450 2486 "music.ml" 88 2450 2491
+type(
+  pitch
+)
+ident(
+  int_ref pitch "music.ml" 87 2410 2430 "music.ml" 87 2410 2435
+)
+"music.ml" 88 2450 2472 "music.ml" 88 2450 2491
+call(
+  stack
+)
+type(
+  int * (pitch * int) list
+)
+"music.ml" 89 2495 2506 "music.ml" 89 2495 2517
+type(
+  float -> string
+)
+ident(
+  int_ref time_to_hex "music.ml" 61 1553 1557 "music.ml" 61 1553 1568
+)
+"music.ml" 89 2495 2518 "music.ml" 89 2495 2519
+type(
+  float
+)
+ident(
+  int_ref t "music.ml" 87 2410 2427 "music.ml" 87 2410 2428
+)
+"music.ml" 89 2495 2506 "music.ml" 89 2495 2519
+call(
+  stack
+)
+type(
+  string
+)
+"music.ml" 89 2495 2520 "music.ml" 89 2495 2521
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"music.ml" 89 2495 2521 "music.ml" 89 2495 2525
+type(
+  string
+)
+"music.ml" 89 2495 2525 "music.ml" 89 2495 2526
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"music.ml" 89 2495 2527 "music.ml" 89 2495 2539
+type(
+  pitch -> string
+)
+ident(
+  int_ref pitch_to_hex "music.ml" 58 1464 1468 "music.ml" 58 1464 1480
+)
+"music.ml" 89 2495 2540 "music.ml" 89 2495 2545
+type(
+  pitch
+)
+ident(
+  int_ref pitch "music.ml" 87 2410 2430 "music.ml" 87 2410 2435
+)
+"music.ml" 89 2495 2527 "music.ml" 89 2495 2545
+call(
+  stack
+)
+type(
+  string
+)
+"music.ml" 89 2495 2546 "music.ml" 89 2495 2547
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"music.ml" 89 2495 2548 "music.ml" 89 2495 2558
+type(
+  int -> string
+)
+ident(
+  int_ref int_to_hex "music.ml" 43 1015 1019 "music.ml" 43 1015 1029
+)
+"music.ml" 89 2495 2559 "music.ml" 89 2495 2562
+type(
+  int
+)
+ident(
+  int_ref vol "music.ml" 87 2410 2437 "music.ml" 87 2410 2440
+)
+"music.ml" 89 2495 2548 "music.ml" 89 2495 2562
+call(
+  stack
+)
+type(
+  string
+)
+"music.ml" 89 2495 2563 "music.ml" 89 2495 2564
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"music.ml" 90 2565 2578 "music.ml" 90 2565 2582
+type(
+  int -> event stream -> (pitch * int) list -> string
+)
+ident(
+  int_ref sthr "music.ml" 84 2335 2345 "music.ml" 84 2335 2349
+)
+"music.ml" 90 2565 2584 "music.ml" 90 2565 2585
+type(
+  int
+)
+ident(
+  int_ref n "music.ml" 84 2335 2350 "music.ml" 84 2335 2351
+)
+"music.ml" 90 2565 2585 "music.ml" 90 2565 2586
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"music.ml" 90 2565 2586 "music.ml" 90 2565 2587
+type(
+  int
+)
+"music.ml" 90 2565 2584 "music.ml" 90 2565 2587
+type(
+  int
+)
+"music.ml" 90 2565 2589 "music.ml" 90 2565 2591
+type(
+  event stream
+)
+ident(
+  int_ref tl "music.ml" 87 2410 2443 "music.ml" 87 2410 2445
+)
+"music.ml" 90 2565 2594 "music.ml" 90 2565 2599
+type(
+  pitch
+)
+ident(
+  int_ref pitch "music.ml" 87 2410 2430 "music.ml" 87 2410 2435
+)
+"music.ml" 90 2565 2601 "music.ml" 90 2565 2602
+type(
+  int
+)
+ident(
+  int_ref i "music.ml" 88 2450 2463 "music.ml" 88 2450 2464
+)
+"music.ml" 90 2565 2602 "music.ml" 90 2565 2603
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"music.ml" 90 2565 2603 "music.ml" 90 2565 2604
+type(
+  int
+)
+"music.ml" 90 2565 2601 "music.ml" 90 2565 2604
+type(
+  int
+)
+"music.ml" 90 2565 2594 "music.ml" 90 2565 2604
+type(
+  pitch * int
+)
+"music.ml" 90 2565 2607 "music.ml" 90 2565 2609
+type(
+  (pitch * int) list
+)
+ident(
+  int_ref np "music.ml" 88 2450 2466 "music.ml" 88 2450 2468
+)
+"music.ml" 90 2565 2593 "music.ml" 90 2565 2609
+type(
+  (pitch * int) list
+)
+"music.ml" 90 2565 2578 "music.ml" 90 2565 2610
+call(
+  stack
+)
+type(
+  string
+)
+"music.ml" 89 2495 2547 "music.ml" 90 2565 2611
+call(
+  stack
+)
+type(
+  string
+)
+"music.ml" 89 2495 2526 "music.ml" 90 2565 2611
+call(
+  stack
+)
+type(
+  string
+)
+"music.ml" 89 2495 2521 "music.ml" 90 2565 2611
+call(
+  stack
+)
+type(
+  string
+)
+"music.ml" 89 2495 2505 "music.ml" 90 2565 2611
+call(
+  tail
+)
+type(
+  string
+)
+"music.ml" 88 2450 2458 "music.ml" 90 2565 2611
+type(
+  string
+)
+"music.ml" 91 2612 2629 "music.ml" 91 2612 2630
+type(
+  float
+)
+ident(
+  def t "music.ml" 92 2647 2655 "music.ml" 95 2821 2865
+)
+"music.ml" 91 2612 2632 "music.ml" 91 2612 2637
+type(
+  pitch
+)
+ident(
+  def pitch "music.ml" 92 2647 2655 "music.ml" 95 2821 2865
+)
+"music.ml" 91 2612 2623 "music.ml" 91 2612 2638
+type(
+  event
+)
+"music.ml" 91 2612 2640 "music.ml" 91 2612 2642
+type(
+  event stream
+)
+ident(
+  def tl "music.ml" 92 2647 2655 "music.ml" 95 2821 2865
+)
+"music.ml" 91 2612 2618 "music.ml" 91 2612 2643
+type(
+  event str
+)
+"music.ml" 92 2647 2660 "music.ml" 92 2647 2661
+type(
+  int
+)
+ident(
+  def i "music.ml" 93 2692 2702 "music.ml" 95 2821 2865
+)
+"music.ml" 92 2647 2663 "music.ml" 92 2647 2665
+type(
+  (pitch * int) list
+)
+ident(
+  def np "music.ml" 93 2692 2702 "music.ml" 95 2821 2865
+)
+"music.ml" 92 2647 2660 "music.ml" 92 2647 2665
+type(
+  int * (pitch * int) list
+)
+"music.ml" 92 2647 2669 "music.ml" 92 2647 2674
+type(
+  (pitch * int) list -> pitch -> int * (pitch * int) list
+)
+ident(
+  int_ref insts "music.ml" 68 1807 1815 "music.ml" 68 1807 1820
+)
+"music.ml" 92 2647 2675 "music.ml" 92 2647 2682
+type(
+  (pitch * int) list
+)
+ident(
+  int_ref playing "music.ml" 84 2335 2356 "music.ml" 84 2335 2363
+)
+"music.ml" 92 2647 2683 "music.ml" 92 2647 2688
+type(
+  pitch
+)
+ident(
+  int_ref pitch "music.ml" 91 2612 2632 "music.ml" 91 2612 2637
+)
+"music.ml" 92 2647 2669 "music.ml" 92 2647 2688
+call(
+  stack
+)
+type(
+  int * (pitch * int) list
+)
+"music.ml" 93 2692 2705 "music.ml" 93 2692 2706
+type(
+  int
+)
+ident(
+  int_ref i "music.ml" 92 2647 2660 "music.ml" 92 2647 2661
+)
+"music.ml" 93 2692 2706 "music.ml" 93 2692 2707
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( > )
+)
+"music.ml" 93 2692 2707 "music.ml" 93 2692 2708
+type(
+  int
+)
+"music.ml" 93 2692 2705 "music.ml" 93 2692 2708
+type(
+  bool
+)
+"music.ml" 93 2692 2714 "music.ml" 93 2692 2718
+type(
+  int -> event stream -> (pitch * int) list -> string
+)
+ident(
+  int_ref sthr "music.ml" 84 2335 2345 "music.ml" 84 2335 2349
+)
+"music.ml" 93 2692 2720 "music.ml" 93 2692 2721
+type(
+  int
+)
+ident(
+  int_ref n "music.ml" 84 2335 2350 "music.ml" 84 2335 2351
+)
+"music.ml" 93 2692 2721 "music.ml" 93 2692 2722
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"music.ml" 93 2692 2722 "music.ml" 93 2692 2723
+type(
+  int
+)
+"music.ml" 93 2692 2720 "music.ml" 93 2692 2723
+type(
+  int
+)
+"music.ml" 93 2692 2726 "music.ml" 93 2692 2737
+type(
+  float -> event stream -> event stream
+)
+ident(
+  int_ref shift_start "music.ml" 79 2167 2171 "music.ml" 79 2167 2182
+)
+"music.ml" 93 2692 2738 "music.ml" 93 2692 2739
+type(
+  float
+)
+ident(
+  int_ref t "music.ml" 91 2612 2629 "music.ml" 91 2612 2630
+)
+"music.ml" 93 2692 2740 "music.ml" 93 2692 2742
+type(
+  event stream
+)
+ident(
+  int_ref tl "music.ml" 91 2612 2640 "music.ml" 91 2612 2642
+)
+"music.ml" 93 2692 2726 "music.ml" 93 2692 2742
+call(
+  stack
+)
+type(
+  event stream
+)
+"music.ml" 93 2692 2746 "music.ml" 93 2692 2751
+type(
+  pitch
+)
+ident(
+  int_ref pitch "music.ml" 91 2612 2632 "music.ml" 91 2612 2637
+)
+"music.ml" 93 2692 2753 "music.ml" 93 2692 2754
+type(
+  int
+)
+ident(
+  int_ref i "music.ml" 92 2647 2660 "music.ml" 92 2647 2661
+)
+"music.ml" 93 2692 2754 "music.ml" 93 2692 2755
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"music.ml" 93 2692 2755 "music.ml" 93 2692 2756
+type(
+  int
+)
+"music.ml" 93 2692 2753 "music.ml" 93 2692 2756
+type(
+  int
+)
+"music.ml" 93 2692 2746 "music.ml" 93 2692 2756
+type(
+  pitch * int
+)
+"music.ml" 93 2692 2759 "music.ml" 93 2692 2761
+type(
+  (pitch * int) list
+)
+ident(
+  int_ref np "music.ml" 92 2647 2663 "music.ml" 92 2647 2665
+)
+"music.ml" 93 2692 2745 "music.ml" 93 2692 2761
+type(
+  (pitch * int) list
+)
+"music.ml" 93 2692 2714 "music.ml" 93 2692 2762
+call(
+  tail
+)
+type(
+  string
+)
+"music.ml" 94 2763 2779 "music.ml" 94 2763 2790
+type(
+  float -> string
+)
+ident(
+  int_ref time_to_hex "music.ml" 61 1553 1557 "music.ml" 61 1553 1568
+)
+"music.ml" 94 2763 2791 "music.ml" 94 2763 2792
+type(
+  float
+)
+ident(
+  int_ref t "music.ml" 91 2612 2629 "music.ml" 91 2612 2630
+)
+"music.ml" 94 2763 2779 "music.ml" 94 2763 2792
+call(
+  stack
+)
+type(
+  string
+)
+"music.ml" 94 2763 2793 "music.ml" 94 2763 2794
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"music.ml" 94 2763 2795 "music.ml" 94 2763 2807
+type(
+  pitch -> string
+)
+ident(
+  int_ref pitch_to_hex "music.ml" 58 1464 1468 "music.ml" 58 1464 1480
+)
+"music.ml" 94 2763 2808 "music.ml" 94 2763 2813
+type(
+  pitch
+)
+ident(
+  int_ref pitch "music.ml" 91 2612 2632 "music.ml" 91 2612 2637
+)
+"music.ml" 94 2763 2795 "music.ml" 94 2763 2813
+call(
+  stack
+)
+type(
+  string
+)
+"music.ml" 94 2763 2814 "music.ml" 94 2763 2815
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"music.ml" 94 2763 2815 "music.ml" 94 2763 2819
+type(
+  string
+)
+"music.ml" 94 2763 2819 "music.ml" 94 2763 2820
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"music.ml" 95 2821 2832 "music.ml" 95 2821 2836
+type(
+  int -> event stream -> (pitch * int) list -> string
+)
+ident(
+  int_ref sthr "music.ml" 84 2335 2345 "music.ml" 84 2335 2349
+)
+"music.ml" 95 2821 2838 "music.ml" 95 2821 2839
+type(
+  int
+)
+ident(
+  int_ref n "music.ml" 84 2335 2350 "music.ml" 84 2335 2351
+)
+"music.ml" 95 2821 2839 "music.ml" 95 2821 2840
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"music.ml" 95 2821 2840 "music.ml" 95 2821 2841
+type(
+  int
+)
+"music.ml" 95 2821 2838 "music.ml" 95 2821 2841
+type(
+  int
+)
+"music.ml" 95 2821 2843 "music.ml" 95 2821 2845
+type(
+  event stream
+)
+ident(
+  int_ref tl "music.ml" 91 2612 2640 "music.ml" 91 2612 2642
+)
+"music.ml" 95 2821 2848 "music.ml" 95 2821 2853
+type(
+  pitch
+)
+ident(
+  int_ref pitch "music.ml" 91 2612 2632 "music.ml" 91 2612 2637
+)
+"music.ml" 95 2821 2855 "music.ml" 95 2821 2856
+type(
+  int
+)
+ident(
+  int_ref i "music.ml" 92 2647 2660 "music.ml" 92 2647 2661
+)
+"music.ml" 95 2821 2856 "music.ml" 95 2821 2857
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"music.ml" 95 2821 2857 "music.ml" 95 2821 2858
+type(
+  int
+)
+"music.ml" 95 2821 2855 "music.ml" 95 2821 2858
+type(
+  int
+)
+"music.ml" 95 2821 2848 "music.ml" 95 2821 2858
+type(
+  pitch * int
+)
+"music.ml" 95 2821 2861 "music.ml" 95 2821 2863
+type(
+  (pitch * int) list
+)
+ident(
+  int_ref np "music.ml" 92 2647 2663 "music.ml" 92 2647 2665
+)
+"music.ml" 95 2821 2847 "music.ml" 95 2821 2863
+type(
+  (pitch * int) list
+)
+"music.ml" 95 2821 2832 "music.ml" 95 2821 2864
+call(
+  stack
+)
+type(
+  string
+)
+"music.ml" 94 2763 2815 "music.ml" 95 2821 2865
+call(
+  stack
+)
+type(
+  string
+)
+"music.ml" 94 2763 2794 "music.ml" 95 2821 2865
+call(
+  stack
+)
+type(
+  string
+)
+"music.ml" 94 2763 2778 "music.ml" 95 2821 2865
+call(
+  tail
+)
+type(
+  string
+)
+"music.ml" 93 2692 2702 "music.ml" 95 2821 2865
+type(
+  string
+)
+"music.ml" 92 2647 2655 "music.ml" 95 2821 2865
+type(
+  string
+)
+"music.ml" 86 2390 2392 "music.ml" 95 2821 2865
+type(
+  string
+)
+"music.ml" 85 2366 2368 "music.ml" 95 2821 2865
+type(
+  string
+)
+"music.ml" 84 2335 2356 "music.ml" 95 2821 2865
+type(
+  (pitch * int) list -> string
+)
+"music.ml" 84 2335 2352 "music.ml" 95 2821 2865
+type(
+  event stream -> (pitch * int) list -> string
+)
+"music.ml" 84 2335 2350 "music.ml" 95 2821 2865
+type(
+  int -> event stream -> (pitch * int) list -> string
+)
+"music.ml" 96 2866 2871 "music.ml" 96 2866 2875
+type(
+  int -> event stream -> (pitch * int) list -> string
+)
+ident(
+  int_ref sthr "music.ml" 84 2335 2345 "music.ml" 84 2335 2349
+)
+"music.ml" 96 2866 2876 "music.ml" 96 2866 2877
+type(
+  int
+)
+ident(
+  int_ref n "music.ml" 83 2284 2303 "music.ml" 83 2284 2304
+)
+"music.ml" 96 2866 2878 "music.ml" 96 2866 2881
+type(
+  event stream
+)
+ident(
+  int_ref str "music.ml" 83 2284 2313 "music.ml" 83 2284 2316
+)
+"music.ml" 96 2866 2882 "music.ml" 96 2866 2884
+type(
+  (pitch * int) list
+)
+"music.ml" 96 2866 2871 "music.ml" 96 2866 2884
+call(
+  tail
+)
+type(
+  string
+)
+"music.ml" 84 2335 2337 "music.ml" 96 2866 2884
+type(
+  string
+)
+"music.ml" 83 2284 2312 "music.ml" 96 2866 2884
+type(
+  event stream -> string
+)
+"music.ml" 83 2284 2302 "music.ml" 96 2866 2884
+type(
+  int -> event stream -> string
+)
+"music.ml" 98 2886 2890 "music.ml" 98 2886 2901
+type(
+  string -> int -> event stream -> unit
+)
+ident(
+  def output_midi "music.ml" 109 3214 3214 "music.ml" 1 0 -1
+)
+"music.ml" 98 2886 2902 "music.ml" 98 2886 2910
+type(
+  string
+)
+ident(
+  def filename "music.ml" 98 2886 2911 "music.ml" 106 3155 3182
+)
+"music.ml" 98 2886 2911 "music.ml" 98 2886 2912
+type(
+  int
+)
+ident(
+  def n "music.ml" 98 2886 2913 "music.ml" 106 3155 3182
+)
+"music.ml" 98 2886 2913 "music.ml" 98 2886 2916
+type(
+  event stream
+)
+ident(
+  def str "music.ml" 99 2919 2921 "music.ml" 106 3155 3182
+)
+"music.ml" 99 2919 2925 "music.ml" 99 2919 2928
+type(
+  string
+)
+ident(
+  def hex "music.ml" 100 2954 2956 "music.ml" 106 3155 3182
+)
+"music.ml" 99 2919 2931 "music.ml" 99 2919 2944
+type(
+  int -> event stream -> string
+)
+ident(
+  int_ref stream_to_hex "music.ml" 83 2284 2288 "music.ml" 83 2284 2301
+)
+"music.ml" 99 2919 2945 "music.ml" 99 2919 2946
+type(
+  int
+)
+ident(
+  int_ref n "music.ml" 98 2886 2911 "music.ml" 98 2886 2912
+)
+"music.ml" 99 2919 2947 "music.ml" 99 2919 2950
+type(
+  event stream
+)
+ident(
+  int_ref str "music.ml" 98 2886 2913 "music.ml" 98 2886 2916
+)
+"music.ml" 99 2919 2931 "music.ml" 99 2919 2950
+call(
+  stack
+)
+type(
+  string
+)
+"music.ml" 100 2954 2960 "music.ml" 100 2954 2967
+type(
+  out_channel
+)
+ident(
+  def outchan "music.ml" 101 2995 2997 "music.ml" 106 3155 3182
+)
+"music.ml" 100 2954 2970 "music.ml" 100 2954 2982
+type(
+  string -> out_channel
+)
+ident(
+  ext_ref Pervasives.open_out_bin
+)
+"music.ml" 100 2954 2983 "music.ml" 100 2954 2991
+type(
+  string
+)
+ident(
+  int_ref filename "music.ml" 98 2886 2902 "music.ml" 98 2886 2910
+)
+"music.ml" 100 2954 2970 "music.ml" 100 2954 2991
+call(
+  stack
+)
+type(
+  out_channel
+)
+"music.ml" 101 2995 2997 "music.ml" 101 2995 3007
+type(
+  out_channel -> string -> unit
+)
+ident(
+  int_ref output_hex "music.ml" 45 1059 1067 "music.ml" 45 1059 1077
+)
+"music.ml" 101 2995 3008 "music.ml" 101 2995 3015
+type(
+  out_channel
+)
+ident(
+  int_ref outchan "music.ml" 100 2954 2960 "music.ml" 100 2954 2967
+)
+"music.ml" 101 2995 3016 "music.ml" 101 2995 3022
+type(
+  string
+)
+ident(
+  int_ref header "music.ml" 55 1361 1365 "music.ml" 55 1361 1371
+)
+"music.ml" 101 2995 2997 "music.ml" 101 2995 3022
+call(
+  stack
+)
+type(
+  unit
+)
+"music.ml" 102 3024 3026 "music.ml" 102 3024 3043
+type(
+  out_channel -> int -> unit
+)
+ident(
+  ext_ref Pervasives.output_binary_int
+)
+"music.ml" 102 3024 3044 "music.ml" 102 3024 3051
+type(
+  out_channel
+)
+ident(
+  int_ref outchan "music.ml" 100 2954 2960 "music.ml" 100 2954 2967
+)
+"music.ml" 102 3024 3054 "music.ml" 102 3024 3067
+type(
+  string -> int
+)
+ident(
+  ext_ref Core.Std.String.length
+)
+"music.ml" 102 3024 3068 "music.ml" 102 3024 3071
+type(
+  string
+)
+ident(
+  int_ref hex "music.ml" 99 2919 2925 "music.ml" 99 2919 2928
+)
+"music.ml" 102 3024 3054 "music.ml" 102 3024 3071
+type(
+  int
+)
+"music.ml" 102 3024 3073 "music.ml" 102 3024 3074
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( / )
+)
+"music.ml" 102 3024 3075 "music.ml" 102 3024 3076
+type(
+  int
+)
+"music.ml" 102 3024 3053 "music.ml" 102 3024 3076
+type(
+  int
+)
+"music.ml" 102 3024 3077 "music.ml" 102 3024 3078
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"music.ml" 102 3024 3079 "music.ml" 102 3024 3080
+type(
+  int
+)
+"music.ml" 102 3024 3053 "music.ml" 102 3024 3080
+type(
+  int
+)
+"music.ml" 102 3024 3026 "music.ml" 102 3024 3081
+call(
+  stack
+)
+type(
+  unit
+)
+"music.ml" 103 3083 3085 "music.ml" 103 3083 3095
+type(
+  out_channel -> string -> unit
+)
+ident(
+  int_ref output_hex "music.ml" 45 1059 1067 "music.ml" 45 1059 1077
+)
+"music.ml" 103 3083 3096 "music.ml" 103 3083 3103
+type(
+  out_channel
+)
+ident(
+  int_ref outchan "music.ml" 100 2954 2960 "music.ml" 100 2954 2967
+)
+"music.ml" 103 3083 3104 "music.ml" 103 3083 3107
+type(
+  string
+)
+ident(
+  int_ref hex "music.ml" 99 2919 2925 "music.ml" 99 2919 2928
+)
+"music.ml" 103 3083 3085 "music.ml" 103 3083 3107
+call(
+  stack
+)
+type(
+  unit
+)
+"music.ml" 104 3109 3111 "music.ml" 104 3109 3121
+type(
+  out_channel -> string -> unit
+)
+ident(
+  int_ref output_hex "music.ml" 45 1059 1067 "music.ml" 45 1059 1077
+)
+"music.ml" 104 3109 3122 "music.ml" 104 3109 3129
+type(
+  out_channel
+)
+ident(
+  int_ref outchan "music.ml" 100 2954 2960 "music.ml" 100 2954 2967
+)
+"music.ml" 104 3109 3130 "music.ml" 104 3109 3136
+type(
+  string
+)
+ident(
+  int_ref footer "music.ml" 56 1439 1443 "music.ml" 56 1439 1449
+)
+"music.ml" 104 3109 3111 "music.ml" 104 3109 3136
+call(
+  stack
+)
+type(
+  unit
+)
+"music.ml" 105 3138 3140 "music.ml" 105 3138 3145
+type(
+  out_channel -> unit
+)
+ident(
+  ext_ref Pervasives.flush
+)
+"music.ml" 105 3138 3146 "music.ml" 105 3138 3153
+type(
+  out_channel
+)
+ident(
+  int_ref outchan "music.ml" 100 2954 2960 "music.ml" 100 2954 2967
+)
+"music.ml" 105 3138 3140 "music.ml" 105 3138 3153
+call(
+  stack
+)
+type(
+  unit
+)
+"music.ml" 106 3155 3157 "music.ml" 106 3155 3174
+type(
+  out_channel -> unit
+)
+ident(
+  ext_ref Core.Std.Out_channel.close
+)
+"music.ml" 106 3155 3175 "music.ml" 106 3155 3182
+type(
+  out_channel
+)
+ident(
+  int_ref outchan "music.ml" 100 2954 2960 "music.ml" 100 2954 2967
+)
+"music.ml" 106 3155 3157 "music.ml" 106 3155 3182
+call(
+  tail
+)
+type(
+  unit
+)
+"music.ml" 105 3138 3140 "music.ml" 106 3155 3182
+type(
+  unit
+)
+"music.ml" 104 3109 3111 "music.ml" 106 3155 3182
+type(
+  unit
+)
+"music.ml" 103 3083 3085 "music.ml" 106 3155 3182
+type(
+  unit
+)
+"music.ml" 102 3024 3026 "music.ml" 106 3155 3182
+type(
+  unit
+)
+"music.ml" 101 2995 2997 "music.ml" 106 3155 3182
+type(
+  unit
+)
+"music.ml" 100 2954 2956 "music.ml" 106 3155 3182
+type(
+  unit
+)
+"music.ml" 99 2919 2921 "music.ml" 106 3155 3182
+type(
+  unit
+)
+"music.ml" 98 2886 2913 "music.ml" 106 3155 3182
+type(
+  event stream -> unit
+)
+"music.ml" 98 2886 2911 "music.ml" 106 3155 3182
+type(
+  int -> event stream -> unit
+)
+"music.ml" 98 2886 2902 "music.ml" 106 3155 3182
+type(
+  string -> int -> event stream -> unit
+)
+"music.ml" 109 3214 3218 "music.ml" 109 3214 3223
+type(
+  float -> event -> event
+)
+ident(
+  def shift "music.ml" 114 3375 3375 "music.ml" 1 0 -1
+)
+"music.ml" 109 3214 3225 "music.ml" 109 3214 3227
+type(
+  float
+)
+ident(
+  def by "music.ml" 109 3214 3237 "music.ml" 112 3325 3373
+)
+"music.ml" 109 3214 3238 "music.ml" 109 3214 3239
+type(
+  event
+)
+ident(
+  def e "music.ml" 110 3251 3253 "music.ml" 112 3325 3373
+)
+"music.ml" 110 3251 3259 "music.ml" 110 3251 3260
+type(
+  event
+)
+ident(
+  int_ref e "music.ml" 109 3214 3238 "music.ml" 109 3214 3239
+)
+"music.ml" 111 3266 3278 "music.ml" 111 3266 3282
+type(
+  float
+)
+ident(
+  def time "music.ml" 111 3266 3297 "music.ml" 111 3266 3324
+)
+"music.ml" 111 3266 3284 "music.ml" 111 3266 3287
+type(
+  pitch
+)
+ident(
+  def pit "music.ml" 111 3266 3297 "music.ml" 111 3266 3324
+)
+"music.ml" 111 3266 3289 "music.ml" 111 3266 3292
+type(
+  int
+)
+ident(
+  def vol "music.ml" 111 3266 3297 "music.ml" 111 3266 3324
+)
+"music.ml" 111 3266 3272 "music.ml" 111 3266 3293
+type(
+  event
+)
+"music.ml" 111 3266 3303 "music.ml" 111 3266 3307
+type(
+  float
+)
+ident(
+  int_ref time "music.ml" 111 3266 3278 "music.ml" 111 3266 3282
+)
+"music.ml" 111 3266 3308 "music.ml" 111 3266 3310
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( +. )
+)
+"music.ml" 111 3266 3311 "music.ml" 111 3266 3313
+type(
+  float
+)
+ident(
+  int_ref by "music.ml" 109 3214 3225 "music.ml" 109 3214 3227
+)
+"music.ml" 111 3266 3303 "music.ml" 111 3266 3313
+type(
+  float
+)
+"music.ml" 111 3266 3315 "music.ml" 111 3266 3318
+type(
+  pitch
+)
+ident(
+  int_ref pit "music.ml" 111 3266 3284 "music.ml" 111 3266 3287
+)
+"music.ml" 111 3266 3320 "music.ml" 111 3266 3323
+type(
+  int
+)
+ident(
+  int_ref vol "music.ml" 111 3266 3289 "music.ml" 111 3266 3292
+)
+"music.ml" 111 3266 3297 "music.ml" 111 3266 3324
+type(
+  event
+)
+"music.ml" 112 3325 3337 "music.ml" 112 3325 3341
+type(
+  float
+)
+ident(
+  def time "music.ml" 112 3325 3351 "music.ml" 112 3325 3373
+)
+"music.ml" 112 3325 3343 "music.ml" 112 3325 3346
+type(
+  pitch
+)
+ident(
+  def pit "music.ml" 112 3325 3351 "music.ml" 112 3325 3373
+)
+"music.ml" 112 3325 3331 "music.ml" 112 3325 3347
+type(
+  event
+)
+"music.ml" 112 3325 3357 "music.ml" 112 3325 3361
+type(
+  float
+)
+ident(
+  int_ref time "music.ml" 112 3325 3337 "music.ml" 112 3325 3341
+)
+"music.ml" 112 3325 3362 "music.ml" 112 3325 3364
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( +. )
+)
+"music.ml" 112 3325 3365 "music.ml" 112 3325 3367
+type(
+  float
+)
+ident(
+  int_ref by "music.ml" 109 3214 3225 "music.ml" 109 3214 3227
+)
+"music.ml" 112 3325 3357 "music.ml" 112 3325 3367
+type(
+  float
+)
+"music.ml" 112 3325 3369 "music.ml" 112 3325 3372
+type(
+  pitch
+)
+ident(
+  int_ref pit "music.ml" 112 3325 3343 "music.ml" 112 3325 3346
+)
+"music.ml" 112 3325 3351 "music.ml" 112 3325 3373
+type(
+  event
+)
+"music.ml" 110 3251 3253 "music.ml" 112 3325 3373
+type(
+  event
+)
+"music.ml" 109 3214 3237 "music.ml" 112 3325 3373
+type(
+  event -> event
+)
+"music.ml" 109 3214 3224 "music.ml" 112 3325 3373
+type(
+  float -> event -> event
+)
+"music.ml" 114 3375 3379 "music.ml" 114 3375 3390
+type(
+  float -> event stream -> unit -> event str
+)
+ident(
+  def shift_start "music.ml" 124 3891 3891 "music.ml" 1 0 -1
+)
+"music.ml" 114 3375 3392 "music.ml" 114 3375 3394
+type(
+  float
+)
+ident(
+  def by "music.ml" 114 3375 3404 "music.ml" 116 3457 3490
+)
+"music.ml" 114 3375 3405 "music.ml" 114 3375 3408
+type(
+  event stream
+)
+ident(
+  def str "music.ml" 115 3427 3429 "music.ml" 116 3457 3490
+)
+"music.ml" 115 3427 3439 "music.ml" 115 3427 3440
+type(
+  event
+)
+ident(
+  def e "music.ml" 116 3457 3465 "music.ml" 116 3457 3490
+)
+"music.ml" 115 3427 3442 "music.ml" 115 3427 3443
+type(
+  event stream
+)
+ident(
+  def t "music.ml" 116 3457 3465 "music.ml" 116 3457 3490
+)
+"music.ml" 115 3427 3433 "music.ml" 115 3427 3444
+type(
+  event str
+)
+"music.ml" 115 3427 3447 "music.ml" 115 3427 3450
+type(
+  event stream
+)
+ident(
+  int_ref str "music.ml" 114 3375 3405 "music.ml" 114 3375 3408
+)
+"music.ml" 115 3427 3451 "music.ml" 115 3427 3453
+type(
+  unit
+)
+"music.ml" 115 3427 3447 "music.ml" 115 3427 3453
+call(
+  stack
+)
+type(
+  event str
+)
+"music.ml" 116 3457 3465 "music.ml" 116 3457 3467
+type(
+  unit
+)
+"music.ml" 116 3457 3476 "music.ml" 116 3457 3481
+type(
+  float -> event -> event
+)
+ident(
+  int_ref shift "music.ml" 109 3214 3218 "music.ml" 109 3214 3223
+)
+"music.ml" 116 3457 3482 "music.ml" 116 3457 3484
+type(
+  float
+)
+ident(
+  int_ref by "music.ml" 114 3375 3392 "music.ml" 114 3375 3394
+)
+"music.ml" 116 3457 3485 "music.ml" 116 3457 3486
+type(
+  event
+)
+ident(
+  int_ref e "music.ml" 115 3427 3439 "music.ml" 115 3427 3440
+)
+"music.ml" 116 3457 3476 "music.ml" 116 3457 3486
+call(
+  stack
+)
+type(
+  event
+)
+"music.ml" 116 3457 3488 "music.ml" 116 3457 3489
+type(
+  event stream
+)
+ident(
+  int_ref t "music.ml" 115 3427 3442 "music.ml" 115 3427 3443
+)
+"music.ml" 116 3457 3471 "music.ml" 116 3457 3490
+type(
+  event str
+)
+"music.ml" 116 3457 3465 "music.ml" 116 3457 3490
+type(
+  unit -> event str
+)
+"music.ml" 115 3427 3429 "music.ml" 116 3457 3490
+type(
+  unit -> event str
+)
+"music.ml" 114 3375 3404 "music.ml" 116 3457 3490
+type(
+  event stream -> unit -> event str
+)
+"music.ml" 114 3375 3391 "music.ml" 116 3457 3490
+type(
+  float -> event stream -> unit -> event str
+)
+"music.ml" 124 3891 3899 "music.ml" 124 3891 3913
+type(
+  obj list -> event stream
+)
+ident(
+  def list_to_stream "music.ml" 124 3891 3891 "music.ml" 1 0 -1
+)
+"music.ml" 124 3891 3915 "music.ml" 124 3891 3918
+type(
+  obj list
+)
+ident(
+  def lst "music.ml" 124 3891 3931 "music.ml" 134 4290 4320
+)
+"music.ml" 125 3948 3958 "music.ml" 125 3948 3976
+type(
+  obj list -> float -> event stream
+)
+ident(
+  def list_to_stream_rec "music.ml" 125 3948 3950 "music.ml" 134 4290 4320
+)
+"music.ml" 125 3948 3977 "music.ml" 125 3948 3981
+type(
+  obj list
+)
+ident(
+  def nlst "music.ml" 125 3948 3982 "music.ml" 133 4282 4289
+)
+"music.ml" 125 3948 3982 "music.ml" 125 3948 3986
+type(
+  float
+)
+ident(
+  def rest "music.ml" 125 3948 3987 "music.ml" 133 4282 4289
+)
+"music.ml" 126 4004 4014 "music.ml" 126 4004 4018
+type(
+  obj list
+)
+ident(
+  int_ref nlst "music.ml" 125 3948 3977 "music.ml" 125 3948 3981
+)
+"music.ml" 127 4024 4029 "music.ml" 127 4024 4031
+type(
+  obj list
+)
+"music.ml" 127 4024 4035 "music.ml" 127 4024 4046
+type(
+  float -> event stream -> event stream
+)
+ident(
+  int_ref shift_start "music.ml" 114 3375 3379 "music.ml" 114 3375 3390
+)
+"music.ml" 127 4024 4047 "music.ml" 127 4024 4051
+type(
+  float
+)
+ident(
+  int_ref rest "music.ml" 125 3948 3982 "music.ml" 125 3948 3986
+)
+"music.ml" 127 4024 4053 "music.ml" 127 4024 4067
+type(
+  obj list -> event stream
+)
+ident(
+  int_ref list_to_stream "music.ml" 124 3891 3899 "music.ml" 124 3891 3913
+)
+"music.ml" 127 4024 4068 "music.ml" 127 4024 4071
+type(
+  obj list
+)
+ident(
+  int_ref lst "music.ml" 124 3891 3915 "music.ml" 124 3891 3918
+)
+"music.ml" 127 4024 4053 "music.ml" 127 4024 4071
+call(
+  stack
+)
+type(
+  event stream
+)
+"music.ml" 127 4024 4035 "music.ml" 127 4024 4072
+call(
+  tail
+)
+type(
+  event stream
+)
+"music.ml" 128 4073 4078 "music.ml" 128 4073 4079
+type(
+  obj
+)
+ident(
+  def x "music.ml" 128 4073 4087 "music.ml" 132 4242 4281
+)
+"music.ml" 128 4073 4081 "music.ml" 128 4073 4082
+type(
+  obj list
+)
+ident(
+  def y "music.ml" 128 4073 4087 "music.ml" 132 4242 4281
+)
+"music.ml" 128 4073 4078 "music.ml" 128 4073 4082
+type(
+  obj list
+)
+"music.ml" 128 4073 4093 "music.ml" 128 4073 4094
+type(
+  obj
+)
+ident(
+  int_ref x "music.ml" 128 4073 4078 "music.ml" 128 4073 4079
+)
+"music.ml" 129 4100 4113 "music.ml" 129 4100 4114
+type(
+  pitch
+)
+ident(
+  def p "music.ml" 129 4100 4128 "music.ml" 131 4202 4240
+)
+"music.ml" 129 4100 4115 "music.ml" 129 4100 4116
+type(
+  float
+)
+ident(
+  def t "music.ml" 129 4100 4128 "music.ml" 131 4202 4240
+)
+"music.ml" 129 4100 4117 "music.ml" 129 4100 4118
+type(
+  int
+)
+ident(
+  def v "music.ml" 129 4100 4128 "music.ml" 131 4202 4240
+)
+"music.ml" 129 4100 4107 "music.ml" 129 4100 4119
+type(
+  obj
+)
+"music.ml" 129 4100 4128 "music.ml" 129 4100 4130
+type(
+  unit
+)
+"music.ml" 129 4100 4146 "music.ml" 129 4100 4150
+type(
+  float
+)
+ident(
+  int_ref rest "music.ml" 125 3948 3982 "music.ml" 125 3948 3986
+)
+"music.ml" 129 4100 4152 "music.ml" 129 4100 4153
+type(
+  pitch
+)
+ident(
+  int_ref p "music.ml" 129 4100 4113 "music.ml" 129 4100 4114
+)
+"music.ml" 129 4100 4155 "music.ml" 129 4100 4156
+type(
+  int
+)
+ident(
+  int_ref v "music.ml" 129 4100 4117 "music.ml" 129 4100 4118
+)
+"music.ml" 129 4100 4140 "music.ml" 129 4100 4157
+type(
+  event
+)
+"music.ml" 129 4100 4164 "music.ml" 129 4100 4166
+type(
+  unit
+)
+"music.ml" 130 4170 4194 "music.ml" 130 4170 4195
+type(
+  float
+)
+ident(
+  int_ref t "music.ml" 129 4100 4115 "music.ml" 129 4100 4116
+)
+"music.ml" 130 4170 4197 "music.ml" 130 4170 4198
+type(
+  pitch
+)
+ident(
+  int_ref p "music.ml" 129 4100 4113 "music.ml" 129 4100 4114
+)
+"music.ml" 130 4170 4188 "music.ml" 130 4170 4199
+type(
+  event
+)
+"music.ml" 131 4202 4214 "music.ml" 131 4202 4232
+type(
+  obj list -> float -> event stream
+)
+ident(
+  int_ref list_to_stream_rec "music.ml" 125 3948 3958 "music.ml" 125 3948 3976
+)
+"music.ml" 131 4202 4233 "music.ml" 131 4202 4234
+type(
+  obj list
+)
+ident(
+  int_ref y "music.ml" 128 4073 4081 "music.ml" 128 4073 4082
+)
+"music.ml" 131 4202 4235 "music.ml" 131 4202 4237
+type(
+  float
+)
+"music.ml" 131 4202 4214 "music.ml" 131 4202 4237
+call(
+  stack
+)
+type(
+  event stream
+)
+"music.ml" 130 4170 4182 "music.ml" 131 4202 4238
+type(
+  event str
+)
+"music.ml" 129 4100 4164 "music.ml" 131 4202 4238
+type(
+  event stream
+)
+"music.ml" 129 4100 4134 "music.ml" 131 4202 4240
+type(
+  event str
+)
+"music.ml" 129 4100 4128 "music.ml" 131 4202 4240
+type(
+  unit -> event str
+)
+"music.ml" 132 4242 4254 "music.ml" 132 4242 4255
+type(
+  float
+)
+ident(
+  def t "music.ml" 132 4242 4259 "music.ml" 132 4242 4281
+)
+"music.ml" 132 4242 4249 "music.ml" 132 4242 4255
+type(
+  obj
+)
+"music.ml" 132 4242 4259 "music.ml" 132 4242 4277
+type(
+  obj list -> float -> event stream
+)
+ident(
+  int_ref list_to_stream_rec "music.ml" 125 3948 3958 "music.ml" 125 3948 3976
+)
+"music.ml" 132 4242 4278 "music.ml" 132 4242 4279
+type(
+  obj list
+)
+ident(
+  int_ref y "music.ml" 128 4073 4081 "music.ml" 128 4073 4082
+)
+"music.ml" 132 4242 4280 "music.ml" 132 4242 4281
+type(
+  float
+)
+ident(
+  int_ref t "music.ml" 132 4242 4254 "music.ml" 132 4242 4255
+)
+"music.ml" 132 4242 4259 "music.ml" 132 4242 4281
+call(
+  tail
+)
+type(
+  event stream
+)
+"music.ml" 128 4073 4087 "music.ml" 132 4242 4281
+type(
+  event stream
+)
+"music.ml" 126 4004 4008 "music.ml" 133 4282 4289
+type(
+  event stream
+)
+type(
+  event stream
+)
+"music.ml" 125 3948 3982 "music.ml" 133 4282 4289
+type(
+  float -> event stream
+)
+"music.ml" 125 3948 3977 "music.ml" 133 4282 4289
+type(
+  obj list -> float -> event stream
+)
+"music.ml" 134 4290 4295 "music.ml" 134 4290 4313
+type(
+  obj list -> float -> event stream
+)
+ident(
+  int_ref list_to_stream_rec "music.ml" 125 3948 3958 "music.ml" 125 3948 3976
+)
+"music.ml" 134 4290 4314 "music.ml" 134 4290 4317
+type(
+  obj list
+)
+ident(
+  int_ref lst "music.ml" 124 3891 3915 "music.ml" 124 3891 3918
+)
+"music.ml" 134 4290 4318 "music.ml" 134 4290 4320
+type(
+  float
+)
+"music.ml" 134 4290 4295 "music.ml" 134 4290 4320
+call(
+  tail
+)
+type(
+  event stream
+)
+"music.ml" 125 3948 3950 "music.ml" 134 4290 4320
+type(
+  event stream
+)
+type(
+  event stream
+)
+"music.ml" 124 3891 3914 "music.ml" 134 4290 4320
+type(
+  obj list -> event stream
+)
+"music.ml" 137 4388 4392 "music.ml" 137 4388 4405
+type(
+  event -> float
+)
+ident(
+  def time_of_event "music.ml" 145 4668 4668 "music.ml" 1 0 -1
+)
+"music.ml" 137 4388 4407 "music.ml" 137 4388 4408
+type(
+  event
+)
+ident(
+  def e "music.ml" 137 4388 4418 "music.ml" 140 4475 4503
+)
+"music.ml" 138 4428 4436 "music.ml" 138 4428 4437
+type(
+  event
+)
+ident(
+  int_ref e "music.ml" 137 4388 4407 "music.ml" 137 4388 4408
+)
+"music.ml" 139 4443 4455 "music.ml" 139 4443 4459
+type(
+  float
+)
+ident(
+  def time "music.ml" 139 4443 4470 "music.ml" 139 4443 4474
+)
+"music.ml" 139 4443 4461 "music.ml" 139 4443 4462
+type(
+  pitch
+)
+"music.ml" 139 4443 4464 "music.ml" 139 4443 4465
+type(
+  int
+)
+"music.ml" 139 4443 4449 "music.ml" 139 4443 4466
+type(
+  event
+)
+"music.ml" 139 4443 4470 "music.ml" 139 4443 4474
+type(
+  float
+)
+ident(
+  int_ref time "music.ml" 139 4443 4455 "music.ml" 139 4443 4459
+)
+"music.ml" 140 4475 4487 "music.ml" 140 4475 4491
+type(
+  float
+)
+ident(
+  def time "music.ml" 140 4475 4499 "music.ml" 140 4475 4503
+)
+"music.ml" 140 4475 4493 "music.ml" 140 4475 4494
+type(
+  pitch
+)
+"music.ml" 140 4475 4481 "music.ml" 140 4475 4495
+type(
+  event
+)
+"music.ml" 140 4475 4499 "music.ml" 140 4475 4503
+type(
+  float
+)
+ident(
+  int_ref time "music.ml" 140 4475 4487 "music.ml" 140 4475 4491
+)
+"music.ml" 138 4428 4430 "music.ml" 140 4475 4503
+type(
+  float
+)
+type(
+  float
+)
+"music.ml" 137 4388 4406 "music.ml" 140 4475 4503
+type(
+  event -> float
+)
+"music.ml" 145 4668 4676 "music.ml" 145 4668 4680
+type(
+  event stream -> event stream -> event stream
+)
+ident(
+  def pair "music.ml" 145 4668 4668 "music.ml" 1 0 -1
+)
+"music.ml" 145 4668 4682 "music.ml" 145 4668 4683
+type(
+  event stream
+)
+ident(
+  def a "music.ml" 145 4668 4700 "music.ml" 154 5019 5078
+)
+"music.ml" 145 4668 4701 "music.ml" 145 4668 4702
+type(
+  event stream
+)
+ident(
+  def b "music.ml" 145 4668 4719 "music.ml" 154 5019 5078
+)
+"music.ml" 146 4736 4745 "music.ml" 146 4736 4746
+type(
+  event stream
+)
+ident(
+  int_ref a "music.ml" 145 4668 4682 "music.ml" 145 4668 4683
+)
+"music.ml" 146 4736 4747 "music.ml" 146 4736 4749
+type(
+  unit
+)
+"music.ml" 146 4736 4745 "music.ml" 146 4736 4749
+call(
+  stack
+)
+type(
+  event str
+)
+"music.ml" 146 4736 4751 "music.ml" 146 4736 4752
+type(
+  event stream
+)
+ident(
+  int_ref b "music.ml" 145 4668 4701 "music.ml" 145 4668 4702
+)
+"music.ml" 146 4736 4753 "music.ml" 146 4736 4755
+type(
+  unit
+)
+"music.ml" 146 4736 4751 "music.ml" 146 4736 4755
+call(
+  stack
+)
+type(
+  event str
+)
+"music.ml" 146 4736 4745 "music.ml" 146 4736 4755
+type(
+  event str * event str
+)
+"music.ml" 147 4762 4771 "music.ml" 147 4762 4773
+type(
+  event
+)
+ident(
+  def e1 "music.ml" 148 4801 4805 "music.ml" 154 5019 5078
+)
+"music.ml" 147 4762 4775 "music.ml" 147 4762 4779
+type(
+  event stream
+)
+ident(
+  def astr "music.ml" 148 4801 4805 "music.ml" 154 5019 5078
+)
+"music.ml" 147 4762 4766 "music.ml" 147 4762 4780
+type(
+  event str
+)
+"music.ml" 147 4762 4787 "music.ml" 147 4762 4789
+type(
+  event
+)
+ident(
+  def e2 "music.ml" 148 4801 4805 "music.ml" 154 5019 5078
+)
+"music.ml" 147 4762 4790 "music.ml" 147 4762 4794
+type(
+  event stream
+)
+ident(
+  def bstr "music.ml" 148 4801 4805 "music.ml" 154 5019 5078
+)
+"music.ml" 147 4762 4782 "music.ml" 147 4762 4795
+type(
+  event str
+)
+"music.ml" 147 4762 4766 "music.ml" 147 4762 4795
+type(
+  event str * event str
+)
+"music.ml" 148 4801 4809 "music.ml" 148 4801 4813
+type(
+  float
+)
+ident(
+  def diff "music.ml" 149 4860 4864 "music.ml" 154 5019 5078
+)
+"music.ml" 148 4801 4817 "music.ml" 148 4801 4830
+type(
+  event -> float
+)
+ident(
+  int_ref time_of_event "music.ml" 137 4388 4392 "music.ml" 137 4388 4405
+)
+"music.ml" 148 4801 4831 "music.ml" 148 4801 4833
+type(
+  event
+)
+ident(
+  int_ref e1 "music.ml" 147 4762 4771 "music.ml" 147 4762 4773
+)
+"music.ml" 148 4801 4817 "music.ml" 148 4801 4833
+call(
+  stack
+)
+type(
+  float
+)
+"music.ml" 148 4801 4835 "music.ml" 148 4801 4837
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( -. )
+)
+"music.ml" 148 4801 4839 "music.ml" 148 4801 4852
+type(
+  event -> float
+)
+ident(
+  int_ref time_of_event "music.ml" 137 4388 4392 "music.ml" 137 4388 4405
+)
+"music.ml" 148 4801 4853 "music.ml" 148 4801 4855
+type(
+  event
+)
+ident(
+  int_ref e2 "music.ml" 147 4762 4787 "music.ml" 147 4762 4789
+)
+"music.ml" 148 4801 4839 "music.ml" 148 4801 4855
+call(
+  stack
+)
+type(
+  float
+)
+"music.ml" 148 4801 4816 "music.ml" 148 4801 4856
+type(
+  float
+)
+"music.ml" 149 4860 4867 "music.ml" 149 4860 4871
+type(
+  float
+)
+ident(
+  int_ref diff "music.ml" 148 4801 4809 "music.ml" 148 4801 4813
+)
+"music.ml" 149 4860 4872 "music.ml" 149 4860 4874
+type(
+  float -> float -> bool
+)
+ident(
+  ext_ref Pervasives.( <= )
+)
+"music.ml" 149 4860 4875 "music.ml" 149 4860 4877
+type(
+  float
+)
+"music.ml" 149 4860 4867 "music.ml" 149 4860 4877
+type(
+  bool
+)
+"music.ml" 150 4883 4894 "music.ml" 150 4883 4896
+type(
+  unit
+)
+"music.ml" 150 4883 4905 "music.ml" 150 4883 4907
+type(
+  event
+)
+ident(
+  int_ref e1 "music.ml" 147 4762 4771 "music.ml" 147 4762 4773
+)
+"music.ml" 150 4883 4909 "music.ml" 150 4883 4913
+type(
+  event stream -> event stream -> event stream
+)
+ident(
+  int_ref pair "music.ml" 145 4668 4676 "music.ml" 145 4668 4680
+)
+"music.ml" 150 4883 4914 "music.ml" 150 4883 4918
+type(
+  event stream
+)
+ident(
+  int_ref astr "music.ml" 147 4762 4775 "music.ml" 147 4762 4779
+)
+"music.ml" 151 4920 4931 "music.ml" 151 4920 4942
+type(
+  float -> event stream -> event stream
+)
+ident(
+  int_ref shift_start "music.ml" 114 3375 3379 "music.ml" 114 3375 3390
+)
+"music.ml" 151 4920 4945 "music.ml" 151 4920 4948
+type(
+  float
+)
+"music.ml" 151 4920 4950 "music.ml" 151 4920 4952
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( *. )
+)
+"music.ml" 151 4920 4954 "music.ml" 151 4920 4967
+type(
+  event -> float
+)
+ident(
+  int_ref time_of_event "music.ml" 137 4388 4392 "music.ml" 137 4388 4405
+)
+"music.ml" 151 4920 4968 "music.ml" 151 4920 4970
+type(
+  event
+)
+ident(
+  int_ref e1 "music.ml" 147 4762 4771 "music.ml" 147 4762 4773
+)
+"music.ml" 151 4920 4954 "music.ml" 151 4920 4970
+call(
+  stack
+)
+type(
+  float
+)
+"music.ml" 151 4920 4944 "music.ml" 151 4920 4971
+type(
+  float
+)
+"music.ml" 151 4920 4973 "music.ml" 151 4920 4974
+type(
+  event stream
+)
+ident(
+  int_ref b "music.ml" 145 4668 4701 "music.ml" 145 4668 4702
+)
+"music.ml" 151 4920 4931 "music.ml" 151 4920 4974
+call(
+  stack
+)
+type(
+  event stream
+)
+"music.ml" 150 4883 4909 "music.ml" 151 4920 4975
+call(
+  stack
+)
+type(
+  event stream
+)
+"music.ml" 150 4883 4900 "music.ml" 151 4920 4976
+type(
+  event str
+)
+"music.ml" 150 4883 4894 "music.ml" 151 4920 4976
+type(
+  unit -> event str
+)
+"music.ml" 153 4987 4998 "music.ml" 153 4987 5000
+type(
+  unit
+)
+"music.ml" 153 4987 5009 "music.ml" 153 4987 5011
+type(
+  event
+)
+ident(
+  int_ref e2 "music.ml" 147 4762 4787 "music.ml" 147 4762 4789
+)
+"music.ml" 153 4987 5013 "music.ml" 153 4987 5017
+type(
+  event stream -> event stream -> event stream
+)
+ident(
+  int_ref pair "music.ml" 145 4668 4676 "music.ml" 145 4668 4680
+)
+"music.ml" 154 5019 5027 "music.ml" 154 5019 5038
+type(
+  float -> event stream -> event stream
+)
+ident(
+  int_ref shift_start "music.ml" 114 3375 3379 "music.ml" 114 3375 3390
+)
+"music.ml" 154 5019 5041 "music.ml" 154 5019 5044
+type(
+  float
+)
+"music.ml" 154 5019 5046 "music.ml" 154 5019 5048
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( *. )
+)
+"music.ml" 154 5019 5050 "music.ml" 154 5019 5063
+type(
+  event -> float
+)
+ident(
+  int_ref time_of_event "music.ml" 137 4388 4392 "music.ml" 137 4388 4405
+)
+"music.ml" 154 5019 5064 "music.ml" 154 5019 5066
+type(
+  event
+)
+ident(
+  int_ref e2 "music.ml" 147 4762 4787 "music.ml" 147 4762 4789
+)
+"music.ml" 154 5019 5050 "music.ml" 154 5019 5066
+call(
+  stack
+)
+type(
+  float
+)
+"music.ml" 154 5019 5040 "music.ml" 154 5019 5067
+type(
+  float
+)
+"music.ml" 154 5019 5069 "music.ml" 154 5019 5070
+type(
+  event stream
+)
+ident(
+  int_ref a "music.ml" 145 4668 4682 "music.ml" 145 4668 4683
+)
+"music.ml" 154 5019 5027 "music.ml" 154 5019 5070
+call(
+  stack
+)
+type(
+  event stream
+)
+"music.ml" 154 5019 5072 "music.ml" 154 5019 5076
+type(
+  event stream
+)
+ident(
+  int_ref bstr "music.ml" 147 4762 4790 "music.ml" 147 4762 4794
+)
+"music.ml" 153 4987 5013 "music.ml" 154 5019 5076
+call(
+  stack
+)
+type(
+  event stream
+)
+"music.ml" 153 4987 5004 "music.ml" 154 5019 5077
+type(
+  event str
+)
+"music.ml" 153 4987 4998 "music.ml" 154 5019 5077
+type(
+  unit -> event str
+)
+"music.ml" 149 4860 4864 "music.ml" 154 5019 5078
+type(
+  unit -> event str
+)
+"music.ml" 148 4801 4805 "music.ml" 154 5019 5078
+type(
+  unit -> event str
+)
+"music.ml" 146 4736 4738 "music.ml" 154 5019 5078
+type(
+  event stream
+)
+type(
+  event stream
+)
+"music.ml" 145 4668 4700 "music.ml" 154 5019 5078
+type(
+  event stream -> event stream
+)
+"music.ml" 145 4668 4681 "music.ml" 154 5019 5078
+type(
+  event stream -> event stream -> event stream
+)
+"music.ml" 162 5346 5350 "music.ml" 162 5346 5365
+type(
+  p * int -> int -> p * int
+)
+ident(
+  def transpose_pitch "music.ml" 169 5626 5626 "music.ml" 1 0 -1
+)
+"music.ml" 162 5346 5367 "music.ml" 162 5346 5368
+type(
+  p
+)
+ident(
+  def p "music.ml" 162 5346 5375 "music.ml" 167 5572 5624
+)
+"music.ml" 162 5346 5370 "music.ml" 162 5346 5373
+type(
+  int
+)
+ident(
+  def oct "music.ml" 162 5346 5375 "music.ml" 167 5572 5624
+)
+"music.ml" 162 5346 5367 "music.ml" 162 5346 5373
+type(
+  p * int
+)
+"music.ml" 162 5346 5375 "music.ml" 162 5346 5385
+type(
+  int
+)
+ident(
+  def half_steps "music.ml" 163 5388 5390 "music.ml" 167 5572 5624
+)
+"music.ml" 163 5388 5394 "music.ml" 163 5388 5398
+type(
+  int
+)
+ident(
+  def newp "music.ml" 164 5430 5434 "music.ml" 167 5572 5624
+)
+"music.ml" 163 5388 5402 "music.ml" 163 5388 5410
+type(
+  p -> int
+)
+ident(
+  int_ref p_to_int "music.ml" 14 295 299 "music.ml" 14 295 307
+)
+"music.ml" 163 5388 5411 "music.ml" 163 5388 5412
+type(
+  p
+)
+ident(
+  int_ref p "music.ml" 162 5346 5367 "music.ml" 162 5346 5368
+)
+"music.ml" 163 5388 5402 "music.ml" 163 5388 5412
+call(
+  stack
+)
+type(
+  int
+)
+"music.ml" 163 5388 5414 "music.ml" 163 5388 5415
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"music.ml" 163 5388 5416 "music.ml" 163 5388 5426
+type(
+  int
+)
+ident(
+  int_ref half_steps "music.ml" 162 5346 5375 "music.ml" 162 5346 5385
+)
+"music.ml" 163 5388 5401 "music.ml" 163 5388 5426
+type(
+  int
+)
+"music.ml" 164 5430 5437 "music.ml" 164 5430 5441
+type(
+  int
+)
+ident(
+  int_ref newp "music.ml" 163 5388 5394 "music.ml" 163 5388 5398
+)
+"music.ml" 164 5430 5442 "music.ml" 164 5430 5443
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"music.ml" 164 5430 5444 "music.ml" 164 5430 5445
+type(
+  int
+)
+"music.ml" 164 5430 5437 "music.ml" 164 5430 5445
+type(
+  bool
+)
+"music.ml" 165 5451 5461 "music.ml" 165 5451 5465
+type(
+  int
+)
+ident(
+  int_ref newp "music.ml" 163 5388 5394 "music.ml" 163 5388 5398
+)
+"music.ml" 165 5451 5470 "music.ml" 165 5451 5472
+type(
+  int
+)
+"music.ml" 165 5451 5461 "music.ml" 165 5451 5472
+type(
+  int
+)
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( mod )
+)
+"music.ml" 165 5451 5474 "music.ml" 165 5451 5475
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"music.ml" 165 5451 5476 "music.ml" 165 5451 5477
+type(
+  int
+)
+"music.ml" 165 5451 5460 "music.ml" 165 5451 5477
+type(
+  bool
+)
+"music.ml" 165 5451 5484 "music.ml" 165 5451 5485
+type(
+  p
+)
+"music.ml" 165 5451 5487 "music.ml" 165 5451 5490
+type(
+  int
+)
+ident(
+  int_ref oct "music.ml" 162 5346 5370 "music.ml" 162 5346 5373
+)
+"music.ml" 165 5451 5491 "music.ml" 165 5451 5492
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"music.ml" 165 5451 5494 "music.ml" 165 5451 5498
+type(
+  int
+)
+ident(
+  int_ref newp "music.ml" 163 5388 5394 "music.ml" 163 5388 5398
+)
+"music.ml" 165 5451 5499 "music.ml" 165 5451 5500
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( / )
+)
+"music.ml" 165 5451 5501 "music.ml" 165 5451 5503
+type(
+  int
+)
+"music.ml" 165 5451 5494 "music.ml" 165 5451 5503
+type(
+  int
+)
+"music.ml" 165 5451 5487 "music.ml" 165 5451 5504
+type(
+  int
+)
+"music.ml" 165 5451 5484 "music.ml" 165 5451 5504
+type(
+  p * int
+)
+"music.ml" 166 5506 5518 "music.ml" 166 5506 5526
+type(
+  int -> p
+)
+ident(
+  int_ref int_to_p "music.ml" 18 447 451 "music.ml" 18 447 459
+)
+"music.ml" 166 5506 5529 "music.ml" 166 5506 5533
+type(
+  int
+)
+ident(
+  int_ref newp "music.ml" 163 5388 5394 "music.ml" 163 5388 5398
+)
+"music.ml" 166 5506 5538 "music.ml" 166 5506 5540
+type(
+  int
+)
+"music.ml" 166 5506 5529 "music.ml" 166 5506 5540
+type(
+  int
+)
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( mod )
+)
+"music.ml" 166 5506 5542 "music.ml" 166 5506 5543
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"music.ml" 166 5506 5544 "music.ml" 166 5506 5546
+type(
+  int
+)
+"music.ml" 166 5506 5528 "music.ml" 166 5506 5546
+type(
+  int
+)
+"music.ml" 166 5506 5518 "music.ml" 166 5506 5547
+call(
+  stack
+)
+type(
+  p
+)
+"music.ml" 166 5506 5549 "music.ml" 166 5506 5552
+type(
+  int
+)
+ident(
+  int_ref oct "music.ml" 162 5346 5370 "music.ml" 162 5346 5373
+)
+"music.ml" 166 5506 5553 "music.ml" 166 5506 5554
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"music.ml" 166 5506 5555 "music.ml" 166 5506 5556
+type(
+  int
+)
+"music.ml" 166 5506 5549 "music.ml" 166 5506 5556
+type(
+  int
+)
+"music.ml" 166 5506 5557 "music.ml" 166 5506 5558
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"music.ml" 166 5506 5560 "music.ml" 166 5506 5564
+type(
+  int
+)
+ident(
+  int_ref newp "music.ml" 163 5388 5394 "music.ml" 163 5388 5398
+)
+"music.ml" 166 5506 5565 "music.ml" 166 5506 5566
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( / )
+)
+"music.ml" 166 5506 5567 "music.ml" 166 5506 5569
+type(
+  int
+)
+"music.ml" 166 5506 5560 "music.ml" 166 5506 5569
+type(
+  int
+)
+"music.ml" 166 5506 5549 "music.ml" 166 5506 5570
+type(
+  int
+)
+"music.ml" 166 5506 5518 "music.ml" 166 5506 5570
+type(
+  p * int
+)
+"music.ml" 165 5451 5457 "music.ml" 166 5506 5571
+type(
+  p * int
+)
+"music.ml" 167 5572 5582 "music.ml" 167 5572 5590
+type(
+  int -> p
+)
+ident(
+  int_ref int_to_p "music.ml" 18 447 451 "music.ml" 18 447 459
+)
+"music.ml" 167 5572 5592 "music.ml" 167 5572 5596
+type(
+  int
+)
+ident(
+  int_ref newp "music.ml" 163 5388 5394 "music.ml" 163 5388 5398
+)
+"music.ml" 167 5572 5601 "music.ml" 167 5572 5603
+type(
+  int
+)
+"music.ml" 167 5572 5592 "music.ml" 167 5572 5603
+type(
+  int
+)
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( mod )
+)
+"music.ml" 167 5572 5582 "music.ml" 167 5572 5604
+call(
+  stack
+)
+type(
+  p
+)
+"music.ml" 167 5572 5606 "music.ml" 167 5572 5609
+type(
+  int
+)
+ident(
+  int_ref oct "music.ml" 162 5346 5370 "music.ml" 162 5346 5373
+)
+"music.ml" 167 5572 5610 "music.ml" 167 5572 5611
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"music.ml" 167 5572 5613 "music.ml" 167 5572 5617
+type(
+  int
+)
+ident(
+  int_ref newp "music.ml" 163 5388 5394 "music.ml" 163 5388 5398
+)
+"music.ml" 167 5572 5618 "music.ml" 167 5572 5619
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( / )
+)
+"music.ml" 167 5572 5620 "music.ml" 167 5572 5622
+type(
+  int
+)
+"music.ml" 167 5572 5613 "music.ml" 167 5572 5622
+type(
+  int
+)
+"music.ml" 167 5572 5606 "music.ml" 167 5572 5623
+type(
+  int
+)
+"music.ml" 167 5572 5582 "music.ml" 167 5572 5623
+type(
+  p * int
+)
+"music.ml" 164 5430 5434 "music.ml" 167 5572 5624
+type(
+  p * int
+)
+"music.ml" 163 5388 5390 "music.ml" 167 5572 5624
+type(
+  p * int
+)
+"music.ml" 162 5346 5375 "music.ml" 167 5572 5624
+type(
+  int -> p * int
+)
+"music.ml" 162 5346 5366 "music.ml" 167 5572 5624
+type(
+  p * int -> int -> p * int
+)
+"music.ml" 169 5626 5634 "music.ml" 169 5626 5643
+type(
+  event stream -> int -> event stream
+)
+ident(
+  def transpose "music.ml" 169 5626 5626 "music.ml" 1 0 -1
+)
+"music.ml" 169 5626 5645 "music.ml" 169 5626 5648
+type(
+  event stream
+)
+ident(
+  def str "music.ml" 169 5626 5665 "music.ml" 176 5945 5978
+)
+"music.ml" 169 5626 5666 "music.ml" 169 5626 5676
+type(
+  int
+)
+ident(
+  def half_steps "music.ml" 169 5626 5684 "music.ml" 176 5945 5978
+)
+"music.ml" 170 5701 5711 "music.ml" 170 5701 5714
+type(
+  event stream
+)
+ident(
+  int_ref str "music.ml" 169 5626 5645 "music.ml" 169 5626 5648
+)
+"music.ml" 170 5701 5715 "music.ml" 170 5701 5717
+type(
+  unit
+)
+"music.ml" 170 5701 5711 "music.ml" 170 5701 5717
+call(
+  stack
+)
+type(
+  event str
+)
+"music.ml" 171 5723 5740 "music.ml" 171 5723 5741
+type(
+  float
+)
+ident(
+  def x "music.ml" 172 5755 5766 "music.ml" 173 5819 5851
+)
+"music.ml" 171 5723 5742 "music.ml" 171 5723 5743
+type(
+  pitch
+)
+ident(
+  def y "music.ml" 172 5755 5766 "music.ml" 173 5819 5851
+)
+"music.ml" 171 5723 5744 "music.ml" 171 5723 5745
+type(
+  int
+)
+ident(
+  def z "music.ml" 172 5755 5766 "music.ml" 173 5819 5851
+)
+"music.ml" 171 5723 5734 "music.ml" 171 5723 5746
+type(
+  event
+)
+"music.ml" 171 5723 5748 "music.ml" 171 5723 5749
+type(
+  event stream
+)
+ident(
+  def a "music.ml" 172 5755 5766 "music.ml" 173 5819 5851
+)
+"music.ml" 171 5723 5728 "music.ml" 171 5723 5750
+type(
+  event str
+)
+"music.ml" 172 5755 5766 "music.ml" 172 5755 5768
+type(
+  unit
+)
+"music.ml" 172 5755 5783 "music.ml" 172 5755 5784
+type(
+  float
+)
+ident(
+  int_ref x "music.ml" 171 5723 5740 "music.ml" 171 5723 5741
+)
+"music.ml" 172 5755 5786 "music.ml" 172 5755 5801
+type(
+  pitch -> int -> pitch
+)
+ident(
+  int_ref transpose_pitch "music.ml" 162 5346 5350 "music.ml" 162 5346 5365
+)
+"music.ml" 172 5755 5802 "music.ml" 172 5755 5803
+type(
+  pitch
+)
+ident(
+  int_ref y "music.ml" 171 5723 5742 "music.ml" 171 5723 5743
+)
+"music.ml" 172 5755 5804 "music.ml" 172 5755 5814
+type(
+  int
+)
+ident(
+  int_ref half_steps "music.ml" 169 5626 5666 "music.ml" 169 5626 5676
+)
+"music.ml" 172 5755 5786 "music.ml" 172 5755 5814
+call(
+  stack
+)
+type(
+  pitch
+)
+"music.ml" 172 5755 5815 "music.ml" 172 5755 5816
+type(
+  int
+)
+ident(
+  int_ref z "music.ml" 171 5723 5744 "music.ml" 171 5723 5745
+)
+"music.ml" 172 5755 5778 "music.ml" 172 5755 5817
+type(
+  event
+)
+"music.ml" 173 5819 5828 "music.ml" 173 5819 5837
+type(
+  event stream -> int -> event stream
+)
+ident(
+  int_ref transpose "music.ml" 169 5626 5634 "music.ml" 169 5626 5643
+)
+"music.ml" 173 5819 5838 "music.ml" 173 5819 5839
+type(
+  event stream
+)
+ident(
+  int_ref a "music.ml" 171 5723 5748 "music.ml" 171 5723 5749
+)
+"music.ml" 173 5819 5840 "music.ml" 173 5819 5850
+type(
+  int
+)
+ident(
+  int_ref half_steps "music.ml" 169 5626 5666 "music.ml" 169 5626 5676
+)
+"music.ml" 173 5819 5828 "music.ml" 173 5819 5850
+call(
+  stack
+)
+type(
+  event stream
+)
+"music.ml" 172 5755 5772 "music.ml" 173 5819 5851
+type(
+  event str
+)
+"music.ml" 172 5755 5766 "music.ml" 173 5819 5851
+type(
+  unit -> event str
+)
+"music.ml" 174 5853 5870 "music.ml" 174 5853 5871
+type(
+  float
+)
+ident(
+  def x "music.ml" 175 5883 5894 "music.ml" 176 5945 5977
+)
+"music.ml" 174 5853 5873 "music.ml" 174 5853 5874
+type(
+  pitch
+)
+ident(
+  def y "music.ml" 175 5883 5894 "music.ml" 176 5945 5977
+)
+"music.ml" 174 5853 5864 "music.ml" 174 5853 5875
+type(
+  event
+)
+"music.ml" 174 5853 5877 "music.ml" 174 5853 5878
+type(
+  event stream
+)
+ident(
+  def a "music.ml" 175 5883 5894 "music.ml" 176 5945 5977
+)
+"music.ml" 174 5853 5858 "music.ml" 174 5853 5879
+type(
+  event str
+)
+"music.ml" 175 5883 5894 "music.ml" 175 5883 5896
+type(
+  unit
+)
+"music.ml" 175 5883 5911 "music.ml" 175 5883 5912
+type(
+  float
+)
+ident(
+  int_ref x "music.ml" 174 5853 5870 "music.ml" 174 5853 5871
+)
+"music.ml" 175 5883 5914 "music.ml" 175 5883 5929
+type(
+  pitch -> int -> pitch
+)
+ident(
+  int_ref transpose_pitch "music.ml" 162 5346 5350 "music.ml" 162 5346 5365
+)
+"music.ml" 175 5883 5930 "music.ml" 175 5883 5931
+type(
+  pitch
+)
+ident(
+  int_ref y "music.ml" 174 5853 5873 "music.ml" 174 5853 5874
+)
+"music.ml" 175 5883 5932 "music.ml" 175 5883 5942
+type(
+  int
+)
+ident(
+  int_ref half_steps "music.ml" 169 5626 5666 "music.ml" 169 5626 5676
+)
+"music.ml" 175 5883 5914 "music.ml" 175 5883 5942
+call(
+  stack
+)
+type(
+  pitch
+)
+"music.ml" 175 5883 5906 "music.ml" 175 5883 5943
+type(
+  event
+)
+"music.ml" 176 5945 5954 "music.ml" 176 5945 5963
+type(
+  event stream -> int -> event stream
+)
+ident(
+  int_ref transpose "music.ml" 169 5626 5634 "music.ml" 169 5626 5643
+)
+"music.ml" 176 5945 5964 "music.ml" 176 5945 5965
+type(
+  event stream
+)
+ident(
+  int_ref a "music.ml" 174 5853 5877 "music.ml" 174 5853 5878
+)
+"music.ml" 176 5945 5966 "music.ml" 176 5945 5976
+type(
+  int
+)
+ident(
+  int_ref half_steps "music.ml" 169 5626 5666 "music.ml" 169 5626 5676
+)
+"music.ml" 176 5945 5954 "music.ml" 176 5945 5976
+call(
+  stack
+)
+type(
+  event stream
+)
+"music.ml" 175 5883 5900 "music.ml" 176 5945 5977
+type(
+  event str
+)
+"music.ml" 175 5883 5894 "music.ml" 176 5945 5977
+type(
+  unit -> event str
+)
+"music.ml" 170 5701 5705 "music.ml" 176 5945 5978
+type(
+  event stream
+)
+type(
+  event stream
+)
+"music.ml" 169 5626 5665 "music.ml" 176 5945 5978
+type(
+  int -> event stream
+)
+"music.ml" 169 5626 5644 "music.ml" 176 5945 5978
+type(
+  event stream -> int -> event stream
+)
+"music.ml" 179 6018 6022 "music.ml" 179 6018 6029
+type(
+  pitch -> obj
+)
+ident(
+  def quarter "music.ml" 181 6055 6055 "music.ml" 1 0 -1
+)
+"music.ml" 179 6018 6030 "music.ml" 179 6018 6032
+type(
+  pitch
+)
+ident(
+  def pt "music.ml" 179 6018 6035 "music.ml" 179 6018 6051
+)
+"music.ml" 179 6018 6040 "music.ml" 179 6018 6042
+type(
+  pitch
+)
+ident(
+  int_ref pt "music.ml" 179 6018 6030 "music.ml" 179 6018 6032
+)
+"music.ml" 179 6018 6043 "music.ml" 179 6018 6047
+type(
+  float
+)
+"music.ml" 179 6018 6048 "music.ml" 179 6018 6050
+type(
+  int
+)
+"music.ml" 179 6018 6035 "music.ml" 179 6018 6051
+type(
+  obj
+)
+"music.ml" 179 6018 6030 "music.ml" 179 6018 6051
+type(
+  pitch -> obj
+)
+"music.ml" 181 6055 6059 "music.ml" 181 6055 6065
+type(
+  pitch -> obj
+)
+ident(
+  def eighth "music.ml" 187 6259 6259 "music.ml" 1 0 -1
+)
+"music.ml" 181 6055 6066 "music.ml" 181 6055 6068
+type(
+  pitch
+)
+ident(
+  def pt "music.ml" 181 6055 6071 "music.ml" 181 6055 6088
+)
+"music.ml" 181 6055 6076 "music.ml" 181 6055 6078
+type(
+  pitch
+)
+ident(
+  int_ref pt "music.ml" 181 6055 6066 "music.ml" 181 6055 6068
+)
+"music.ml" 181 6055 6079 "music.ml" 181 6055 6084
+type(
+  float
+)
+"music.ml" 181 6055 6085 "music.ml" 181 6055 6087
+type(
+  int
+)
+"music.ml" 181 6055 6071 "music.ml" 181 6055 6088
+type(
+  obj
+)
+"music.ml" 181 6055 6066 "music.ml" 181 6055 6088
+type(
+  pitch -> obj
+)
+"music.ml" 187 6259 6263 "music.ml" 187 6259 6278
+type(
+  pitch -> string
+)
+ident(
+  def pitch_to_string "music.ml" 194 6520 6520 "music.ml" 1 0 -1
+)
+"music.ml" 187 6259 6281 "music.ml" 187 6259 6282
+type(
+  p
+)
+ident(
+  def p "music.ml" 188 6298 6300 "music.ml" 192 6476 6518
+)
+"music.ml" 187 6259 6284 "music.ml" 187 6259 6285
+type(
+  int
+)
+ident(
+  def i "music.ml" 188 6298 6300 "music.ml" 192 6476 6518
+)
+"music.ml" 187 6259 6281 "music.ml" 187 6259 6285
+type(
+  pitch
+)
+"music.ml" 188 6298 6304 "music.ml" 188 6298 6305
+type(
+  string
+)
+ident(
+  def s "music.ml" 192 6476 6478 "music.ml" 192 6476 6518
+)
+"music.ml" 188 6298 6314 "music.ml" 188 6298 6315
+type(
+  p
+)
+ident(
+  int_ref p "music.ml" 187 6259 6281 "music.ml" 187 6259 6282
+)
+"music.ml" 188 6298 6323 "music.ml" 188 6298 6324
+type(
+  p
+)
+"music.ml" 188 6298 6328 "music.ml" 188 6298 6331
+type(
+  string
+)
+"music.ml" 188 6298 6334 "music.ml" 188 6298 6336
+type(
+  p
+)
+"music.ml" 188 6298 6340 "music.ml" 188 6298 6344
+type(
+  string
+)
+"music.ml" 188 6298 6347 "music.ml" 188 6298 6348
+type(
+  p
+)
+"music.ml" 188 6298 6352 "music.ml" 188 6298 6355
+type(
+  string
+)
+"music.ml" 188 6298 6357 "music.ml" 188 6298 6358
+type(
+  p
+)
+"music.ml" 188 6298 6362 "music.ml" 188 6298 6365
+type(
+  string
+)
+"music.ml" 188 6298 6368 "music.ml" 188 6298 6370
+type(
+  p
+)
+"music.ml" 188 6298 6374 "music.ml" 188 6298 6378
+type(
+  string
+)
+"music.ml" 189 6379 6385 "music.ml" 189 6379 6386
+type(
+  p
+)
+"music.ml" 189 6379 6390 "music.ml" 189 6379 6393
+type(
+  string
+)
+"music.ml" 189 6379 6396 "music.ml" 189 6379 6398
+type(
+  p
+)
+"music.ml" 189 6379 6402 "music.ml" 189 6379 6406
+type(
+  string
+)
+"music.ml" 189 6379 6409 "music.ml" 189 6379 6410
+type(
+  p
+)
+"music.ml" 189 6379 6414 "music.ml" 189 6379 6417
+type(
+  string
+)
+"music.ml" 189 6379 6420 "music.ml" 189 6379 6421
+type(
+  p
+)
+"music.ml" 189 6379 6425 "music.ml" 189 6379 6428
+type(
+  string
+)
+"music.ml" 189 6379 6431 "music.ml" 189 6379 6433
+type(
+  p
+)
+"music.ml" 189 6379 6437 "music.ml" 189 6379 6441
+type(
+  string
+)
+"music.ml" 190 6443 6449 "music.ml" 190 6443 6450
+type(
+  p
+)
+"music.ml" 190 6443 6454 "music.ml" 190 6443 6457
+type(
+  string
+)
+"music.ml" 190 6443 6460 "music.ml" 190 6443 6462
+type(
+  p
+)
+"music.ml" 190 6443 6466 "music.ml" 190 6443 6470
+type(
+  string
+)
+"music.ml" 188 6298 6308 "music.ml" 190 6443 6470
+type(
+  string
+)
+"music.ml" 192 6476 6478 "music.ml" 192 6476 6481
+type(
+  string
+)
+"music.ml" 192 6476 6482 "music.ml" 192 6476 6483
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"music.ml" 192 6476 6484 "music.ml" 192 6476 6485
+type(
+  string
+)
+ident(
+  int_ref s "music.ml" 188 6298 6304 "music.ml" 188 6298 6305
+)
+"music.ml" 192 6476 6486 "music.ml" 192 6476 6487
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"music.ml" 192 6476 6488 "music.ml" 192 6476 6492
+type(
+  string
+)
+"music.ml" 192 6476 6493 "music.ml" 192 6476 6494
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"music.ml" 192 6476 6496 "music.ml" 192 6476 6509
+type(
+  int -> string
+)
+ident(
+  ext_ref Pervasives.string_of_int
+)
+"music.ml" 192 6476 6510 "music.ml" 192 6476 6511
+type(
+  int
+)
+ident(
+  int_ref i "music.ml" 187 6259 6284 "music.ml" 187 6259 6285
+)
+"music.ml" 192 6476 6496 "music.ml" 192 6476 6511
+call(
+  stack
+)
+type(
+  string
+)
+"music.ml" 192 6476 6513 "music.ml" 192 6476 6514
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"music.ml" 192 6476 6515 "music.ml" 192 6476 6518
+type(
+  string
+)
+"music.ml" 192 6476 6495 "music.ml" 192 6476 6518
+call(
+  stack
+)
+type(
+  string
+)
+"music.ml" 192 6476 6488 "music.ml" 192 6476 6518
+call(
+  stack
+)
+type(
+  string
+)
+"music.ml" 192 6476 6484 "music.ml" 192 6476 6518
+call(
+  stack
+)
+type(
+  string
+)
+"music.ml" 192 6476 6478 "music.ml" 192 6476 6518
+call(
+  tail
+)
+type(
+  string
+)
+"music.ml" 188 6298 6300 "music.ml" 192 6476 6518
+type(
+  string
+)
+"music.ml" 187 6259 6279 "music.ml" 192 6476 6518
+type(
+  pitch -> string
+)
+"music.ml" 194 6520 6528 "music.ml" 194 6520 6539
+type(
+  event stream -> int -> unit
+)
+ident(
+  def printstream "music.ml" 194 6520 6520 "music.ml" 1 0 -1
+)
+"music.ml" 194 6520 6540 "music.ml" 194 6520 6541
+type(
+  event stream
+)
+ident(
+  def e "music.ml" 194 6520 6542 "music.ml" 205 6939 6970
+)
+"music.ml" 194 6520 6542 "music.ml" 194 6520 6543
+type(
+  int
+)
+ident(
+  def n "music.ml" 195 6546 6548 "music.ml" 205 6939 6970
+)
+"music.ml" 195 6546 6551 "music.ml" 195 6546 6552
+type(
+  int
+)
+ident(
+  int_ref n "music.ml" 194 6520 6542 "music.ml" 194 6520 6543
+)
+"music.ml" 195 6546 6553 "music.ml" 195 6546 6554
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"music.ml" 195 6546 6555 "music.ml" 195 6546 6556
+type(
+  int
+)
+"music.ml" 195 6546 6551 "music.ml" 195 6546 6556
+type(
+  bool
+)
+"music.ml" 195 6546 6562 "music.ml" 195 6546 6564
+type(
+  unit
+)
+"music.ml" 196 6570 6578 "music.ml" 196 6570 6579
+type(
+  event stream
+)
+ident(
+  int_ref e "music.ml" 194 6520 6540 "music.ml" 194 6520 6541
+)
+"music.ml" 196 6570 6580 "music.ml" 196 6570 6582
+type(
+  unit
+)
+"music.ml" 196 6570 6578 "music.ml" 196 6570 6582
+call(
+  stack
+)
+type(
+  event str
+)
+"music.ml" 197 6588 6597 "music.ml" 197 6588 6598
+type(
+  event
+)
+ident(
+  def e "music.ml" 198 6609 6613 "music.ml" 205 6939 6970
+)
+"music.ml" 197 6588 6600 "music.ml" 197 6588 6604
+type(
+  event stream
+)
+ident(
+  def next "music.ml" 198 6609 6613 "music.ml" 205 6939 6970
+)
+"music.ml" 197 6588 6591 "music.ml" 197 6588 6605
+type(
+  event str
+)
+"music.ml" 198 6609 6619 "music.ml" 198 6609 6620
+type(
+  event
+)
+ident(
+  int_ref e "music.ml" 197 6588 6597 "music.ml" 197 6588 6598
+)
+"music.ml" 199 6627 6638 "music.ml" 199 6627 6639
+type(
+  float
+)
+ident(
+  def x "music.ml" 199 6627 6650 "music.ml" 202 6787 6818
+)
+"music.ml" 199 6627 6641 "music.ml" 199 6627 6642
+type(
+  pitch
+)
+ident(
+  def y "music.ml" 199 6627 6650 "music.ml" 202 6787 6818
+)
+"music.ml" 199 6627 6644 "music.ml" 199 6627 6645
+type(
+  int
+)
+ident(
+  def z "music.ml" 199 6627 6650 "music.ml" 202 6787 6818
+)
+"music.ml" 199 6627 6632 "music.ml" 199 6627 6646
+type(
+  event
+)
+"music.ml" 199 6627 6650 "music.ml" 199 6627 6663
+type(
+  (string -> unit, out_channel, unit) format -> string -> unit
+)
+ident(
+  ext_ref Core.Std.Printf.printf
+)
+"music.ml" 199 6627 6664 "music.ml" 199 6627 6668
+type(
+  (string -> unit, out_channel, unit) format
+)
+"music.ml" 199 6627 6670 "music.ml" 199 6627 6681
+type(
+  string
+)
+"music.ml" 199 6627 6682 "music.ml" 199 6627 6683
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"music.ml" 199 6627 6685 "music.ml" 199 6627 6700
+type(
+  float -> string
+)
+ident(
+  ext_ref Core.Std.Float.to_string
+)
+"music.ml" 199 6627 6701 "music.ml" 199 6627 6702
+type(
+  float
+)
+ident(
+  int_ref x "music.ml" 199 6627 6638 "music.ml" 199 6627 6639
+)
+"music.ml" 199 6627 6685 "music.ml" 199 6627 6702
+call(
+  stack
+)
+type(
+  string
+)
+"music.ml" 199 6627 6704 "music.ml" 199 6627 6705
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"music.ml" 200 6707 6715 "music.ml" 200 6707 6719
+type(
+  string
+)
+"music.ml" 200 6707 6720 "music.ml" 200 6707 6721
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"music.ml" 200 6707 6723 "music.ml" 200 6707 6738
+type(
+  pitch -> string
+)
+ident(
+  int_ref pitch_to_string "music.ml" 187 6259 6263 "music.ml" 187 6259 6278
+)
+"music.ml" 200 6707 6739 "music.ml" 200 6707 6740
+type(
+  pitch
+)
+ident(
+  int_ref y "music.ml" 199 6627 6641 "music.ml" 199 6627 6642
+)
+"music.ml" 200 6707 6723 "music.ml" 200 6707 6740
+call(
+  stack
+)
+type(
+  string
+)
+"music.ml" 200 6707 6742 "music.ml" 200 6707 6743
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"music.ml" 200 6707 6744 "music.ml" 200 6707 6748
+type(
+  string
+)
+"music.ml" 200 6707 6749 "music.ml" 200 6707 6750
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"music.ml" 201 6751 6760 "music.ml" 201 6751 6773
+type(
+  int -> string
+)
+ident(
+  ext_ref Pervasives.string_of_int
+)
+"music.ml" 201 6751 6774 "music.ml" 201 6751 6775
+type(
+  int
+)
+ident(
+  int_ref z "music.ml" 199 6627 6644 "music.ml" 199 6627 6645
+)
+"music.ml" 201 6751 6760 "music.ml" 201 6751 6775
+call(
+  stack
+)
+type(
+  string
+)
+"music.ml" 201 6751 6777 "music.ml" 201 6751 6778
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"music.ml" 201 6751 6779 "music.ml" 201 6751 6784
+type(
+  string
+)
+"music.ml" 201 6751 6759 "music.ml" 201 6751 6784
+call(
+  stack
+)
+type(
+  string
+)
+"music.ml" 200 6707 6744 "music.ml" 201 6751 6784
+call(
+  stack
+)
+type(
+  string
+)
+"music.ml" 200 6707 6722 "music.ml" 201 6751 6784
+call(
+  stack
+)
+type(
+  string
+)
+"music.ml" 200 6707 6715 "music.ml" 201 6751 6784
+call(
+  stack
+)
+type(
+  string
+)
+"music.ml" 199 6627 6684 "music.ml" 201 6751 6784
+call(
+  stack
+)
+type(
+  string
+)
+"music.ml" 199 6627 6670 "music.ml" 201 6751 6784
+call(
+  stack
+)
+type(
+  string
+)
+"music.ml" 199 6627 6650 "music.ml" 201 6751 6785
+call(
+  stack
+)
+type(
+  unit
+)
+"music.ml" 202 6787 6796 "music.ml" 202 6787 6807
+type(
+  event stream -> int -> unit
+)
+ident(
+  int_ref printstream "music.ml" 194 6520 6528 "music.ml" 194 6520 6539
+)
+"music.ml" 202 6787 6808 "music.ml" 202 6787 6812
+type(
+  event stream
+)
+ident(
+  int_ref next "music.ml" 197 6588 6600 "music.ml" 197 6588 6604
+)
+"music.ml" 202 6787 6814 "music.ml" 202 6787 6815
+type(
+  int
+)
+ident(
+  int_ref n "music.ml" 194 6520 6542 "music.ml" 194 6520 6543
+)
+"music.ml" 202 6787 6815 "music.ml" 202 6787 6816
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"music.ml" 202 6787 6816 "music.ml" 202 6787 6817
+type(
+  int
+)
+"music.ml" 202 6787 6814 "music.ml" 202 6787 6817
+type(
+  int
+)
+"music.ml" 202 6787 6796 "music.ml" 202 6787 6818
+call(
+  tail
+)
+type(
+  unit
+)
+"music.ml" 199 6627 6650 "music.ml" 202 6787 6818
+type(
+  unit
+)
+"music.ml" 203 6819 6830 "music.ml" 203 6819 6831
+type(
+  float
+)
+ident(
+  def x "music.ml" 203 6819 6839 "music.ml" 205 6939 6970
+)
+"music.ml" 203 6819 6833 "music.ml" 203 6819 6834
+type(
+  pitch
+)
+ident(
+  def y "music.ml" 203 6819 6839 "music.ml" 205 6939 6970
+)
+"music.ml" 203 6819 6824 "music.ml" 203 6819 6835
+type(
+  event
+)
+"music.ml" 203 6819 6839 "music.ml" 203 6819 6852
+type(
+  (string -> unit, out_channel, unit) format -> string -> unit
+)
+ident(
+  ext_ref Core.Std.Printf.printf
+)
+"music.ml" 203 6819 6853 "music.ml" 203 6819 6857
+type(
+  (string -> unit, out_channel, unit) format
+)
+"music.ml" 203 6819 6859 "music.ml" 203 6819 6870
+type(
+  string
+)
+"music.ml" 203 6819 6871 "music.ml" 203 6819 6872
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"music.ml" 203 6819 6874 "music.ml" 203 6819 6889
+type(
+  float -> string
+)
+ident(
+  ext_ref Core.Std.Float.to_string
+)
+"music.ml" 203 6819 6890 "music.ml" 203 6819 6891
+type(
+  float
+)
+ident(
+  int_ref x "music.ml" 203 6819 6830 "music.ml" 203 6819 6831
+)
+"music.ml" 203 6819 6874 "music.ml" 203 6819 6891
+call(
+  stack
+)
+type(
+  string
+)
+"music.ml" 203 6819 6893 "music.ml" 203 6819 6894
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"music.ml" 204 6895 6902 "music.ml" 204 6895 6906
+type(
+  string
+)
+"music.ml" 204 6895 6907 "music.ml" 204 6895 6908
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"music.ml" 204 6895 6910 "music.ml" 204 6895 6925
+type(
+  pitch -> string
+)
+ident(
+  int_ref pitch_to_string "music.ml" 187 6259 6263 "music.ml" 187 6259 6278
+)
+"music.ml" 204 6895 6926 "music.ml" 204 6895 6927
+type(
+  pitch
+)
+ident(
+  int_ref y "music.ml" 203 6819 6833 "music.ml" 203 6819 6834
+)
+"music.ml" 204 6895 6910 "music.ml" 204 6895 6927
+call(
+  stack
+)
+type(
+  string
+)
+"music.ml" 204 6895 6929 "music.ml" 204 6895 6930
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"music.ml" 204 6895 6931 "music.ml" 204 6895 6936
+type(
+  string
+)
+"music.ml" 204 6895 6909 "music.ml" 204 6895 6936
+call(
+  stack
+)
+type(
+  string
+)
+"music.ml" 204 6895 6902 "music.ml" 204 6895 6936
+call(
+  stack
+)
+type(
+  string
+)
+"music.ml" 203 6819 6873 "music.ml" 204 6895 6936
+call(
+  stack
+)
+type(
+  string
+)
+"music.ml" 203 6819 6859 "music.ml" 204 6895 6936
+call(
+  stack
+)
+type(
+  string
+)
+"music.ml" 203 6819 6839 "music.ml" 204 6895 6937
+call(
+  stack
+)
+type(
+  unit
+)
+"music.ml" 205 6939 6948 "music.ml" 205 6939 6959
+type(
+  event stream -> int -> unit
+)
+ident(
+  int_ref printstream "music.ml" 194 6520 6528 "music.ml" 194 6520 6539
+)
+"music.ml" 205 6939 6960 "music.ml" 205 6939 6964
+type(
+  event stream
+)
+ident(
+  int_ref next "music.ml" 197 6588 6600 "music.ml" 197 6588 6604
+)
+"music.ml" 205 6939 6966 "music.ml" 205 6939 6967
+type(
+  int
+)
+ident(
+  int_ref n "music.ml" 194 6520 6542 "music.ml" 194 6520 6543
+)
+"music.ml" 205 6939 6967 "music.ml" 205 6939 6968
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"music.ml" 205 6939 6968 "music.ml" 205 6939 6969
+type(
+  int
+)
+"music.ml" 205 6939 6966 "music.ml" 205 6939 6969
+type(
+  int
+)
+"music.ml" 205 6939 6948 "music.ml" 205 6939 6970
+call(
+  tail
+)
+type(
+  unit
+)
+"music.ml" 203 6819 6839 "music.ml" 205 6939 6970
+type(
+  unit
+)
+"music.ml" 198 6609 6613 "music.ml" 205 6939 6970
+type(
+  unit
+)
+"music.ml" 196 6570 6572 "music.ml" 205 6939 6970
+type(
+  unit
+)
+"music.ml" 195 6546 6548 "music.ml" 205 6939 6970
+type(
+  unit
+)
+"music.ml" 194 6520 6542 "music.ml" 205 6939 6970
+type(
+  int -> unit
+)
+"music.ml" 194 6520 6540 "music.ml" 205 6939 6970
+type(
+  event stream -> int -> unit
+)
+"music.ml" 208 6973 6977 "music.ml" 208 6973 6983
+type(
+  event stream
+)
+ident(
+  def scale1 "music.ml" 211 7121 7121 "music.ml" 1 0 -1
+)
+"music.ml" 208 6973 6986 "music.ml" 208 6973 7000
+type(
+  obj list -> event stream
+)
+ident(
+  int_ref list_to_stream "music.ml" 124 3891 3899 "music.ml" 124 3891 3913
+)
+"music.ml" 208 6973 7002 "music.ml" 208 6973 7010
+type(
+  pitch list -> f:(pitch -> obj) -> obj list
+)
+ident(
+  ext_ref Core.Std.List.map
+)
+"music.ml" 208 6973 7014 "music.ml" 208 6973 7021
+type(
+  pitch -> obj
+)
+ident(
+  int_ref quarter "music.ml" 179 6018 6022 "music.ml" 179 6018 6029
+)
+"music.ml" 208 6973 7024 "music.ml" 208 6973 7025
+type(
+  p
+)
+"music.ml" 208 6973 7026 "music.ml" 208 6973 7027
+type(
+  int
+)
+"music.ml" 208 6973 7024 "music.ml" 208 6973 7027
+type(
+  pitch
+)
+"music.ml" 208 6973 7030 "music.ml" 208 6973 7031
+type(
+  p
+)
+"music.ml" 208 6973 7032 "music.ml" 208 6973 7033
+type(
+  int
+)
+"music.ml" 208 6973 7030 "music.ml" 208 6973 7033
+type(
+  pitch
+)
+"music.ml" 208 6973 7036 "music.ml" 208 6973 7037
+type(
+  p
+)
+"music.ml" 208 6973 7038 "music.ml" 208 6973 7039
+type(
+  int
+)
+"music.ml" 208 6973 7036 "music.ml" 208 6973 7039
+type(
+  pitch
+)
+"music.ml" 208 6973 7042 "music.ml" 208 6973 7043
+type(
+  p
+)
+"music.ml" 208 6973 7044 "music.ml" 208 6973 7045
+type(
+  int
+)
+"music.ml" 208 6973 7042 "music.ml" 208 6973 7045
+type(
+  pitch
+)
+"music.ml" 208 6973 7048 "music.ml" 208 6973 7049
+type(
+  p
+)
+"music.ml" 208 6973 7050 "music.ml" 208 6973 7051
+type(
+  int
+)
+"music.ml" 208 6973 7048 "music.ml" 208 6973 7051
+type(
+  pitch
+)
+"music.ml" 209 7054 7099 "music.ml" 209 7054 7100
+type(
+  p
+)
+"music.ml" 209 7054 7101 "music.ml" 209 7054 7102
+type(
+  int
+)
+"music.ml" 209 7054 7099 "music.ml" 209 7054 7102
+type(
+  pitch
+)
+"music.ml" 209 7054 7105 "music.ml" 209 7054 7106
+type(
+  p
+)
+"music.ml" 209 7054 7107 "music.ml" 209 7054 7108
+type(
+  int
+)
+"music.ml" 209 7054 7105 "music.ml" 209 7054 7108
+type(
+  pitch
+)
+"music.ml" 209 7054 7111 "music.ml" 209 7054 7112
+type(
+  p
+)
+"music.ml" 209 7054 7113 "music.ml" 209 7054 7114
+type(
+  int
+)
+"music.ml" 209 7054 7111 "music.ml" 209 7054 7114
+type(
+  pitch
+)
+"music.ml" 209 7054 7110 "music.ml" 209 7054 7115
+type(
+  pitch list
+)
+"music.ml" 209 7054 7104 "music.ml" 209 7054 7115
+type(
+  pitch list
+)
+"music.ml" 209 7054 7098 "music.ml" 209 7054 7115
+type(
+  pitch list
+)
+"music.ml" 208 6973 7047 "music.ml" 209 7054 7115
+type(
+  pitch list
+)
+"music.ml" 208 6973 7041 "music.ml" 209 7054 7115
+type(
+  pitch list
+)
+"music.ml" 208 6973 7035 "music.ml" 209 7054 7115
+type(
+  pitch list
+)
+"music.ml" 208 6973 7029 "music.ml" 209 7054 7115
+type(
+  pitch list
+)
+"music.ml" 208 6973 7023 "music.ml" 209 7054 7115
+type(
+  pitch list
+)
+"music.ml" 208 6973 7022 "music.ml" 209 7054 7116
+type(
+  pitch list
+)
+"music.ml" 208 6973 7002 "music.ml" 209 7054 7116
+call(
+  stack
+)
+type(
+  obj list
+)
+"music.ml" 208 6973 6986 "music.ml" 209 7054 7117
+call(
+  stack
+)
+type(
+  event stream
+)
+"music.ml" 211 7121 7125 "music.ml" 211 7121 7131
+type(
+  event stream
+)
+ident(
+  def scale2 "music.ml" 213 7156 7156 "music.ml" 1 0 -1
+)
+"music.ml" 211 7121 7134 "music.ml" 211 7121 7143
+type(
+  event stream -> int -> event stream
+)
+ident(
+  int_ref transpose "music.ml" 169 5626 5634 "music.ml" 169 5626 5643
+)
+"music.ml" 211 7121 7144 "music.ml" 211 7121 7150
+type(
+  event stream
+)
+ident(
+  int_ref scale1 "music.ml" 208 6973 6977 "music.ml" 208 6973 6983
+)
+"music.ml" 211 7121 7151 "music.ml" 211 7121 7152
+type(
+  int
+)
+"music.ml" 211 7121 7134 "music.ml" 211 7121 7152
+call(
+  stack
+)
+type(
+  event stream
+)
+"music.ml" 213 7156 7160 "music.ml" 213 7156 7166
+type(
+  event stream
+)
+ident(
+  def scales "music.ml" 215 7191 7191 "music.ml" 1 0 -1
+)
+"music.ml" 213 7156 7169 "music.ml" 213 7156 7173
+type(
+  event stream -> event stream -> event stream
+)
+ident(
+  int_ref pair "music.ml" 145 4668 4676 "music.ml" 145 4668 4680
+)
+"music.ml" 213 7156 7174 "music.ml" 213 7156 7180
+type(
+  event stream
+)
+ident(
+  int_ref scale1 "music.ml" 208 6973 6977 "music.ml" 208 6973 6983
+)
+"music.ml" 213 7156 7181 "music.ml" 213 7156 7187
+type(
+  event stream
+)
+ident(
+  int_ref scale2 "music.ml" 211 7121 7125 "music.ml" 211 7121 7131
+)
+"music.ml" 213 7156 7169 "music.ml" 213 7156 7187
+call(
+  stack
+)
+type(
+  event stream
+)
+"music.ml" 215 7191 7191 "music.ml" 215 7191 7202
+type(
+  string -> int -> event stream -> unit
+)
+ident(
+  int_ref output_midi "music.ml" 98 2886 2890 "music.ml" 98 2886 2901
+)
+"music.ml" 215 7191 7203 "music.ml" 215 7191 7214
+type(
+  string
+)
+"music.ml" 215 7191 7215 "music.ml" 215 7191 7217
+type(
+  int
+)
+"music.ml" 215 7191 7218 "music.ml" 215 7191 7224
+type(
+  event stream
+)
+ident(
+  int_ref scales "music.ml" 213 7156 7160 "music.ml" 213 7156 7166
+)
+"music.ml" 215 7191 7191 "music.ml" 215 7191 7224
+call(
+  stack
+)
+type(
+  unit
+)
+"music.ml" 222 7290 7294 "music.ml" 222 7290 7298
+type(
+  event stream
+)
+ident(
+  def bass "music.ml" 225 7438 7438 "music.ml" 1 0 -1
+)
+"music.ml" 222 7290 7301 "music.ml" 222 7290 7315
+type(
+  obj list -> event stream
+)
+ident(
+  int_ref list_to_stream "music.ml" 124 3891 3899 "music.ml" 124 3891 3913
+)
+"music.ml" 222 7290 7317 "music.ml" 222 7290 7325
+type(
+  pitch list -> f:(pitch -> obj) -> obj list
+)
+ident(
+  ext_ref Core.Std.List.map
+)
+"music.ml" 222 7290 7329 "music.ml" 222 7290 7336
+type(
+  pitch -> obj
+)
+ident(
+  int_ref quarter "music.ml" 179 6018 6022 "music.ml" 179 6018 6029
+)
+"music.ml" 222 7290 7339 "music.ml" 222 7290 7340
+type(
+  p
+)
+"music.ml" 222 7290 7341 "music.ml" 222 7290 7342
+type(
+  int
+)
+"music.ml" 222 7290 7339 "music.ml" 222 7290 7342
+type(
+  pitch
+)
+"music.ml" 222 7290 7345 "music.ml" 222 7290 7346
+type(
+  p
+)
+"music.ml" 222 7290 7347 "music.ml" 222 7290 7348
+type(
+  int
+)
+"music.ml" 222 7290 7345 "music.ml" 222 7290 7348
+type(
+  pitch
+)
+"music.ml" 222 7290 7351 "music.ml" 222 7290 7352
+type(
+  p
+)
+"music.ml" 222 7290 7353 "music.ml" 222 7290 7354
+type(
+  int
+)
+"music.ml" 222 7290 7351 "music.ml" 222 7290 7354
+type(
+  pitch
+)
+"music.ml" 222 7290 7357 "music.ml" 222 7290 7359
+type(
+  p
+)
+"music.ml" 222 7290 7360 "music.ml" 222 7290 7361
+type(
+  int
+)
+"music.ml" 222 7290 7357 "music.ml" 222 7290 7361
+type(
+  pitch
+)
+"music.ml" 222 7290 7364 "music.ml" 222 7290 7365
+type(
+  p
+)
+"music.ml" 222 7290 7366 "music.ml" 222 7290 7367
+type(
+  int
+)
+"music.ml" 222 7290 7364 "music.ml" 222 7290 7367
+type(
+  pitch
+)
+"music.ml" 223 7370 7416 "music.ml" 223 7370 7417
+type(
+  p
+)
+"music.ml" 223 7370 7418 "music.ml" 223 7370 7419
+type(
+  int
+)
+"music.ml" 223 7370 7416 "music.ml" 223 7370 7419
+type(
+  pitch
+)
+"music.ml" 223 7370 7422 "music.ml" 223 7370 7423
+type(
+  p
+)
+"music.ml" 223 7370 7424 "music.ml" 223 7370 7425
+type(
+  int
+)
+"music.ml" 223 7370 7422 "music.ml" 223 7370 7425
+type(
+  pitch
+)
+"music.ml" 223 7370 7428 "music.ml" 223 7370 7429
+type(
+  p
+)
+"music.ml" 223 7370 7430 "music.ml" 223 7370 7431
+type(
+  int
+)
+"music.ml" 223 7370 7428 "music.ml" 223 7370 7431
+type(
+  pitch
+)
+"music.ml" 223 7370 7427 "music.ml" 223 7370 7432
+type(
+  pitch list
+)
+"music.ml" 223 7370 7421 "music.ml" 223 7370 7432
+type(
+  pitch list
+)
+"music.ml" 223 7370 7415 "music.ml" 223 7370 7432
+type(
+  pitch list
+)
+"music.ml" 222 7290 7363 "music.ml" 223 7370 7432
+type(
+  pitch list
+)
+"music.ml" 222 7290 7356 "music.ml" 223 7370 7432
+type(
+  pitch list
+)
+"music.ml" 222 7290 7350 "music.ml" 223 7370 7432
+type(
+  pitch list
+)
+"music.ml" 222 7290 7344 "music.ml" 223 7370 7432
+type(
+  pitch list
+)
+"music.ml" 222 7290 7338 "music.ml" 223 7370 7432
+type(
+  pitch list
+)
+"music.ml" 222 7290 7337 "music.ml" 223 7370 7433
+type(
+  pitch list
+)
+"music.ml" 222 7290 7317 "music.ml" 223 7370 7433
+call(
+  stack
+)
+type(
+  obj list
+)
+"music.ml" 222 7290 7301 "music.ml" 223 7370 7434
+call(
+  stack
+)
+type(
+  event stream
+)
+"music.ml" 225 7438 7442 "music.ml" 225 7438 7446
+type(
+  (p * int) list
+)
+ident(
+  def slow "music.ml" 227 7567 7567 "music.ml" 1 0 -1
+)
+"music.ml" 225 7438 7451 "music.ml" 225 7438 7453
+type(
+  p
+)
+"music.ml" 225 7438 7454 "music.ml" 225 7438 7455
+type(
+  int
+)
+"music.ml" 225 7438 7451 "music.ml" 225 7438 7455
+type(
+  p * int
+)
+"music.ml" 225 7438 7458 "music.ml" 225 7438 7459
+type(
+  p
+)
+"music.ml" 225 7438 7460 "music.ml" 225 7438 7461
+type(
+  int
+)
+"music.ml" 225 7438 7458 "music.ml" 225 7438 7461
+type(
+  p * int
+)
+"music.ml" 225 7438 7464 "music.ml" 225 7438 7465
+type(
+  p
+)
+"music.ml" 225 7438 7466 "music.ml" 225 7438 7467
+type(
+  int
+)
+"music.ml" 225 7438 7464 "music.ml" 225 7438 7467
+type(
+  p * int
+)
+"music.ml" 225 7438 7470 "music.ml" 225 7438 7472
+type(
+  p
+)
+"music.ml" 225 7438 7473 "music.ml" 225 7438 7474
+type(
+  int
+)
+"music.ml" 225 7438 7470 "music.ml" 225 7438 7474
+type(
+  p * int
+)
+"music.ml" 225 7438 7477 "music.ml" 225 7438 7478
+type(
+  p
+)
+"music.ml" 225 7438 7479 "music.ml" 225 7438 7480
+type(
+  int
+)
+"music.ml" 225 7438 7477 "music.ml" 225 7438 7480
+type(
+  p * int
+)
+"music.ml" 225 7438 7483 "music.ml" 225 7438 7484
+type(
+  p
+)
+"music.ml" 225 7438 7485 "music.ml" 225 7438 7486
+type(
+  int
+)
+"music.ml" 225 7438 7483 "music.ml" 225 7438 7486
+type(
+  p * int
+)
+"music.ml" 225 7438 7489 "music.ml" 225 7438 7490
+type(
+  p
+)
+"music.ml" 225 7438 7491 "music.ml" 225 7438 7492
+type(
+  int
+)
+"music.ml" 225 7438 7489 "music.ml" 225 7438 7492
+type(
+  p * int
+)
+"music.ml" 225 7438 7495 "music.ml" 225 7438 7497
+type(
+  p
+)
+"music.ml" 225 7438 7498 "music.ml" 225 7438 7499
+type(
+  int
+)
+"music.ml" 225 7438 7495 "music.ml" 225 7438 7499
+type(
+  p * int
+)
+"music.ml" 225 7438 7502 "music.ml" 225 7438 7503
+type(
+  p
+)
+"music.ml" 225 7438 7504 "music.ml" 225 7438 7505
+type(
+  int
+)
+"music.ml" 225 7438 7502 "music.ml" 225 7438 7505
+type(
+  p * int
+)
+"music.ml" 226 7508 7521 "music.ml" 226 7508 7523
+type(
+  p
+)
+"music.ml" 226 7508 7524 "music.ml" 226 7508 7525
+type(
+  int
+)
+"music.ml" 226 7508 7521 "music.ml" 226 7508 7525
+type(
+  p * int
+)
+"music.ml" 226 7508 7528 "music.ml" 226 7508 7529
+type(
+  p
+)
+"music.ml" 226 7508 7530 "music.ml" 226 7508 7531
+type(
+  int
+)
+"music.ml" 226 7508 7528 "music.ml" 226 7508 7531
+type(
+  p * int
+)
+"music.ml" 226 7508 7534 "music.ml" 226 7508 7535
+type(
+  p
+)
+"music.ml" 226 7508 7536 "music.ml" 226 7508 7537
+type(
+  int
+)
+"music.ml" 226 7508 7534 "music.ml" 226 7508 7537
+type(
+  p * int
+)
+"music.ml" 226 7508 7540 "music.ml" 226 7508 7541
+type(
+  p
+)
+"music.ml" 226 7508 7542 "music.ml" 226 7508 7543
+type(
+  int
+)
+"music.ml" 226 7508 7540 "music.ml" 226 7508 7543
+type(
+  p * int
+)
+"music.ml" 226 7508 7546 "music.ml" 226 7508 7548
+type(
+  p
+)
+"music.ml" 226 7508 7549 "music.ml" 226 7508 7550
+type(
+  int
+)
+"music.ml" 226 7508 7546 "music.ml" 226 7508 7550
+type(
+  p * int
+)
+"music.ml" 226 7508 7553 "music.ml" 226 7508 7554
+type(
+  p
+)
+"music.ml" 226 7508 7555 "music.ml" 226 7508 7556
+type(
+  int
+)
+"music.ml" 226 7508 7553 "music.ml" 226 7508 7556
+type(
+  p * int
+)
+"music.ml" 226 7508 7559 "music.ml" 226 7508 7560
+type(
+  p
+)
+"music.ml" 226 7508 7561 "music.ml" 226 7508 7562
+type(
+  int
+)
+"music.ml" 226 7508 7559 "music.ml" 226 7508 7562
+type(
+  p * int
+)
+"music.ml" 226 7508 7558 "music.ml" 226 7508 7563
+type(
+  (p * int) list
+)
+"music.ml" 226 7508 7552 "music.ml" 226 7508 7563
+type(
+  (p * int) list
+)
+"music.ml" 226 7508 7545 "music.ml" 226 7508 7563
+type(
+  (p * int) list
+)
+"music.ml" 226 7508 7539 "music.ml" 226 7508 7563
+type(
+  (p * int) list
+)
+"music.ml" 226 7508 7533 "music.ml" 226 7508 7563
+type(
+  (p * int) list
+)
+"music.ml" 226 7508 7527 "music.ml" 226 7508 7563
+type(
+  (p * int) list
+)
+"music.ml" 226 7508 7520 "music.ml" 226 7508 7563
+type(
+  (p * int) list
+)
+"music.ml" 225 7438 7501 "music.ml" 226 7508 7563
+type(
+  (p * int) list
+)
+"music.ml" 225 7438 7494 "music.ml" 226 7508 7563
+type(
+  (p * int) list
+)
+"music.ml" 225 7438 7488 "music.ml" 226 7508 7563
+type(
+  (p * int) list
+)
+"music.ml" 225 7438 7482 "music.ml" 226 7508 7563
+type(
+  (p * int) list
+)
+"music.ml" 225 7438 7476 "music.ml" 226 7508 7563
+type(
+  (p * int) list
+)
+"music.ml" 225 7438 7469 "music.ml" 226 7508 7563
+type(
+  (p * int) list
+)
+"music.ml" 225 7438 7463 "music.ml" 226 7508 7563
+type(
+  (p * int) list
+)
+"music.ml" 225 7438 7457 "music.ml" 226 7508 7563
+type(
+  (p * int) list
+)
+"music.ml" 225 7438 7450 "music.ml" 226 7508 7563
+type(
+  (p * int) list
+)
+"music.ml" 225 7438 7449 "music.ml" 226 7508 7564
+type(
+  (p * int) list
+)
+"music.ml" 227 7567 7571 "music.ml" 227 7567 7575
+type(
+  (p * int) list
+)
+ident(
+  def fast "music.ml" 230 7695 7695 "music.ml" 1 0 -1
+)
+"music.ml" 227 7567 7580 "music.ml" 227 7567 7581
+type(
+  p
+)
+"music.ml" 227 7567 7582 "music.ml" 227 7567 7583
+type(
+  int
+)
+"music.ml" 227 7567 7580 "music.ml" 227 7567 7583
+type(
+  p * int
+)
+"music.ml" 227 7567 7586 "music.ml" 227 7567 7588
+type(
+  p
+)
+"music.ml" 227 7567 7589 "music.ml" 227 7567 7590
+type(
+  int
+)
+"music.ml" 227 7567 7586 "music.ml" 227 7567 7590
+type(
+  p * int
+)
+"music.ml" 227 7567 7593 "music.ml" 227 7567 7594
+type(
+  p
+)
+"music.ml" 227 7567 7595 "music.ml" 227 7567 7596
+type(
+  int
+)
+"music.ml" 227 7567 7593 "music.ml" 227 7567 7596
+type(
+  p * int
+)
+"music.ml" 227 7567 7599 "music.ml" 227 7567 7600
+type(
+  p
+)
+"music.ml" 227 7567 7601 "music.ml" 227 7567 7602
+type(
+  int
+)
+"music.ml" 227 7567 7599 "music.ml" 227 7567 7602
+type(
+  p * int
+)
+"music.ml" 227 7567 7605 "music.ml" 227 7567 7607
+type(
+  p
+)
+"music.ml" 227 7567 7608 "music.ml" 227 7567 7609
+type(
+  int
+)
+"music.ml" 227 7567 7605 "music.ml" 227 7567 7609
+type(
+  p * int
+)
+"music.ml" 227 7567 7612 "music.ml" 227 7567 7613
+type(
+  p
+)
+"music.ml" 227 7567 7614 "music.ml" 227 7567 7615
+type(
+  int
+)
+"music.ml" 227 7567 7612 "music.ml" 227 7567 7615
+type(
+  p * int
+)
+"music.ml" 227 7567 7618 "music.ml" 227 7567 7620
+type(
+  p
+)
+"music.ml" 227 7567 7621 "music.ml" 227 7567 7622
+type(
+  int
+)
+"music.ml" 227 7567 7618 "music.ml" 227 7567 7622
+type(
+  p * int
+)
+"music.ml" 227 7567 7625 "music.ml" 227 7567 7626
+type(
+  p
+)
+"music.ml" 227 7567 7627 "music.ml" 227 7567 7628
+type(
+  int
+)
+"music.ml" 227 7567 7625 "music.ml" 227 7567 7628
+type(
+  p * int
+)
+"music.ml" 227 7567 7631 "music.ml" 227 7567 7632
+type(
+  p
+)
+"music.ml" 227 7567 7633 "music.ml" 227 7567 7634
+type(
+  int
+)
+"music.ml" 227 7567 7631 "music.ml" 227 7567 7634
+type(
+  p * int
+)
+"music.ml" 227 7567 7637 "music.ml" 227 7567 7638
+type(
+  p
+)
+"music.ml" 227 7567 7639 "music.ml" 227 7567 7640
+type(
+  int
+)
+"music.ml" 227 7567 7637 "music.ml" 227 7567 7640
+type(
+  p * int
+)
+"music.ml" 228 7643 7656 "music.ml" 228 7643 7657
+type(
+  p
+)
+"music.ml" 228 7643 7658 "music.ml" 228 7643 7659
+type(
+  int
+)
+"music.ml" 228 7643 7656 "music.ml" 228 7643 7659
+type(
+  p * int
+)
+"music.ml" 228 7643 7662 "music.ml" 228 7643 7663
+type(
+  p
+)
+"music.ml" 228 7643 7664 "music.ml" 228 7643 7665
+type(
+  int
+)
+"music.ml" 228 7643 7662 "music.ml" 228 7643 7665
+type(
+  p * int
+)
+"music.ml" 228 7643 7668 "music.ml" 228 7643 7669
+type(
+  p
+)
+"music.ml" 228 7643 7670 "music.ml" 228 7643 7671
+type(
+  int
+)
+"music.ml" 228 7643 7668 "music.ml" 228 7643 7671
+type(
+  p * int
+)
+"music.ml" 228 7643 7674 "music.ml" 228 7643 7675
+type(
+  p
+)
+"music.ml" 228 7643 7676 "music.ml" 228 7643 7677
+type(
+  int
+)
+"music.ml" 228 7643 7674 "music.ml" 228 7643 7677
+type(
+  p * int
+)
+"music.ml" 228 7643 7680 "music.ml" 228 7643 7681
+type(
+  p
+)
+"music.ml" 228 7643 7682 "music.ml" 228 7643 7683
+type(
+  int
+)
+"music.ml" 228 7643 7680 "music.ml" 228 7643 7683
+type(
+  p * int
+)
+"music.ml" 228 7643 7686 "music.ml" 228 7643 7687
+type(
+  p
+)
+"music.ml" 228 7643 7688 "music.ml" 228 7643 7689
+type(
+  int
+)
+"music.ml" 228 7643 7686 "music.ml" 228 7643 7689
+type(
+  p * int
+)
+"music.ml" 228 7643 7685 "music.ml" 228 7643 7690
+type(
+  (p * int) list
+)
+"music.ml" 228 7643 7679 "music.ml" 228 7643 7690
+type(
+  (p * int) list
+)
+"music.ml" 228 7643 7673 "music.ml" 228 7643 7690
+type(
+  (p * int) list
+)
+"music.ml" 228 7643 7667 "music.ml" 228 7643 7690
+type(
+  (p * int) list
+)
+"music.ml" 228 7643 7661 "music.ml" 228 7643 7690
+type(
+  (p * int) list
+)
+"music.ml" 228 7643 7655 "music.ml" 228 7643 7690
+type(
+  (p * int) list
+)
+"music.ml" 227 7567 7636 "music.ml" 228 7643 7690
+type(
+  (p * int) list
+)
+"music.ml" 227 7567 7630 "music.ml" 228 7643 7690
+type(
+  (p * int) list
+)
+"music.ml" 227 7567 7624 "music.ml" 228 7643 7690
+type(
+  (p * int) list
+)
+"music.ml" 227 7567 7617 "music.ml" 228 7643 7690
+type(
+  (p * int) list
+)
+"music.ml" 227 7567 7611 "music.ml" 228 7643 7690
+type(
+  (p * int) list
+)
+"music.ml" 227 7567 7604 "music.ml" 228 7643 7690
+type(
+  (p * int) list
+)
+"music.ml" 227 7567 7598 "music.ml" 228 7643 7690
+type(
+  (p * int) list
+)
+"music.ml" 227 7567 7592 "music.ml" 228 7643 7690
+type(
+  (p * int) list
+)
+"music.ml" 227 7567 7585 "music.ml" 228 7643 7690
+type(
+  (p * int) list
+)
+"music.ml" 227 7567 7579 "music.ml" 228 7643 7690
+type(
+  (p * int) list
+)
+"music.ml" 227 7567 7578 "music.ml" 228 7643 7691
+type(
+  (p * int) list
+)
+"music.ml" 230 7695 7699 "music.ml" 230 7695 7705
+type(
+  event stream
+)
+ident(
+  def melody "music.ml" 242 8302 8302 "music.ml" 1 0 -1
+)
+"music.ml" 230 7695 7708 "music.ml" 230 7695 7722
+type(
+  obj list -> event stream
+)
+ident(
+  int_ref list_to_stream "music.ml" 124 3891 3899 "music.ml" 124 3891 3913
+)
+"music.ml" 230 7695 7725 "music.ml" 230 7695 7733
+type(
+  pitch list -> f:(pitch -> obj) -> obj list
+)
+ident(
+  ext_ref Core.Std.List.map
+)
+"music.ml" 230 7695 7737 "music.ml" 230 7695 7744
+type(
+  pitch -> obj
+)
+ident(
+  int_ref quarter "music.ml" 179 6018 6022 "music.ml" 179 6018 6029
+)
+"music.ml" 230 7695 7745 "music.ml" 230 7695 7749
+type(
+  pitch list
+)
+ident(
+  int_ref slow "music.ml" 225 7438 7442 "music.ml" 225 7438 7446
+)
+"music.ml" 230 7695 7725 "music.ml" 230 7695 7749
+call(
+  stack
+)
+type(
+  obj list
+)
+"music.ml" 230 7695 7750 "music.ml" 230 7695 7751
+type(
+  obj list -> obj list -> obj list
+)
+ident(
+  ext_ref Core.Std.( @ )
+)
+"music.ml" 230 7695 7752 "music.ml" 230 7695 7760
+type(
+  pitch list -> f:(pitch -> obj) -> obj list
+)
+ident(
+  ext_ref Core.Std.List.map
+)
+"music.ml" 230 7695 7764 "music.ml" 230 7695 7770
+type(
+  pitch -> obj
+)
+ident(
+  int_ref eighth "music.ml" 181 6055 6059 "music.ml" 181 6055 6065
+)
+"music.ml" 230 7695 7771 "music.ml" 230 7695 7775
+type(
+  pitch list
+)
+ident(
+  int_ref fast "music.ml" 227 7567 7571 "music.ml" 227 7567 7575
+)
+"music.ml" 230 7695 7752 "music.ml" 230 7695 7775
+call(
+  stack
+)
+type(
+  obj list
+)
+"music.ml" 230 7695 7724 "music.ml" 230 7695 7776
+call(
+  stack
+)
+type(
+  obj list
+)
+"music.ml" 230 7695 7708 "music.ml" 230 7695 7777
+call(
+  stack
+)
+type(
+  event stream
+)
+"music.ml" 242 8302 8306 "music.ml" 242 8302 8311
+type(
+  event stream
+)
+ident(
+  def canon "music.ml" 245 8416 8416 "music.ml" 1 0 -1
+)
+"music.ml" 242 8302 8314 "music.ml" 242 8302 8318
+type(
+  event stream -> event stream -> event stream
+)
+ident(
+  int_ref pair "music.ml" 145 4668 4676 "music.ml" 145 4668 4680
+)
+"music.ml" 242 8302 8320 "music.ml" 242 8302 8324
+type(
+  event stream -> event stream -> event stream
+)
+ident(
+  int_ref pair "music.ml" 145 4668 4676 "music.ml" 145 4668 4680
+)
+"music.ml" 242 8302 8326 "music.ml" 242 8302 8330
+type(
+  event stream -> event stream -> event stream
+)
+ident(
+  int_ref pair "music.ml" 145 4668 4676 "music.ml" 145 4668 4680
+)
+"music.ml" 242 8302 8331 "music.ml" 242 8302 8335
+type(
+  event stream
+)
+ident(
+  int_ref bass "music.ml" 222 7290 7294 "music.ml" 222 7290 7298
+)
+"music.ml" 242 8302 8337 "music.ml" 242 8302 8348
+type(
+  float -> event stream -> event stream
+)
+ident(
+  int_ref shift_start "music.ml" 114 3375 3379 "music.ml" 114 3375 3390
+)
+"music.ml" 242 8302 8349 "music.ml" 242 8302 8351
+type(
+  float
+)
+"music.ml" 242 8302 8352 "music.ml" 242 8302 8358
+type(
+  event stream
+)
+ident(
+  int_ref melody "music.ml" 230 7695 7699 "music.ml" 230 7695 7705
+)
+"music.ml" 242 8302 8337 "music.ml" 242 8302 8358
+call(
+  stack
+)
+type(
+  event stream
+)
+"music.ml" 242 8302 8326 "music.ml" 242 8302 8359
+call(
+  stack
+)
+type(
+  event stream
+)
+"music.ml" 242 8302 8362 "music.ml" 242 8302 8373
+type(
+  float -> event stream -> event stream
+)
+ident(
+  int_ref shift_start "music.ml" 114 3375 3379 "music.ml" 114 3375 3390
+)
+"music.ml" 242 8302 8374 "music.ml" 242 8302 8376
+type(
+  float
+)
+"music.ml" 242 8302 8377 "music.ml" 242 8302 8383
+type(
+  event stream
+)
+ident(
+  int_ref melody "music.ml" 230 7695 7699 "music.ml" 230 7695 7705
+)
+"music.ml" 242 8302 8362 "music.ml" 242 8302 8383
+call(
+  stack
+)
+type(
+  event stream
+)
+"music.ml" 242 8302 8320 "music.ml" 242 8302 8384
+call(
+  stack
+)
+type(
+  event stream
+)
+"music.ml" 243 8386 8390 "music.ml" 243 8386 8401
+type(
+  float -> event stream -> event stream
+)
+ident(
+  int_ref shift_start "music.ml" 114 3375 3379 "music.ml" 114 3375 3390
+)
+"music.ml" 243 8386 8402 "music.ml" 243 8386 8404
+type(
+  float
+)
+"music.ml" 243 8386 8405 "music.ml" 243 8386 8411
+type(
+  event stream
+)
+ident(
+  int_ref melody "music.ml" 230 7695 7699 "music.ml" 230 7695 7705
+)
+"music.ml" 243 8386 8390 "music.ml" 243 8386 8411
+call(
+  stack
+)
+type(
+  event stream
+)
+"music.ml" 242 8302 8314 "music.ml" 243 8386 8412
+call(
+  stack
+)
+type(
+  event stream
+)
+"music.ml" 245 8416 8416 "music.ml" 245 8416 8427
+type(
+  string -> int -> event stream -> unit
+)
+ident(
+  int_ref output_midi "music.ml" 98 2886 2890 "music.ml" 98 2886 2901
+)
+"music.ml" 245 8416 8428 "music.ml" 245 8416 8439
+type(
+  string
+)
+"music.ml" 245 8416 8440 "music.ml" 245 8416 8443
+type(
+  int
+)
+"music.ml" 245 8416 8444 "music.ml" 245 8416 8449
+type(
+  event stream
+)
+ident(
+  int_ref canon "music.ml" 242 8302 8306 "music.ml" 242 8302 8311
+)
+"music.ml" 245 8416 8416 "music.ml" 245 8416 8449
+call(
+  stack
+)
+type(
+  unit
+)
+"music.ml" 249 8508 8512 "music.ml" 249 8508 8517
+type(
+  event stream
+)
+ident(
+  def part1 "music.ml" 253 8738 8738 "music.ml" 1 0 -1
+)
+"music.ml" 249 8508 8520 "music.ml" 249 8508 8534
+type(
+  obj list -> event stream
+)
+ident(
+  int_ref list_to_stream "music.ml" 124 3891 3899 "music.ml" 124 3891 3913
+)
+"music.ml" 249 8508 8541 "music.ml" 249 8508 8544
+type(
+  float
+)
+"music.ml" 249 8508 8536 "music.ml" 249 8508 8544
+type(
+  obj
+)
+"music.ml" 249 8508 8552 "music.ml" 249 8508 8553
+type(
+  p
+)
+"music.ml" 249 8508 8554 "music.ml" 249 8508 8555
+type(
+  int
+)
+"music.ml" 249 8508 8552 "music.ml" 249 8508 8555
+type(
+  pitch
+)
+"music.ml" 249 8508 8557 "music.ml" 249 8508 8561
+type(
+  float
+)
+"music.ml" 249 8508 8562 "music.ml" 249 8508 8564
+type(
+  int
+)
+"music.ml" 249 8508 8546 "music.ml" 249 8508 8565
+type(
+  obj
+)
+"music.ml" 249 8508 8573 "music.ml" 249 8508 8574
+type(
+  p
+)
+"music.ml" 249 8508 8575 "music.ml" 249 8508 8576
+type(
+  int
+)
+"music.ml" 249 8508 8573 "music.ml" 249 8508 8576
+type(
+  pitch
+)
+"music.ml" 249 8508 8578 "music.ml" 249 8508 8583
+type(
+  float
+)
+"music.ml" 249 8508 8584 "music.ml" 249 8508 8586
+type(
+  int
+)
+"music.ml" 249 8508 8567 "music.ml" 249 8508 8587
+type(
+  obj
+)
+"music.ml" 250 8589 8623 "music.ml" 250 8589 8624
+type(
+  p
+)
+"music.ml" 250 8589 8625 "music.ml" 250 8589 8626
+type(
+  int
+)
+"music.ml" 250 8589 8623 "music.ml" 250 8589 8626
+type(
+  pitch
+)
+"music.ml" 250 8589 8628 "music.ml" 250 8589 8633
+type(
+  float
+)
+"music.ml" 250 8589 8634 "music.ml" 250 8589 8636
+type(
+  int
+)
+"music.ml" 250 8589 8617 "music.ml" 250 8589 8637
+type(
+  obj
+)
+"music.ml" 250 8589 8645 "music.ml" 250 8589 8646
+type(
+  p
+)
+"music.ml" 250 8589 8647 "music.ml" 250 8589 8648
+type(
+  int
+)
+"music.ml" 250 8589 8645 "music.ml" 250 8589 8648
+type(
+  pitch
+)
+"music.ml" 250 8589 8650 "music.ml" 250 8589 8654
+type(
+  float
+)
+"music.ml" 250 8589 8655 "music.ml" 250 8589 8657
+type(
+  int
+)
+"music.ml" 250 8589 8639 "music.ml" 250 8589 8658
+type(
+  obj
+)
+"music.ml" 251 8660 8694 "music.ml" 251 8660 8696
+type(
+  p
+)
+"music.ml" 251 8660 8697 "music.ml" 251 8660 8698
+type(
+  int
+)
+"music.ml" 251 8660 8694 "music.ml" 251 8660 8698
+type(
+  pitch
+)
+"music.ml" 251 8660 8700 "music.ml" 251 8660 8706
+type(
+  float
+)
+"music.ml" 251 8660 8707 "music.ml" 251 8660 8709
+type(
+  int
+)
+"music.ml" 251 8660 8688 "music.ml" 251 8660 8710
+type(
+  obj
+)
+"music.ml" 251 8660 8718 "music.ml" 251 8660 8719
+type(
+  p
+)
+"music.ml" 251 8660 8720 "music.ml" 251 8660 8721
+type(
+  int
+)
+"music.ml" 251 8660 8718 "music.ml" 251 8660 8721
+type(
+  pitch
+)
+"music.ml" 251 8660 8723 "music.ml" 251 8660 8729
+type(
+  float
+)
+"music.ml" 251 8660 8730 "music.ml" 251 8660 8732
+type(
+  int
+)
+"music.ml" 251 8660 8712 "music.ml" 251 8660 8733
+type(
+  obj
+)
+type(
+  obj list
+)
+"music.ml" 251 8660 8688 "music.ml" 251 8660 8733
+type(
+  obj list
+)
+"music.ml" 250 8589 8639 "music.ml" 251 8660 8733
+type(
+  obj list
+)
+"music.ml" 250 8589 8617 "music.ml" 251 8660 8733
+type(
+  obj list
+)
+"music.ml" 249 8508 8567 "music.ml" 251 8660 8733
+type(
+  obj list
+)
+"music.ml" 249 8508 8546 "music.ml" 251 8660 8733
+type(
+  obj list
+)
+"music.ml" 249 8508 8536 "music.ml" 251 8660 8733
+type(
+  obj list
+)
+"music.ml" 249 8508 8535 "music.ml" 251 8660 8734
+type(
+  obj list
+)
+"music.ml" 249 8508 8520 "music.ml" 251 8660 8734
+call(
+  stack
+)
+type(
+  event stream
+)
+"music.ml" 253 8738 8742 "music.ml" 253 8738 8747
+type(
+  event stream
+)
+ident(
+  def part2 "music.ml" 258 9008 9008 "music.ml" 1 0 -1
+)
+"music.ml" 253 8738 8750 "music.ml" 253 8738 8764
+type(
+  obj list -> event stream
+)
+ident(
+  int_ref list_to_stream "music.ml" 124 3891 3899 "music.ml" 124 3891 3913
+)
+"music.ml" 253 8738 8772 "music.ml" 253 8738 8773
+type(
+  p
+)
+"music.ml" 253 8738 8774 "music.ml" 253 8738 8775
+type(
+  int
+)
+"music.ml" 253 8738 8772 "music.ml" 253 8738 8775
+type(
+  pitch
+)
+"music.ml" 253 8738 8777 "music.ml" 253 8738 8783
+type(
+  float
+)
+"music.ml" 253 8738 8784 "music.ml" 253 8738 8786
+type(
+  int
+)
+"music.ml" 253 8738 8766 "music.ml" 253 8738 8787
+type(
+  obj
+)
+"music.ml" 253 8738 8795 "music.ml" 253 8738 8796
+type(
+  p
+)
+"music.ml" 253 8738 8797 "music.ml" 253 8738 8798
+type(
+  int
+)
+"music.ml" 253 8738 8795 "music.ml" 253 8738 8798
+type(
+  pitch
+)
+"music.ml" 253 8738 8800 "music.ml" 253 8738 8806
+type(
+  float
+)
+"music.ml" 253 8738 8807 "music.ml" 253 8738 8809
+type(
+  int
+)
+"music.ml" 253 8738 8789 "music.ml" 253 8738 8810
+type(
+  obj
+)
+"music.ml" 254 8812 8846 "music.ml" 254 8812 8847
+type(
+  p
+)
+"music.ml" 254 8812 8848 "music.ml" 254 8812 8849
+type(
+  int
+)
+"music.ml" 254 8812 8846 "music.ml" 254 8812 8849
+type(
+  pitch
+)
+"music.ml" 254 8812 8851 "music.ml" 254 8812 8856
+type(
+  float
+)
+"music.ml" 254 8812 8857 "music.ml" 254 8812 8859
+type(
+  int
+)
+"music.ml" 254 8812 8840 "music.ml" 254 8812 8860
+type(
+  obj
+)
+"music.ml" 254 8812 8868 "music.ml" 254 8812 8869
+type(
+  p
+)
+"music.ml" 254 8812 8870 "music.ml" 254 8812 8871
+type(
+  int
+)
+"music.ml" 254 8812 8868 "music.ml" 254 8812 8871
+type(
+  pitch
+)
+"music.ml" 254 8812 8873 "music.ml" 254 8812 8879
+type(
+  float
+)
+"music.ml" 254 8812 8880 "music.ml" 254 8812 8882
+type(
+  int
+)
+"music.ml" 254 8812 8862 "music.ml" 254 8812 8883
+type(
+  obj
+)
+"music.ml" 255 8885 8919 "music.ml" 255 8885 8920
+type(
+  p
+)
+"music.ml" 255 8885 8921 "music.ml" 255 8885 8922
+type(
+  int
+)
+"music.ml" 255 8885 8919 "music.ml" 255 8885 8922
+type(
+  pitch
+)
+"music.ml" 255 8885 8924 "music.ml" 255 8885 8930
+type(
+  float
+)
+"music.ml" 255 8885 8931 "music.ml" 255 8885 8933
+type(
+  int
+)
+"music.ml" 255 8885 8913 "music.ml" 255 8885 8934
+type(
+  obj
+)
+"music.ml" 255 8885 8942 "music.ml" 255 8885 8943
+type(
+  p
+)
+"music.ml" 255 8885 8944 "music.ml" 255 8885 8945
+type(
+  int
+)
+"music.ml" 255 8885 8942 "music.ml" 255 8885 8945
+type(
+  pitch
+)
+"music.ml" 255 8885 8947 "music.ml" 255 8885 8950
+type(
+  float
+)
+"music.ml" 255 8885 8951 "music.ml" 255 8885 8953
+type(
+  int
+)
+"music.ml" 255 8885 8936 "music.ml" 255 8885 8954
+type(
+  obj
+)
+"music.ml" 256 8956 8990 "music.ml" 256 8956 8991
+type(
+  p
+)
+"music.ml" 256 8956 8992 "music.ml" 256 8956 8993
+type(
+  int
+)
+"music.ml" 256 8956 8990 "music.ml" 256 8956 8993
+type(
+  pitch
+)
+"music.ml" 256 8956 8995 "music.ml" 256 8956 8998
+type(
+  float
+)
+"music.ml" 256 8956 9000 "music.ml" 256 8956 9002
+type(
+  int
+)
+"music.ml" 256 8956 8984 "music.ml" 256 8956 9003
+type(
+  obj
+)
+type(
+  obj list
+)
+"music.ml" 255 8885 8936 "music.ml" 256 8956 9003
+type(
+  obj list
+)
+"music.ml" 255 8885 8913 "music.ml" 256 8956 9003
+type(
+  obj list
+)
+"music.ml" 254 8812 8862 "music.ml" 256 8956 9003
+type(
+  obj list
+)
+"music.ml" 254 8812 8840 "music.ml" 256 8956 9003
+type(
+  obj list
+)
+"music.ml" 253 8738 8789 "music.ml" 256 8956 9003
+type(
+  obj list
+)
+"music.ml" 253 8738 8766 "music.ml" 256 8956 9003
+type(
+  obj list
+)
+"music.ml" 253 8738 8765 "music.ml" 256 8956 9004
+type(
+  obj list
+)
+"music.ml" 253 8738 8750 "music.ml" 256 8956 9004
+call(
+  stack
+)
+type(
+  event stream
+)
+"music.ml" 258 9008 9012 "music.ml" 258 9008 9017
+type(
+  event stream
+)
+ident(
+  def part3 "music.ml" 263 9252 9252 "music.ml" 1 0 -1
+)
+"music.ml" 258 9008 9020 "music.ml" 258 9008 9034
+type(
+  obj list -> event stream
+)
+ident(
+  int_ref list_to_stream "music.ml" 124 3891 3899 "music.ml" 124 3891 3913
+)
+"music.ml" 258 9008 9042 "music.ml" 258 9008 9043
+type(
+  p
+)
+"music.ml" 258 9008 9044 "music.ml" 258 9008 9045
+type(
+  int
+)
+"music.ml" 258 9008 9042 "music.ml" 258 9008 9045
+type(
+  pitch
+)
+"music.ml" 258 9008 9047 "music.ml" 258 9008 9049
+type(
+  float
+)
+"music.ml" 258 9008 9050 "music.ml" 258 9008 9052
+type(
+  int
+)
+"music.ml" 258 9008 9036 "music.ml" 258 9008 9053
+type(
+  obj
+)
+"music.ml" 258 9008 9061 "music.ml" 258 9008 9062
+type(
+  p
+)
+"music.ml" 258 9008 9063 "music.ml" 258 9008 9064
+type(
+  int
+)
+"music.ml" 258 9008 9061 "music.ml" 258 9008 9064
+type(
+  pitch
+)
+"music.ml" 258 9008 9066 "music.ml" 258 9008 9069
+type(
+  float
+)
+"music.ml" 258 9008 9070 "music.ml" 258 9008 9072
+type(
+  int
+)
+"music.ml" 258 9008 9055 "music.ml" 258 9008 9073
+type(
+  obj
+)
+"music.ml" 259 9075 9109 "music.ml" 259 9075 9110
+type(
+  p
+)
+"music.ml" 259 9075 9111 "music.ml" 259 9075 9112
+type(
+  int
+)
+"music.ml" 259 9075 9109 "music.ml" 259 9075 9112
+type(
+  pitch
+)
+"music.ml" 259 9075 9114 "music.ml" 259 9075 9120
+type(
+  float
+)
+"music.ml" 259 9075 9121 "music.ml" 259 9075 9123
+type(
+  int
+)
+"music.ml" 259 9075 9103 "music.ml" 259 9075 9124
+type(
+  obj
+)
+"music.ml" 260 9126 9160 "music.ml" 260 9126 9162
+type(
+  p
+)
+"music.ml" 260 9126 9163 "music.ml" 260 9126 9164
+type(
+  int
+)
+"music.ml" 260 9126 9160 "music.ml" 260 9126 9164
+type(
+  pitch
+)
+"music.ml" 260 9126 9166 "music.ml" 260 9126 9172
+type(
+  float
+)
+"music.ml" 260 9126 9173 "music.ml" 260 9126 9175
+type(
+  int
+)
+"music.ml" 260 9126 9154 "music.ml" 260 9126 9176
+type(
+  obj
+)
+"music.ml" 260 9126 9184 "music.ml" 260 9126 9185
+type(
+  p
+)
+"music.ml" 260 9126 9186 "music.ml" 260 9126 9187
+type(
+  int
+)
+"music.ml" 260 9126 9184 "music.ml" 260 9126 9187
+type(
+  pitch
+)
+"music.ml" 260 9126 9189 "music.ml" 260 9126 9193
+type(
+  float
+)
+"music.ml" 260 9126 9195 "music.ml" 260 9126 9197
+type(
+  int
+)
+"music.ml" 260 9126 9178 "music.ml" 260 9126 9198
+type(
+  obj
+)
+"music.ml" 261 9200 9234 "music.ml" 261 9200 9235
+type(
+  p
+)
+"music.ml" 261 9200 9236 "music.ml" 261 9200 9237
+type(
+  int
+)
+"music.ml" 261 9200 9234 "music.ml" 261 9200 9237
+type(
+  pitch
+)
+"music.ml" 261 9200 9239 "music.ml" 261 9200 9243
+type(
+  float
+)
+"music.ml" 261 9200 9244 "music.ml" 261 9200 9246
+type(
+  int
+)
+"music.ml" 261 9200 9228 "music.ml" 261 9200 9247
+type(
+  obj
+)
+type(
+  obj list
+)
+"music.ml" 260 9126 9178 "music.ml" 261 9200 9247
+type(
+  obj list
+)
+"music.ml" 260 9126 9154 "music.ml" 261 9200 9247
+type(
+  obj list
+)
+"music.ml" 259 9075 9103 "music.ml" 261 9200 9247
+type(
+  obj list
+)
+"music.ml" 258 9008 9055 "music.ml" 261 9200 9247
+type(
+  obj list
+)
+"music.ml" 258 9008 9036 "music.ml" 261 9200 9247
+type(
+  obj list
+)
+"music.ml" 258 9008 9035 "music.ml" 261 9200 9248
+type(
+  obj list
+)
+"music.ml" 258 9008 9020 "music.ml" 261 9200 9248
+call(
+  stack
+)
+type(
+  event stream
+)
+"music.ml" 263 9252 9256 "music.ml" 263 9252 9261
+type(
+  event stream
+)
+ident(
+  def part4 "music.ml" 273 9812 9812 "music.ml" 1 0 -1
+)
+"music.ml" 263 9252 9264 "music.ml" 263 9252 9278
+type(
+  obj list -> event stream
+)
+ident(
+  int_ref list_to_stream "music.ml" 124 3891 3899 "music.ml" 124 3891 3913
+)
+"music.ml" 263 9252 9285 "music.ml" 263 9252 9289
+type(
+  float
+)
+"music.ml" 263 9252 9280 "music.ml" 263 9252 9290
+type(
+  obj
+)
+"music.ml" 263 9252 9298 "music.ml" 263 9252 9299
+type(
+  p
+)
+"music.ml" 263 9252 9300 "music.ml" 263 9252 9301
+type(
+  int
+)
+"music.ml" 263 9252 9298 "music.ml" 263 9252 9301
+type(
+  pitch
+)
+"music.ml" 263 9252 9303 "music.ml" 263 9252 9307
+type(
+  float
+)
+"music.ml" 263 9252 9308 "music.ml" 263 9252 9310
+type(
+  int
+)
+"music.ml" 263 9252 9292 "music.ml" 263 9252 9311
+type(
+  obj
+)
+"music.ml" 264 9313 9347 "music.ml" 264 9313 9349
+type(
+  p
+)
+"music.ml" 264 9313 9350 "music.ml" 264 9313 9351
+type(
+  int
+)
+"music.ml" 264 9313 9347 "music.ml" 264 9313 9351
+type(
+  pitch
+)
+"music.ml" 264 9313 9353 "music.ml" 264 9313 9357
+type(
+  float
+)
+"music.ml" 264 9313 9358 "music.ml" 264 9313 9360
+type(
+  int
+)
+"music.ml" 264 9313 9341 "music.ml" 264 9313 9361
+type(
+  obj
+)
+"music.ml" 264 9313 9369 "music.ml" 264 9313 9370
+type(
+  p
+)
+"music.ml" 264 9313 9371 "music.ml" 264 9313 9372
+type(
+  int
+)
+"music.ml" 264 9313 9369 "music.ml" 264 9313 9372
+type(
+  pitch
+)
+"music.ml" 264 9313 9374 "music.ml" 264 9313 9379
+type(
+  float
+)
+"music.ml" 264 9313 9380 "music.ml" 264 9313 9382
+type(
+  int
+)
+"music.ml" 264 9313 9363 "music.ml" 264 9313 9383
+type(
+  obj
+)
+"music.ml" 265 9385 9419 "music.ml" 265 9385 9420
+type(
+  p
+)
+"music.ml" 265 9385 9421 "music.ml" 265 9385 9422
+type(
+  int
+)
+"music.ml" 265 9385 9419 "music.ml" 265 9385 9422
+type(
+  pitch
+)
+"music.ml" 265 9385 9424 "music.ml" 265 9385 9429
+type(
+  float
+)
+"music.ml" 265 9385 9430 "music.ml" 265 9385 9432
+type(
+  int
+)
+"music.ml" 265 9385 9413 "music.ml" 265 9385 9433
+type(
+  obj
+)
+"music.ml" 265 9385 9441 "music.ml" 265 9385 9442
+type(
+  p
+)
+"music.ml" 265 9385 9443 "music.ml" 265 9385 9444
+type(
+  int
+)
+"music.ml" 265 9385 9441 "music.ml" 265 9385 9444
+type(
+  pitch
+)
+"music.ml" 265 9385 9446 "music.ml" 265 9385 9451
+type(
+  float
+)
+"music.ml" 265 9385 9452 "music.ml" 265 9385 9454
+type(
+  int
+)
+"music.ml" 265 9385 9435 "music.ml" 265 9385 9455
+type(
+  obj
+)
+"music.ml" 266 9457 9491 "music.ml" 266 9457 9492
+type(
+  p
+)
+"music.ml" 266 9457 9493 "music.ml" 266 9457 9494
+type(
+  int
+)
+"music.ml" 266 9457 9491 "music.ml" 266 9457 9494
+type(
+  pitch
+)
+"music.ml" 266 9457 9496 "music.ml" 266 9457 9501
+type(
+  float
+)
+"music.ml" 266 9457 9502 "music.ml" 266 9457 9504
+type(
+  int
+)
+"music.ml" 266 9457 9485 "music.ml" 266 9457 9505
+type(
+  obj
+)
+"music.ml" 266 9457 9513 "music.ml" 266 9457 9514
+type(
+  p
+)
+"music.ml" 266 9457 9515 "music.ml" 266 9457 9516
+type(
+  int
+)
+"music.ml" 266 9457 9513 "music.ml" 266 9457 9516
+type(
+  pitch
+)
+"music.ml" 266 9457 9518 "music.ml" 266 9457 9522
+type(
+  float
+)
+"music.ml" 266 9457 9523 "music.ml" 266 9457 9525
+type(
+  int
+)
+"music.ml" 266 9457 9507 "music.ml" 266 9457 9526
+type(
+  obj
+)
+"music.ml" 267 9528 9562 "music.ml" 267 9528 9563
+type(
+  p
+)
+"music.ml" 267 9528 9564 "music.ml" 267 9528 9565
+type(
+  int
+)
+"music.ml" 267 9528 9562 "music.ml" 267 9528 9565
+type(
+  pitch
+)
+"music.ml" 267 9528 9567 "music.ml" 267 9528 9572
+type(
+  float
+)
+"music.ml" 267 9528 9573 "music.ml" 267 9528 9575
+type(
+  int
+)
+"music.ml" 267 9528 9556 "music.ml" 267 9528 9576
+type(
+  obj
+)
+"music.ml" 267 9528 9584 "music.ml" 267 9528 9585
+type(
+  p
+)
+"music.ml" 267 9528 9586 "music.ml" 267 9528 9587
+type(
+  int
+)
+"music.ml" 267 9528 9584 "music.ml" 267 9528 9587
+type(
+  pitch
+)
+"music.ml" 267 9528 9589 "music.ml" 267 9528 9594
+type(
+  float
+)
+"music.ml" 267 9528 9595 "music.ml" 267 9528 9597
+type(
+  int
+)
+"music.ml" 267 9528 9578 "music.ml" 267 9528 9598
+type(
+  obj
+)
+type(
+  obj list
+)
+"music.ml" 267 9528 9556 "music.ml" 267 9528 9598
+type(
+  obj list
+)
+"music.ml" 266 9457 9507 "music.ml" 267 9528 9598
+type(
+  obj list
+)
+"music.ml" 266 9457 9485 "music.ml" 267 9528 9598
+type(
+  obj list
+)
+"music.ml" 265 9385 9435 "music.ml" 267 9528 9598
+type(
+  obj list
+)
+"music.ml" 265 9385 9413 "music.ml" 267 9528 9598
+type(
+  obj list
+)
+"music.ml" 264 9313 9363 "music.ml" 267 9528 9598
+type(
+  obj list
+)
+"music.ml" 264 9313 9341 "music.ml" 267 9528 9598
+type(
+  obj list
+)
+"music.ml" 263 9252 9292 "music.ml" 267 9528 9598
+type(
+  obj list
+)
+"music.ml" 263 9252 9280 "music.ml" 267 9528 9598
+type(
+  obj list
+)
+"music.ml" 263 9252 9279 "music.ml" 267 9528 9599
+type(
+  obj list
+)
+"music.ml" 263 9252 9264 "music.ml" 267 9528 9599
+call(
+  stack
+)
+type(
+  event stream
+)
+"music.ml" 273 9812 9816 "music.ml" 273 9812 9829
+type(
+  int
+)
+ident(
+  def minutes_spent "music.ml" 273 9812 9841 "music.ml" 1 0 -1
+)
+"music.ml" 273 9812 9838 "music.ml" 273 9812 9841
+type(
+  int
+)
+type(
+  int
+)

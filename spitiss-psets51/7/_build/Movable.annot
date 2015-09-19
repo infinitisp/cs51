@@ -1,0 +1,376 @@
+"Movable.ml" 17 348 362 "Movable.ml" 17 348 363
+type(
+  int * int
+)
+"Movable.ml" 17 348 365 "Movable.ml" 17 348 374
+type(
+  int option
+)
+"Movable.ml" 18 401 409 "Movable.ml" 18 401 413
+type(
+  < danger : world_object_i -> unit; die : unit; draw : unit;
+    draw_z_axis : int; forfeit_gold : int option;
+    get_danger_event : world_object_i Event51.event;
+    get_die_event : unit Event51.event; get_name : string;
+    get_pos : int * int; is_obstacle : bool;
+    next_direction : Direction.direction option; receive_damage : unit;
+    receive_gold : int list -> int list; smells_like_gold : int option; .. >
+)
+"Movable.ml" 19 415 438 "Movable.ml" 19 415 439
+type(
+  int * int
+)
+ident(
+  int_ref p "Movable.ml" 17 348 362 "Movable.ml" 17 348 363
+)
+"Movable.ml" 21 441 465 "Movable.ml" 21 441 466
+type(
+  int
+)
+type(
+  int
+)
+"Movable.ml" 30 606 612 "Movable.ml" 30 606 613
+type(
+  int ref
+)
+ident(
+  def i "Movable.ml" 31 625 629 "Movable.ml" 34 681 744
+)
+"Movable.ml" 30 606 616 "Movable.ml" 30 606 619
+type(
+  int -> int ref
+)
+ident(
+  ext_ref Pervasives.ref
+)
+"Movable.ml" 30 606 620 "Movable.ml" 30 606 621
+type(
+  int
+)
+"Movable.ml" 30 606 616 "Movable.ml" 30 606 621
+type(
+  int ref
+)
+"Movable.ml" 31 625 635 "Movable.ml" 31 625 644
+type(
+  int option
+)
+ident(
+  int_ref inv_speed "Movable.ml" 17 348 365 "Movable.ml" 17 348 374
+)
+"Movable.ml" 32 650 655 "Movable.ml" 32 650 659
+type(
+  int option
+)
+"Movable.ml" 32 650 663 "Movable.ml" 32 650 665
+type(
+  unit
+)
+"Movable.ml" 33 666 676 "Movable.ml" 33 666 677
+type(
+  int
+)
+ident(
+  def s "Movable.ml" 34 681 687 "Movable.ml" 34 681 744
+)
+"Movable.ml" 33 666 671 "Movable.ml" 33 666 677
+type(
+  int option
+)
+"Movable.ml" 34 681 687 "Movable.ml" 34 681 691
+type(
+  < danger : world_object_i -> unit; die : unit; draw : unit;
+    draw_z_axis : int; forfeit_gold : int option;
+    get_danger_event : world_object_i Event51.event;
+    get_die_event : unit Event51.event; get_name : string;
+    get_pos : int * int; is_obstacle : bool;
+    next_direction : Direction.direction option; receive_damage : unit;
+    receive_gold : int list -> int list; smells_like_gold : int option; .. >
+  as 'a
+)
+ident(
+  int_ref self "Movable.ml" 18 401 409 "Movable.ml" 18 401 413
+)
+"Movable.ml" 34 681 687 "Movable.ml" 34 681 708
+call(
+  tail
+)
+type(
+  unit Event51.event -> (unit -> unit) -> unit
+)
+"Movable.ml" 34 681 709 "Movable.ml" 34 681 725
+type(
+  unit Event51.event
+)
+ident(
+  ext_ref World.move_event
+)
+"Movable.ml" 34 681 727 "Movable.ml" 34 681 731
+type(
+  'a
+)
+ident(
+  int_ref self "Movable.ml" 18 401 409 "Movable.ml" 18 401 413
+)
+"Movable.ml" 34 681 727 "Movable.ml" 34 681 739
+call(
+  stack
+)
+type(
+  int -> int ref -> unit -> unit
+)
+"Movable.ml" 34 681 740 "Movable.ml" 34 681 741
+type(
+  int
+)
+ident(
+  int_ref s "Movable.ml" 33 666 676 "Movable.ml" 33 666 677
+)
+"Movable.ml" 34 681 742 "Movable.ml" 34 681 743
+type(
+  int ref
+)
+ident(
+  int_ref i "Movable.ml" 30 606 612 "Movable.ml" 30 606 613
+)
+"Movable.ml" 34 681 727 "Movable.ml" 34 681 743
+type(
+  unit -> unit
+)
+"Movable.ml" 34 681 687 "Movable.ml" 34 681 744
+type(
+  unit
+)
+"Movable.ml" 31 625 629 "Movable.ml" 34 681 744
+type(
+  unit
+)
+"Movable.ml" 30 606 608 "Movable.ml" 34 681 744
+type(
+  'a -> unit
+)
+type(
+  unit
+)
+"Movable.ml" 41 878 903 "Movable.ml" 41 878 904
+type(
+  int
+)
+ident(
+  def s "Movable.ml" 41 878 905 "Movable.ml" 46 977 1014
+)
+"Movable.ml" 41 878 905 "Movable.ml" 41 878 906
+type(
+  int ref
+)
+ident(
+  def i "Movable.ml" 42 908 916 "Movable.ml" 46 977 1014
+)
+"Movable.ml" 42 908 916 "Movable.ml" 42 908 918
+type(
+  unit
+)
+"Movable.ml" 43 923 927 "Movable.ml" 43 923 928
+type(
+  int ref
+)
+ident(
+  int_ref i "Movable.ml" 41 878 905 "Movable.ml" 41 878 906
+)
+"Movable.ml" 43 923 933 "Movable.ml" 43 923 934
+type(
+  int ref
+)
+ident(
+  int_ref i "Movable.ml" 41 878 905 "Movable.ml" 41 878 906
+)
+"Movable.ml" 43 923 932 "Movable.ml" 43 923 934
+type(
+  int
+)
+type(
+  int ref -> int
+)
+ident(
+  ext_ref Pervasives.( ! )
+)
+"Movable.ml" 43 923 935 "Movable.ml" 43 923 936
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"Movable.ml" 43 923 937 "Movable.ml" 43 923 938
+type(
+  int
+)
+"Movable.ml" 43 923 932 "Movable.ml" 43 923 938
+type(
+  int
+)
+"Movable.ml" 43 923 927 "Movable.ml" 43 923 938
+type(
+  unit
+)
+type(
+  int ref -> int -> unit
+)
+ident(
+  ext_ref Pervasives.( := )
+)
+"Movable.ml" 44 940 948 "Movable.ml" 44 940 949
+type(
+  int ref
+)
+ident(
+  int_ref i "Movable.ml" 41 878 905 "Movable.ml" 41 878 906
+)
+"Movable.ml" 44 940 947 "Movable.ml" 44 940 949
+type(
+  int
+)
+type(
+  int ref -> int
+)
+ident(
+  ext_ref Pervasives.( ! )
+)
+"Movable.ml" 44 940 950 "Movable.ml" 44 940 952
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( >= )
+)
+"Movable.ml" 44 940 953 "Movable.ml" 44 940 954
+type(
+  int
+)
+ident(
+  int_ref s "Movable.ml" 41 878 903 "Movable.ml" 41 878 904
+)
+"Movable.ml" 44 940 947 "Movable.ml" 44 940 954
+type(
+  bool
+)
+"Movable.ml" 45 962 969 "Movable.ml" 45 962 970
+type(
+  int ref
+)
+ident(
+  int_ref i "Movable.ml" 41 878 905 "Movable.ml" 41 878 906
+)
+"Movable.ml" 45 962 974 "Movable.ml" 45 962 975
+type(
+  int
+)
+"Movable.ml" 45 962 969 "Movable.ml" 45 962 975
+type(
+  unit
+)
+type(
+  int ref -> int -> unit
+)
+ident(
+  ext_ref Pervasives.( := )
+)
+"Movable.ml" 46 977 984 "Movable.ml" 46 977 988
+type(
+  'a
+)
+ident(
+  int_ref self "Movable.ml" 18 401 409 "Movable.ml" 18 401 413
+)
+"Movable.ml" 46 977 984 "Movable.ml" 46 977 993
+call(
+  tail
+)
+type(
+  Direction.direction option -> unit
+)
+"Movable.ml" 46 977 994 "Movable.ml" 46 977 998
+type(
+  'a
+)
+ident(
+  int_ref self "Movable.ml" 18 401 409 "Movable.ml" 18 401 413
+)
+"Movable.ml" 46 977 994 "Movable.ml" 46 977 1013
+call(
+  stack
+)
+type(
+  Direction.direction option
+)
+"Movable.ml" 46 977 984 "Movable.ml" 46 977 1013
+type(
+  unit
+)
+"Movable.ml" 45 962 969 "Movable.ml" 46 977 1013
+type(
+  unit
+)
+"Movable.ml" 44 940 944 "Movable.ml" 46 977 1014
+type(
+  unit
+)
+type(
+  unit
+)
+"Movable.ml" 43 923 927 "Movable.ml" 46 977 1014
+type(
+  unit
+)
+"Movable.ml" 42 908 916 "Movable.ml" 46 977 1014
+type(
+  unit -> unit
+)
+"Movable.ml" 41 878 905 "Movable.ml" 46 977 1014
+type(
+  int ref -> unit -> unit
+)
+"Movable.ml" 41 878 903 "Movable.ml" 46 977 1014
+type(
+  int -> int ref -> unit -> unit
+)
+type(
+  int -> int ref -> unit -> unit
+)
+"Movable.ml" 41 878 880 "Movable.ml" 46 977 1014
+type(
+  'a -> int -> int ref -> unit -> unit
+)
+"Movable.ml" 53 1151 1183 "Movable.ml" 53 1151 1199
+type(
+  (int -> int) -> Direction.direction
+)
+ident(
+  ext_ref Direction.random
+)
+"Movable.ml" 53 1151 1200 "Movable.ml" 53 1151 1210
+type(
+  int -> int
+)
+ident(
+  ext_ref World.rand
+)
+"Movable.ml" 53 1151 1183 "Movable.ml" 53 1151 1210
+call(
+  stack
+)
+type(
+  Direction.direction
+)
+"Movable.ml" 53 1151 1177 "Movable.ml" 53 1151 1211
+type(
+  Direction.direction option
+)
+type(
+  Direction.direction option
+)
+"Movable.ml" 53 1151 1153 "Movable.ml" 53 1151 1211
+type(
+  'a -> Direction.direction option
+)

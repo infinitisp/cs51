@@ -1,0 +1,2963 @@
+"mapfold.ml" 20 574 578 "mapfold.ml" 20 574 588
+type(
+  int list -> int list
+)
+ident(
+  def negate_all "mapfold.ml" 24 679 679 "mapfold.ml" 1 0 -1
+)
+"mapfold.ml" 20 574 590 "mapfold.ml" 20 574 594
+type(
+  int list
+)
+ident(
+  def nums "mapfold.ml" 20 574 605 "mapfold.ml" 21 618 652
+)
+"mapfold.ml" 21 618 622 "mapfold.ml" 21 618 630
+type(
+  int list -> f:(int -> int) -> int list
+)
+ident(
+  ext_ref Core.Std.List.map
+)
+"mapfold.ml" 21 618 639 "mapfold.ml" 21 618 640
+type(
+  int
+)
+ident(
+  def x "mapfold.ml" 21 618 644 "mapfold.ml" 21 618 646
+)
+"mapfold.ml" 21 618 645 "mapfold.ml" 21 618 646
+type(
+  int
+)
+ident(
+  int_ref x "mapfold.ml" 21 618 639 "mapfold.ml" 21 618 640
+)
+"mapfold.ml" 21 618 644 "mapfold.ml" 21 618 646
+type(
+  int
+)
+type(
+  int -> int
+)
+ident(
+  ext_ref Pervasives.( ~- )
+)
+"mapfold.ml" 21 618 639 "mapfold.ml" 21 618 646
+type(
+  int -> int
+)
+"mapfold.ml" 21 618 648 "mapfold.ml" 21 618 652
+type(
+  int list
+)
+ident(
+  int_ref nums "mapfold.ml" 20 574 590 "mapfold.ml" 20 574 594
+)
+"mapfold.ml" 21 618 622 "mapfold.ml" 21 618 652
+call(
+  tail
+)
+type(
+  int list
+)
+type(
+  int list
+)
+"mapfold.ml" 20 574 589 "mapfold.ml" 21 618 652
+type(
+  int list -> int list
+)
+"mapfold.ml" 24 679 688 "mapfold.ml" 24 679 698
+type(
+  int list -> int list
+)
+ident(
+  int_ref negate_all "mapfold.ml" 20 574 578 "mapfold.ml" 20 574 588
+)
+"mapfold.ml" 24 679 700 "mapfold.ml" 24 679 701
+type(
+  int
+)
+"mapfold.ml" 24 679 703 "mapfold.ml" 24 679 705
+type(
+  int
+)
+"mapfold.ml" 24 679 707 "mapfold.ml" 24 679 708
+type(
+  int
+)
+type(
+  int list
+)
+"mapfold.ml" 24 679 703 "mapfold.ml" 24 679 708
+type(
+  int list
+)
+"mapfold.ml" 24 679 700 "mapfold.ml" 24 679 708
+type(
+  int list
+)
+"mapfold.ml" 24 679 699 "mapfold.ml" 24 679 709
+type(
+  int list
+)
+"mapfold.ml" 24 679 688 "mapfold.ml" 24 679 709
+call(
+  stack
+)
+type(
+  int list
+)
+"mapfold.ml" 24 679 711 "mapfold.ml" 24 679 712
+type(
+  int list -> int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"mapfold.ml" 24 679 714 "mapfold.ml" 24 679 716
+type(
+  int
+)
+"mapfold.ml" 24 679 718 "mapfold.ml" 24 679 719
+type(
+  int
+)
+"mapfold.ml" 24 679 721 "mapfold.ml" 24 679 722
+type(
+  int
+)
+type(
+  int list
+)
+"mapfold.ml" 24 679 718 "mapfold.ml" 24 679 722
+type(
+  int list
+)
+"mapfold.ml" 24 679 714 "mapfold.ml" 24 679 722
+type(
+  int list
+)
+"mapfold.ml" 24 679 713 "mapfold.ml" 24 679 723
+type(
+  int list
+)
+"mapfold.ml" 24 679 687 "mapfold.ml" 24 679 723
+type(
+  bool
+)
+"mapfold.ml" 24 679 679 "mapfold.ml" 24 679 724
+type(
+  unit
+)
+"mapfold.ml" 30 813 817 "mapfold.ml" 30 813 820
+type(
+  int list -> int
+)
+ident(
+  def sum "mapfold.ml" 33 901 901 "mapfold.ml" 1 0 -1
+)
+"mapfold.ml" 30 813 822 "mapfold.ml" 30 813 826
+type(
+  int list
+)
+ident(
+  def nums "mapfold.ml" 30 813 837 "mapfold.ml" 31 845 899
+)
+"mapfold.ml" 31 845 849 "mapfold.ml" 31 845 864
+type(
+  int list -> f:(int -> int -> int) -> init:int -> int
+)
+ident(
+  ext_ref Core.Std.List.fold_right
+)
+"mapfold.ml" 31 845 873 "mapfold.ml" 31 845 874
+type(
+  int
+)
+ident(
+  def x "mapfold.ml" 31 845 875 "mapfold.ml" 31 845 885
+)
+"mapfold.ml" 31 845 875 "mapfold.ml" 31 845 876
+type(
+  int
+)
+ident(
+  def y "mapfold.ml" 31 845 880 "mapfold.ml" 31 845 885
+)
+"mapfold.ml" 31 845 880 "mapfold.ml" 31 845 881
+type(
+  int
+)
+ident(
+  int_ref x "mapfold.ml" 31 845 873 "mapfold.ml" 31 845 874
+)
+"mapfold.ml" 31 845 882 "mapfold.ml" 31 845 883
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"mapfold.ml" 31 845 884 "mapfold.ml" 31 845 885
+type(
+  int
+)
+ident(
+  int_ref y "mapfold.ml" 31 845 875 "mapfold.ml" 31 845 876
+)
+"mapfold.ml" 31 845 880 "mapfold.ml" 31 845 885
+type(
+  int
+)
+"mapfold.ml" 31 845 875 "mapfold.ml" 31 845 885
+type(
+  int -> int
+)
+"mapfold.ml" 31 845 873 "mapfold.ml" 31 845 885
+type(
+  int -> int -> int
+)
+"mapfold.ml" 31 845 893 "mapfold.ml" 31 845 894
+type(
+  int
+)
+"mapfold.ml" 31 845 895 "mapfold.ml" 31 845 899
+type(
+  int list
+)
+ident(
+  int_ref nums "mapfold.ml" 30 813 822 "mapfold.ml" 30 813 826
+)
+"mapfold.ml" 31 845 849 "mapfold.ml" 31 845 899
+call(
+  tail
+)
+type(
+  int
+)
+type(
+  int
+)
+"mapfold.ml" 30 813 821 "mapfold.ml" 31 845 899
+type(
+  int list -> int
+)
+"mapfold.ml" 33 901 908 "mapfold.ml" 33 901 911
+type(
+  int list -> int
+)
+ident(
+  int_ref sum "mapfold.ml" 30 813 817 "mapfold.ml" 30 813 820
+)
+"mapfold.ml" 33 901 913 "mapfold.ml" 33 901 914
+type(
+  int
+)
+"mapfold.ml" 33 901 915 "mapfold.ml" 33 901 916
+type(
+  int
+)
+"mapfold.ml" 33 901 917 "mapfold.ml" 33 901 918
+type(
+  int
+)
+type(
+  int list
+)
+"mapfold.ml" 33 901 915 "mapfold.ml" 33 901 918
+type(
+  int list
+)
+"mapfold.ml" 33 901 913 "mapfold.ml" 33 901 918
+type(
+  int list
+)
+"mapfold.ml" 33 901 912 "mapfold.ml" 33 901 919
+type(
+  int list
+)
+"mapfold.ml" 33 901 908 "mapfold.ml" 33 901 919
+call(
+  stack
+)
+type(
+  int
+)
+"mapfold.ml" 33 901 920 "mapfold.ml" 33 901 921
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"mapfold.ml" 33 901 922 "mapfold.ml" 33 901 923
+type(
+  int
+)
+"mapfold.ml" 33 901 908 "mapfold.ml" 33 901 923
+type(
+  bool
+)
+"mapfold.ml" 33 901 901 "mapfold.ml" 33 901 924
+type(
+  unit
+)
+"mapfold.ml" 34 925 932 "mapfold.ml" 34 925 935
+type(
+  int list -> int
+)
+ident(
+  int_ref sum "mapfold.ml" 30 813 817 "mapfold.ml" 30 813 820
+)
+"mapfold.ml" 34 925 936 "mapfold.ml" 34 925 938
+type(
+  int list
+)
+"mapfold.ml" 34 925 932 "mapfold.ml" 34 925 938
+call(
+  stack
+)
+type(
+  int
+)
+"mapfold.ml" 34 925 939 "mapfold.ml" 34 925 940
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"mapfold.ml" 34 925 941 "mapfold.ml" 34 925 942
+type(
+  int
+)
+"mapfold.ml" 34 925 932 "mapfold.ml" 34 925 942
+type(
+  bool
+)
+"mapfold.ml" 34 925 925 "mapfold.ml" 34 925 943
+type(
+  unit
+)
+"mapfold.ml" 42 1230 1234 "mapfold.ml" 42 1230 1242
+type(
+  int list list -> int list
+)
+ident(
+  def sum_rows "mapfold.ml" 45 1303 1303 "mapfold.ml" 1 0 -1
+)
+"mapfold.ml" 42 1230 1244 "mapfold.ml" 42 1230 1248
+type(
+  int list list
+)
+ident(
+  def rows "mapfold.ml" 42 1230 1264 "mapfold.ml" 43 1277 1301
+)
+"mapfold.ml" 43 1277 1281 "mapfold.ml" 43 1277 1289
+type(
+  int list list -> f:(int list -> int) -> int list
+)
+ident(
+  ext_ref Core.Std.List.map
+)
+"mapfold.ml" 43 1277 1293 "mapfold.ml" 43 1277 1296
+type(
+  int list -> int
+)
+ident(
+  int_ref sum "mapfold.ml" 30 813 817 "mapfold.ml" 30 813 820
+)
+"mapfold.ml" 43 1277 1297 "mapfold.ml" 43 1277 1301
+type(
+  int list list
+)
+ident(
+  int_ref rows "mapfold.ml" 42 1230 1244 "mapfold.ml" 42 1230 1248
+)
+"mapfold.ml" 43 1277 1281 "mapfold.ml" 43 1277 1301
+call(
+  tail
+)
+type(
+  int list
+)
+type(
+  int list
+)
+"mapfold.ml" 42 1230 1243 "mapfold.ml" 43 1277 1301
+type(
+  int list list -> int list
+)
+"mapfold.ml" 45 1303 1311 "mapfold.ml" 45 1303 1319
+type(
+  int list list -> int list
+)
+ident(
+  int_ref sum_rows "mapfold.ml" 42 1230 1234 "mapfold.ml" 42 1230 1242
+)
+"mapfold.ml" 45 1303 1322 "mapfold.ml" 45 1303 1323
+type(
+  int
+)
+"mapfold.ml" 45 1303 1324 "mapfold.ml" 45 1303 1325
+type(
+  int
+)
+type(
+  int list
+)
+"mapfold.ml" 45 1303 1322 "mapfold.ml" 45 1303 1325
+type(
+  int list
+)
+"mapfold.ml" 45 1303 1321 "mapfold.ml" 45 1303 1326
+type(
+  int list
+)
+"mapfold.ml" 45 1303 1329 "mapfold.ml" 45 1303 1330
+type(
+  int
+)
+"mapfold.ml" 45 1303 1331 "mapfold.ml" 45 1303 1332
+type(
+  int
+)
+type(
+  int list
+)
+"mapfold.ml" 45 1303 1329 "mapfold.ml" 45 1303 1332
+type(
+  int list
+)
+"mapfold.ml" 45 1303 1328 "mapfold.ml" 45 1303 1333
+type(
+  int list
+)
+type(
+  int list list
+)
+"mapfold.ml" 45 1303 1321 "mapfold.ml" 45 1303 1333
+type(
+  int list list
+)
+"mapfold.ml" 45 1303 1320 "mapfold.ml" 45 1303 1334
+type(
+  int list list
+)
+"mapfold.ml" 45 1303 1311 "mapfold.ml" 45 1303 1334
+call(
+  stack
+)
+type(
+  int list
+)
+"mapfold.ml" 45 1303 1335 "mapfold.ml" 45 1303 1336
+type(
+  int list -> int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"mapfold.ml" 45 1303 1338 "mapfold.ml" 45 1303 1339
+type(
+  int
+)
+"mapfold.ml" 45 1303 1341 "mapfold.ml" 45 1303 1342
+type(
+  int
+)
+type(
+  int list
+)
+"mapfold.ml" 45 1303 1338 "mapfold.ml" 45 1303 1342
+type(
+  int list
+)
+"mapfold.ml" 45 1303 1337 "mapfold.ml" 45 1303 1343
+type(
+  int list
+)
+"mapfold.ml" 45 1303 1311 "mapfold.ml" 45 1303 1343
+type(
+  bool
+)
+"mapfold.ml" 45 1303 1303 "mapfold.ml" 45 1303 1344
+type(
+  unit
+)
+"mapfold.ml" 46 1345 1353 "mapfold.ml" 46 1345 1361
+type(
+  int list list -> int list
+)
+ident(
+  int_ref sum_rows "mapfold.ml" 42 1230 1234 "mapfold.ml" 42 1230 1242
+)
+"mapfold.ml" 46 1345 1362 "mapfold.ml" 46 1345 1364
+type(
+  int list list
+)
+"mapfold.ml" 46 1345 1353 "mapfold.ml" 46 1345 1364
+call(
+  stack
+)
+type(
+  int list
+)
+"mapfold.ml" 46 1345 1365 "mapfold.ml" 46 1345 1366
+type(
+  int list -> int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"mapfold.ml" 46 1345 1367 "mapfold.ml" 46 1345 1369
+type(
+  int list
+)
+"mapfold.ml" 46 1345 1353 "mapfold.ml" 46 1345 1369
+type(
+  bool
+)
+"mapfold.ml" 46 1345 1345 "mapfold.ml" 46 1345 1370
+type(
+  unit
+)
+"mapfold.ml" 47 1371 1379 "mapfold.ml" 47 1371 1387
+type(
+  int list list -> int list
+)
+ident(
+  int_ref sum_rows "mapfold.ml" 42 1230 1234 "mapfold.ml" 42 1230 1242
+)
+"mapfold.ml" 47 1371 1390 "mapfold.ml" 47 1371 1391
+type(
+  int
+)
+type(
+  int list
+)
+"mapfold.ml" 47 1371 1389 "mapfold.ml" 47 1371 1392
+type(
+  int list
+)
+type(
+  int list list
+)
+"mapfold.ml" 47 1371 1388 "mapfold.ml" 47 1371 1393
+type(
+  int list list
+)
+"mapfold.ml" 47 1371 1379 "mapfold.ml" 47 1371 1393
+call(
+  stack
+)
+type(
+  int list
+)
+"mapfold.ml" 47 1371 1394 "mapfold.ml" 47 1371 1395
+type(
+  int list -> int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"mapfold.ml" 47 1371 1397 "mapfold.ml" 47 1371 1398
+type(
+  int
+)
+type(
+  int list
+)
+"mapfold.ml" 47 1371 1396 "mapfold.ml" 47 1371 1399
+type(
+  int list
+)
+"mapfold.ml" 47 1371 1379 "mapfold.ml" 47 1371 1399
+type(
+  bool
+)
+"mapfold.ml" 47 1371 1371 "mapfold.ml" 47 1371 1400
+type(
+  unit
+)
+"mapfold.ml" 53 1548 1552 "mapfold.ml" 53 1548 1562
+type(
+  int list -> int list
+)
+ident(
+  def filter_odd "mapfold.ml" 56 1664 1664 "mapfold.ml" 1 0 -1
+)
+"mapfold.ml" 53 1548 1564 "mapfold.ml" 53 1548 1568
+type(
+  int list
+)
+ident(
+  def nums "mapfold.ml" 53 1548 1579 "mapfold.ml" 54 1592 1662
+)
+"mapfold.ml" 54 1592 1596 "mapfold.ml" 54 1592 1607
+type(
+  int list -> f:(int -> bool) -> int list
+)
+ident(
+  ext_ref Core.Std.List.filter
+)
+"mapfold.ml" 54 1592 1616 "mapfold.ml" 54 1592 1617
+type(
+  int
+)
+ident(
+  def x "mapfold.ml" 54 1592 1621 "mapfold.ml" 54 1592 1656
+)
+"mapfold.ml" 54 1592 1624 "mapfold.ml" 54 1592 1625
+type(
+  int
+)
+ident(
+  int_ref x "mapfold.ml" 54 1592 1616 "mapfold.ml" 54 1592 1617
+)
+"mapfold.ml" 54 1592 1630 "mapfold.ml" 54 1592 1631
+type(
+  int
+)
+"mapfold.ml" 54 1592 1624 "mapfold.ml" 54 1592 1631
+type(
+  int
+)
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( mod )
+)
+"mapfold.ml" 54 1592 1632 "mapfold.ml" 54 1592 1633
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"mapfold.ml" 54 1592 1634 "mapfold.ml" 54 1592 1635
+type(
+  int
+)
+"mapfold.ml" 54 1592 1624 "mapfold.ml" 54 1592 1635
+type(
+  bool
+)
+"mapfold.ml" 54 1592 1641 "mapfold.ml" 54 1592 1646
+type(
+  bool
+)
+"mapfold.ml" 54 1592 1652 "mapfold.ml" 54 1592 1656
+type(
+  bool
+)
+"mapfold.ml" 54 1592 1621 "mapfold.ml" 54 1592 1656
+type(
+  bool
+)
+"mapfold.ml" 54 1592 1616 "mapfold.ml" 54 1592 1656
+type(
+  int -> bool
+)
+"mapfold.ml" 54 1592 1658 "mapfold.ml" 54 1592 1662
+type(
+  int list
+)
+ident(
+  int_ref nums "mapfold.ml" 53 1548 1564 "mapfold.ml" 53 1548 1568
+)
+"mapfold.ml" 54 1592 1596 "mapfold.ml" 54 1592 1662
+call(
+  tail
+)
+type(
+  int list
+)
+type(
+  int list
+)
+"mapfold.ml" 53 1548 1563 "mapfold.ml" 54 1592 1662
+type(
+  int list -> int list
+)
+"mapfold.ml" 56 1664 1672 "mapfold.ml" 56 1664 1682
+type(
+  int list -> int list
+)
+ident(
+  int_ref filter_odd "mapfold.ml" 53 1548 1552 "mapfold.ml" 53 1548 1562
+)
+"mapfold.ml" 56 1664 1684 "mapfold.ml" 56 1664 1685
+type(
+  int
+)
+"mapfold.ml" 56 1664 1686 "mapfold.ml" 56 1664 1687
+type(
+  int
+)
+"mapfold.ml" 56 1664 1688 "mapfold.ml" 56 1664 1689
+type(
+  int
+)
+"mapfold.ml" 56 1664 1690 "mapfold.ml" 56 1664 1691
+type(
+  int
+)
+"mapfold.ml" 56 1664 1692 "mapfold.ml" 56 1664 1693
+type(
+  int
+)
+type(
+  int list
+)
+"mapfold.ml" 56 1664 1690 "mapfold.ml" 56 1664 1693
+type(
+  int list
+)
+"mapfold.ml" 56 1664 1688 "mapfold.ml" 56 1664 1693
+type(
+  int list
+)
+"mapfold.ml" 56 1664 1686 "mapfold.ml" 56 1664 1693
+type(
+  int list
+)
+"mapfold.ml" 56 1664 1684 "mapfold.ml" 56 1664 1693
+type(
+  int list
+)
+"mapfold.ml" 56 1664 1683 "mapfold.ml" 56 1664 1694
+type(
+  int list
+)
+"mapfold.ml" 56 1664 1672 "mapfold.ml" 56 1664 1694
+call(
+  stack
+)
+type(
+  int list
+)
+"mapfold.ml" 56 1664 1695 "mapfold.ml" 56 1664 1696
+type(
+  int list -> int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"mapfold.ml" 56 1664 1698 "mapfold.ml" 56 1664 1699
+type(
+  int
+)
+"mapfold.ml" 56 1664 1700 "mapfold.ml" 56 1664 1701
+type(
+  int
+)
+type(
+  int list
+)
+"mapfold.ml" 56 1664 1698 "mapfold.ml" 56 1664 1701
+type(
+  int list
+)
+"mapfold.ml" 56 1664 1697 "mapfold.ml" 56 1664 1702
+type(
+  int list
+)
+"mapfold.ml" 56 1664 1672 "mapfold.ml" 56 1664 1702
+type(
+  bool
+)
+"mapfold.ml" 56 1664 1664 "mapfold.ml" 56 1664 1703
+type(
+  unit
+)
+"mapfold.ml" 57 1704 1712 "mapfold.ml" 57 1704 1722
+type(
+  int list -> int list
+)
+ident(
+  int_ref filter_odd "mapfold.ml" 53 1548 1552 "mapfold.ml" 53 1548 1562
+)
+"mapfold.ml" 57 1704 1723 "mapfold.ml" 57 1704 1725
+type(
+  int list
+)
+"mapfold.ml" 57 1704 1712 "mapfold.ml" 57 1704 1725
+call(
+  stack
+)
+type(
+  int list
+)
+"mapfold.ml" 57 1704 1726 "mapfold.ml" 57 1704 1727
+type(
+  int list -> int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"mapfold.ml" 57 1704 1728 "mapfold.ml" 57 1704 1730
+type(
+  int list
+)
+"mapfold.ml" 57 1704 1712 "mapfold.ml" 57 1704 1730
+type(
+  bool
+)
+"mapfold.ml" 57 1704 1704 "mapfold.ml" 57 1704 1731
+type(
+  unit
+)
+"mapfold.ml" 64 1887 1891 "mapfold.ml" 64 1887 1901
+type(
+  int -> int list -> int
+)
+ident(
+  def num_occurs "mapfold.ml" 69 2022 2022 "mapfold.ml" 1 0 -1
+)
+"mapfold.ml" 64 1887 1903 "mapfold.ml" 64 1887 1904
+type(
+  int
+)
+ident(
+  def n "mapfold.ml" 64 1887 1910 "mapfold.ml" 67 2003 2020
+)
+"mapfold.ml" 64 1887 1911 "mapfold.ml" 64 1887 1915
+type(
+  int list
+)
+ident(
+  def nums "mapfold.ml" 64 1887 1926 "mapfold.ml" 67 2003 2020
+)
+"mapfold.ml" 65 1934 1938 "mapfold.ml" 65 1934 1953
+type(
+  int list -> f:(int -> int -> int) -> init:int -> int
+)
+ident(
+  ext_ref Core.Std.List.fold_right
+)
+"mapfold.ml" 65 1934 1961 "mapfold.ml" 65 1934 1962
+type(
+  int
+)
+"mapfold.ml" 65 1934 1971 "mapfold.ml" 65 1934 1972
+type(
+  int
+)
+ident(
+  def x "mapfold.ml" 65 1934 1973 "mapfold.ml" 67 2003 2014
+)
+"mapfold.ml" 65 1934 1973 "mapfold.ml" 65 1934 1974
+type(
+  int
+)
+ident(
+  def y "mapfold.ml" 66 1978 1983 "mapfold.ml" 67 2003 2014
+)
+"mapfold.ml" 66 1978 1986 "mapfold.ml" 66 1978 1987
+type(
+  int
+)
+ident(
+  int_ref x "mapfold.ml" 65 1934 1971 "mapfold.ml" 65 1934 1972
+)
+"mapfold.ml" 66 1978 1988 "mapfold.ml" 66 1978 1989
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"mapfold.ml" 66 1978 1990 "mapfold.ml" 66 1978 1991
+type(
+  int
+)
+ident(
+  int_ref n "mapfold.ml" 64 1887 1903 "mapfold.ml" 64 1887 1904
+)
+"mapfold.ml" 66 1978 1986 "mapfold.ml" 66 1978 1991
+type(
+  bool
+)
+"mapfold.ml" 66 1978 1997 "mapfold.ml" 66 1978 1998
+type(
+  int
+)
+"mapfold.ml" 66 1978 1999 "mapfold.ml" 66 1978 2000
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"mapfold.ml" 66 1978 2001 "mapfold.ml" 66 1978 2002
+type(
+  int
+)
+ident(
+  int_ref y "mapfold.ml" 65 1934 1973 "mapfold.ml" 65 1934 1974
+)
+"mapfold.ml" 66 1978 1997 "mapfold.ml" 66 1978 2002
+type(
+  int
+)
+"mapfold.ml" 67 2003 2013 "mapfold.ml" 67 2003 2014
+type(
+  int
+)
+ident(
+  int_ref y "mapfold.ml" 65 1934 1973 "mapfold.ml" 65 1934 1974
+)
+"mapfold.ml" 66 1978 1983 "mapfold.ml" 67 2003 2014
+type(
+  int
+)
+"mapfold.ml" 65 1934 1973 "mapfold.ml" 67 2003 2014
+type(
+  int -> int
+)
+"mapfold.ml" 65 1934 1971 "mapfold.ml" 67 2003 2014
+type(
+  int -> int -> int
+)
+"mapfold.ml" 67 2003 2016 "mapfold.ml" 67 2003 2020
+type(
+  int list
+)
+ident(
+  int_ref nums "mapfold.ml" 64 1887 1911 "mapfold.ml" 64 1887 1915
+)
+"mapfold.ml" 65 1934 1938 "mapfold.ml" 67 2003 2020
+call(
+  tail
+)
+type(
+  int
+)
+type(
+  int
+)
+"mapfold.ml" 64 1887 1910 "mapfold.ml" 67 2003 2020
+type(
+  int list -> int
+)
+"mapfold.ml" 64 1887 1902 "mapfold.ml" 67 2003 2020
+type(
+  int -> int list -> int
+)
+"mapfold.ml" 69 2022 2030 "mapfold.ml" 69 2022 2040
+type(
+  int -> int list -> int
+)
+ident(
+  int_ref num_occurs "mapfold.ml" 64 1887 1891 "mapfold.ml" 64 1887 1901
+)
+"mapfold.ml" 69 2022 2041 "mapfold.ml" 69 2022 2042
+type(
+  int
+)
+"mapfold.ml" 69 2022 2044 "mapfold.ml" 69 2022 2045
+type(
+  int
+)
+"mapfold.ml" 69 2022 2046 "mapfold.ml" 69 2022 2047
+type(
+  int
+)
+"mapfold.ml" 69 2022 2048 "mapfold.ml" 69 2022 2049
+type(
+  int
+)
+"mapfold.ml" 69 2022 2050 "mapfold.ml" 69 2022 2051
+type(
+  int
+)
+"mapfold.ml" 69 2022 2052 "mapfold.ml" 69 2022 2053
+type(
+  int
+)
+type(
+  int list
+)
+"mapfold.ml" 69 2022 2050 "mapfold.ml" 69 2022 2053
+type(
+  int list
+)
+"mapfold.ml" 69 2022 2048 "mapfold.ml" 69 2022 2053
+type(
+  int list
+)
+"mapfold.ml" 69 2022 2046 "mapfold.ml" 69 2022 2053
+type(
+  int list
+)
+"mapfold.ml" 69 2022 2044 "mapfold.ml" 69 2022 2053
+type(
+  int list
+)
+"mapfold.ml" 69 2022 2043 "mapfold.ml" 69 2022 2054
+type(
+  int list
+)
+"mapfold.ml" 69 2022 2030 "mapfold.ml" 69 2022 2054
+call(
+  stack
+)
+type(
+  int
+)
+"mapfold.ml" 69 2022 2055 "mapfold.ml" 69 2022 2056
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"mapfold.ml" 69 2022 2057 "mapfold.ml" 69 2022 2058
+type(
+  int
+)
+"mapfold.ml" 69 2022 2030 "mapfold.ml" 69 2022 2058
+type(
+  bool
+)
+"mapfold.ml" 69 2022 2022 "mapfold.ml" 69 2022 2059
+type(
+  unit
+)
+"mapfold.ml" 70 2060 2068 "mapfold.ml" 70 2060 2078
+type(
+  int -> int list -> int
+)
+ident(
+  int_ref num_occurs "mapfold.ml" 64 1887 1891 "mapfold.ml" 64 1887 1901
+)
+"mapfold.ml" 70 2060 2079 "mapfold.ml" 70 2060 2080
+type(
+  int
+)
+"mapfold.ml" 70 2060 2082 "mapfold.ml" 70 2060 2083
+type(
+  int
+)
+"mapfold.ml" 70 2060 2084 "mapfold.ml" 70 2060 2085
+type(
+  int
+)
+"mapfold.ml" 70 2060 2086 "mapfold.ml" 70 2060 2087
+type(
+  int
+)
+"mapfold.ml" 70 2060 2088 "mapfold.ml" 70 2060 2089
+type(
+  int
+)
+type(
+  int list
+)
+"mapfold.ml" 70 2060 2086 "mapfold.ml" 70 2060 2089
+type(
+  int list
+)
+"mapfold.ml" 70 2060 2084 "mapfold.ml" 70 2060 2089
+type(
+  int list
+)
+"mapfold.ml" 70 2060 2082 "mapfold.ml" 70 2060 2089
+type(
+  int list
+)
+"mapfold.ml" 70 2060 2081 "mapfold.ml" 70 2060 2090
+type(
+  int list
+)
+"mapfold.ml" 70 2060 2068 "mapfold.ml" 70 2060 2090
+call(
+  stack
+)
+type(
+  int
+)
+"mapfold.ml" 70 2060 2091 "mapfold.ml" 70 2060 2092
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"mapfold.ml" 70 2060 2093 "mapfold.ml" 70 2060 2094
+type(
+  int
+)
+"mapfold.ml" 70 2060 2068 "mapfold.ml" 70 2060 2094
+type(
+  bool
+)
+"mapfold.ml" 70 2060 2060 "mapfold.ml" 70 2060 2095
+type(
+  unit
+)
+"mapfold.ml" 77 2237 2241 "mapfold.ml" 77 2237 2250
+type(
+  int list list -> int
+)
+ident(
+  def super_sum "mapfold.ml" 80 2344 2344 "mapfold.ml" 1 0 -1
+)
+"mapfold.ml" 77 2237 2252 "mapfold.ml" 77 2237 2258
+type(
+  int list list
+)
+ident(
+  def nlists "mapfold.ml" 77 2237 2274 "mapfold.ml" 78 2282 2342
+)
+"mapfold.ml" 78 2282 2286 "mapfold.ml" 78 2282 2301
+type(
+  int list list -> f:(int list -> int -> int) -> init:int -> int
+)
+ident(
+  ext_ref Core.Std.List.fold_right
+)
+"mapfold.ml" 78 2282 2308 "mapfold.ml" 78 2282 2309
+type(
+  int
+)
+"mapfold.ml" 78 2282 2318 "mapfold.ml" 78 2282 2319
+type(
+  int list
+)
+ident(
+  def x "mapfold.ml" 78 2282 2320 "mapfold.ml" 78 2282 2334
+)
+"mapfold.ml" 78 2282 2320 "mapfold.ml" 78 2282 2321
+type(
+  int
+)
+ident(
+  def y "mapfold.ml" 78 2282 2325 "mapfold.ml" 78 2282 2334
+)
+"mapfold.ml" 78 2282 2325 "mapfold.ml" 78 2282 2328
+type(
+  int list -> int
+)
+ident(
+  int_ref sum "mapfold.ml" 30 813 817 "mapfold.ml" 30 813 820
+)
+"mapfold.ml" 78 2282 2329 "mapfold.ml" 78 2282 2330
+type(
+  int list
+)
+ident(
+  int_ref x "mapfold.ml" 78 2282 2318 "mapfold.ml" 78 2282 2319
+)
+"mapfold.ml" 78 2282 2325 "mapfold.ml" 78 2282 2330
+call(
+  stack
+)
+type(
+  int
+)
+"mapfold.ml" 78 2282 2331 "mapfold.ml" 78 2282 2332
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"mapfold.ml" 78 2282 2333 "mapfold.ml" 78 2282 2334
+type(
+  int
+)
+ident(
+  int_ref y "mapfold.ml" 78 2282 2320 "mapfold.ml" 78 2282 2321
+)
+"mapfold.ml" 78 2282 2325 "mapfold.ml" 78 2282 2334
+type(
+  int
+)
+"mapfold.ml" 78 2282 2320 "mapfold.ml" 78 2282 2334
+type(
+  int -> int
+)
+"mapfold.ml" 78 2282 2318 "mapfold.ml" 78 2282 2334
+type(
+  int list -> int -> int
+)
+"mapfold.ml" 78 2282 2336 "mapfold.ml" 78 2282 2342
+type(
+  int list list
+)
+ident(
+  int_ref nlists "mapfold.ml" 77 2237 2252 "mapfold.ml" 77 2237 2258
+)
+"mapfold.ml" 78 2282 2286 "mapfold.ml" 78 2282 2342
+call(
+  tail
+)
+type(
+  int
+)
+type(
+  int
+)
+"mapfold.ml" 77 2237 2251 "mapfold.ml" 78 2282 2342
+type(
+  int list list -> int
+)
+"mapfold.ml" 80 2344 2352 "mapfold.ml" 80 2344 2361
+type(
+  int list list -> int
+)
+ident(
+  int_ref super_sum "mapfold.ml" 77 2237 2241 "mapfold.ml" 77 2237 2250
+)
+"mapfold.ml" 80 2344 2364 "mapfold.ml" 80 2344 2365
+type(
+  int
+)
+"mapfold.ml" 80 2344 2366 "mapfold.ml" 80 2344 2367
+type(
+  int
+)
+"mapfold.ml" 80 2344 2368 "mapfold.ml" 80 2344 2369
+type(
+  int
+)
+type(
+  int list
+)
+"mapfold.ml" 80 2344 2366 "mapfold.ml" 80 2344 2369
+type(
+  int list
+)
+"mapfold.ml" 80 2344 2364 "mapfold.ml" 80 2344 2369
+type(
+  int list
+)
+"mapfold.ml" 80 2344 2363 "mapfold.ml" 80 2344 2370
+type(
+  int list
+)
+"mapfold.ml" 80 2344 2371 "mapfold.ml" 80 2344 2373
+type(
+  int list
+)
+"mapfold.ml" 80 2344 2375 "mapfold.ml" 80 2344 2376
+type(
+  int
+)
+type(
+  int list
+)
+"mapfold.ml" 80 2344 2374 "mapfold.ml" 80 2344 2377
+type(
+  int list
+)
+type(
+  int list list
+)
+"mapfold.ml" 80 2344 2371 "mapfold.ml" 80 2344 2377
+type(
+  int list list
+)
+"mapfold.ml" 80 2344 2363 "mapfold.ml" 80 2344 2377
+type(
+  int list list
+)
+"mapfold.ml" 80 2344 2362 "mapfold.ml" 80 2344 2378
+type(
+  int list list
+)
+"mapfold.ml" 80 2344 2352 "mapfold.ml" 80 2344 2378
+call(
+  stack
+)
+type(
+  int
+)
+"mapfold.ml" 80 2344 2379 "mapfold.ml" 80 2344 2380
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"mapfold.ml" 80 2344 2381 "mapfold.ml" 80 2344 2383
+type(
+  int
+)
+"mapfold.ml" 80 2344 2352 "mapfold.ml" 80 2344 2383
+type(
+  bool
+)
+"mapfold.ml" 80 2344 2344 "mapfold.ml" 80 2344 2384
+type(
+  unit
+)
+"mapfold.ml" 88 2660 2664 "mapfold.ml" 88 2660 2676
+type(
+  int list -> int * int -> int list
+)
+ident(
+  def filter_range "mapfold.ml" 93 2842 2842 "mapfold.ml" 1 0 -1
+)
+"mapfold.ml" 88 2660 2678 "mapfold.ml" 88 2660 2682
+type(
+  int list
+)
+ident(
+  def nums "mapfold.ml" 88 2660 2693 "mapfold.ml" 91 2811 2840
+)
+"mapfold.ml" 88 2660 2694 "mapfold.ml" 88 2660 2699
+type(
+  int * int
+)
+ident(
+  def range "mapfold.ml" 88 2660 2711 "mapfold.ml" 91 2811 2840
+)
+"mapfold.ml" 89 2724 2731 "mapfold.ml" 89 2724 2734
+type(
+  int
+)
+ident(
+  def min "mapfold.ml" 90 2751 2753 "mapfold.ml" 91 2811 2840
+)
+"mapfold.ml" 89 2724 2735 "mapfold.ml" 89 2724 2738
+type(
+  int
+)
+ident(
+  def max "mapfold.ml" 90 2751 2753 "mapfold.ml" 91 2811 2840
+)
+"mapfold.ml" 89 2724 2731 "mapfold.ml" 89 2724 2738
+type(
+  int * int
+)
+"mapfold.ml" 89 2724 2742 "mapfold.ml" 89 2724 2747
+type(
+  int * int
+)
+ident(
+  int_ref range "mapfold.ml" 88 2660 2694 "mapfold.ml" 88 2660 2699
+)
+"mapfold.ml" 90 2751 2753 "mapfold.ml" 90 2751 2764
+type(
+  int list -> f:(int -> bool) -> int list
+)
+ident(
+  ext_ref Core.Std.List.filter
+)
+"mapfold.ml" 90 2751 2773 "mapfold.ml" 90 2751 2774
+type(
+  int
+)
+ident(
+  def x "mapfold.ml" 90 2751 2778 "mapfold.ml" 91 2811 2834
+)
+"mapfold.ml" 90 2751 2782 "mapfold.ml" 90 2751 2783
+type(
+  int
+)
+ident(
+  int_ref x "mapfold.ml" 90 2751 2773 "mapfold.ml" 90 2751 2774
+)
+"mapfold.ml" 90 2751 2784 "mapfold.ml" 90 2751 2786
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( >= )
+)
+"mapfold.ml" 90 2751 2787 "mapfold.ml" 90 2751 2790
+type(
+  int
+)
+ident(
+  int_ref min "mapfold.ml" 89 2724 2731 "mapfold.ml" 89 2724 2734
+)
+"mapfold.ml" 90 2751 2782 "mapfold.ml" 90 2751 2790
+type(
+  bool
+)
+"mapfold.ml" 90 2751 2792 "mapfold.ml" 90 2751 2794
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( && )
+)
+"mapfold.ml" 90 2751 2796 "mapfold.ml" 90 2751 2797
+type(
+  int
+)
+ident(
+  int_ref x "mapfold.ml" 90 2751 2773 "mapfold.ml" 90 2751 2774
+)
+"mapfold.ml" 90 2751 2798 "mapfold.ml" 90 2751 2800
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( <= )
+)
+"mapfold.ml" 90 2751 2801 "mapfold.ml" 90 2751 2804
+type(
+  int
+)
+ident(
+  int_ref max "mapfold.ml" 89 2724 2735 "mapfold.ml" 89 2724 2738
+)
+"mapfold.ml" 90 2751 2796 "mapfold.ml" 90 2751 2804
+type(
+  bool
+)
+"mapfold.ml" 90 2751 2781 "mapfold.ml" 90 2751 2805
+type(
+  bool
+)
+"mapfold.ml" 91 2811 2819 "mapfold.ml" 91 2811 2823
+type(
+  bool
+)
+"mapfold.ml" 91 2811 2829 "mapfold.ml" 91 2811 2834
+type(
+  bool
+)
+"mapfold.ml" 90 2751 2778 "mapfold.ml" 91 2811 2834
+type(
+  bool
+)
+"mapfold.ml" 90 2751 2773 "mapfold.ml" 91 2811 2834
+type(
+  int -> bool
+)
+"mapfold.ml" 91 2811 2836 "mapfold.ml" 91 2811 2840
+type(
+  int list
+)
+ident(
+  int_ref nums "mapfold.ml" 88 2660 2678 "mapfold.ml" 88 2660 2682
+)
+"mapfold.ml" 90 2751 2753 "mapfold.ml" 91 2811 2840
+call(
+  tail
+)
+type(
+  int list
+)
+"mapfold.ml" 89 2724 2726 "mapfold.ml" 91 2811 2840
+type(
+  int list
+)
+type(
+  int list
+)
+"mapfold.ml" 88 2660 2693 "mapfold.ml" 91 2811 2840
+type(
+  int * int -> int list
+)
+"mapfold.ml" 88 2660 2677 "mapfold.ml" 91 2811 2840
+type(
+  int list -> int * int -> int list
+)
+"mapfold.ml" 93 2842 2850 "mapfold.ml" 93 2842 2862
+type(
+  int list -> int * int -> int list
+)
+ident(
+  int_ref filter_range "mapfold.ml" 88 2660 2664 "mapfold.ml" 88 2660 2676
+)
+"mapfold.ml" 93 2842 2864 "mapfold.ml" 93 2842 2865
+type(
+  int
+)
+"mapfold.ml" 93 2842 2866 "mapfold.ml" 93 2842 2867
+type(
+  int
+)
+"mapfold.ml" 93 2842 2868 "mapfold.ml" 93 2842 2869
+type(
+  int
+)
+"mapfold.ml" 93 2842 2870 "mapfold.ml" 93 2842 2871
+type(
+  int
+)
+"mapfold.ml" 93 2842 2872 "mapfold.ml" 93 2842 2873
+type(
+  int
+)
+type(
+  int list
+)
+"mapfold.ml" 93 2842 2870 "mapfold.ml" 93 2842 2873
+type(
+  int list
+)
+"mapfold.ml" 93 2842 2868 "mapfold.ml" 93 2842 2873
+type(
+  int list
+)
+"mapfold.ml" 93 2842 2866 "mapfold.ml" 93 2842 2873
+type(
+  int list
+)
+"mapfold.ml" 93 2842 2864 "mapfold.ml" 93 2842 2873
+type(
+  int list
+)
+"mapfold.ml" 93 2842 2863 "mapfold.ml" 93 2842 2874
+type(
+  int list
+)
+"mapfold.ml" 93 2842 2876 "mapfold.ml" 93 2842 2877
+type(
+  int
+)
+"mapfold.ml" 93 2842 2878 "mapfold.ml" 93 2842 2879
+type(
+  int
+)
+"mapfold.ml" 93 2842 2876 "mapfold.ml" 93 2842 2879
+type(
+  int * int
+)
+"mapfold.ml" 93 2842 2850 "mapfold.ml" 93 2842 2880
+call(
+  stack
+)
+type(
+  int list
+)
+"mapfold.ml" 93 2842 2881 "mapfold.ml" 93 2842 2882
+type(
+  int list -> int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"mapfold.ml" 93 2842 2884 "mapfold.ml" 93 2842 2885
+type(
+  int
+)
+"mapfold.ml" 93 2842 2886 "mapfold.ml" 93 2842 2887
+type(
+  int
+)
+"mapfold.ml" 93 2842 2888 "mapfold.ml" 93 2842 2889
+type(
+  int
+)
+type(
+  int list
+)
+"mapfold.ml" 93 2842 2886 "mapfold.ml" 93 2842 2889
+type(
+  int list
+)
+"mapfold.ml" 93 2842 2884 "mapfold.ml" 93 2842 2889
+type(
+  int list
+)
+"mapfold.ml" 93 2842 2883 "mapfold.ml" 93 2842 2890
+type(
+  int list
+)
+"mapfold.ml" 93 2842 2850 "mapfold.ml" 93 2842 2890
+type(
+  bool
+)
+"mapfold.ml" 93 2842 2842 "mapfold.ml" 93 2842 2891
+type(
+  unit
+)
+"mapfold.ml" 105 3154 3158 "mapfold.ml" 105 3154 3172
+type(
+  int list -> float list
+)
+ident(
+  def floats_of_ints "mapfold.ml" 108 3241 3241 "mapfold.ml" 1 0 -1
+)
+"mapfold.ml" 105 3154 3174 "mapfold.ml" 105 3154 3178
+type(
+  int list
+)
+ident(
+  def nums "mapfold.ml" 105 3154 3189 "mapfold.ml" 106 3204 3239
+)
+"mapfold.ml" 106 3204 3208 "mapfold.ml" 106 3204 3216
+type(
+  int list -> f:(int -> float) -> float list
+)
+ident(
+  ext_ref Core.Std.List.map
+)
+"mapfold.ml" 106 3204 3221 "mapfold.ml" 106 3204 3233
+type(
+  int -> float
+)
+ident(
+  ext_ref Core.Std.Float.of_int
+)
+"mapfold.ml" 106 3204 3235 "mapfold.ml" 106 3204 3239
+type(
+  int list
+)
+ident(
+  int_ref nums "mapfold.ml" 105 3154 3174 "mapfold.ml" 105 3154 3178
+)
+"mapfold.ml" 106 3204 3208 "mapfold.ml" 106 3204 3239
+call(
+  tail
+)
+type(
+  float list
+)
+type(
+  float list
+)
+"mapfold.ml" 105 3154 3173 "mapfold.ml" 106 3204 3239
+type(
+  int list -> float list
+)
+"mapfold.ml" 108 3241 3249 "mapfold.ml" 108 3241 3263
+type(
+  int list -> float list
+)
+ident(
+  int_ref floats_of_ints "mapfold.ml" 105 3154 3158 "mapfold.ml" 105 3154 3172
+)
+"mapfold.ml" 108 3241 3265 "mapfold.ml" 108 3241 3266
+type(
+  int
+)
+"mapfold.ml" 108 3241 3267 "mapfold.ml" 108 3241 3268
+type(
+  int
+)
+type(
+  int list
+)
+"mapfold.ml" 108 3241 3265 "mapfold.ml" 108 3241 3268
+type(
+  int list
+)
+"mapfold.ml" 108 3241 3264 "mapfold.ml" 108 3241 3269
+type(
+  int list
+)
+"mapfold.ml" 108 3241 3249 "mapfold.ml" 108 3241 3269
+call(
+  stack
+)
+type(
+  float list
+)
+"mapfold.ml" 108 3241 3270 "mapfold.ml" 108 3241 3271
+type(
+  float list -> float list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"mapfold.ml" 108 3241 3273 "mapfold.ml" 108 3241 3275
+type(
+  float
+)
+"mapfold.ml" 108 3241 3276 "mapfold.ml" 108 3241 3278
+type(
+  float
+)
+type(
+  float list
+)
+"mapfold.ml" 108 3241 3273 "mapfold.ml" 108 3241 3278
+type(
+  float list
+)
+"mapfold.ml" 108 3241 3272 "mapfold.ml" 108 3241 3279
+type(
+  float list
+)
+"mapfold.ml" 108 3241 3249 "mapfold.ml" 108 3241 3279
+type(
+  bool
+)
+"mapfold.ml" 108 3241 3241 "mapfold.ml" 108 3241 3280
+type(
+  unit
+)
+"mapfold.ml" 117 3588 3592 "mapfold.ml" 117 3588 3598
+type(
+  float list -> float option list
+)
+ident(
+  def log10s "mapfold.ml" 121 3718 3718 "mapfold.ml" 1 0 -1
+)
+"mapfold.ml" 117 3588 3600 "mapfold.ml" 117 3588 3603
+type(
+  float list
+)
+ident(
+  def lst "mapfold.ml" 117 3588 3617 "mapfold.ml" 119 3700 3716
+)
+"mapfold.ml" 118 3639 3643 "mapfold.ml" 118 3639 3651
+type(
+  float list -> f:(float -> float option) -> float option list
+)
+ident(
+  ext_ref Core.Std.List.map
+)
+"mapfold.ml" 118 3639 3660 "mapfold.ml" 118 3639 3661
+type(
+  float
+)
+ident(
+  def x "mapfold.ml" 118 3639 3665 "mapfold.ml" 119 3700 3711
+)
+"mapfold.ml" 118 3639 3668 "mapfold.ml" 118 3639 3669
+type(
+  float
+)
+ident(
+  int_ref x "mapfold.ml" 118 3639 3660 "mapfold.ml" 118 3639 3661
+)
+"mapfold.ml" 118 3639 3670 "mapfold.ml" 118 3639 3671
+type(
+  float -> float -> bool
+)
+ident(
+  ext_ref Pervasives.( > )
+)
+"mapfold.ml" 118 3639 3672 "mapfold.ml" 118 3639 3674
+type(
+  float
+)
+"mapfold.ml" 118 3639 3668 "mapfold.ml" 118 3639 3674
+type(
+  bool
+)
+"mapfold.ml" 118 3639 3686 "mapfold.ml" 118 3639 3691
+type(
+  float -> float
+)
+ident(
+  ext_ref Pervasives.log10
+)
+"mapfold.ml" 118 3639 3692 "mapfold.ml" 118 3639 3693
+type(
+  float
+)
+ident(
+  int_ref x "mapfold.ml" 118 3639 3660 "mapfold.ml" 118 3639 3661
+)
+"mapfold.ml" 118 3639 3686 "mapfold.ml" 118 3639 3693
+type(
+  float
+)
+"mapfold.ml" 118 3639 3680 "mapfold.ml" 118 3639 3694
+type(
+  float option
+)
+"mapfold.ml" 119 3700 3707 "mapfold.ml" 119 3700 3711
+type(
+  float option
+)
+"mapfold.ml" 118 3639 3665 "mapfold.ml" 119 3700 3711
+type(
+  float option
+)
+"mapfold.ml" 118 3639 3660 "mapfold.ml" 119 3700 3711
+type(
+  float -> float option
+)
+"mapfold.ml" 119 3700 3713 "mapfold.ml" 119 3700 3716
+type(
+  float list
+)
+ident(
+  int_ref lst "mapfold.ml" 117 3588 3600 "mapfold.ml" 117 3588 3603
+)
+"mapfold.ml" 118 3639 3643 "mapfold.ml" 119 3700 3716
+call(
+  tail
+)
+type(
+  float option list
+)
+type(
+  float option list
+)
+"mapfold.ml" 117 3588 3599 "mapfold.ml" 119 3700 3716
+type(
+  float list -> float option list
+)
+"mapfold.ml" 121 3718 3726 "mapfold.ml" 121 3718 3732
+type(
+  float list -> float option list
+)
+ident(
+  int_ref log10s "mapfold.ml" 117 3588 3592 "mapfold.ml" 117 3588 3598
+)
+"mapfold.ml" 121 3718 3734 "mapfold.ml" 121 3718 3737
+type(
+  float
+)
+"mapfold.ml" 121 3718 3739 "mapfold.ml" 121 3718 3743
+type(
+  float
+)
+"mapfold.ml" 121 3718 3745 "mapfold.ml" 121 3718 3750
+type(
+  float
+)
+type(
+  float list
+)
+"mapfold.ml" 121 3718 3739 "mapfold.ml" 121 3718 3750
+type(
+  float list
+)
+"mapfold.ml" 121 3718 3734 "mapfold.ml" 121 3718 3750
+type(
+  float list
+)
+"mapfold.ml" 121 3718 3733 "mapfold.ml" 121 3718 3751
+type(
+  float list
+)
+"mapfold.ml" 121 3718 3726 "mapfold.ml" 121 3718 3751
+call(
+  stack
+)
+type(
+  float option list
+)
+"mapfold.ml" 121 3718 3752 "mapfold.ml" 121 3718 3753
+type(
+  float option list -> float option list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"mapfold.ml" 121 3718 3760 "mapfold.ml" 121 3718 3762
+type(
+  float
+)
+"mapfold.ml" 121 3718 3755 "mapfold.ml" 121 3718 3762
+type(
+  float option
+)
+"mapfold.ml" 121 3718 3769 "mapfold.ml" 121 3718 3771
+type(
+  float
+)
+"mapfold.ml" 121 3718 3764 "mapfold.ml" 121 3718 3771
+type(
+  float option
+)
+"mapfold.ml" 121 3718 3773 "mapfold.ml" 121 3718 3777
+type(
+  float option
+)
+type(
+  float option list
+)
+"mapfold.ml" 121 3718 3764 "mapfold.ml" 121 3718 3777
+type(
+  float option list
+)
+"mapfold.ml" 121 3718 3755 "mapfold.ml" 121 3718 3777
+type(
+  float option list
+)
+"mapfold.ml" 121 3718 3754 "mapfold.ml" 121 3718 3778
+type(
+  float option list
+)
+"mapfold.ml" 121 3718 3726 "mapfold.ml" 121 3718 3778
+type(
+  bool
+)
+"mapfold.ml" 121 3718 3718 "mapfold.ml" 121 3718 3779
+type(
+  unit
+)
+"mapfold.ml" 131 4095 4099 "mapfold.ml" 131 4095 4112
+type(
+  int option list -> int list
+)
+ident(
+  def deoptionalize "mapfold.ml" 135 4272 4272 "mapfold.ml" 1 0 -1
+)
+"mapfold.ml" 131 4095 4114 "mapfold.ml" 131 4095 4117
+type(
+  int option list
+)
+ident(
+  def lst "mapfold.ml" 131 4095 4134 "mapfold.ml" 133 4220 4270
+)
+"mapfold.ml" 132 4146 4152 "mapfold.ml" 132 4146 4153
+type(
+  int option list
+)
+ident(
+  def y "mapfold.ml" 133 4220 4222 "mapfold.ml" 133 4220 4270
+)
+"mapfold.ml" 132 4146 4156 "mapfold.ml" 132 4146 4167
+type(
+  int option list -> f:(int option -> bool) -> int option list
+)
+ident(
+  ext_ref Core.Std.List.filter
+)
+"mapfold.ml" 132 4146 4181 "mapfold.ml" 132 4146 4185
+type(
+  int option
+)
+"mapfold.ml" 132 4146 4189 "mapfold.ml" 132 4146 4194
+type(
+  bool
+)
+"mapfold.ml" 132 4146 4202 "mapfold.ml" 132 4146 4203
+type(
+  int
+)
+"mapfold.ml" 132 4146 4197 "mapfold.ml" 132 4146 4203
+type(
+  int option
+)
+"mapfold.ml" 132 4146 4207 "mapfold.ml" 132 4146 4211
+type(
+  bool
+)
+"mapfold.ml" 132 4146 4172 "mapfold.ml" 132 4146 4211
+type(
+  int option -> bool
+)
+"mapfold.ml" 132 4146 4213 "mapfold.ml" 132 4146 4216
+type(
+  int option list
+)
+ident(
+  int_ref lst "mapfold.ml" 131 4095 4114 "mapfold.ml" 131 4095 4117
+)
+"mapfold.ml" 132 4146 4156 "mapfold.ml" 132 4146 4216
+call(
+  stack
+)
+type(
+  int option list
+)
+"mapfold.ml" 133 4220 4222 "mapfold.ml" 133 4220 4230
+type(
+  int option list -> f:(int option -> int) -> int list
+)
+ident(
+  ext_ref Core.Std.List.map
+)
+"mapfold.ml" 133 4220 4244 "mapfold.ml" 133 4220 4248
+type(
+  int option
+)
+"mapfold.ml" 133 4220 4252 "mapfold.ml" 133 4220 4253
+type(
+  int
+)
+"mapfold.ml" 133 4220 4261 "mapfold.ml" 133 4220 4262
+type(
+  int
+)
+ident(
+  def x "mapfold.ml" 133 4220 4266 "mapfold.ml" 133 4220 4267
+)
+"mapfold.ml" 133 4220 4256 "mapfold.ml" 133 4220 4262
+type(
+  int option
+)
+"mapfold.ml" 133 4220 4266 "mapfold.ml" 133 4220 4267
+type(
+  int
+)
+ident(
+  int_ref x "mapfold.ml" 133 4220 4261 "mapfold.ml" 133 4220 4262
+)
+"mapfold.ml" 133 4220 4235 "mapfold.ml" 133 4220 4267
+type(
+  int option -> int
+)
+"mapfold.ml" 133 4220 4269 "mapfold.ml" 133 4220 4270
+type(
+  int option list
+)
+ident(
+  int_ref y "mapfold.ml" 132 4146 4152 "mapfold.ml" 132 4146 4153
+)
+"mapfold.ml" 133 4220 4222 "mapfold.ml" 133 4220 4270
+call(
+  tail
+)
+type(
+  int list
+)
+"mapfold.ml" 132 4146 4148 "mapfold.ml" 133 4220 4270
+type(
+  int list
+)
+type(
+  int list
+)
+"mapfold.ml" 131 4095 4113 "mapfold.ml" 133 4220 4270
+type(
+  int option list -> int list
+)
+"mapfold.ml" 135 4272 4280 "mapfold.ml" 135 4272 4293
+type(
+  int option list -> int list
+)
+ident(
+  int_ref deoptionalize "mapfold.ml" 131 4095 4099 "mapfold.ml" 131 4095 4112
+)
+"mapfold.ml" 135 4272 4300 "mapfold.ml" 135 4272 4301
+type(
+  int
+)
+"mapfold.ml" 135 4272 4295 "mapfold.ml" 135 4272 4301
+type(
+  int option
+)
+"mapfold.ml" 135 4272 4303 "mapfold.ml" 135 4272 4307
+type(
+  int option
+)
+"mapfold.ml" 135 4272 4314 "mapfold.ml" 135 4272 4315
+type(
+  int
+)
+"mapfold.ml" 135 4272 4309 "mapfold.ml" 135 4272 4315
+type(
+  int option
+)
+"mapfold.ml" 135 4272 4322 "mapfold.ml" 135 4272 4324
+type(
+  int
+)
+"mapfold.ml" 135 4272 4317 "mapfold.ml" 135 4272 4324
+type(
+  int option
+)
+type(
+  int option list
+)
+"mapfold.ml" 135 4272 4309 "mapfold.ml" 135 4272 4324
+type(
+  int option list
+)
+"mapfold.ml" 135 4272 4303 "mapfold.ml" 135 4272 4324
+type(
+  int option list
+)
+"mapfold.ml" 135 4272 4295 "mapfold.ml" 135 4272 4324
+type(
+  int option list
+)
+"mapfold.ml" 135 4272 4294 "mapfold.ml" 135 4272 4325
+type(
+  int option list
+)
+"mapfold.ml" 135 4272 4280 "mapfold.ml" 135 4272 4325
+call(
+  stack
+)
+type(
+  int list
+)
+"mapfold.ml" 135 4272 4326 "mapfold.ml" 135 4272 4327
+type(
+  int list -> int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"mapfold.ml" 135 4272 4329 "mapfold.ml" 135 4272 4330
+type(
+  int
+)
+"mapfold.ml" 135 4272 4331 "mapfold.ml" 135 4272 4332
+type(
+  int
+)
+"mapfold.ml" 135 4272 4333 "mapfold.ml" 135 4272 4335
+type(
+  int
+)
+type(
+  int list
+)
+"mapfold.ml" 135 4272 4331 "mapfold.ml" 135 4272 4335
+type(
+  int list
+)
+"mapfold.ml" 135 4272 4329 "mapfold.ml" 135 4272 4335
+type(
+  int list
+)
+"mapfold.ml" 135 4272 4328 "mapfold.ml" 135 4272 4336
+type(
+  int list
+)
+"mapfold.ml" 135 4272 4280 "mapfold.ml" 135 4272 4336
+type(
+  bool
+)
+"mapfold.ml" 135 4272 4272 "mapfold.ml" 135 4272 4337
+type(
+  unit
+)
+"mapfold.ml" 142 4468 4472 "mapfold.ml" 142 4468 4480
+type(
+  int option list -> int
+)
+ident(
+  def some_sum "mapfold.ml" 145 4542 4542 "mapfold.ml" 1 0 -1
+)
+"mapfold.ml" 142 4468 4482 "mapfold.ml" 142 4468 4486
+type(
+  int option list
+)
+ident(
+  def nums "mapfold.ml" 142 4468 4504 "mapfold.ml" 143 4512 4540
+)
+"mapfold.ml" 143 4512 4516 "mapfold.ml" 143 4512 4519
+type(
+  int list -> int
+)
+ident(
+  int_ref sum "mapfold.ml" 30 813 817 "mapfold.ml" 30 813 820
+)
+"mapfold.ml" 143 4512 4521 "mapfold.ml" 143 4512 4534
+type(
+  int option list -> int list
+)
+ident(
+  int_ref deoptionalize "mapfold.ml" 131 4095 4099 "mapfold.ml" 131 4095 4112
+)
+"mapfold.ml" 143 4512 4535 "mapfold.ml" 143 4512 4539
+type(
+  int option list
+)
+ident(
+  int_ref nums "mapfold.ml" 142 4468 4482 "mapfold.ml" 142 4468 4486
+)
+"mapfold.ml" 143 4512 4521 "mapfold.ml" 143 4512 4539
+call(
+  stack
+)
+type(
+  int list
+)
+"mapfold.ml" 143 4512 4516 "mapfold.ml" 143 4512 4540
+call(
+  tail
+)
+type(
+  int
+)
+type(
+  int
+)
+"mapfold.ml" 142 4468 4481 "mapfold.ml" 143 4512 4540
+type(
+  int option list -> int
+)
+"mapfold.ml" 145 4542 4550 "mapfold.ml" 145 4542 4558
+type(
+  int option list -> int
+)
+ident(
+  int_ref some_sum "mapfold.ml" 142 4468 4472 "mapfold.ml" 142 4468 4480
+)
+"mapfold.ml" 145 4542 4565 "mapfold.ml" 145 4542 4566
+type(
+  int
+)
+"mapfold.ml" 145 4542 4560 "mapfold.ml" 145 4542 4566
+type(
+  int option
+)
+"mapfold.ml" 145 4542 4568 "mapfold.ml" 145 4542 4572
+type(
+  int option
+)
+"mapfold.ml" 145 4542 4579 "mapfold.ml" 145 4542 4580
+type(
+  int
+)
+"mapfold.ml" 145 4542 4574 "mapfold.ml" 145 4542 4580
+type(
+  int option
+)
+"mapfold.ml" 145 4542 4587 "mapfold.ml" 145 4542 4589
+type(
+  int
+)
+"mapfold.ml" 145 4542 4582 "mapfold.ml" 145 4542 4589
+type(
+  int option
+)
+type(
+  int option list
+)
+"mapfold.ml" 145 4542 4574 "mapfold.ml" 145 4542 4589
+type(
+  int option list
+)
+"mapfold.ml" 145 4542 4568 "mapfold.ml" 145 4542 4589
+type(
+  int option list
+)
+"mapfold.ml" 145 4542 4560 "mapfold.ml" 145 4542 4589
+type(
+  int option list
+)
+"mapfold.ml" 145 4542 4559 "mapfold.ml" 145 4542 4590
+type(
+  int option list
+)
+"mapfold.ml" 145 4542 4550 "mapfold.ml" 145 4542 4590
+call(
+  stack
+)
+type(
+  int
+)
+"mapfold.ml" 145 4542 4591 "mapfold.ml" 145 4542 4592
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"mapfold.ml" 145 4542 4593 "mapfold.ml" 145 4542 4595
+type(
+  int
+)
+"mapfold.ml" 145 4542 4550 "mapfold.ml" 145 4542 4595
+type(
+  bool
+)
+"mapfold.ml" 145 4542 4542 "mapfold.ml" 145 4542 4596
+type(
+  unit
+)
+"mapfold.ml" 152 4734 4738 "mapfold.ml" 152 4734 4747
+type(
+  int list -> int
+)
+ident(
+  def mult_odds "mapfold.ml" 155 4841 4841 "mapfold.ml" 1 0 -1
+)
+"mapfold.ml" 152 4734 4749 "mapfold.ml" 152 4734 4753
+type(
+  int list
+)
+ident(
+  def nums "mapfold.ml" 152 4734 4764 "mapfold.ml" 153 4772 4839
+)
+"mapfold.ml" 153 4772 4776 "mapfold.ml" 153 4772 4791
+type(
+  int list -> f:(int -> int -> int) -> init:int -> int
+)
+ident(
+  ext_ref Core.Std.List.fold_right
+)
+"mapfold.ml" 153 4772 4798 "mapfold.ml" 153 4772 4799
+type(
+  int
+)
+"mapfold.ml" 153 4772 4808 "mapfold.ml" 153 4772 4809
+type(
+  int
+)
+ident(
+  def x "mapfold.ml" 153 4772 4810 "mapfold.ml" 153 4772 4820
+)
+"mapfold.ml" 153 4772 4810 "mapfold.ml" 153 4772 4811
+type(
+  int
+)
+ident(
+  def y "mapfold.ml" 153 4772 4815 "mapfold.ml" 153 4772 4820
+)
+"mapfold.ml" 153 4772 4815 "mapfold.ml" 153 4772 4816
+type(
+  int
+)
+ident(
+  int_ref x "mapfold.ml" 153 4772 4808 "mapfold.ml" 153 4772 4809
+)
+"mapfold.ml" 153 4772 4817 "mapfold.ml" 153 4772 4818
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( * )
+)
+"mapfold.ml" 153 4772 4819 "mapfold.ml" 153 4772 4820
+type(
+  int
+)
+ident(
+  int_ref y "mapfold.ml" 153 4772 4810 "mapfold.ml" 153 4772 4811
+)
+"mapfold.ml" 153 4772 4815 "mapfold.ml" 153 4772 4820
+type(
+  int
+)
+"mapfold.ml" 153 4772 4810 "mapfold.ml" 153 4772 4820
+type(
+  int -> int
+)
+"mapfold.ml" 153 4772 4808 "mapfold.ml" 153 4772 4820
+type(
+  int -> int -> int
+)
+"mapfold.ml" 153 4772 4823 "mapfold.ml" 153 4772 4833
+type(
+  int list -> int list
+)
+ident(
+  int_ref filter_odd "mapfold.ml" 53 1548 1552 "mapfold.ml" 53 1548 1562
+)
+"mapfold.ml" 153 4772 4834 "mapfold.ml" 153 4772 4838
+type(
+  int list
+)
+ident(
+  int_ref nums "mapfold.ml" 152 4734 4749 "mapfold.ml" 152 4734 4753
+)
+"mapfold.ml" 153 4772 4823 "mapfold.ml" 153 4772 4838
+call(
+  stack
+)
+type(
+  int list
+)
+"mapfold.ml" 153 4772 4776 "mapfold.ml" 153 4772 4839
+call(
+  tail
+)
+type(
+  int
+)
+type(
+  int
+)
+"mapfold.ml" 152 4734 4748 "mapfold.ml" 153 4772 4839
+type(
+  int list -> int
+)
+"mapfold.ml" 155 4841 4848 "mapfold.ml" 155 4841 4857
+type(
+  int list -> int
+)
+ident(
+  int_ref mult_odds "mapfold.ml" 152 4734 4738 "mapfold.ml" 152 4734 4747
+)
+"mapfold.ml" 155 4841 4859 "mapfold.ml" 155 4841 4860
+type(
+  int
+)
+"mapfold.ml" 155 4841 4861 "mapfold.ml" 155 4841 4862
+type(
+  int
+)
+"mapfold.ml" 155 4841 4863 "mapfold.ml" 155 4841 4864
+type(
+  int
+)
+"mapfold.ml" 155 4841 4865 "mapfold.ml" 155 4841 4866
+type(
+  int
+)
+"mapfold.ml" 155 4841 4867 "mapfold.ml" 155 4841 4869
+type(
+  int
+)
+type(
+  int list
+)
+"mapfold.ml" 155 4841 4865 "mapfold.ml" 155 4841 4869
+type(
+  int list
+)
+"mapfold.ml" 155 4841 4863 "mapfold.ml" 155 4841 4869
+type(
+  int list
+)
+"mapfold.ml" 155 4841 4861 "mapfold.ml" 155 4841 4869
+type(
+  int list
+)
+"mapfold.ml" 155 4841 4859 "mapfold.ml" 155 4841 4869
+type(
+  int list
+)
+"mapfold.ml" 155 4841 4858 "mapfold.ml" 155 4841 4870
+type(
+  int list
+)
+"mapfold.ml" 155 4841 4848 "mapfold.ml" 155 4841 4870
+call(
+  stack
+)
+type(
+  int
+)
+"mapfold.ml" 155 4841 4871 "mapfold.ml" 155 4841 4872
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"mapfold.ml" 155 4841 4873 "mapfold.ml" 155 4841 4876
+type(
+  int
+)
+"mapfold.ml" 155 4841 4848 "mapfold.ml" 155 4841 4876
+type(
+  bool
+)
+"mapfold.ml" 155 4841 4841 "mapfold.ml" 155 4841 4877
+type(
+  unit
+)
+"mapfold.ml" 160 4976 4980 "mapfold.ml" 160 4976 4986
+type(
+  'a list list -> 'a list
+)
+ident(
+  def concat "mapfold.ml" 163 5063 5063 "mapfold.ml" 1 0 -1
+)
+"mapfold.ml" 160 4976 4988 "mapfold.ml" 160 4976 4993
+type(
+  'a list list
+)
+ident(
+  def lists "mapfold.ml" 160 4976 5008 "mapfold.ml" 161 5020 5061
+)
+"mapfold.ml" 161 5020 5024 "mapfold.ml" 161 5020 5039
+type(
+  'a list list ->
+  f:('a list -> 'a list -> 'a list) -> init:'a list -> 'a list
+)
+ident(
+  ext_ref Core.Std.List.fold_right
+)
+"mapfold.ml" 161 5020 5046 "mapfold.ml" 161 5020 5048
+type(
+  'a list
+)
+"mapfold.ml" 161 5020 5052 "mapfold.ml" 161 5020 5055
+type(
+  'a list -> 'a list -> 'a list
+)
+ident(
+  ext_ref Core.Std.( @ )
+)
+"mapfold.ml" 161 5020 5056 "mapfold.ml" 161 5020 5061
+type(
+  'a list list
+)
+ident(
+  int_ref lists "mapfold.ml" 160 4976 4988 "mapfold.ml" 160 4976 4993
+)
+"mapfold.ml" 161 5020 5024 "mapfold.ml" 161 5020 5061
+call(
+  tail
+)
+type(
+  'a list
+)
+type(
+  'a list
+)
+"mapfold.ml" 160 4976 4987 "mapfold.ml" 161 5020 5061
+type(
+  'a list list -> 'a list
+)
+"mapfold.ml" 163 5063 5071 "mapfold.ml" 163 5063 5077
+type(
+  '_a list list -> '_a list
+)
+ident(
+  int_ref concat "mapfold.ml" 160 4976 4980 "mapfold.ml" 160 4976 4986
+)
+"mapfold.ml" 163 5063 5078 "mapfold.ml" 163 5063 5080
+type(
+  '_a list list
+)
+"mapfold.ml" 163 5063 5071 "mapfold.ml" 163 5063 5080
+call(
+  stack
+)
+type(
+  '_a list
+)
+"mapfold.ml" 163 5063 5081 "mapfold.ml" 163 5063 5082
+type(
+  '_a list -> '_a list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"mapfold.ml" 163 5063 5083 "mapfold.ml" 163 5063 5085
+type(
+  '_a list
+)
+"mapfold.ml" 163 5063 5071 "mapfold.ml" 163 5063 5085
+type(
+  bool
+)
+"mapfold.ml" 163 5063 5063 "mapfold.ml" 163 5063 5086
+type(
+  unit
+)
+"mapfold.ml" 164 5087 5095 "mapfold.ml" 164 5087 5101
+type(
+  '_a list list -> '_a list
+)
+ident(
+  int_ref concat "mapfold.ml" 160 4976 4980 "mapfold.ml" 160 4976 4986
+)
+"mapfold.ml" 164 5087 5103 "mapfold.ml" 164 5087 5105
+type(
+  '_a list
+)
+"mapfold.ml" 164 5087 5106 "mapfold.ml" 164 5087 5108
+type(
+  '_a list
+)
+type(
+  '_a list list
+)
+"mapfold.ml" 164 5087 5103 "mapfold.ml" 164 5087 5108
+type(
+  '_a list list
+)
+"mapfold.ml" 164 5087 5102 "mapfold.ml" 164 5087 5109
+type(
+  '_a list list
+)
+"mapfold.ml" 164 5087 5095 "mapfold.ml" 164 5087 5109
+call(
+  stack
+)
+type(
+  '_a list
+)
+"mapfold.ml" 164 5087 5110 "mapfold.ml" 164 5087 5111
+type(
+  '_a list -> '_a list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"mapfold.ml" 164 5087 5112 "mapfold.ml" 164 5087 5114
+type(
+  '_a list
+)
+"mapfold.ml" 164 5087 5095 "mapfold.ml" 164 5087 5114
+type(
+  bool
+)
+"mapfold.ml" 164 5087 5087 "mapfold.ml" 164 5087 5115
+type(
+  unit
+)
+"mapfold.ml" 165 5116 5124 "mapfold.ml" 165 5116 5130
+type(
+  int list list -> int list
+)
+ident(
+  int_ref concat "mapfold.ml" 160 4976 4980 "mapfold.ml" 160 4976 4986
+)
+"mapfold.ml" 165 5116 5133 "mapfold.ml" 165 5116 5134
+type(
+  int
+)
+type(
+  int list
+)
+"mapfold.ml" 165 5116 5132 "mapfold.ml" 165 5116 5135
+type(
+  int list
+)
+"mapfold.ml" 165 5116 5137 "mapfold.ml" 165 5116 5138
+type(
+  int
+)
+"mapfold.ml" 165 5116 5139 "mapfold.ml" 165 5116 5140
+type(
+  int
+)
+type(
+  int list
+)
+"mapfold.ml" 165 5116 5137 "mapfold.ml" 165 5116 5140
+type(
+  int list
+)
+"mapfold.ml" 165 5116 5136 "mapfold.ml" 165 5116 5141
+type(
+  int list
+)
+type(
+  int list list
+)
+"mapfold.ml" 165 5116 5132 "mapfold.ml" 165 5116 5141
+type(
+  int list list
+)
+"mapfold.ml" 165 5116 5131 "mapfold.ml" 165 5116 5142
+type(
+  int list list
+)
+"mapfold.ml" 165 5116 5124 "mapfold.ml" 165 5116 5142
+call(
+  stack
+)
+type(
+  int list
+)
+"mapfold.ml" 165 5116 5143 "mapfold.ml" 165 5116 5144
+type(
+  int list -> int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"mapfold.ml" 165 5116 5146 "mapfold.ml" 165 5116 5147
+type(
+  int
+)
+"mapfold.ml" 165 5116 5148 "mapfold.ml" 165 5116 5149
+type(
+  int
+)
+"mapfold.ml" 165 5116 5150 "mapfold.ml" 165 5116 5151
+type(
+  int
+)
+type(
+  int list
+)
+"mapfold.ml" 165 5116 5148 "mapfold.ml" 165 5116 5151
+type(
+  int list
+)
+"mapfold.ml" 165 5116 5146 "mapfold.ml" 165 5116 5151
+type(
+  int list
+)
+"mapfold.ml" 165 5116 5145 "mapfold.ml" 165 5116 5152
+type(
+  int list
+)
+"mapfold.ml" 165 5116 5124 "mapfold.ml" 165 5116 5152
+type(
+  bool
+)
+"mapfold.ml" 165 5116 5116 "mapfold.ml" 165 5116 5153
+type(
+  unit
+)
+"mapfold.ml" 178 5498 5502 "mapfold.ml" 178 5498 5516
+type(
+  student list -> year -> name list
+)
+ident(
+  def filter_by_year "mapfold.ml" 182 5677 5677 "mapfold.ml" 1 0 -1
+)
+"mapfold.ml" 178 5498 5518 "mapfold.ml" 178 5498 5523
+type(
+  student list
+)
+ident(
+  def slist "mapfold.ml" 178 5498 5538 "mapfold.ml" 180 5642 5674
+)
+"mapfold.ml" 178 5498 5539 "mapfold.ml" 178 5498 5541
+type(
+  year
+)
+ident(
+  def yr "mapfold.ml" 178 5498 5548 "mapfold.ml" 180 5642 5674
+)
+"mapfold.ml" 179 5562 5568 "mapfold.ml" 179 5562 5569
+type(
+  student list
+)
+ident(
+  def x "mapfold.ml" 180 5642 5644 "mapfold.ml" 180 5642 5674
+)
+"mapfold.ml" 179 5562 5572 "mapfold.ml" 179 5562 5583
+type(
+  student list -> f:(student -> bool) -> student list
+)
+ident(
+  ext_ref Core.Std.List.filter
+)
+"mapfold.ml" 179 5562 5593 "mapfold.ml" 179 5562 5594
+type(
+  name
+)
+"mapfold.ml" 179 5562 5595 "mapfold.ml" 179 5562 5596
+type(
+  year
+)
+ident(
+  def y "mapfold.ml" 179 5562 5601 "mapfold.ml" 179 5562 5631
+)
+"mapfold.ml" 179 5562 5593 "mapfold.ml" 179 5562 5596
+type(
+  student
+)
+"mapfold.ml" 179 5562 5604 "mapfold.ml" 179 5562 5605
+type(
+  year
+)
+ident(
+  int_ref y "mapfold.ml" 179 5562 5595 "mapfold.ml" 179 5562 5596
+)
+"mapfold.ml" 179 5562 5606 "mapfold.ml" 179 5562 5607
+type(
+  year -> year -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"mapfold.ml" 179 5562 5608 "mapfold.ml" 179 5562 5610
+type(
+  year
+)
+ident(
+  int_ref yr "mapfold.ml" 178 5498 5539 "mapfold.ml" 178 5498 5541
+)
+"mapfold.ml" 179 5562 5604 "mapfold.ml" 179 5562 5610
+type(
+  bool
+)
+"mapfold.ml" 179 5562 5616 "mapfold.ml" 179 5562 5620
+type(
+  bool
+)
+"mapfold.ml" 179 5562 5626 "mapfold.ml" 179 5562 5631
+type(
+  bool
+)
+"mapfold.ml" 179 5562 5601 "mapfold.ml" 179 5562 5631
+type(
+  bool
+)
+"mapfold.ml" 179 5562 5592 "mapfold.ml" 179 5562 5631
+type(
+  student -> bool
+)
+"mapfold.ml" 179 5562 5633 "mapfold.ml" 179 5562 5638
+type(
+  student list
+)
+ident(
+  int_ref slist "mapfold.ml" 178 5498 5518 "mapfold.ml" 178 5498 5523
+)
+"mapfold.ml" 179 5562 5572 "mapfold.ml" 179 5562 5638
+call(
+  stack
+)
+type(
+  student list
+)
+"mapfold.ml" 180 5642 5644 "mapfold.ml" 180 5642 5652
+type(
+  student list -> f:(student -> name) -> name list
+)
+ident(
+  ext_ref Core.Std.List.map
+)
+"mapfold.ml" 180 5642 5662 "mapfold.ml" 180 5642 5663
+type(
+  name
+)
+ident(
+  def x "mapfold.ml" 180 5642 5670 "mapfold.ml" 180 5642 5671
+)
+"mapfold.ml" 180 5642 5664 "mapfold.ml" 180 5642 5665
+type(
+  year
+)
+"mapfold.ml" 180 5642 5662 "mapfold.ml" 180 5642 5665
+type(
+  student
+)
+"mapfold.ml" 180 5642 5670 "mapfold.ml" 180 5642 5671
+type(
+  name
+)
+ident(
+  int_ref x "mapfold.ml" 180 5642 5662 "mapfold.ml" 180 5642 5663
+)
+"mapfold.ml" 180 5642 5661 "mapfold.ml" 180 5642 5671
+type(
+  student -> name
+)
+"mapfold.ml" 180 5642 5673 "mapfold.ml" 180 5642 5674
+type(
+  student list
+)
+ident(
+  int_ref x "mapfold.ml" 179 5562 5568 "mapfold.ml" 179 5562 5569
+)
+"mapfold.ml" 180 5642 5644 "mapfold.ml" 180 5642 5674
+call(
+  tail
+)
+type(
+  name list
+)
+"mapfold.ml" 179 5562 5564 "mapfold.ml" 180 5642 5674
+type(
+  name list
+)
+type(
+  name list
+)
+"mapfold.ml" 178 5498 5538 "mapfold.ml" 180 5642 5674
+type(
+  year -> name list
+)
+"mapfold.ml" 178 5498 5517 "mapfold.ml" 180 5642 5674
+type(
+  student list -> year -> name list
+)
+"mapfold.ml" 182 5677 5685 "mapfold.ml" 182 5677 5699
+type(
+  student list -> year -> name list
+)
+ident(
+  int_ref filter_by_year "mapfold.ml" 178 5498 5502 "mapfold.ml" 178 5498 5516
+)
+"mapfold.ml" 182 5677 5703 "mapfold.ml" 182 5677 5708
+type(
+  name
+)
+"mapfold.ml" 182 5677 5709 "mapfold.ml" 182 5677 5713
+type(
+  year
+)
+"mapfold.ml" 182 5677 5703 "mapfold.ml" 182 5677 5713
+type(
+  student
+)
+"mapfold.ml" 182 5677 5716 "mapfold.ml" 182 5677 5721
+type(
+  name
+)
+"mapfold.ml" 182 5677 5722 "mapfold.ml" 182 5677 5726
+type(
+  year
+)
+"mapfold.ml" 182 5677 5716 "mapfold.ml" 182 5677 5726
+type(
+  student
+)
+"mapfold.ml" 182 5677 5729 "mapfold.ml" 182 5677 5734
+type(
+  name
+)
+"mapfold.ml" 182 5677 5735 "mapfold.ml" 182 5677 5739
+type(
+  year
+)
+"mapfold.ml" 182 5677 5729 "mapfold.ml" 182 5677 5739
+type(
+  student
+)
+"mapfold.ml" 182 5677 5728 "mapfold.ml" 182 5677 5740
+type(
+  student list
+)
+"mapfold.ml" 182 5677 5715 "mapfold.ml" 182 5677 5740
+type(
+  student list
+)
+"mapfold.ml" 182 5677 5702 "mapfold.ml" 182 5677 5740
+type(
+  student list
+)
+"mapfold.ml" 182 5677 5701 "mapfold.ml" 182 5677 5741
+type(
+  student list
+)
+"mapfold.ml" 182 5677 5743 "mapfold.ml" 182 5677 5747
+type(
+  year
+)
+"mapfold.ml" 182 5677 5685 "mapfold.ml" 182 5677 5747
+call(
+  stack
+)
+type(
+  name list
+)
+"mapfold.ml" 182 5677 5748 "mapfold.ml" 182 5677 5749
+type(
+  name list -> name list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"mapfold.ml" 183 5751 5755 "mapfold.ml" 183 5751 5760
+type(
+  name
+)
+"mapfold.ml" 183 5751 5761 "mapfold.ml" 183 5751 5766
+type(
+  name
+)
+type(
+  name list
+)
+"mapfold.ml" 183 5751 5755 "mapfold.ml" 183 5751 5766
+type(
+  name list
+)
+"mapfold.ml" 183 5751 5754 "mapfold.ml" 183 5751 5767
+type(
+  name list
+)
+"mapfold.ml" 182 5677 5685 "mapfold.ml" 183 5751 5767
+type(
+  bool
+)
+"mapfold.ml" 182 5677 5677 "mapfold.ml" 183 5751 5768
+type(
+  unit
+)
+"mapfold.ml" 192 6078 6082 "mapfold.ml" 192 6078 6105
+type(
+  year
+)
+ident(
+  def minutes_spent_on_part_1 "mapfold.ml" 192 6078 6116 "mapfold.ml" 1 0 -1
+)
+"mapfold.ml" 192 6078 6114 "mapfold.ml" 192 6078 6116
+type(
+  year
+)
+type(
+  year
+)

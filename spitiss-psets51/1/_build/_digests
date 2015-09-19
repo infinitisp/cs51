@@ -1,0 +1,5 @@
+"Resource: /home/jharvard/Dropbox/cs51/spitiss-psets51/1/ps1.ml": "o\173\r\191\150q\214\152\208\206 \171\020\183\143\210"
+"Rule: ocaml: ml -> cmo & cmi (%=ps1 )": "\228H\004\030\245\177o\203o\176\178>\171\204\026\237"
+"Rule: ocaml dependencies ml (%=ps1 )": "Bt\170\240\"wO\241\228'\202\159\200\159\172\028"
+"Rule: ocaml: ml & cmi -> cmx & o (%=ps1 )": "|\190\222C\028ZH^[\244PB\205\245\133\152"
+"Rule: ocaml: cmx* & o* -> native (%=ps1 )": "\208?\131[Q\153\178~O|I*\250^\168O"

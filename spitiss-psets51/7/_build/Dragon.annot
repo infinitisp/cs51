@@ -1,0 +1,802 @@
+"Dragon.ml" 9 118 122 "Dragon.ml" 9 118 139
+type(
+  int
+)
+ident(
+  def gold_theft_amount "Dragon.ml" 12 175 175 "Dragon.ml" 1 0 -1
+)
+"Dragon.ml" 9 118 142 "Dragon.ml" 9 118 146
+type(
+  int
+)
+"Dragon.ml" 12 175 179 "Dragon.ml" 12 175 199
+type(
+  int
+)
+ident(
+  def dragon_starting_life "Dragon.ml" 15 236 236 "Dragon.ml" 1 0 -1
+)
+"Dragon.ml" 12 175 202 "Dragon.ml" 12 175 204
+type(
+  int
+)
+"Dragon.ml" 15 236 240 "Dragon.ml" 15 236 260
+type(
+  int option
+)
+ident(
+  def dragon_inverse_speed "Dragon.ml" 17 272 272 "Dragon.ml" 1 0 -1
+)
+"Dragon.ml" 15 236 268 "Dragon.ml" 15 236 270
+type(
+  int
+)
+"Dragon.ml" 15 236 263 "Dragon.ml" 15 236 270
+type(
+  int option
+)
+"Dragon.ml" 17 272 285 "Dragon.ml" 17 272 286
+type(
+  int * int
+)
+"Dragon.ml" 17 272 287 "Dragon.ml" 17 272 289
+type(
+  < forfeit_treasury : int -> world_object_i -> int; get_gold : int;
+    get_pos : int * int; .. >
+)
+"Dragon.ml" 17 272 290 "Dragon.ml" 17 272 292
+type(
+  < get_name : string; get_pos : int * int; set_dragon_false : unit; .. >
+)
+"Dragon.ml" 18 306 314 "Dragon.ml" 18 306 318
+type(
+  < danger : world_object_i -> unit; die : unit; draw : unit;
+    draw_z_axis : int; forfeit_gold : int option;
+    get_danger_event : world_object_i Event51.event;
+    get_die_event : unit Event51.event; get_name : string;
+    get_pos : int * int; is_obstacle : bool;
+    next_direction : Direction.direction option; receive_damage : unit;
+    receive_gold : int list -> int list; smells_like_gold : int option; .. >
+)
+"Dragon.ml" 19 320 338 "Dragon.ml" 19 320 339
+type(
+  int * int
+)
+ident(
+  int_ref p "Dragon.ml" 17 272 285 "Dragon.ml" 17 272 286
+)
+"Dragon.ml" 19 320 340 "Dragon.ml" 19 320 360
+type(
+  int option
+)
+ident(
+  int_ref dragon_inverse_speed "Dragon.ml" 15 236 240 "Dragon.ml" 15 236 260
+)
+"Dragon.ml" 27 506 540 "Dragon.ml" 27 506 541
+type(
+  int
+)
+type(
+  int
+)
+"Dragon.ml" 28 542 563 "Dragon.ml" 28 542 583
+type(
+  int
+)
+ident(
+  int_ref dragon_starting_life "Dragon.ml" 12 175 179 "Dragon.ml" 12 175 199
+)
+"Dragon.ml" 39 759 763 "Dragon.ml" 39 759 767
+type(
+  < danger : world_object_i -> unit; die : unit; draw : unit;
+    draw_z_axis : int; forfeit_gold : int option;
+    get_danger_event : world_object_i Event51.event;
+    get_die_event : unit Event51.event; get_name : string;
+    get_pos : int * int; is_obstacle : bool;
+    next_direction : Direction.direction option; receive_damage : unit;
+    receive_gold : int list -> int list; smells_like_gold : int option; .. >
+  as 'a
+)
+ident(
+  int_ref self "Dragon.ml" 18 306 314 "Dragon.ml" 18 306 318
+)
+"Dragon.ml" 39 759 763 "Dragon.ml" 39 759 784
+call(
+  tail
+)
+type(
+  unit Event51.event -> (unit -> unit) -> unit
+)
+"Dragon.ml" 39 759 785 "Dragon.ml" 39 759 803
+type(
+  unit Event51.event
+)
+ident(
+  ext_ref World.action_event
+)
+"Dragon.ml" 39 759 804 "Dragon.ml" 39 759 808
+type(
+  'a
+)
+ident(
+  int_ref self "Dragon.ml" 18 306 314 "Dragon.ml" 18 306 318
+)
+"Dragon.ml" 39 759 804 "Dragon.ml" 39 759 818
+call(
+  stack
+)
+type(
+  unit -> unit
+)
+"Dragon.ml" 39 759 763 "Dragon.ml" 39 759 818
+type(
+  'a -> unit
+)
+type(
+  unit
+)
+"Dragon.ml" 48 981 989 "Dragon.ml" 48 981 991
+type(
+  unit
+)
+"Dragon.ml" 50 1001 1010 "Dragon.ml" 50 1001 1014
+type(
+  'a
+)
+ident(
+  int_ref self "Dragon.ml" 18 306 314 "Dragon.ml" 18 306 318
+)
+"Dragon.ml" 50 1001 1010 "Dragon.ml" 50 1001 1022
+call(
+  stack
+)
+type(
+  int * int
+)
+"Dragon.ml" 50 1001 1023 "Dragon.ml" 50 1001 1024
+type(
+  int * int -> int * int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Dragon.ml" 50 1001 1025 "Dragon.ml" 50 1001 1027
+type(
+  < get_name : string; get_pos : int * int; set_dragon_false : unit; .. >
+  as 'b
+)
+ident(
+  int_ref dn "Dragon.ml" 17 272 290 "Dragon.ml" 17 272 292
+)
+"Dragon.ml" 50 1001 1025 "Dragon.ml" 50 1001 1035
+call(
+  stack
+)
+type(
+  int * int
+)
+"Dragon.ml" 50 1001 1010 "Dragon.ml" 50 1001 1035
+type(
+  bool
+)
+"Dragon.ml" 51 1041 1058 "Dragon.ml" 51 1041 1059
+type(
+  int
+)
+"Dragon.ml" 51 1041 1043 "Dragon.ml" 51 1041 1059
+type(
+  unit
+)
+"Dragon.ml" 51 1041 1064 "Dragon.ml" 51 1041 1066
+type(
+  < forfeit_treasury : int -> world_object_i -> int; get_gold : int;
+    get_pos : int * int; .. >
+  as 'c
+)
+ident(
+  int_ref kl "Dragon.ml" 17 272 287 "Dragon.ml" 17 272 289
+)
+"Dragon.ml" 51 1041 1064 "Dragon.ml" 51 1041 1075
+call(
+  stack
+)
+type(
+  int
+)
+"Dragon.ml" 51 1041 1076 "Dragon.ml" 51 1041 1077
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"Dragon.ml" 51 1041 1079 "Dragon.ml" 51 1041 1096
+type(
+  int
+)
+ident(
+  int_ref gold_theft_amount "Dragon.ml" 9 118 122 "Dragon.ml" 9 118 139
+)
+"Dragon.ml" 51 1041 1097 "Dragon.ml" 51 1041 1098
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( / )
+)
+"Dragon.ml" 51 1041 1098 "Dragon.ml" 51 1041 1099
+type(
+  int
+)
+"Dragon.ml" 51 1041 1079 "Dragon.ml" 51 1041 1099
+type(
+  int
+)
+"Dragon.ml" 51 1041 1064 "Dragon.ml" 51 1041 1100
+type(
+  bool
+)
+"Dragon.ml" 52 1106 1114 "Dragon.ml" 52 1106 1118
+type(
+  'a
+)
+ident(
+  int_ref self "Dragon.ml" 18 306 314 "Dragon.ml" 18 306 318
+)
+"Dragon.ml" 52 1106 1114 "Dragon.ml" 52 1106 1122
+call(
+  stack
+)
+type(
+  unit
+)
+"Dragon.ml" 51 1041 1061 "Dragon.ml" 52 1106 1122
+type(
+  unit
+)
+type(
+  unit
+)
+"Dragon.ml" 51 1041 1043 "Dragon.ml" 52 1106 1122
+type(
+  unit
+)
+"Dragon.ml" 50 1001 1007 "Dragon.ml" 53 1123 1125
+type(
+  unit
+)
+type(
+  unit
+)
+"Dragon.ml" 54 1127 1136 "Dragon.ml" 54 1127 1140
+type(
+  'a
+)
+ident(
+  int_ref self "Dragon.ml" 18 306 314 "Dragon.ml" 18 306 318
+)
+"Dragon.ml" 54 1127 1136 "Dragon.ml" 54 1127 1148
+call(
+  stack
+)
+type(
+  int * int
+)
+"Dragon.ml" 54 1127 1149 "Dragon.ml" 54 1127 1150
+type(
+  int * int -> int * int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Dragon.ml" 54 1127 1151 "Dragon.ml" 54 1127 1153
+type(
+  'c
+)
+ident(
+  int_ref kl "Dragon.ml" 17 272 287 "Dragon.ml" 17 272 289
+)
+"Dragon.ml" 54 1127 1151 "Dragon.ml" 54 1127 1161
+call(
+  stack
+)
+type(
+  int * int
+)
+"Dragon.ml" 54 1127 1136 "Dragon.ml" 54 1127 1161
+type(
+  bool
+)
+"Dragon.ml" 55 1167 1183 "Dragon.ml" 55 1167 1194
+type(
+  int
+)
+ident(
+  ext_ref gold_stolen
+)
+"Dragon.ml" 55 1167 1195 "Dragon.ml" 55 1167 1196
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"Dragon.ml" 56 1198 1203 "Dragon.ml" 56 1198 1205
+type(
+  'c
+)
+ident(
+  int_ref kl "Dragon.ml" 17 272 287 "Dragon.ml" 17 272 289
+)
+"Dragon.ml" 56 1198 1203 "Dragon.ml" 56 1198 1222
+call(
+  stack
+)
+type(
+  int -> world_object_i -> int
+)
+"Dragon.ml" 56 1198 1223 "Dragon.ml" 56 1198 1240
+type(
+  int
+)
+ident(
+  int_ref gold_theft_amount "Dragon.ml" 9 118 122 "Dragon.ml" 9 118 139
+)
+"Dragon.ml" 57 1242 1254 "Dragon.ml" 57 1242 1258
+type(
+  world_object_i
+)
+type(
+  'a
+)
+ident(
+  int_ref self "Dragon.ml" 18 306 314 "Dragon.ml" 18 306 318
+)
+"Dragon.ml" 56 1198 1203 "Dragon.ml" 57 1242 1277
+type(
+  int
+)
+"Dragon.ml" 55 1167 1183 "Dragon.ml" 57 1242 1278
+type(
+  int
+)
+"Dragon.ml" 55 1167 1168 "Dragon.ml" 57 1242 1278
+type(
+  unit
+)
+"Dragon.ml" 54 1127 1133 "Dragon.ml" 57 1242 1278
+type(
+  unit
+)
+type(
+  unit
+)
+"Dragon.ml" 50 1001 1007 "Dragon.ml" 57 1242 1278
+type(
+  unit
+)
+"Dragon.ml" 48 981 989 "Dragon.ml" 58 1279 1284
+type(
+  unit -> unit
+)
+type(
+  unit -> unit
+)
+"Dragon.ml" 47 952 954 "Dragon.ml" 58 1279 1284
+type(
+  'a -> unit -> unit
+)
+"Dragon.ml" 69 1479 1500 "Dragon.ml" 69 1479 1508
+type(
+  string
+)
+type(
+  string
+)
+"Dragon.ml" 69 1479 1481 "Dragon.ml" 69 1479 1508
+type(
+  'a -> string
+)
+"Dragon.ml" 71 1510 1527 "Dragon.ml" 71 1510 1531
+type(
+  'a
+)
+ident(
+  int_ref self "Dragon.ml" 18 306 314 "Dragon.ml" 18 306 318
+)
+"Dragon.ml" 71 1510 1527 "Dragon.ml" 71 1510 1543
+call(
+  tail
+)
+type(
+  int -> int -> string -> unit
+)
+"Dragon.ml" 71 1510 1544 "Dragon.ml" 71 1510 1556
+type(
+  int
+)
+ident(
+  ext_ref Graphics.red
+)
+"Dragon.ml" 71 1510 1557 "Dragon.ml" 71 1510 1571
+type(
+  int
+)
+ident(
+  ext_ref Graphics.black
+)
+"Dragon.ml" 72 1572 1579 "Dragon.ml" 72 1572 1592
+type(
+  int -> string
+)
+ident(
+  ext_ref Pervasives.string_of_int
+)
+"Dragon.ml" 72 1572 1593 "Dragon.ml" 72 1572 1604
+type(
+  int
+)
+ident(
+  ext_ref gold_stolen
+)
+"Dragon.ml" 72 1572 1579 "Dragon.ml" 72 1572 1604
+call(
+  stack
+)
+type(
+  string
+)
+"Dragon.ml" 71 1510 1527 "Dragon.ml" 72 1572 1605
+type(
+  unit
+)
+type(
+  unit
+)
+"Dragon.ml" 71 1510 1512 "Dragon.ml" 72 1572 1605
+type(
+  'a -> unit
+)
+"Dragon.ml" 74 1607 1631 "Dragon.ml" 74 1607 1632
+type(
+  int
+)
+type(
+  int
+)
+"Dragon.ml" 74 1607 1609 "Dragon.ml" 74 1607 1632
+type(
+  'a -> int
+)
+"Dragon.ml" 82 1733 1741 "Dragon.ml" 82 1733 1743
+type(
+  'b
+)
+ident(
+  int_ref dn "Dragon.ml" 17 272 290 "Dragon.ml" 17 272 292
+)
+"Dragon.ml" 82 1733 1741 "Dragon.ml" 82 1733 1752
+call(
+  stack
+)
+type(
+  string
+)
+"Dragon.ml" 82 1733 1753 "Dragon.ml" 82 1733 1754
+type(
+  string -> string -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Dragon.ml" 82 1733 1755 "Dragon.ml" 82 1733 1761
+type(
+  string
+)
+"Dragon.ml" 82 1733 1741 "Dragon.ml" 82 1733 1761
+type(
+  bool
+)
+"Dragon.ml" 82 1733 1768 "Dragon.ml" 82 1733 1770
+type(
+  'b
+)
+ident(
+  int_ref dn "Dragon.ml" 17 272 290 "Dragon.ml" 17 272 292
+)
+"Dragon.ml" 82 1733 1768 "Dragon.ml" 82 1733 1787
+call(
+  stack
+)
+type(
+  unit
+)
+"Dragon.ml" 82 1733 1737 "Dragon.ml" 82 1733 1787
+type(
+  unit
+)
+type(
+  unit
+)
+"Dragon.ml" 83 1789 1793 "Dragon.ml" 83 1789 1811
+type(
+  unit Event51.event -> unit -> unit
+)
+ident(
+  ext_ref Event51.Event51.fire_event
+)
+"Dragon.ml" 83 1789 1812 "Dragon.ml" 83 1789 1816
+type(
+  'a
+)
+ident(
+  int_ref self "Dragon.ml" 18 306 314 "Dragon.ml" 18 306 318
+)
+"Dragon.ml" 83 1789 1812 "Dragon.ml" 83 1789 1830
+call(
+  stack
+)
+type(
+  unit Event51.event
+)
+"Dragon.ml" 83 1789 1831 "Dragon.ml" 83 1789 1833
+type(
+  unit
+)
+"Dragon.ml" 83 1789 1793 "Dragon.ml" 83 1789 1833
+call(
+  stack
+)
+type(
+  unit
+)
+"Dragon.ml" 84 1836 1840 "Dragon.ml" 84 1836 1863
+type(
+  int * int -> world_object_i -> unit
+)
+ident(
+  ext_ref World.remove_must_exist
+)
+"Dragon.ml" 84 1836 1864 "Dragon.ml" 84 1836 1868
+type(
+  'a
+)
+ident(
+  int_ref self "Dragon.ml" 18 306 314 "Dragon.ml" 18 306 318
+)
+"Dragon.ml" 84 1836 1864 "Dragon.ml" 84 1836 1876
+call(
+  stack
+)
+type(
+  int * int
+)
+"Dragon.ml" 84 1836 1878 "Dragon.ml" 84 1836 1882
+type(
+  world_object_i
+)
+type(
+  'a
+)
+ident(
+  int_ref self "Dragon.ml" 18 306 314 "Dragon.ml" 18 306 318
+)
+"Dragon.ml" 84 1836 1840 "Dragon.ml" 84 1836 1901
+call(
+  tail
+)
+type(
+  unit
+)
+"Dragon.ml" 83 1789 1793 "Dragon.ml" 84 1836 1901
+type(
+  unit
+)
+"Dragon.ml" 82 1733 1737 "Dragon.ml" 84 1836 1901
+type(
+  unit
+)
+type(
+  unit
+)
+"Dragon.ml" 81 1717 1719 "Dragon.ml" 84 1836 1901
+type(
+  'a -> unit
+)
+"Dragon.ml" 86 1903 1938 "Dragon.ml" 86 1903 1942
+type(
+  int
+)
+ident(
+  ext_ref life
+)
+"Dragon.ml" 86 1903 1943 "Dragon.ml" 86 1903 1944
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"Dragon.ml" 86 1903 1945 "Dragon.ml" 86 1903 1946
+type(
+  int
+)
+"Dragon.ml" 86 1903 1938 "Dragon.ml" 86 1903 1946
+type(
+  int
+)
+"Dragon.ml" 86 1903 1930 "Dragon.ml" 86 1903 1946
+type(
+  unit
+)
+"Dragon.ml" 86 1903 1951 "Dragon.ml" 86 1903 1955
+type(
+  int
+)
+ident(
+  ext_ref life
+)
+"Dragon.ml" 86 1903 1956 "Dragon.ml" 86 1903 1958
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( <= )
+)
+"Dragon.ml" 86 1903 1959 "Dragon.ml" 86 1903 1960
+type(
+  int
+)
+"Dragon.ml" 86 1903 1951 "Dragon.ml" 86 1903 1960
+type(
+  bool
+)
+"Dragon.ml" 86 1903 1966 "Dragon.ml" 86 1903 1970
+type(
+  'a
+)
+ident(
+  int_ref self "Dragon.ml" 18 306 314 "Dragon.ml" 18 306 318
+)
+"Dragon.ml" 86 1903 1966 "Dragon.ml" 86 1903 1974
+call(
+  tail
+)
+type(
+  unit
+)
+"Dragon.ml" 86 1903 1948 "Dragon.ml" 86 1903 1974
+type(
+  unit
+)
+type(
+  unit
+)
+"Dragon.ml" 86 1903 1930 "Dragon.ml" 86 1903 1974
+type(
+  unit
+)
+type(
+  unit
+)
+"Dragon.ml" 86 1903 1905 "Dragon.ml" 86 1903 1974
+type(
+  'a -> unit
+)
+"Dragon.ml" 94 2112 2142 "Dragon.ml" 94 2112 2153
+type(
+  int
+)
+ident(
+  ext_ref gold_stolen
+)
+"Dragon.ml" 94 2112 2154 "Dragon.ml" 94 2112 2155
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"Dragon.ml" 94 2112 2156 "Dragon.ml" 94 2112 2157
+type(
+  int
+)
+"Dragon.ml" 94 2112 2142 "Dragon.ml" 94 2112 2157
+type(
+  bool
+)
+"Dragon.ml" 95 2164 2172 "Dragon.ml" 95 2164 2195
+type(
+  int * int -> int * int -> Direction.direction option
+)
+ident(
+  ext_ref World.direction_from_to
+)
+"Dragon.ml" 95 2164 2196 "Dragon.ml" 95 2164 2200
+type(
+  'a
+)
+ident(
+  int_ref self "Dragon.ml" 18 306 314 "Dragon.ml" 18 306 318
+)
+"Dragon.ml" 95 2164 2196 "Dragon.ml" 95 2164 2208
+call(
+  stack
+)
+type(
+  int * int
+)
+"Dragon.ml" 95 2164 2209 "Dragon.ml" 95 2164 2211
+type(
+  'c
+)
+ident(
+  int_ref kl "Dragon.ml" 17 272 287 "Dragon.ml" 17 272 289
+)
+"Dragon.ml" 95 2164 2209 "Dragon.ml" 95 2164 2219
+call(
+  stack
+)
+type(
+  int * int
+)
+"Dragon.ml" 95 2164 2172 "Dragon.ml" 95 2164 2219
+call(
+  tail
+)
+type(
+  Direction.direction option
+)
+"Dragon.ml" 97 2231 2239 "Dragon.ml" 97 2231 2262
+type(
+  int * int -> int * int -> Direction.direction option
+)
+ident(
+  ext_ref World.direction_from_to
+)
+"Dragon.ml" 97 2231 2263 "Dragon.ml" 97 2231 2267
+type(
+  'a
+)
+ident(
+  int_ref self "Dragon.ml" 18 306 314 "Dragon.ml" 18 306 318
+)
+"Dragon.ml" 97 2231 2263 "Dragon.ml" 97 2231 2275
+call(
+  stack
+)
+type(
+  int * int
+)
+"Dragon.ml" 97 2231 2276 "Dragon.ml" 97 2231 2278
+type(
+  'b
+)
+ident(
+  int_ref dn "Dragon.ml" 17 272 290 "Dragon.ml" 17 272 292
+)
+"Dragon.ml" 97 2231 2276 "Dragon.ml" 97 2231 2286
+call(
+  stack
+)
+type(
+  int * int
+)
+"Dragon.ml" 97 2231 2239 "Dragon.ml" 97 2231 2286
+call(
+  tail
+)
+type(
+  Direction.direction option
+)
+"Dragon.ml" 94 2112 2139 "Dragon.ml" 97 2231 2286
+type(
+  Direction.direction option
+)
+type(
+  Direction.direction option
+)
+"Dragon.ml" 94 2112 2114 "Dragon.ml" 97 2231 2286
+type(
+  'a -> Direction.direction option
+)

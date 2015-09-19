@@ -1,0 +1,150 @@
+"Dust.ml" 3 41 45 "Dust.ml" 3 41 58
+type(
+  int
+)
+ident(
+  def dust_lifetime "Dust.ml" 6 124 124 "Dust.ml" 1 0 -1
+)
+"Dust.ml" 3 41 61 "Dust.ml" 3 41 63
+type(
+  int
+)
+"Dust.ml" 6 124 135 "Dust.ml" 6 124 136
+type(
+  int * int
+)
+"Dust.ml" 6 124 138 "Dust.ml" 6 124 142
+type(
+  string
+)
+"Dust.ml" 7 173 181 "Dust.ml" 7 173 185
+type(
+  < danger : WorldObjectI.world_object_i -> unit; die : unit; draw : 
+    unit; draw_picture : unit; draw_z_axis : int; forfeit_gold : int option;
+    get_danger_event : WorldObjectI.world_object_i Event51.Event51.event;
+    get_die_event : unit Event51.Event51.event; get_name : string;
+    get_pos : int * int; is_obstacle : bool;
+    next_direction : Direction.direction option; receive_damage : unit;
+    receive_gold : int list -> int list; reset_life : unit;
+    smells_like_gold : int option; .. >
+)
+"Dust.ml" 8 187 213 "Dust.ml" 8 187 214
+type(
+  int * int
+)
+ident(
+  int_ref p "Dust.ml" 6 124 135 "Dust.ml" 6 124 136
+)
+"Dust.ml" 8 187 215 "Dust.ml" 8 187 219
+type(
+  int option
+)
+"Dust.ml" 8 187 220 "Dust.ml" 8 187 233
+type(
+  int
+)
+ident(
+  int_ref dust_lifetime "Dust.ml" 3 41 45 "Dust.ml" 3 41 58
+)
+"Dust.ml" 8 187 234 "Dust.ml" 8 187 247
+type(
+  int
+)
+ident(
+  int_ref dust_lifetime "Dust.ml" 3 41 45 "Dust.ml" 3 41 58
+)
+"Dust.ml" 16 382 415 "Dust.ml" 16 382 419
+type(
+  < danger : WorldObjectI.world_object_i -> unit; die : unit; draw : 
+    unit; draw_picture : unit; draw_z_axis : int; forfeit_gold : int option;
+    get_danger_event : WorldObjectI.world_object_i Event51.Event51.event;
+    get_die_event : unit Event51.Event51.event; get_name : string;
+    get_pos : int * int; is_obstacle : bool;
+    next_direction : Direction.direction option; receive_damage : unit;
+    receive_gold : int list -> int list; reset_life : unit;
+    smells_like_gold : int option; .. >
+  as 'a
+)
+ident(
+  int_ref self "Dust.ml" 7 173 181 "Dust.ml" 7 173 185
+)
+"Dust.ml" 16 382 415 "Dust.ml" 16 382 431
+call(
+  tail
+)
+type(
+  int -> int -> string -> unit
+)
+"Dust.ml" 17 433 437 "Dust.ml" 17 433 449
+type(
+  int -> int -> int -> int
+)
+ident(
+  ext_ref Graphics.rgb
+)
+"Dust.ml" 17 433 450 "Dust.ml" 17 433 453
+type(
+  int
+)
+"Dust.ml" 17 433 454 "Dust.ml" 17 433 457
+type(
+  int
+)
+"Dust.ml" 17 433 458 "Dust.ml" 17 433 461
+type(
+  int
+)
+"Dust.ml" 17 433 437 "Dust.ml" 17 433 461
+call(
+  stack
+)
+type(
+  int
+)
+"Dust.ml" 17 433 463 "Dust.ml" 17 433 477
+type(
+  int
+)
+ident(
+  ext_ref Graphics.black
+)
+"Dust.ml" 18 478 482 "Dust.ml" 18 478 492
+type(
+  (string, string) Blit.sub
+)
+ident(
+  ext_ref Core.Std.String.sub
+)
+"Dust.ml" 18 478 493 "Dust.ml" 18 478 497
+type(
+  string
+)
+ident(
+  int_ref name "Dust.ml" 6 124 138 "Dust.ml" 6 124 142
+)
+"Dust.ml" 18 478 498 "Dust.ml" 18 478 499
+type(
+  int
+)
+"Dust.ml" 18 478 500 "Dust.ml" 18 478 501
+type(
+  int
+)
+"Dust.ml" 18 478 482 "Dust.ml" 18 478 501
+call(
+  stack
+)
+type(
+  string
+)
+"Dust.ml" 16 382 415 "Dust.ml" 18 478 502
+type(
+  unit
+)
+type(
+  unit
+)
+"Dust.ml" 16 382 384 "Dust.ml" 18 478 502
+type(
+  'a -> unit
+)

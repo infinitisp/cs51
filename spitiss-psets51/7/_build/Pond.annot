@@ -1,0 +1,92 @@
+"Pond.ml" 6 109 120 "Pond.ml" 6 109 121
+type(
+  int * int
+)
+"Pond.ml" 7 141 149 "Pond.ml" 7 141 153
+type(
+  < danger : world_object_i -> unit; die : unit; draw : unit;
+    draw_z_axis : int; forfeit_gold : int option;
+    get_danger_event : world_object_i Event51.Event51.event;
+    get_die_event : unit Event51.Event51.event; get_name : string;
+    get_pos : int * int; is_obstacle : bool; receive_damage : unit;
+    receive_gold : int list -> int list; smells_like_gold : int option; .. >
+)
+"Pond.ml" 8 155 178 "Pond.ml" 8 155 179
+type(
+  int * int
+)
+ident(
+  int_ref p "Pond.ml" 6 109 120 "Pond.ml" 6 109 121
+)
+"Pond.ml" 16 329 350 "Pond.ml" 16 329 356
+type(
+  string
+)
+type(
+  string
+)
+"Pond.ml" 16 329 331 "Pond.ml" 16 329 356
+type(
+  (< danger : world_object_i -> unit; die : unit; draw : unit;
+     draw_z_axis : int; forfeit_gold : int option;
+     get_danger_event : world_object_i Event51.Event51.event;
+     get_die_event : unit Event51.Event51.event; get_name : string;
+     get_pos : int * int; is_obstacle : bool; receive_damage : unit;
+     receive_gold : int list -> int list; smells_like_gold : int option; .. >
+   as 'a) ->
+  string
+)
+"Pond.ml" 18 358 375 "Pond.ml" 18 358 379
+type(
+  'a
+)
+ident(
+  int_ref self "Pond.ml" 7 141 149 "Pond.ml" 7 141 153
+)
+"Pond.ml" 18 358 375 "Pond.ml" 18 358 391
+call(
+  tail
+)
+type(
+  int -> int -> string -> unit
+)
+"Pond.ml" 18 358 392 "Pond.ml" 18 358 405
+type(
+  int
+)
+ident(
+  ext_ref Graphics.blue
+)
+"Pond.ml" 18 358 406 "Pond.ml" 18 358 420
+type(
+  int
+)
+ident(
+  ext_ref Graphics.black
+)
+"Pond.ml" 18 358 421 "Pond.ml" 18 358 423
+type(
+  string
+)
+"Pond.ml" 18 358 375 "Pond.ml" 18 358 423
+type(
+  unit
+)
+type(
+  unit
+)
+"Pond.ml" 18 358 360 "Pond.ml" 18 358 423
+type(
+  'a -> unit
+)
+"Pond.ml" 20 425 449 "Pond.ml" 20 425 453
+type(
+  bool
+)
+type(
+  bool
+)
+"Pond.ml" 20 425 427 "Pond.ml" 20 425 453
+type(
+  'a -> bool
+)

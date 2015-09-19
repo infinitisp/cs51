@@ -1,0 +1,5957 @@
+"ps1.ml" 15 385 389 "ps1.ml" 15 385 395
+type(
+  string
+)
+ident(
+  def prob1a "ps1.ml" 21 492 492 "ps1.ml" 1 0 -1
+)
+"ps1.ml" 16 408 414 "ps1.ml" 16 408 419
+type(
+  string -> string
+)
+ident(
+  def greet "ps1.ml" 17 450 452 "ps1.ml" 17 450 466
+)
+"ps1.ml" 16 408 421 "ps1.ml" 16 408 422
+type(
+  string
+)
+ident(
+  def y "ps1.ml" 16 408 433 "ps1.ml" 16 408 445
+)
+"ps1.ml" 16 408 433 "ps1.ml" 16 408 441
+type(
+  string
+)
+"ps1.ml" 16 408 442 "ps1.ml" 16 408 443
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"ps1.ml" 16 408 444 "ps1.ml" 16 408 445
+type(
+  string
+)
+ident(
+  int_ref y "ps1.ml" 16 408 421 "ps1.ml" 16 408 422
+)
+"ps1.ml" 16 408 433 "ps1.ml" 16 408 445
+call(
+  tail
+)
+type(
+  string
+)
+"ps1.ml" 16 408 420 "ps1.ml" 16 408 445
+type(
+  string -> string
+)
+"ps1.ml" 17 450 452 "ps1.ml" 17 450 457
+type(
+  string -> string
+)
+ident(
+  int_ref greet "ps1.ml" 16 408 414 "ps1.ml" 16 408 419
+)
+"ps1.ml" 17 450 458 "ps1.ml" 17 450 466
+type(
+  string
+)
+"ps1.ml" 17 450 452 "ps1.ml" 17 450 466
+call(
+  stack
+)
+type(
+  string
+)
+"ps1.ml" 16 408 410 "ps1.ml" 17 450 466
+type(
+  string
+)
+type(
+  string
+)
+"ps1.ml" 21 492 496 "ps1.ml" 21 492 502
+type(
+  int option list
+)
+ident(
+  def prob1b "ps1.ml" 26 582 582 "ps1.ml" 1 0 -1
+)
+"ps1.ml" 22 524 532 "ps1.ml" 22 524 533
+type(
+  int
+)
+"ps1.ml" 22 524 527 "ps1.ml" 22 524 533
+type(
+  int option
+)
+"ps1.ml" 22 524 540 "ps1.ml" 22 524 541
+type(
+  int
+)
+"ps1.ml" 22 524 535 "ps1.ml" 22 524 541
+type(
+  int option
+)
+"ps1.ml" 22 524 543 "ps1.ml" 22 524 547
+type(
+  int option
+)
+"ps1.ml" 22 524 554 "ps1.ml" 22 524 555
+type(
+  int
+)
+"ps1.ml" 22 524 549 "ps1.ml" 22 524 555
+type(
+  int option
+)
+type(
+  int option list
+)
+"ps1.ml" 22 524 543 "ps1.ml" 22 524 555
+type(
+  int option list
+)
+"ps1.ml" 22 524 535 "ps1.ml" 22 524 555
+type(
+  int option list
+)
+"ps1.ml" 22 524 527 "ps1.ml" 22 524 555
+type(
+  int option list
+)
+type(
+  int option list
+)
+"ps1.ml" 22 524 526 "ps1.ml" 22 524 556
+type(
+  int option list
+)
+"ps1.ml" 26 582 586 "ps1.ml" 26 582 592
+type(
+  ('a option * float option) * bool
+)
+ident(
+  def prob1c "ps1.ml" 37 901 901 "ps1.ml" 1 0 -1
+)
+"ps1.ml" 27 632 636 "ps1.ml" 27 632 640
+type(
+  'a option
+)
+"ps1.ml" 27 632 647 "ps1.ml" 27 632 651
+type(
+  float
+)
+"ps1.ml" 27 632 642 "ps1.ml" 27 632 651
+type(
+  float option
+)
+"ps1.ml" 27 632 636 "ps1.ml" 27 632 651
+type(
+  'a option * float option
+)
+"ps1.ml" 27 632 654 "ps1.ml" 27 632 658
+type(
+  bool
+)
+"ps1.ml" 27 632 635 "ps1.ml" 27 632 658
+type(
+  ('a option * float option) * bool
+)
+type(
+  ('a option * float option) * bool
+)
+"ps1.ml" 37 901 905 "ps1.ml" 37 901 911
+type(
+  (string * int) list
+)
+ident(
+  def prob1d "ps1.ml" 46 1169 1169 "ps1.ml" 1 0 -1
+)
+"ps1.ml" 38 937 941 "ps1.ml" 38 937 945
+type(
+  string
+)
+"ps1.ml" 38 937 947 "ps1.ml" 38 937 949
+type(
+  int
+)
+"ps1.ml" 38 937 941 "ps1.ml" 38 937 949
+type(
+  string * int
+)
+"ps1.ml" 38 937 953 "ps1.ml" 38 937 957
+type(
+  string
+)
+"ps1.ml" 38 937 959 "ps1.ml" 38 937 961
+type(
+  int
+)
+"ps1.ml" 38 937 953 "ps1.ml" 38 937 961
+type(
+  string * int
+)
+"ps1.ml" 38 937 952 "ps1.ml" 38 937 962
+type(
+  (string * int) list
+)
+"ps1.ml" 38 937 940 "ps1.ml" 38 937 962
+type(
+  (string * int) list
+)
+type(
+  (string * int) list
+)
+"ps1.ml" 38 937 939 "ps1.ml" 38 937 963
+type(
+  (string * int) list
+)
+"ps1.ml" 46 1169 1173 "ps1.ml" 46 1169 1179
+type(
+  float
+)
+ident(
+  def prob1e "ps1.ml" 55 1438 1438 "ps1.ml" 1 0 -1
+)
+"ps1.ml" 47 1190 1196 "ps1.ml" 47 1190 1203
+type(
+  'a * 'a -> bool
+)
+ident(
+  def compare "ps1.ml" 48 1221 1223 "ps1.ml" 48 1221 1259
+)
+"ps1.ml" 47 1190 1205 "ps1.ml" 47 1190 1206
+type(
+  'a
+)
+ident(
+  def x "ps1.ml" 47 1190 1212 "ps1.ml" 47 1190 1217
+)
+"ps1.ml" 47 1190 1207 "ps1.ml" 47 1190 1208
+type(
+  'a
+)
+ident(
+  def y "ps1.ml" 47 1190 1212 "ps1.ml" 47 1190 1217
+)
+"ps1.ml" 47 1190 1205 "ps1.ml" 47 1190 1208
+type(
+  'a * 'a
+)
+"ps1.ml" 47 1190 1212 "ps1.ml" 47 1190 1213
+type(
+  'a
+)
+ident(
+  int_ref x "ps1.ml" 47 1190 1205 "ps1.ml" 47 1190 1206
+)
+"ps1.ml" 47 1190 1214 "ps1.ml" 47 1190 1215
+type(
+  'a -> 'a -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"ps1.ml" 47 1190 1216 "ps1.ml" 47 1190 1217
+type(
+  'a
+)
+ident(
+  int_ref y "ps1.ml" 47 1190 1207 "ps1.ml" 47 1190 1208
+)
+"ps1.ml" 47 1190 1212 "ps1.ml" 47 1190 1217
+type(
+  bool
+)
+"ps1.ml" 47 1190 1204 "ps1.ml" 47 1190 1217
+type(
+  'a * 'a -> bool
+)
+"ps1.ml" 48 1221 1226 "ps1.ml" 48 1221 1233
+type(
+  float * float -> bool
+)
+ident(
+  int_ref compare "ps1.ml" 47 1190 1196 "ps1.ml" 47 1190 1203
+)
+"ps1.ml" 48 1221 1235 "ps1.ml" 48 1221 1237
+type(
+  float
+)
+"ps1.ml" 48 1221 1239 "ps1.ml" 48 1221 1242
+type(
+  float
+)
+"ps1.ml" 48 1221 1235 "ps1.ml" 48 1221 1242
+type(
+  float * float
+)
+"ps1.ml" 48 1221 1226 "ps1.ml" 48 1221 1243
+call(
+  stack
+)
+type(
+  bool
+)
+"ps1.ml" 48 1221 1249 "ps1.ml" 48 1221 1251
+type(
+  float
+)
+"ps1.ml" 48 1221 1257 "ps1.ml" 48 1221 1259
+type(
+  float
+)
+"ps1.ml" 48 1221 1223 "ps1.ml" 48 1221 1259
+type(
+  float
+)
+"ps1.ml" 47 1190 1192 "ps1.ml" 48 1221 1259
+type(
+  float
+)
+type(
+  float
+)
+"ps1.ml" 55 1438 1442 "ps1.ml" 55 1438 1448
+type(
+  (string * int option) list
+)
+ident(
+  def prob1f "ps1.ml" 79 2395 2395 "ps1.ml" 1 0 -1
+)
+"ps1.ml" 56 1480 1484 "ps1.ml" 56 1480 1493
+type(
+  string
+)
+"ps1.ml" 56 1480 1495 "ps1.ml" 56 1480 1499
+type(
+  int option
+)
+"ps1.ml" 56 1480 1484 "ps1.ml" 56 1480 1499
+type(
+  string * int option
+)
+"ps1.ml" 56 1480 1503 "ps1.ml" 56 1480 1513
+type(
+  string
+)
+"ps1.ml" 56 1480 1520 "ps1.ml" 56 1480 1521
+type(
+  int
+)
+"ps1.ml" 56 1480 1515 "ps1.ml" 56 1480 1521
+type(
+  int option
+)
+"ps1.ml" 56 1480 1503 "ps1.ml" 56 1480 1521
+type(
+  string * int option
+)
+"ps1.ml" 56 1480 1525 "ps1.ml" 56 1480 1532
+type(
+  string
+)
+"ps1.ml" 56 1480 1534 "ps1.ml" 56 1480 1538
+type(
+  int option
+)
+"ps1.ml" 56 1480 1525 "ps1.ml" 56 1480 1538
+type(
+  string * int option
+)
+"ps1.ml" 56 1480 1542 "ps1.ml" 56 1480 1549
+type(
+  string
+)
+"ps1.ml" 56 1480 1551 "ps1.ml" 56 1480 1555
+type(
+  int option
+)
+"ps1.ml" 56 1480 1542 "ps1.ml" 56 1480 1555
+type(
+  string * int option
+)
+"ps1.ml" 57 1558 1562 "ps1.ml" 57 1558 1567
+type(
+  string
+)
+"ps1.ml" 57 1558 1569 "ps1.ml" 57 1558 1573
+type(
+  int option
+)
+"ps1.ml" 57 1558 1562 "ps1.ml" 57 1558 1573
+type(
+  string * int option
+)
+"ps1.ml" 57 1558 1577 "ps1.ml" 57 1558 1583
+type(
+  string
+)
+"ps1.ml" 57 1558 1590 "ps1.ml" 57 1558 1591
+type(
+  int
+)
+"ps1.ml" 57 1558 1585 "ps1.ml" 57 1558 1591
+type(
+  int option
+)
+"ps1.ml" 57 1558 1577 "ps1.ml" 57 1558 1591
+type(
+  string * int option
+)
+"ps1.ml" 57 1558 1595 "ps1.ml" 57 1558 1601
+type(
+  string
+)
+"ps1.ml" 57 1558 1603 "ps1.ml" 57 1558 1607
+type(
+  int option
+)
+"ps1.ml" 57 1558 1595 "ps1.ml" 57 1558 1607
+type(
+  string * int option
+)
+"ps1.ml" 57 1558 1611 "ps1.ml" 57 1558 1619
+type(
+  string
+)
+"ps1.ml" 57 1558 1621 "ps1.ml" 57 1558 1625
+type(
+  int option
+)
+"ps1.ml" 57 1558 1611 "ps1.ml" 57 1558 1625
+type(
+  string * int option
+)
+"ps1.ml" 58 1628 1632 "ps1.ml" 58 1628 1643
+type(
+  string
+)
+"ps1.ml" 58 1628 1650 "ps1.ml" 58 1628 1651
+type(
+  int
+)
+"ps1.ml" 58 1628 1645 "ps1.ml" 58 1628 1651
+type(
+  int option
+)
+"ps1.ml" 58 1628 1632 "ps1.ml" 58 1628 1651
+type(
+  string * int option
+)
+"ps1.ml" 58 1628 1655 "ps1.ml" 58 1628 1664
+type(
+  string
+)
+"ps1.ml" 58 1628 1671 "ps1.ml" 58 1628 1672
+type(
+  int
+)
+"ps1.ml" 58 1628 1666 "ps1.ml" 58 1628 1672
+type(
+  int option
+)
+"ps1.ml" 58 1628 1655 "ps1.ml" 58 1628 1672
+type(
+  string * int option
+)
+"ps1.ml" 58 1628 1676 "ps1.ml" 58 1628 1686
+type(
+  string
+)
+"ps1.ml" 58 1628 1693 "ps1.ml" 58 1628 1694
+type(
+  int
+)
+"ps1.ml" 58 1628 1688 "ps1.ml" 58 1628 1694
+type(
+  int option
+)
+"ps1.ml" 58 1628 1676 "ps1.ml" 58 1628 1694
+type(
+  string * int option
+)
+"ps1.ml" 59 1698 1702 "ps1.ml" 59 1698 1712
+type(
+  string
+)
+"ps1.ml" 59 1698 1719 "ps1.ml" 59 1698 1720
+type(
+  int
+)
+"ps1.ml" 59 1698 1714 "ps1.ml" 59 1698 1720
+type(
+  int option
+)
+"ps1.ml" 59 1698 1702 "ps1.ml" 59 1698 1720
+type(
+  string * int option
+)
+"ps1.ml" 59 1698 1701 "ps1.ml" 59 1698 1721
+type(
+  (string * int option) list
+)
+"ps1.ml" 58 1628 1675 "ps1.ml" 59 1698 1721
+type(
+  (string * int option) list
+)
+"ps1.ml" 58 1628 1654 "ps1.ml" 59 1698 1721
+type(
+  (string * int option) list
+)
+"ps1.ml" 58 1628 1631 "ps1.ml" 59 1698 1721
+type(
+  (string * int option) list
+)
+"ps1.ml" 57 1558 1610 "ps1.ml" 59 1698 1721
+type(
+  (string * int option) list
+)
+"ps1.ml" 57 1558 1594 "ps1.ml" 59 1698 1721
+type(
+  (string * int option) list
+)
+"ps1.ml" 57 1558 1576 "ps1.ml" 59 1698 1721
+type(
+  (string * int option) list
+)
+"ps1.ml" 57 1558 1561 "ps1.ml" 59 1698 1721
+type(
+  (string * int option) list
+)
+"ps1.ml" 56 1480 1541 "ps1.ml" 59 1698 1721
+type(
+  (string * int option) list
+)
+"ps1.ml" 56 1480 1524 "ps1.ml" 59 1698 1721
+type(
+  (string * int option) list
+)
+"ps1.ml" 56 1480 1502 "ps1.ml" 59 1698 1721
+type(
+  (string * int option) list
+)
+"ps1.ml" 56 1480 1483 "ps1.ml" 59 1698 1721
+type(
+  (string * int option) list
+)
+type(
+  (string * int option) list
+)
+"ps1.ml" 56 1480 1482 "ps1.ml" 59 1698 1722
+type(
+  (string * int option) list
+)
+"ps1.ml" 79 2395 2403 "ps1.ml" 79 2395 2411
+type(
+  int list -> bool
+)
+ident(
+  def reversed "ps1.ml" 79 2395 2395 "ps1.ml" 1 0 -1
+)
+"ps1.ml" 79 2395 2413 "ps1.ml" 79 2395 2414
+type(
+  int list
+)
+ident(
+  def l "ps1.ml" 79 2395 2427 "ps1.ml" 86 2537 2551
+)
+"ps1.ml" 80 2436 2444 "ps1.ml" 80 2436 2445
+type(
+  int list
+)
+ident(
+  int_ref l "ps1.ml" 79 2395 2413 "ps1.ml" 79 2395 2414
+)
+"ps1.ml" 81 2451 2454 "ps1.ml" 81 2451 2456
+type(
+  int list
+)
+"ps1.ml" 81 2451 2460 "ps1.ml" 81 2451 2464
+type(
+  bool
+)
+"ps1.ml" 82 2465 2469 "ps1.ml" 82 2465 2470
+type(
+  int list
+)
+type(
+  int
+)
+"ps1.ml" 82 2465 2468 "ps1.ml" 82 2465 2471
+type(
+  int list
+)
+"ps1.ml" 82 2465 2475 "ps1.ml" 82 2465 2479
+type(
+  bool
+)
+"ps1.ml" 83 2480 2483 "ps1.ml" 83 2480 2484
+type(
+  int
+)
+ident(
+  def a "ps1.ml" 84 2496 2500 "ps1.ml" 86 2537 2551
+)
+"ps1.ml" 83 2480 2486 "ps1.ml" 83 2480 2487
+type(
+  int
+)
+ident(
+  def b "ps1.ml" 84 2496 2500 "ps1.ml" 86 2537 2551
+)
+"ps1.ml" 83 2480 2489 "ps1.ml" 83 2480 2491
+type(
+  int list
+)
+ident(
+  def l' "ps1.ml" 84 2496 2500 "ps1.ml" 86 2537 2551
+)
+"ps1.ml" 83 2480 2486 "ps1.ml" 83 2480 2491
+type(
+  int list
+)
+"ps1.ml" 83 2480 2483 "ps1.ml" 83 2480 2491
+type(
+  int list
+)
+"ps1.ml" 84 2496 2503 "ps1.ml" 84 2496 2504
+type(
+  int
+)
+ident(
+  int_ref a "ps1.ml" 83 2480 2483 "ps1.ml" 83 2480 2484
+)
+"ps1.ml" 84 2496 2505 "ps1.ml" 84 2496 2506
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( > )
+)
+"ps1.ml" 84 2496 2507 "ps1.ml" 84 2496 2508
+type(
+  int
+)
+ident(
+  int_ref b "ps1.ml" 83 2480 2486 "ps1.ml" 83 2480 2487
+)
+"ps1.ml" 84 2496 2503 "ps1.ml" 84 2496 2508
+type(
+  bool
+)
+"ps1.ml" 85 2514 2520 "ps1.ml" 85 2514 2528
+type(
+  int list -> bool
+)
+ident(
+  int_ref reversed "ps1.ml" 79 2395 2403 "ps1.ml" 79 2395 2411
+)
+"ps1.ml" 85 2514 2530 "ps1.ml" 85 2514 2531
+type(
+  int
+)
+ident(
+  int_ref b "ps1.ml" 83 2480 2486 "ps1.ml" 83 2480 2487
+)
+"ps1.ml" 85 2514 2533 "ps1.ml" 85 2514 2535
+type(
+  int list
+)
+ident(
+  int_ref l' "ps1.ml" 83 2480 2489 "ps1.ml" 83 2480 2491
+)
+"ps1.ml" 85 2514 2530 "ps1.ml" 85 2514 2535
+type(
+  int list
+)
+"ps1.ml" 85 2514 2520 "ps1.ml" 85 2514 2536
+call(
+  tail
+)
+type(
+  bool
+)
+"ps1.ml" 86 2537 2546 "ps1.ml" 86 2537 2551
+type(
+  bool
+)
+"ps1.ml" 84 2496 2500 "ps1.ml" 86 2537 2551
+type(
+  bool
+)
+"ps1.ml" 80 2436 2438 "ps1.ml" 86 2537 2551
+type(
+  bool
+)
+type(
+  bool
+)
+"ps1.ml" 79 2395 2412 "ps1.ml" 86 2537 2551
+type(
+  int list -> bool
+)
+"ps1.ml" 88 2553 2561 "ps1.ml" 88 2553 2569
+type(
+  int list -> bool
+)
+ident(
+  int_ref reversed "ps1.ml" 79 2395 2403 "ps1.ml" 79 2395 2411
+)
+"ps1.ml" 88 2553 2570 "ps1.ml" 88 2553 2572
+type(
+  int list
+)
+"ps1.ml" 88 2553 2561 "ps1.ml" 88 2553 2572
+call(
+  stack
+)
+type(
+  bool
+)
+"ps1.ml" 88 2553 2553 "ps1.ml" 88 2553 2573
+type(
+  unit
+)
+"ps1.ml" 89 2574 2582 "ps1.ml" 89 2574 2590
+type(
+  int list -> bool
+)
+ident(
+  int_ref reversed "ps1.ml" 79 2395 2403 "ps1.ml" 79 2395 2411
+)
+"ps1.ml" 89 2574 2592 "ps1.ml" 89 2574 2593
+type(
+  int
+)
+type(
+  int list
+)
+"ps1.ml" 89 2574 2591 "ps1.ml" 89 2574 2594
+type(
+  int list
+)
+"ps1.ml" 89 2574 2582 "ps1.ml" 89 2574 2594
+call(
+  stack
+)
+type(
+  bool
+)
+"ps1.ml" 89 2574 2574 "ps1.ml" 89 2574 2595
+type(
+  unit
+)
+"ps1.ml" 94 2865 2873 "ps1.ml" 94 2865 2881
+type(
+  int list -> bool
+)
+ident(
+  int_ref reversed "ps1.ml" 79 2395 2403 "ps1.ml" 79 2395 2411
+)
+"ps1.ml" 94 2865 2883 "ps1.ml" 94 2865 2884
+type(
+  int
+)
+"ps1.ml" 94 2865 2885 "ps1.ml" 94 2865 2886
+type(
+  int
+)
+type(
+  int list
+)
+"ps1.ml" 94 2865 2883 "ps1.ml" 94 2865 2886
+type(
+  int list
+)
+"ps1.ml" 94 2865 2882 "ps1.ml" 94 2865 2887
+type(
+  int list
+)
+"ps1.ml" 94 2865 2873 "ps1.ml" 94 2865 2887
+call(
+  stack
+)
+type(
+  bool
+)
+"ps1.ml" 94 2865 2888 "ps1.ml" 94 2865 2889
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"ps1.ml" 94 2865 2890 "ps1.ml" 94 2865 2895
+type(
+  bool
+)
+"ps1.ml" 94 2865 2873 "ps1.ml" 94 2865 2895
+type(
+  bool
+)
+"ps1.ml" 94 2865 2865 "ps1.ml" 94 2865 2896
+type(
+  unit
+)
+"ps1.ml" 95 2897 2905 "ps1.ml" 95 2897 2913
+type(
+  int list -> bool
+)
+ident(
+  int_ref reversed "ps1.ml" 79 2395 2403 "ps1.ml" 79 2395 2411
+)
+"ps1.ml" 95 2897 2915 "ps1.ml" 95 2897 2916
+type(
+  int
+)
+"ps1.ml" 95 2897 2917 "ps1.ml" 95 2897 2918
+type(
+  int
+)
+type(
+  int list
+)
+"ps1.ml" 95 2897 2915 "ps1.ml" 95 2897 2918
+type(
+  int list
+)
+"ps1.ml" 95 2897 2914 "ps1.ml" 95 2897 2919
+type(
+  int list
+)
+"ps1.ml" 95 2897 2905 "ps1.ml" 95 2897 2919
+call(
+  stack
+)
+type(
+  bool
+)
+"ps1.ml" 95 2897 2897 "ps1.ml" 95 2897 2920
+type(
+  unit
+)
+"ps1.ml" 114 3385 3393 "ps1.ml" 114 3385 3398
+type(
+  int list -> int list -> int list
+)
+ident(
+  def merge "ps1.ml" 114 3385 3385 "ps1.ml" 1 0 -1
+)
+"ps1.ml" 114 3385 3400 "ps1.ml" 114 3385 3401
+type(
+  int list
+)
+ident(
+  def a "ps1.ml" 114 3385 3413 "ps1.ml" 125 3658 3679
+)
+"ps1.ml" 114 3385 3414 "ps1.ml" 114 3385 3415
+type(
+  int list
+)
+ident(
+  def b "ps1.ml" 114 3385 3427 "ps1.ml" 125 3658 3679
+)
+"ps1.ml" 115 3441 3449 "ps1.ml" 115 3441 3450
+type(
+  int list
+)
+ident(
+  int_ref a "ps1.ml" 114 3385 3400 "ps1.ml" 114 3385 3401
+)
+"ps1.ml" 116 3456 3460 "ps1.ml" 116 3456 3462
+type(
+  int list
+)
+"ps1.ml" 116 3456 3466 "ps1.ml" 116 3456 3467
+type(
+  int list
+)
+ident(
+  int_ref b "ps1.ml" 114 3385 3414 "ps1.ml" 114 3385 3415
+)
+"ps1.ml" 117 3468 3472 "ps1.ml" 117 3468 3476
+type(
+  int
+)
+ident(
+  def a_hd "ps1.ml" 118 3486 3491 "ps1.ml" 125 3658 3679
+)
+"ps1.ml" 117 3468 3480 "ps1.ml" 117 3468 3482
+type(
+  int list
+)
+ident(
+  def a' "ps1.ml" 118 3486 3491 "ps1.ml" 125 3658 3679
+)
+"ps1.ml" 117 3468 3472 "ps1.ml" 117 3468 3482
+type(
+  int list
+)
+"ps1.ml" 118 3486 3497 "ps1.ml" 118 3486 3498
+type(
+  int list
+)
+ident(
+  int_ref b "ps1.ml" 114 3385 3414 "ps1.ml" 114 3385 3415
+)
+"ps1.ml" 119 3504 3511 "ps1.ml" 119 3504 3513
+type(
+  int list
+)
+"ps1.ml" 119 3504 3517 "ps1.ml" 119 3504 3518
+type(
+  int list
+)
+ident(
+  int_ref a "ps1.ml" 114 3385 3400 "ps1.ml" 114 3385 3401
+)
+"ps1.ml" 120 3519 3526 "ps1.ml" 120 3519 3530
+type(
+  int
+)
+ident(
+  def b_hd "ps1.ml" 122 3609 3610 "ps1.ml" 125 3658 3679
+)
+"ps1.ml" 120 3519 3534 "ps1.ml" 120 3519 3536
+type(
+  int list
+)
+ident(
+  def b' "ps1.ml" 122 3609 3610 "ps1.ml" 125 3658 3679
+)
+"ps1.ml" 120 3519 3526 "ps1.ml" 120 3519 3536
+type(
+  int list
+)
+"ps1.ml" 122 3609 3613 "ps1.ml" 122 3609 3617
+type(
+  int
+)
+ident(
+  int_ref a_hd "ps1.ml" 117 3468 3472 "ps1.ml" 117 3468 3476
+)
+"ps1.ml" 122 3609 3618 "ps1.ml" 122 3609 3619
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"ps1.ml" 122 3609 3620 "ps1.ml" 122 3609 3624
+type(
+  int
+)
+ident(
+  int_ref b_hd "ps1.ml" 120 3519 3526 "ps1.ml" 120 3519 3530
+)
+"ps1.ml" 122 3609 3613 "ps1.ml" 122 3609 3624
+type(
+  bool
+)
+"ps1.ml" 123 3630 3633 "ps1.ml" 123 3630 3637
+type(
+  int
+)
+ident(
+  int_ref a_hd "ps1.ml" 117 3468 3472 "ps1.ml" 117 3468 3476
+)
+"ps1.ml" 123 3630 3641 "ps1.ml" 123 3630 3646
+type(
+  int list -> int list -> int list
+)
+ident(
+  int_ref merge "ps1.ml" 114 3385 3393 "ps1.ml" 114 3385 3398
+)
+"ps1.ml" 123 3630 3647 "ps1.ml" 123 3630 3649
+type(
+  int list
+)
+ident(
+  int_ref a' "ps1.ml" 117 3468 3480 "ps1.ml" 117 3468 3482
+)
+"ps1.ml" 123 3630 3650 "ps1.ml" 123 3630 3651
+type(
+  int list
+)
+ident(
+  int_ref b "ps1.ml" 114 3385 3414 "ps1.ml" 114 3385 3415
+)
+"ps1.ml" 123 3630 3641 "ps1.ml" 123 3630 3651
+call(
+  stack
+)
+type(
+  int list
+)
+"ps1.ml" 123 3630 3633 "ps1.ml" 123 3630 3651
+type(
+  int list
+)
+"ps1.ml" 125 3658 3661 "ps1.ml" 125 3658 3665
+type(
+  int
+)
+ident(
+  int_ref b_hd "ps1.ml" 120 3519 3526 "ps1.ml" 120 3519 3530
+)
+"ps1.ml" 125 3658 3669 "ps1.ml" 125 3658 3674
+type(
+  int list -> int list -> int list
+)
+ident(
+  int_ref merge "ps1.ml" 114 3385 3393 "ps1.ml" 114 3385 3398
+)
+"ps1.ml" 125 3658 3675 "ps1.ml" 125 3658 3676
+type(
+  int list
+)
+ident(
+  int_ref a "ps1.ml" 114 3385 3400 "ps1.ml" 114 3385 3401
+)
+"ps1.ml" 125 3658 3677 "ps1.ml" 125 3658 3679
+type(
+  int list
+)
+ident(
+  int_ref b' "ps1.ml" 120 3519 3534 "ps1.ml" 120 3519 3536
+)
+"ps1.ml" 125 3658 3669 "ps1.ml" 125 3658 3679
+call(
+  stack
+)
+type(
+  int list
+)
+"ps1.ml" 125 3658 3661 "ps1.ml" 125 3658 3679
+type(
+  int list
+)
+"ps1.ml" 122 3609 3610 "ps1.ml" 125 3658 3679
+type(
+  int list
+)
+"ps1.ml" 118 3486 3491 "ps1.ml" 125 3658 3679
+type(
+  int list
+)
+"ps1.ml" 115 3441 3443 "ps1.ml" 125 3658 3679
+type(
+  int list
+)
+type(
+  int list
+)
+"ps1.ml" 114 3385 3413 "ps1.ml" 125 3658 3679
+type(
+  int list -> int list
+)
+"ps1.ml" 114 3385 3399 "ps1.ml" 125 3658 3679
+type(
+  int list -> int list -> int list
+)
+"ps1.ml" 127 3681 3690 "ps1.ml" 127 3681 3695
+type(
+  int list -> int list -> int list
+)
+ident(
+  int_ref merge "ps1.ml" 114 3385 3393 "ps1.ml" 114 3385 3398
+)
+"ps1.ml" 127 3681 3697 "ps1.ml" 127 3681 3698
+type(
+  int
+)
+"ps1.ml" 127 3681 3699 "ps1.ml" 127 3681 3700
+type(
+  int
+)
+"ps1.ml" 127 3681 3701 "ps1.ml" 127 3681 3702
+type(
+  int
+)
+type(
+  int list
+)
+"ps1.ml" 127 3681 3699 "ps1.ml" 127 3681 3702
+type(
+  int list
+)
+"ps1.ml" 127 3681 3697 "ps1.ml" 127 3681 3702
+type(
+  int list
+)
+"ps1.ml" 127 3681 3696 "ps1.ml" 127 3681 3703
+type(
+  int list
+)
+"ps1.ml" 127 3681 3705 "ps1.ml" 127 3681 3706
+type(
+  int
+)
+"ps1.ml" 127 3681 3707 "ps1.ml" 127 3681 3708
+type(
+  int
+)
+"ps1.ml" 127 3681 3709 "ps1.ml" 127 3681 3710
+type(
+  int
+)
+"ps1.ml" 127 3681 3711 "ps1.ml" 127 3681 3712
+type(
+  int
+)
+type(
+  int list
+)
+"ps1.ml" 127 3681 3709 "ps1.ml" 127 3681 3712
+type(
+  int list
+)
+"ps1.ml" 127 3681 3707 "ps1.ml" 127 3681 3712
+type(
+  int list
+)
+"ps1.ml" 127 3681 3705 "ps1.ml" 127 3681 3712
+type(
+  int list
+)
+"ps1.ml" 127 3681 3704 "ps1.ml" 127 3681 3713
+type(
+  int list
+)
+"ps1.ml" 127 3681 3690 "ps1.ml" 127 3681 3713
+call(
+  stack
+)
+type(
+  int list
+)
+"ps1.ml" 127 3681 3715 "ps1.ml" 127 3681 3716
+type(
+  int list -> int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"ps1.ml" 127 3681 3718 "ps1.ml" 127 3681 3719
+type(
+  int
+)
+"ps1.ml" 127 3681 3720 "ps1.ml" 127 3681 3721
+type(
+  int
+)
+"ps1.ml" 127 3681 3722 "ps1.ml" 127 3681 3723
+type(
+  int
+)
+"ps1.ml" 127 3681 3724 "ps1.ml" 127 3681 3725
+type(
+  int
+)
+"ps1.ml" 127 3681 3726 "ps1.ml" 127 3681 3727
+type(
+  int
+)
+"ps1.ml" 127 3681 3728 "ps1.ml" 127 3681 3729
+type(
+  int
+)
+"ps1.ml" 127 3681 3730 "ps1.ml" 127 3681 3731
+type(
+  int
+)
+type(
+  int list
+)
+"ps1.ml" 127 3681 3728 "ps1.ml" 127 3681 3731
+type(
+  int list
+)
+"ps1.ml" 127 3681 3726 "ps1.ml" 127 3681 3731
+type(
+  int list
+)
+"ps1.ml" 127 3681 3724 "ps1.ml" 127 3681 3731
+type(
+  int list
+)
+"ps1.ml" 127 3681 3722 "ps1.ml" 127 3681 3731
+type(
+  int list
+)
+"ps1.ml" 127 3681 3720 "ps1.ml" 127 3681 3731
+type(
+  int list
+)
+"ps1.ml" 127 3681 3718 "ps1.ml" 127 3681 3731
+type(
+  int list
+)
+"ps1.ml" 127 3681 3717 "ps1.ml" 127 3681 3732
+type(
+  int list
+)
+"ps1.ml" 127 3681 3689 "ps1.ml" 127 3681 3732
+type(
+  bool
+)
+"ps1.ml" 127 3681 3681 "ps1.ml" 127 3681 3733
+type(
+  unit
+)
+"ps1.ml" 128 3734 3743 "ps1.ml" 128 3734 3748
+type(
+  int list -> int list -> int list
+)
+ident(
+  int_ref merge "ps1.ml" 114 3385 3393 "ps1.ml" 114 3385 3398
+)
+"ps1.ml" 128 3734 3750 "ps1.ml" 128 3734 3751
+type(
+  int
+)
+"ps1.ml" 128 3734 3752 "ps1.ml" 128 3734 3753
+type(
+  int
+)
+"ps1.ml" 128 3734 3754 "ps1.ml" 128 3734 3755
+type(
+  int
+)
+"ps1.ml" 128 3734 3756 "ps1.ml" 128 3734 3757
+type(
+  int
+)
+type(
+  int list
+)
+"ps1.ml" 128 3734 3754 "ps1.ml" 128 3734 3757
+type(
+  int list
+)
+"ps1.ml" 128 3734 3752 "ps1.ml" 128 3734 3757
+type(
+  int list
+)
+"ps1.ml" 128 3734 3750 "ps1.ml" 128 3734 3757
+type(
+  int list
+)
+"ps1.ml" 128 3734 3749 "ps1.ml" 128 3734 3758
+type(
+  int list
+)
+"ps1.ml" 128 3734 3760 "ps1.ml" 128 3734 3761
+type(
+  int
+)
+"ps1.ml" 128 3734 3762 "ps1.ml" 128 3734 3763
+type(
+  int
+)
+"ps1.ml" 128 3734 3764 "ps1.ml" 128 3734 3765
+type(
+  int
+)
+type(
+  int list
+)
+"ps1.ml" 128 3734 3762 "ps1.ml" 128 3734 3765
+type(
+  int list
+)
+"ps1.ml" 128 3734 3760 "ps1.ml" 128 3734 3765
+type(
+  int list
+)
+"ps1.ml" 128 3734 3759 "ps1.ml" 128 3734 3766
+type(
+  int list
+)
+"ps1.ml" 128 3734 3743 "ps1.ml" 128 3734 3766
+call(
+  stack
+)
+type(
+  int list
+)
+"ps1.ml" 128 3734 3768 "ps1.ml" 128 3734 3769
+type(
+  int list -> int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"ps1.ml" 128 3734 3771 "ps1.ml" 128 3734 3772
+type(
+  int
+)
+"ps1.ml" 128 3734 3773 "ps1.ml" 128 3734 3774
+type(
+  int
+)
+"ps1.ml" 128 3734 3775 "ps1.ml" 128 3734 3776
+type(
+  int
+)
+"ps1.ml" 128 3734 3777 "ps1.ml" 128 3734 3778
+type(
+  int
+)
+"ps1.ml" 128 3734 3779 "ps1.ml" 128 3734 3780
+type(
+  int
+)
+"ps1.ml" 128 3734 3781 "ps1.ml" 128 3734 3782
+type(
+  int
+)
+"ps1.ml" 128 3734 3783 "ps1.ml" 128 3734 3784
+type(
+  int
+)
+type(
+  int list
+)
+"ps1.ml" 128 3734 3781 "ps1.ml" 128 3734 3784
+type(
+  int list
+)
+"ps1.ml" 128 3734 3779 "ps1.ml" 128 3734 3784
+type(
+  int list
+)
+"ps1.ml" 128 3734 3777 "ps1.ml" 128 3734 3784
+type(
+  int list
+)
+"ps1.ml" 128 3734 3775 "ps1.ml" 128 3734 3784
+type(
+  int list
+)
+"ps1.ml" 128 3734 3773 "ps1.ml" 128 3734 3784
+type(
+  int list
+)
+"ps1.ml" 128 3734 3771 "ps1.ml" 128 3734 3784
+type(
+  int list
+)
+"ps1.ml" 128 3734 3770 "ps1.ml" 128 3734 3785
+type(
+  int list
+)
+"ps1.ml" 128 3734 3742 "ps1.ml" 128 3734 3785
+type(
+  bool
+)
+"ps1.ml" 128 3734 3734 "ps1.ml" 128 3734 3786
+type(
+  unit
+)
+"ps1.ml" 129 3787 3796 "ps1.ml" 129 3787 3801
+type(
+  int list -> int list -> int list
+)
+ident(
+  int_ref merge "ps1.ml" 114 3385 3393 "ps1.ml" 114 3385 3398
+)
+"ps1.ml" 129 3787 3803 "ps1.ml" 129 3787 3804
+type(
+  int
+)
+"ps1.ml" 129 3787 3805 "ps1.ml" 129 3787 3806
+type(
+  int
+)
+"ps1.ml" 129 3787 3807 "ps1.ml" 129 3787 3808
+type(
+  int
+)
+"ps1.ml" 129 3787 3809 "ps1.ml" 129 3787 3810
+type(
+  int
+)
+type(
+  int list
+)
+"ps1.ml" 129 3787 3807 "ps1.ml" 129 3787 3810
+type(
+  int list
+)
+"ps1.ml" 129 3787 3805 "ps1.ml" 129 3787 3810
+type(
+  int list
+)
+"ps1.ml" 129 3787 3803 "ps1.ml" 129 3787 3810
+type(
+  int list
+)
+"ps1.ml" 129 3787 3802 "ps1.ml" 129 3787 3811
+type(
+  int list
+)
+"ps1.ml" 129 3787 3813 "ps1.ml" 129 3787 3814
+type(
+  int
+)
+"ps1.ml" 129 3787 3815 "ps1.ml" 129 3787 3816
+type(
+  int
+)
+"ps1.ml" 129 3787 3817 "ps1.ml" 129 3787 3818
+type(
+  int
+)
+type(
+  int list
+)
+"ps1.ml" 129 3787 3815 "ps1.ml" 129 3787 3818
+type(
+  int list
+)
+"ps1.ml" 129 3787 3813 "ps1.ml" 129 3787 3818
+type(
+  int list
+)
+"ps1.ml" 129 3787 3812 "ps1.ml" 129 3787 3819
+type(
+  int list
+)
+"ps1.ml" 129 3787 3796 "ps1.ml" 129 3787 3819
+call(
+  stack
+)
+type(
+  int list
+)
+"ps1.ml" 129 3787 3821 "ps1.ml" 129 3787 3822
+type(
+  int list -> int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"ps1.ml" 129 3787 3824 "ps1.ml" 129 3787 3825
+type(
+  int
+)
+"ps1.ml" 129 3787 3826 "ps1.ml" 129 3787 3827
+type(
+  int
+)
+"ps1.ml" 129 3787 3828 "ps1.ml" 129 3787 3829
+type(
+  int
+)
+"ps1.ml" 129 3787 3830 "ps1.ml" 129 3787 3831
+type(
+  int
+)
+"ps1.ml" 129 3787 3832 "ps1.ml" 129 3787 3833
+type(
+  int
+)
+"ps1.ml" 129 3787 3834 "ps1.ml" 129 3787 3835
+type(
+  int
+)
+"ps1.ml" 129 3787 3836 "ps1.ml" 129 3787 3837
+type(
+  int
+)
+type(
+  int list
+)
+"ps1.ml" 129 3787 3834 "ps1.ml" 129 3787 3837
+type(
+  int list
+)
+"ps1.ml" 129 3787 3832 "ps1.ml" 129 3787 3837
+type(
+  int list
+)
+"ps1.ml" 129 3787 3830 "ps1.ml" 129 3787 3837
+type(
+  int list
+)
+"ps1.ml" 129 3787 3828 "ps1.ml" 129 3787 3837
+type(
+  int list
+)
+"ps1.ml" 129 3787 3826 "ps1.ml" 129 3787 3837
+type(
+  int list
+)
+"ps1.ml" 129 3787 3824 "ps1.ml" 129 3787 3837
+type(
+  int list
+)
+"ps1.ml" 129 3787 3823 "ps1.ml" 129 3787 3838
+type(
+  int list
+)
+"ps1.ml" 129 3787 3795 "ps1.ml" 129 3787 3838
+type(
+  bool
+)
+"ps1.ml" 129 3787 3787 "ps1.ml" 129 3787 3839
+type(
+  unit
+)
+"ps1.ml" 130 3840 3849 "ps1.ml" 130 3840 3854
+type(
+  int list -> int list -> int list
+)
+ident(
+  int_ref merge "ps1.ml" 114 3385 3393 "ps1.ml" 114 3385 3398
+)
+"ps1.ml" 130 3840 3856 "ps1.ml" 130 3840 3857
+type(
+  int
+)
+"ps1.ml" 130 3840 3858 "ps1.ml" 130 3840 3859
+type(
+  int
+)
+type(
+  int list
+)
+"ps1.ml" 130 3840 3856 "ps1.ml" 130 3840 3859
+type(
+  int list
+)
+"ps1.ml" 130 3840 3855 "ps1.ml" 130 3840 3860
+type(
+  int list
+)
+"ps1.ml" 130 3840 3862 "ps1.ml" 130 3840 3863
+type(
+  int
+)
+"ps1.ml" 130 3840 3864 "ps1.ml" 130 3840 3865
+type(
+  int
+)
+type(
+  int list
+)
+"ps1.ml" 130 3840 3862 "ps1.ml" 130 3840 3865
+type(
+  int list
+)
+"ps1.ml" 130 3840 3861 "ps1.ml" 130 3840 3866
+type(
+  int list
+)
+"ps1.ml" 130 3840 3849 "ps1.ml" 130 3840 3866
+call(
+  stack
+)
+type(
+  int list
+)
+"ps1.ml" 130 3840 3868 "ps1.ml" 130 3840 3869
+type(
+  int list -> int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"ps1.ml" 130 3840 3871 "ps1.ml" 130 3840 3872
+type(
+  int
+)
+"ps1.ml" 130 3840 3873 "ps1.ml" 130 3840 3874
+type(
+  int
+)
+"ps1.ml" 130 3840 3875 "ps1.ml" 130 3840 3876
+type(
+  int
+)
+"ps1.ml" 130 3840 3877 "ps1.ml" 130 3840 3878
+type(
+  int
+)
+type(
+  int list
+)
+"ps1.ml" 130 3840 3875 "ps1.ml" 130 3840 3878
+type(
+  int list
+)
+"ps1.ml" 130 3840 3873 "ps1.ml" 130 3840 3878
+type(
+  int list
+)
+"ps1.ml" 130 3840 3871 "ps1.ml" 130 3840 3878
+type(
+  int list
+)
+"ps1.ml" 130 3840 3870 "ps1.ml" 130 3840 3879
+type(
+  int list
+)
+"ps1.ml" 130 3840 3848 "ps1.ml" 130 3840 3879
+type(
+  bool
+)
+"ps1.ml" 130 3840 3840 "ps1.ml" 130 3840 3880
+type(
+  unit
+)
+"ps1.ml" 131 3881 3890 "ps1.ml" 131 3881 3895
+type(
+  int list -> int list -> int list
+)
+ident(
+  int_ref merge "ps1.ml" 114 3385 3393 "ps1.ml" 114 3385 3398
+)
+"ps1.ml" 131 3881 3897 "ps1.ml" 131 3881 3899
+type(
+  int
+)
+"ps1.ml" 131 3881 3900 "ps1.ml" 131 3881 3901
+type(
+  int
+)
+"ps1.ml" 131 3881 3902 "ps1.ml" 131 3881 3903
+type(
+  int
+)
+"ps1.ml" 131 3881 3904 "ps1.ml" 131 3881 3907
+type(
+  int
+)
+type(
+  int list
+)
+"ps1.ml" 131 3881 3902 "ps1.ml" 131 3881 3907
+type(
+  int list
+)
+"ps1.ml" 131 3881 3900 "ps1.ml" 131 3881 3907
+type(
+  int list
+)
+"ps1.ml" 131 3881 3897 "ps1.ml" 131 3881 3907
+type(
+  int list
+)
+"ps1.ml" 131 3881 3896 "ps1.ml" 131 3881 3908
+type(
+  int list
+)
+"ps1.ml" 131 3881 3910 "ps1.ml" 131 3881 3912
+type(
+  int
+)
+"ps1.ml" 131 3881 3913 "ps1.ml" 131 3881 3914
+type(
+  int
+)
+"ps1.ml" 131 3881 3915 "ps1.ml" 131 3881 3919
+type(
+  int
+)
+type(
+  int list
+)
+"ps1.ml" 131 3881 3913 "ps1.ml" 131 3881 3919
+type(
+  int list
+)
+"ps1.ml" 131 3881 3910 "ps1.ml" 131 3881 3919
+type(
+  int list
+)
+"ps1.ml" 131 3881 3909 "ps1.ml" 131 3881 3920
+type(
+  int list
+)
+"ps1.ml" 131 3881 3890 "ps1.ml" 131 3881 3920
+call(
+  stack
+)
+type(
+  int list
+)
+"ps1.ml" 131 3881 3922 "ps1.ml" 131 3881 3923
+type(
+  int list -> int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"ps1.ml" 131 3881 3925 "ps1.ml" 131 3881 3927
+type(
+  int
+)
+"ps1.ml" 131 3881 3928 "ps1.ml" 131 3881 3930
+type(
+  int
+)
+"ps1.ml" 131 3881 3931 "ps1.ml" 131 3881 3932
+type(
+  int
+)
+"ps1.ml" 131 3881 3933 "ps1.ml" 131 3881 3934
+type(
+  int
+)
+"ps1.ml" 131 3881 3935 "ps1.ml" 131 3881 3936
+type(
+  int
+)
+"ps1.ml" 131 3881 3937 "ps1.ml" 131 3881 3940
+type(
+  int
+)
+"ps1.ml" 131 3881 3941 "ps1.ml" 131 3881 3945
+type(
+  int
+)
+type(
+  int list
+)
+"ps1.ml" 131 3881 3937 "ps1.ml" 131 3881 3945
+type(
+  int list
+)
+"ps1.ml" 131 3881 3935 "ps1.ml" 131 3881 3945
+type(
+  int list
+)
+"ps1.ml" 131 3881 3933 "ps1.ml" 131 3881 3945
+type(
+  int list
+)
+"ps1.ml" 131 3881 3931 "ps1.ml" 131 3881 3945
+type(
+  int list
+)
+"ps1.ml" 131 3881 3928 "ps1.ml" 131 3881 3945
+type(
+  int list
+)
+"ps1.ml" 131 3881 3925 "ps1.ml" 131 3881 3945
+type(
+  int list
+)
+"ps1.ml" 131 3881 3924 "ps1.ml" 131 3881 3946
+type(
+  int list
+)
+"ps1.ml" 131 3881 3889 "ps1.ml" 131 3881 3946
+type(
+  bool
+)
+"ps1.ml" 131 3881 3881 "ps1.ml" 131 3881 3947
+type(
+  unit
+)
+"ps1.ml" 132 3948 3957 "ps1.ml" 132 3948 3962
+type(
+  int list -> int list -> int list
+)
+ident(
+  int_ref merge "ps1.ml" 114 3385 3393 "ps1.ml" 114 3385 3398
+)
+"ps1.ml" 132 3948 3963 "ps1.ml" 132 3948 3965
+type(
+  int list
+)
+"ps1.ml" 132 3948 3966 "ps1.ml" 132 3948 3968
+type(
+  int list
+)
+"ps1.ml" 132 3948 3957 "ps1.ml" 132 3948 3968
+call(
+  stack
+)
+type(
+  int list
+)
+"ps1.ml" 132 3948 3970 "ps1.ml" 132 3948 3971
+type(
+  int list -> int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"ps1.ml" 132 3948 3972 "ps1.ml" 132 3948 3974
+type(
+  int list
+)
+"ps1.ml" 132 3948 3956 "ps1.ml" 132 3948 3974
+type(
+  bool
+)
+"ps1.ml" 132 3948 3948 "ps1.ml" 132 3948 3975
+type(
+  unit
+)
+"ps1.ml" 133 3976 3985 "ps1.ml" 133 3976 3990
+type(
+  int list -> int list -> int list
+)
+ident(
+  int_ref merge "ps1.ml" 114 3385 3393 "ps1.ml" 114 3385 3398
+)
+"ps1.ml" 133 3976 3992 "ps1.ml" 133 3976 3993
+type(
+  int
+)
+type(
+  int list
+)
+"ps1.ml" 133 3976 3991 "ps1.ml" 133 3976 3994
+type(
+  int list
+)
+"ps1.ml" 133 3976 3995 "ps1.ml" 133 3976 3997
+type(
+  int list
+)
+"ps1.ml" 133 3976 3985 "ps1.ml" 133 3976 3997
+call(
+  stack
+)
+type(
+  int list
+)
+"ps1.ml" 133 3976 3999 "ps1.ml" 133 3976 4000
+type(
+  int list -> int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"ps1.ml" 133 3976 4002 "ps1.ml" 133 3976 4003
+type(
+  int
+)
+type(
+  int list
+)
+"ps1.ml" 133 3976 4001 "ps1.ml" 133 3976 4004
+type(
+  int list
+)
+"ps1.ml" 133 3976 3984 "ps1.ml" 133 3976 4004
+type(
+  bool
+)
+"ps1.ml" 133 3976 3976 "ps1.ml" 133 3976 4005
+type(
+  unit
+)
+"ps1.ml" 134 4006 4015 "ps1.ml" 134 4006 4020
+type(
+  int list -> int list -> int list
+)
+ident(
+  int_ref merge "ps1.ml" 114 3385 3393 "ps1.ml" 114 3385 3398
+)
+"ps1.ml" 134 4006 4021 "ps1.ml" 134 4006 4023
+type(
+  int list
+)
+"ps1.ml" 134 4006 4025 "ps1.ml" 134 4006 4027
+type(
+  int
+)
+type(
+  int list
+)
+"ps1.ml" 134 4006 4024 "ps1.ml" 134 4006 4028
+type(
+  int list
+)
+"ps1.ml" 134 4006 4015 "ps1.ml" 134 4006 4028
+call(
+  stack
+)
+type(
+  int list
+)
+"ps1.ml" 134 4006 4030 "ps1.ml" 134 4006 4031
+type(
+  int list -> int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"ps1.ml" 134 4006 4033 "ps1.ml" 134 4006 4035
+type(
+  int
+)
+type(
+  int list
+)
+"ps1.ml" 134 4006 4032 "ps1.ml" 134 4006 4036
+type(
+  int list
+)
+"ps1.ml" 134 4006 4014 "ps1.ml" 134 4006 4036
+type(
+  bool
+)
+"ps1.ml" 134 4006 4006 "ps1.ml" 134 4006 4037
+type(
+  unit
+)
+"ps1.ml" 135 4038 4047 "ps1.ml" 135 4038 4052
+type(
+  int list -> int list -> int list
+)
+ident(
+  int_ref merge "ps1.ml" 114 3385 3393 "ps1.ml" 114 3385 3398
+)
+"ps1.ml" 135 4038 4054 "ps1.ml" 135 4038 4055
+type(
+  int
+)
+type(
+  int list
+)
+"ps1.ml" 135 4038 4053 "ps1.ml" 135 4038 4056
+type(
+  int list
+)
+"ps1.ml" 135 4038 4058 "ps1.ml" 135 4038 4060
+type(
+  int
+)
+type(
+  int list
+)
+"ps1.ml" 135 4038 4057 "ps1.ml" 135 4038 4061
+type(
+  int list
+)
+"ps1.ml" 135 4038 4047 "ps1.ml" 135 4038 4061
+call(
+  stack
+)
+type(
+  int list
+)
+"ps1.ml" 135 4038 4063 "ps1.ml" 135 4038 4064
+type(
+  int list -> int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"ps1.ml" 135 4038 4066 "ps1.ml" 135 4038 4068
+type(
+  int
+)
+"ps1.ml" 135 4038 4069 "ps1.ml" 135 4038 4070
+type(
+  int
+)
+type(
+  int list
+)
+"ps1.ml" 135 4038 4066 "ps1.ml" 135 4038 4070
+type(
+  int list
+)
+"ps1.ml" 135 4038 4065 "ps1.ml" 135 4038 4071
+type(
+  int list
+)
+"ps1.ml" 135 4038 4046 "ps1.ml" 135 4038 4071
+type(
+  bool
+)
+"ps1.ml" 135 4038 4038 "ps1.ml" 135 4038 4072
+type(
+  unit
+)
+"ps1.ml" 152 4603 4611 "ps1.ml" 152 4603 4616
+type(
+  (int * int) list -> int list * int list
+)
+ident(
+  def unzip "ps1.ml" 152 4603 4603 "ps1.ml" 1 0 -1
+)
+"ps1.ml" 152 4603 4618 "ps1.ml" 152 4603 4619
+type(
+  (int * int) list
+)
+ident(
+  def a "ps1.ml" 152 4603 4640 "ps1.ml" 156 4740 4755
+)
+"ps1.ml" 153 4664 4672 "ps1.ml" 153 4664 4673
+type(
+  (int * int) list
+)
+ident(
+  int_ref a "ps1.ml" 152 4603 4618 "ps1.ml" 152 4603 4619
+)
+"ps1.ml" 154 4679 4682 "ps1.ml" 154 4679 4684
+type(
+  (int * int) list
+)
+"ps1.ml" 154 4679 4689 "ps1.ml" 154 4679 4691
+type(
+  int list
+)
+"ps1.ml" 154 4679 4692 "ps1.ml" 154 4679 4694
+type(
+  int list
+)
+"ps1.ml" 154 4679 4689 "ps1.ml" 154 4679 4694
+type(
+  int list * int list
+)
+"ps1.ml" 155 4696 4700 "ps1.ml" 155 4696 4701
+type(
+  int
+)
+ident(
+  def x "ps1.ml" 155 4696 4712 "ps1.ml" 156 4740 4755
+)
+"ps1.ml" 155 4696 4702 "ps1.ml" 155 4696 4703
+type(
+  int
+)
+ident(
+  def y "ps1.ml" 155 4696 4712 "ps1.ml" 156 4740 4755
+)
+"ps1.ml" 155 4696 4700 "ps1.ml" 155 4696 4703
+type(
+  int * int
+)
+"ps1.ml" 155 4696 4706 "ps1.ml" 155 4696 4708
+type(
+  (int * int) list
+)
+ident(
+  def a' "ps1.ml" 155 4696 4712 "ps1.ml" 156 4740 4755
+)
+"ps1.ml" 155 4696 4699 "ps1.ml" 155 4696 4708
+type(
+  (int * int) list
+)
+"ps1.ml" 155 4696 4717 "ps1.ml" 155 4696 4719
+type(
+  int list
+)
+ident(
+  def x' "ps1.ml" 156 4740 4743 "ps1.ml" 156 4740 4754
+)
+"ps1.ml" 155 4696 4720 "ps1.ml" 155 4696 4722
+type(
+  int list
+)
+ident(
+  def y' "ps1.ml" 156 4740 4743 "ps1.ml" 156 4740 4754
+)
+"ps1.ml" 155 4696 4717 "ps1.ml" 155 4696 4722
+type(
+  int list * int list
+)
+"ps1.ml" 155 4696 4726 "ps1.ml" 155 4696 4731
+type(
+  (int * int) list -> int list * int list
+)
+ident(
+  int_ref unzip "ps1.ml" 152 4603 4611 "ps1.ml" 152 4603 4616
+)
+"ps1.ml" 155 4696 4733 "ps1.ml" 155 4696 4735
+type(
+  (int * int) list
+)
+ident(
+  int_ref a' "ps1.ml" 155 4696 4706 "ps1.ml" 155 4696 4708
+)
+"ps1.ml" 155 4696 4726 "ps1.ml" 155 4696 4736
+call(
+  stack
+)
+type(
+  int list * int list
+)
+"ps1.ml" 156 4740 4743 "ps1.ml" 156 4740 4744
+type(
+  int
+)
+ident(
+  int_ref x "ps1.ml" 155 4696 4700 "ps1.ml" 155 4696 4701
+)
+"ps1.ml" 156 4740 4746 "ps1.ml" 156 4740 4748
+type(
+  int list
+)
+ident(
+  int_ref x' "ps1.ml" 155 4696 4717 "ps1.ml" 155 4696 4719
+)
+"ps1.ml" 156 4740 4743 "ps1.ml" 156 4740 4748
+type(
+  int list
+)
+"ps1.ml" 156 4740 4749 "ps1.ml" 156 4740 4750
+type(
+  int
+)
+ident(
+  int_ref y "ps1.ml" 155 4696 4702 "ps1.ml" 155 4696 4703
+)
+"ps1.ml" 156 4740 4752 "ps1.ml" 156 4740 4754
+type(
+  int list
+)
+ident(
+  int_ref y' "ps1.ml" 155 4696 4720 "ps1.ml" 155 4696 4722
+)
+"ps1.ml" 156 4740 4749 "ps1.ml" 156 4740 4754
+type(
+  int list
+)
+"ps1.ml" 156 4740 4743 "ps1.ml" 156 4740 4754
+type(
+  int list * int list
+)
+"ps1.ml" 155 4696 4712 "ps1.ml" 156 4740 4755
+type(
+  int list * int list
+)
+"ps1.ml" 153 4664 4666 "ps1.ml" 156 4740 4755
+type(
+  int list * int list
+)
+type(
+  int list * int list
+)
+"ps1.ml" 152 4603 4617 "ps1.ml" 156 4740 4755
+type(
+  (int * int) list -> int list * int list
+)
+"ps1.ml" 158 4757 4765 "ps1.ml" 158 4757 4770
+type(
+  (int * int) list -> int list * int list
+)
+ident(
+  int_ref unzip "ps1.ml" 152 4603 4611 "ps1.ml" 152 4603 4616
+)
+"ps1.ml" 158 4757 4771 "ps1.ml" 158 4757 4773
+type(
+  (int * int) list
+)
+"ps1.ml" 158 4757 4765 "ps1.ml" 158 4757 4773
+call(
+  stack
+)
+type(
+  int list * int list
+)
+"ps1.ml" 158 4757 4774 "ps1.ml" 158 4757 4775
+type(
+  int list * int list -> int list * int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"ps1.ml" 158 4757 4777 "ps1.ml" 158 4757 4779
+type(
+  int list
+)
+"ps1.ml" 158 4757 4780 "ps1.ml" 158 4757 4782
+type(
+  int list
+)
+"ps1.ml" 158 4757 4777 "ps1.ml" 158 4757 4782
+type(
+  int list * int list
+)
+"ps1.ml" 158 4757 4765 "ps1.ml" 158 4757 4783
+type(
+  bool
+)
+"ps1.ml" 158 4757 4757 "ps1.ml" 158 4757 4784
+type(
+  unit
+)
+"ps1.ml" 159 4785 4793 "ps1.ml" 159 4785 4798
+type(
+  (int * int) list -> int list * int list
+)
+ident(
+  int_ref unzip "ps1.ml" 152 4603 4611 "ps1.ml" 152 4603 4616
+)
+"ps1.ml" 159 4785 4801 "ps1.ml" 159 4785 4802
+type(
+  int
+)
+"ps1.ml" 159 4785 4803 "ps1.ml" 159 4785 4804
+type(
+  int
+)
+"ps1.ml" 159 4785 4801 "ps1.ml" 159 4785 4804
+type(
+  int * int
+)
+"ps1.ml" 159 4785 4800 "ps1.ml" 159 4785 4805
+type(
+  (int * int) list
+)
+"ps1.ml" 159 4785 4799 "ps1.ml" 159 4785 4806
+type(
+  (int * int) list
+)
+"ps1.ml" 159 4785 4793 "ps1.ml" 159 4785 4806
+call(
+  stack
+)
+type(
+  int list * int list
+)
+"ps1.ml" 159 4785 4807 "ps1.ml" 159 4785 4808
+type(
+  int list * int list -> int list * int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"ps1.ml" 159 4785 4811 "ps1.ml" 159 4785 4812
+type(
+  int
+)
+type(
+  int list
+)
+"ps1.ml" 159 4785 4810 "ps1.ml" 159 4785 4813
+type(
+  int list
+)
+"ps1.ml" 159 4785 4815 "ps1.ml" 159 4785 4816
+type(
+  int
+)
+type(
+  int list
+)
+"ps1.ml" 159 4785 4814 "ps1.ml" 159 4785 4817
+type(
+  int list
+)
+"ps1.ml" 159 4785 4810 "ps1.ml" 159 4785 4817
+type(
+  int list * int list
+)
+"ps1.ml" 159 4785 4793 "ps1.ml" 159 4785 4818
+type(
+  bool
+)
+"ps1.ml" 159 4785 4785 "ps1.ml" 159 4785 4819
+type(
+  unit
+)
+"ps1.ml" 160 4820 4828 "ps1.ml" 160 4820 4833
+type(
+  (int * int) list -> int list * int list
+)
+ident(
+  int_ref unzip "ps1.ml" 152 4603 4611 "ps1.ml" 152 4603 4616
+)
+"ps1.ml" 160 4820 4836 "ps1.ml" 160 4820 4837
+type(
+  int
+)
+"ps1.ml" 160 4820 4838 "ps1.ml" 160 4820 4839
+type(
+  int
+)
+"ps1.ml" 160 4820 4836 "ps1.ml" 160 4820 4839
+type(
+  int * int
+)
+"ps1.ml" 160 4820 4842 "ps1.ml" 160 4820 4843
+type(
+  int
+)
+"ps1.ml" 160 4820 4844 "ps1.ml" 160 4820 4845
+type(
+  int
+)
+"ps1.ml" 160 4820 4842 "ps1.ml" 160 4820 4845
+type(
+  int * int
+)
+"ps1.ml" 160 4820 4841 "ps1.ml" 160 4820 4846
+type(
+  (int * int) list
+)
+"ps1.ml" 160 4820 4835 "ps1.ml" 160 4820 4846
+type(
+  (int * int) list
+)
+"ps1.ml" 160 4820 4834 "ps1.ml" 160 4820 4847
+type(
+  (int * int) list
+)
+"ps1.ml" 160 4820 4828 "ps1.ml" 160 4820 4847
+call(
+  stack
+)
+type(
+  int list * int list
+)
+"ps1.ml" 160 4820 4848 "ps1.ml" 160 4820 4849
+type(
+  int list * int list -> int list * int list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"ps1.ml" 160 4820 4852 "ps1.ml" 160 4820 4853
+type(
+  int
+)
+"ps1.ml" 160 4820 4854 "ps1.ml" 160 4820 4855
+type(
+  int
+)
+type(
+  int list
+)
+"ps1.ml" 160 4820 4852 "ps1.ml" 160 4820 4855
+type(
+  int list
+)
+"ps1.ml" 160 4820 4851 "ps1.ml" 160 4820 4856
+type(
+  int list
+)
+"ps1.ml" 160 4820 4858 "ps1.ml" 160 4820 4859
+type(
+  int
+)
+"ps1.ml" 160 4820 4860 "ps1.ml" 160 4820 4861
+type(
+  int
+)
+type(
+  int list
+)
+"ps1.ml" 160 4820 4858 "ps1.ml" 160 4820 4861
+type(
+  int list
+)
+"ps1.ml" 160 4820 4857 "ps1.ml" 160 4820 4862
+type(
+  int list
+)
+"ps1.ml" 160 4820 4851 "ps1.ml" 160 4820 4862
+type(
+  int list * int list
+)
+"ps1.ml" 160 4820 4828 "ps1.ml" 160 4820 4863
+type(
+  bool
+)
+"ps1.ml" 160 4820 4820 "ps1.ml" 160 4820 4864
+type(
+  unit
+)
+"ps1.ml" 182 5585 5593 "ps1.ml" 182 5585 5597
+type(
+  'a list -> float
+)
+ident(
+  def numf "ps1.ml" 182 5585 5585 "ps1.ml" 1 0 -1
+)
+"ps1.ml" 182 5585 5599 "ps1.ml" 182 5585 5601
+type(
+  'a list
+)
+ident(
+  def xs "ps1.ml" 182 5585 5613 "ps1.ml" 185 5652 5682
+)
+"ps1.ml" 183 5623 5631 "ps1.ml" 183 5623 5633
+type(
+  'a list
+)
+ident(
+  int_ref xs "ps1.ml" 182 5585 5599 "ps1.ml" 182 5585 5601
+)
+"ps1.ml" 184 5639 5643 "ps1.ml" 184 5639 5645
+type(
+  'a list
+)
+"ps1.ml" 184 5639 5649 "ps1.ml" 184 5639 5651
+type(
+  float
+)
+"ps1.ml" 185 5652 5656 "ps1.ml" 185 5652 5657
+type(
+  'a
+)
+"ps1.ml" 185 5652 5661 "ps1.ml" 185 5652 5664
+type(
+  'a list
+)
+ident(
+  def xs' "ps1.ml" 185 5652 5668 "ps1.ml" 185 5652 5682
+)
+"ps1.ml" 185 5652 5656 "ps1.ml" 185 5652 5664
+type(
+  'a list
+)
+"ps1.ml" 185 5652 5668 "ps1.ml" 185 5652 5670
+type(
+  float
+)
+"ps1.ml" 185 5652 5671 "ps1.ml" 185 5652 5673
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( +. )
+)
+"ps1.ml" 185 5652 5674 "ps1.ml" 185 5652 5678
+type(
+  'a list -> float
+)
+ident(
+  int_ref numf "ps1.ml" 182 5585 5593 "ps1.ml" 182 5585 5597
+)
+"ps1.ml" 185 5652 5679 "ps1.ml" 185 5652 5682
+type(
+  'a list
+)
+ident(
+  int_ref xs' "ps1.ml" 185 5652 5661 "ps1.ml" 185 5652 5664
+)
+"ps1.ml" 185 5652 5674 "ps1.ml" 185 5652 5682
+call(
+  stack
+)
+type(
+  float
+)
+"ps1.ml" 185 5652 5668 "ps1.ml" 185 5652 5682
+type(
+  float
+)
+"ps1.ml" 183 5623 5625 "ps1.ml" 185 5652 5682
+type(
+  float
+)
+type(
+  float
+)
+"ps1.ml" 182 5585 5598 "ps1.ml" 185 5652 5682
+type(
+  'a list -> float
+)
+"ps1.ml" 188 5739 5747 "ps1.ml" 188 5739 5751
+type(
+  float list -> float
+)
+ident(
+  def sumf "ps1.ml" 188 5739 5739 "ps1.ml" 1 0 -1
+)
+"ps1.ml" 188 5739 5753 "ps1.ml" 188 5739 5755
+type(
+  float list
+)
+ident(
+  def xs "ps1.ml" 188 5739 5770 "ps1.ml" 191 5809 5838
+)
+"ps1.ml" 189 5780 5788 "ps1.ml" 189 5780 5790
+type(
+  float list
+)
+ident(
+  int_ref xs "ps1.ml" 188 5739 5753 "ps1.ml" 188 5739 5755
+)
+"ps1.ml" 190 5796 5800 "ps1.ml" 190 5796 5802
+type(
+  float list
+)
+"ps1.ml" 190 5796 5806 "ps1.ml" 190 5796 5808
+type(
+  float
+)
+"ps1.ml" 191 5809 5813 "ps1.ml" 191 5809 5814
+type(
+  float
+)
+ident(
+  def x "ps1.ml" 191 5809 5825 "ps1.ml" 191 5809 5838
+)
+"ps1.ml" 191 5809 5818 "ps1.ml" 191 5809 5821
+type(
+  float list
+)
+ident(
+  def xs' "ps1.ml" 191 5809 5825 "ps1.ml" 191 5809 5838
+)
+"ps1.ml" 191 5809 5813 "ps1.ml" 191 5809 5821
+type(
+  float list
+)
+"ps1.ml" 191 5809 5825 "ps1.ml" 191 5809 5826
+type(
+  float
+)
+ident(
+  int_ref x "ps1.ml" 191 5809 5813 "ps1.ml" 191 5809 5814
+)
+"ps1.ml" 191 5809 5827 "ps1.ml" 191 5809 5829
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( +. )
+)
+"ps1.ml" 191 5809 5830 "ps1.ml" 191 5809 5834
+type(
+  float list -> float
+)
+ident(
+  int_ref sumf "ps1.ml" 188 5739 5747 "ps1.ml" 188 5739 5751
+)
+"ps1.ml" 191 5809 5835 "ps1.ml" 191 5809 5838
+type(
+  float list
+)
+ident(
+  int_ref xs' "ps1.ml" 191 5809 5818 "ps1.ml" 191 5809 5821
+)
+"ps1.ml" 191 5809 5830 "ps1.ml" 191 5809 5838
+call(
+  stack
+)
+type(
+  float
+)
+"ps1.ml" 191 5809 5825 "ps1.ml" 191 5809 5838
+type(
+  float
+)
+"ps1.ml" 189 5780 5782 "ps1.ml" 191 5809 5838
+type(
+  float
+)
+type(
+  float
+)
+"ps1.ml" 188 5739 5752 "ps1.ml" 191 5809 5838
+type(
+  float list -> float
+)
+"ps1.ml" 194 5884 5888 "ps1.ml" 194 5884 5893
+type(
+  float list -> float
+)
+ident(
+  def meanf "ps1.ml" 198 6069 6069 "ps1.ml" 1 0 -1
+)
+"ps1.ml" 194 5884 5894 "ps1.ml" 194 5884 5896
+type(
+  float list
+)
+ident(
+  def xs "ps1.ml" 194 5884 5899 "ps1.ml" 194 5884 5917
+)
+"ps1.ml" 194 5884 5899 "ps1.ml" 194 5884 5903
+type(
+  float list -> float
+)
+ident(
+  int_ref sumf "ps1.ml" 188 5739 5747 "ps1.ml" 188 5739 5751
+)
+"ps1.ml" 194 5884 5904 "ps1.ml" 194 5884 5906
+type(
+  float list
+)
+ident(
+  int_ref xs "ps1.ml" 194 5884 5894 "ps1.ml" 194 5884 5896
+)
+"ps1.ml" 194 5884 5899 "ps1.ml" 194 5884 5906
+call(
+  stack
+)
+type(
+  float
+)
+"ps1.ml" 194 5884 5907 "ps1.ml" 194 5884 5909
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( /. )
+)
+"ps1.ml" 194 5884 5910 "ps1.ml" 194 5884 5914
+type(
+  float list -> float
+)
+ident(
+  int_ref numf "ps1.ml" 182 5585 5593 "ps1.ml" 182 5585 5597
+)
+"ps1.ml" 194 5884 5915 "ps1.ml" 194 5884 5917
+type(
+  float list
+)
+ident(
+  int_ref xs "ps1.ml" 194 5884 5894 "ps1.ml" 194 5884 5896
+)
+"ps1.ml" 194 5884 5910 "ps1.ml" 194 5884 5917
+call(
+  stack
+)
+type(
+  float
+)
+"ps1.ml" 194 5884 5899 "ps1.ml" 194 5884 5917
+type(
+  float
+)
+"ps1.ml" 194 5884 5894 "ps1.ml" 194 5884 5917
+type(
+  float list -> float
+)
+"ps1.ml" 198 6069 6077 "ps1.ml" 198 6069 6090
+type(
+  float list -> float -> float list
+)
+ident(
+  def squared_diffs "ps1.ml" 198 6069 6069 "ps1.ml" 1 0 -1
+)
+"ps1.ml" 198 6069 6092 "ps1.ml" 198 6069 6094
+type(
+  float list
+)
+ident(
+  def xs "ps1.ml" 198 6069 6109 "ps1.ml" 201 6166 6219
+)
+"ps1.ml" 198 6069 6110 "ps1.ml" 198 6069 6111
+type(
+  float
+)
+ident(
+  def m "ps1.ml" 198 6069 6122 "ps1.ml" 201 6166 6219
+)
+"ps1.ml" 199 6137 6145 "ps1.ml" 199 6137 6147
+type(
+  float list
+)
+ident(
+  int_ref xs "ps1.ml" 198 6069 6092 "ps1.ml" 198 6069 6094
+)
+"ps1.ml" 200 6153 6157 "ps1.ml" 200 6153 6159
+type(
+  float list
+)
+"ps1.ml" 200 6153 6163 "ps1.ml" 200 6153 6165
+type(
+  float list
+)
+"ps1.ml" 201 6166 6170 "ps1.ml" 201 6166 6171
+type(
+  float
+)
+ident(
+  def x "ps1.ml" 201 6166 6182 "ps1.ml" 201 6166 6219
+)
+"ps1.ml" 201 6166 6175 "ps1.ml" 201 6166 6178
+type(
+  float list
+)
+ident(
+  def xs' "ps1.ml" 201 6166 6182 "ps1.ml" 201 6166 6219
+)
+"ps1.ml" 201 6166 6170 "ps1.ml" 201 6166 6178
+type(
+  float list
+)
+"ps1.ml" 201 6166 6183 "ps1.ml" 201 6166 6184
+type(
+  float
+)
+ident(
+  int_ref x "ps1.ml" 201 6166 6170 "ps1.ml" 201 6166 6171
+)
+"ps1.ml" 201 6166 6185 "ps1.ml" 201 6166 6187
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( -. )
+)
+"ps1.ml" 201 6166 6188 "ps1.ml" 201 6166 6189
+type(
+  float
+)
+ident(
+  int_ref m "ps1.ml" 198 6069 6110 "ps1.ml" 198 6069 6111
+)
+"ps1.ml" 201 6166 6183 "ps1.ml" 201 6166 6189
+type(
+  float
+)
+"ps1.ml" 201 6166 6191 "ps1.ml" 201 6166 6193
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( ** )
+)
+"ps1.ml" 201 6166 6194 "ps1.ml" 201 6166 6196
+type(
+  float
+)
+"ps1.ml" 201 6166 6182 "ps1.ml" 201 6166 6196
+type(
+  float
+)
+"ps1.ml" 201 6166 6200 "ps1.ml" 201 6166 6213
+type(
+  float list -> float -> float list
+)
+ident(
+  int_ref squared_diffs "ps1.ml" 198 6069 6077 "ps1.ml" 198 6069 6090
+)
+"ps1.ml" 201 6166 6214 "ps1.ml" 201 6166 6217
+type(
+  float list
+)
+ident(
+  int_ref xs' "ps1.ml" 201 6166 6175 "ps1.ml" 201 6166 6178
+)
+"ps1.ml" 201 6166 6218 "ps1.ml" 201 6166 6219
+type(
+  float
+)
+ident(
+  int_ref m "ps1.ml" 198 6069 6110 "ps1.ml" 198 6069 6111
+)
+"ps1.ml" 201 6166 6200 "ps1.ml" 201 6166 6219
+call(
+  stack
+)
+type(
+  float list
+)
+"ps1.ml" 201 6166 6182 "ps1.ml" 201 6166 6219
+type(
+  float list
+)
+"ps1.ml" 199 6137 6139 "ps1.ml" 201 6166 6219
+type(
+  float list
+)
+type(
+  float list
+)
+"ps1.ml" 198 6069 6109 "ps1.ml" 201 6166 6219
+type(
+  float -> float list
+)
+"ps1.ml" 198 6069 6091 "ps1.ml" 201 6166 6219
+type(
+  float list -> float -> float list
+)
+"ps1.ml" 203 6230 6234 "ps1.ml" 203 6230 6242
+type(
+  float list -> float option
+)
+ident(
+  def variance "ps1.ml" 209 6395 6395 "ps1.ml" 1 0 -1
+)
+"ps1.ml" 203 6230 6244 "ps1.ml" 203 6230 6246
+type(
+  float list
+)
+ident(
+  def xs "ps1.ml" 203 6230 6261 "ps1.ml" 207 6323 6393
+)
+"ps1.ml" 204 6278 6286 "ps1.ml" 204 6278 6288
+type(
+  float list
+)
+ident(
+  int_ref xs "ps1.ml" 203 6230 6244 "ps1.ml" 203 6230 6246
+)
+"ps1.ml" 205 6294 6297 "ps1.ml" 205 6294 6299
+type(
+  float list
+)
+"ps1.ml" 205 6294 6303 "ps1.ml" 205 6294 6307
+type(
+  float option
+)
+"ps1.ml" 206 6308 6312 "ps1.ml" 206 6308 6313
+type(
+  float list
+)
+type(
+  float
+)
+"ps1.ml" 206 6308 6311 "ps1.ml" 206 6308 6314
+type(
+  float list
+)
+"ps1.ml" 206 6308 6318 "ps1.ml" 206 6308 6322
+type(
+  float option
+)
+"ps1.ml" 207 6323 6326 "ps1.ml" 207 6323 6327
+type(
+  float list
+)
+"ps1.ml" 207 6323 6338 "ps1.ml" 207 6323 6342
+type(
+  float list -> float
+)
+ident(
+  int_ref sumf "ps1.ml" 188 5739 5747 "ps1.ml" 188 5739 5751
+)
+"ps1.ml" 207 6323 6344 "ps1.ml" 207 6323 6357
+type(
+  float list -> float -> float list
+)
+ident(
+  int_ref squared_diffs "ps1.ml" 198 6069 6077 "ps1.ml" 198 6069 6090
+)
+"ps1.ml" 207 6323 6358 "ps1.ml" 207 6323 6360
+type(
+  float list
+)
+ident(
+  int_ref xs "ps1.ml" 203 6230 6244 "ps1.ml" 203 6230 6246
+)
+"ps1.ml" 207 6323 6362 "ps1.ml" 207 6323 6367
+type(
+  float list -> float
+)
+ident(
+  int_ref meanf "ps1.ml" 194 5884 5888 "ps1.ml" 194 5884 5893
+)
+"ps1.ml" 207 6323 6368 "ps1.ml" 207 6323 6370
+type(
+  float list
+)
+ident(
+  int_ref xs "ps1.ml" 203 6230 6244 "ps1.ml" 203 6230 6246
+)
+"ps1.ml" 207 6323 6362 "ps1.ml" 207 6323 6370
+call(
+  stack
+)
+type(
+  float
+)
+"ps1.ml" 207 6323 6344 "ps1.ml" 207 6323 6371
+call(
+  stack
+)
+type(
+  float list
+)
+"ps1.ml" 207 6323 6338 "ps1.ml" 207 6323 6372
+call(
+  stack
+)
+type(
+  float
+)
+"ps1.ml" 207 6323 6373 "ps1.ml" 207 6323 6375
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( /. )
+)
+"ps1.ml" 207 6323 6378 "ps1.ml" 207 6323 6382
+type(
+  float list -> float
+)
+ident(
+  int_ref numf "ps1.ml" 182 5585 5593 "ps1.ml" 182 5585 5597
+)
+"ps1.ml" 207 6323 6383 "ps1.ml" 207 6323 6385
+type(
+  float list
+)
+ident(
+  int_ref xs "ps1.ml" 203 6230 6244 "ps1.ml" 203 6230 6246
+)
+"ps1.ml" 207 6323 6378 "ps1.ml" 207 6323 6385
+call(
+  stack
+)
+type(
+  float
+)
+"ps1.ml" 207 6323 6386 "ps1.ml" 207 6323 6388
+type(
+  float -> float -> float
+)
+ident(
+  ext_ref Pervasives.( -. )
+)
+"ps1.ml" 207 6323 6389 "ps1.ml" 207 6323 6391
+type(
+  float
+)
+"ps1.ml" 207 6323 6378 "ps1.ml" 207 6323 6391
+type(
+  float
+)
+"ps1.ml" 207 6323 6338 "ps1.ml" 207 6323 6392
+type(
+  float
+)
+"ps1.ml" 207 6323 6331 "ps1.ml" 207 6323 6393
+type(
+  float option
+)
+"ps1.ml" 204 6278 6280 "ps1.ml" 207 6323 6393
+type(
+  float option
+)
+type(
+  float option
+)
+"ps1.ml" 203 6230 6243 "ps1.ml" 207 6323 6393
+type(
+  float list -> float option
+)
+"ps1.ml" 209 6395 6403 "ps1.ml" 209 6395 6411
+type(
+  float list -> float option
+)
+ident(
+  int_ref variance "ps1.ml" 203 6230 6234 "ps1.ml" 203 6230 6242
+)
+"ps1.ml" 209 6395 6413 "ps1.ml" 209 6395 6416
+type(
+  float
+)
+"ps1.ml" 209 6395 6418 "ps1.ml" 209 6395 6421
+type(
+  float
+)
+"ps1.ml" 209 6395 6423 "ps1.ml" 209 6395 6426
+type(
+  float
+)
+"ps1.ml" 209 6395 6428 "ps1.ml" 209 6395 6431
+type(
+  float
+)
+"ps1.ml" 209 6395 6433 "ps1.ml" 209 6395 6436
+type(
+  float
+)
+type(
+  float list
+)
+"ps1.ml" 209 6395 6428 "ps1.ml" 209 6395 6436
+type(
+  float list
+)
+"ps1.ml" 209 6395 6423 "ps1.ml" 209 6395 6436
+type(
+  float list
+)
+"ps1.ml" 209 6395 6418 "ps1.ml" 209 6395 6436
+type(
+  float list
+)
+"ps1.ml" 209 6395 6413 "ps1.ml" 209 6395 6436
+type(
+  float list
+)
+"ps1.ml" 209 6395 6412 "ps1.ml" 209 6395 6437
+type(
+  float list
+)
+"ps1.ml" 209 6395 6403 "ps1.ml" 209 6395 6437
+call(
+  stack
+)
+type(
+  float option
+)
+"ps1.ml" 209 6395 6438 "ps1.ml" 209 6395 6439
+type(
+  float option -> float option -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"ps1.ml" 209 6395 6445 "ps1.ml" 209 6395 6448
+type(
+  float
+)
+"ps1.ml" 209 6395 6440 "ps1.ml" 209 6395 6448
+type(
+  float option
+)
+"ps1.ml" 209 6395 6403 "ps1.ml" 209 6395 6448
+type(
+  bool
+)
+"ps1.ml" 209 6395 6395 "ps1.ml" 209 6395 6449
+type(
+  unit
+)
+"ps1.ml" 210 6450 6458 "ps1.ml" 210 6450 6466
+type(
+  float list -> float option
+)
+ident(
+  int_ref variance "ps1.ml" 203 6230 6234 "ps1.ml" 203 6230 6242
+)
+"ps1.ml" 210 6450 6468 "ps1.ml" 210 6450 6471
+type(
+  float
+)
+type(
+  float list
+)
+"ps1.ml" 210 6450 6467 "ps1.ml" 210 6450 6472
+type(
+  float list
+)
+"ps1.ml" 210 6450 6458 "ps1.ml" 210 6450 6472
+call(
+  stack
+)
+type(
+  float option
+)
+"ps1.ml" 210 6450 6473 "ps1.ml" 210 6450 6474
+type(
+  float option -> float option -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"ps1.ml" 210 6450 6475 "ps1.ml" 210 6450 6479
+type(
+  float option
+)
+"ps1.ml" 210 6450 6458 "ps1.ml" 210 6450 6479
+type(
+  bool
+)
+"ps1.ml" 210 6450 6450 "ps1.ml" 210 6450 6480
+type(
+  unit
+)
+"ps1.ml" 211 6481 6489 "ps1.ml" 211 6481 6497
+type(
+  float list -> float option
+)
+ident(
+  int_ref variance "ps1.ml" 203 6230 6234 "ps1.ml" 203 6230 6242
+)
+"ps1.ml" 211 6481 6499 "ps1.ml" 211 6481 6502
+type(
+  float
+)
+"ps1.ml" 211 6481 6504 "ps1.ml" 211 6481 6507
+type(
+  float
+)
+type(
+  float list
+)
+"ps1.ml" 211 6481 6499 "ps1.ml" 211 6481 6507
+type(
+  float list
+)
+"ps1.ml" 211 6481 6498 "ps1.ml" 211 6481 6508
+type(
+  float list
+)
+"ps1.ml" 211 6481 6489 "ps1.ml" 211 6481 6508
+call(
+  stack
+)
+type(
+  float option
+)
+"ps1.ml" 211 6481 6509 "ps1.ml" 211 6481 6510
+type(
+  float option -> float option -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"ps1.ml" 211 6481 6516 "ps1.ml" 211 6481 6518
+type(
+  float
+)
+"ps1.ml" 211 6481 6511 "ps1.ml" 211 6481 6518
+type(
+  float option
+)
+"ps1.ml" 211 6481 6489 "ps1.ml" 211 6481 6518
+type(
+  bool
+)
+"ps1.ml" 211 6481 6481 "ps1.ml" 211 6481 6519
+type(
+  unit
+)
+"ps1.ml" 212 6520 6528 "ps1.ml" 212 6520 6536
+type(
+  float list -> float option
+)
+ident(
+  int_ref variance "ps1.ml" 203 6230 6234 "ps1.ml" 203 6230 6242
+)
+"ps1.ml" 212 6520 6537 "ps1.ml" 212 6520 6539
+type(
+  float list
+)
+"ps1.ml" 212 6520 6528 "ps1.ml" 212 6520 6539
+call(
+  stack
+)
+type(
+  float option
+)
+"ps1.ml" 212 6520 6540 "ps1.ml" 212 6520 6541
+type(
+  float option -> float option -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"ps1.ml" 212 6520 6542 "ps1.ml" 212 6520 6546
+type(
+  float option
+)
+"ps1.ml" 212 6520 6528 "ps1.ml" 212 6520 6546
+type(
+  bool
+)
+"ps1.ml" 212 6520 6520 "ps1.ml" 212 6520 6547
+type(
+  unit
+)
+"ps1.ml" 232 6998 7006 "ps1.ml" 232 6998 7015
+type(
+  int -> int list
+)
+ident(
+  def list_to_n "ps1.ml" 232 6998 6998 "ps1.ml" 1 0 -1
+)
+"ps1.ml" 232 6998 7017 "ps1.ml" 232 6998 7018
+type(
+  int
+)
+ident(
+  def n "ps1.ml" 232 6998 7026 "ps1.ml" 234 7058 7086
+)
+"ps1.ml" 233 7039 7044 "ps1.ml" 233 7039 7045
+type(
+  int
+)
+ident(
+  int_ref n "ps1.ml" 232 6998 7017 "ps1.ml" 232 6998 7018
+)
+"ps1.ml" 233 7039 7046 "ps1.ml" 233 7039 7047
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"ps1.ml" 233 7039 7048 "ps1.ml" 233 7039 7049
+type(
+  int
+)
+"ps1.ml" 233 7039 7044 "ps1.ml" 233 7039 7049
+type(
+  bool
+)
+"ps1.ml" 233 7039 7055 "ps1.ml" 233 7039 7057
+type(
+  int list
+)
+"ps1.ml" 234 7058 7065 "ps1.ml" 234 7058 7074
+type(
+  int -> int list
+)
+ident(
+  int_ref list_to_n "ps1.ml" 232 6998 7006 "ps1.ml" 232 6998 7015
+)
+"ps1.ml" 234 7058 7076 "ps1.ml" 234 7058 7077
+type(
+  int
+)
+ident(
+  int_ref n "ps1.ml" 232 6998 7017 "ps1.ml" 232 6998 7018
+)
+"ps1.ml" 234 7058 7077 "ps1.ml" 234 7058 7078
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"ps1.ml" 234 7058 7078 "ps1.ml" 234 7058 7079
+type(
+  int
+)
+"ps1.ml" 234 7058 7076 "ps1.ml" 234 7058 7079
+type(
+  int
+)
+"ps1.ml" 234 7058 7065 "ps1.ml" 234 7058 7080
+call(
+  stack
+)
+type(
+  int list
+)
+"ps1.ml" 234 7058 7081 "ps1.ml" 234 7058 7082
+type(
+  int list -> int list -> int list
+)
+ident(
+  ext_ref Core.Std.( @ )
+)
+"ps1.ml" 234 7058 7084 "ps1.ml" 234 7058 7085
+type(
+  int
+)
+ident(
+  int_ref n "ps1.ml" 232 6998 7017 "ps1.ml" 232 6998 7018
+)
+type(
+  int list
+)
+"ps1.ml" 234 7058 7083 "ps1.ml" 234 7058 7086
+type(
+  int list
+)
+"ps1.ml" 234 7058 7065 "ps1.ml" 234 7058 7086
+call(
+  tail
+)
+type(
+  int list
+)
+"ps1.ml" 233 7039 7041 "ps1.ml" 234 7058 7086
+type(
+  int list
+)
+type(
+  int list
+)
+"ps1.ml" 232 6998 7016 "ps1.ml" 234 7058 7086
+type(
+  int -> int list
+)
+"ps1.ml" 238 7230 7238 "ps1.ml" 238 7230 7255
+type(
+  int -> int list -> int list
+)
+ident(
+  def divs_of_n_in_list "ps1.ml" 238 7230 7230 "ps1.ml" 1 0 -1
+)
+"ps1.ml" 238 7230 7257 "ps1.ml" 238 7230 7258
+type(
+  int
+)
+ident(
+  def n "ps1.ml" 238 7230 7266 "ps1.ml" 242 7390 7421
+)
+"ps1.ml" 238 7230 7267 "ps1.ml" 238 7230 7270
+type(
+  int list
+)
+ident(
+  def lst "ps1.ml" 238 7230 7282 "ps1.ml" 242 7390 7421
+)
+"ps1.ml" 239 7295 7303 "ps1.ml" 239 7295 7306
+type(
+  int list
+)
+ident(
+  int_ref lst "ps1.ml" 238 7230 7267 "ps1.ml" 238 7230 7270
+)
+"ps1.ml" 240 7312 7315 "ps1.ml" 240 7312 7317
+type(
+  int list
+)
+"ps1.ml" 240 7312 7321 "ps1.ml" 240 7312 7323
+type(
+  int list
+)
+"ps1.ml" 241 7324 7327 "ps1.ml" 241 7324 7328
+type(
+  int
+)
+ident(
+  def x "ps1.ml" 241 7324 7340 "ps1.ml" 242 7390 7421
+)
+"ps1.ml" 241 7324 7332 "ps1.ml" 241 7324 7336
+type(
+  int list
+)
+ident(
+  def rest "ps1.ml" 241 7324 7340 "ps1.ml" 242 7390 7421
+)
+"ps1.ml" 241 7324 7327 "ps1.ml" 241 7324 7336
+type(
+  int list
+)
+"ps1.ml" 241 7324 7343 "ps1.ml" 241 7324 7344
+type(
+  int
+)
+ident(
+  int_ref n "ps1.ml" 238 7230 7257 "ps1.ml" 238 7230 7258
+)
+"ps1.ml" 241 7324 7349 "ps1.ml" 241 7324 7350
+type(
+  int
+)
+ident(
+  int_ref x "ps1.ml" 241 7324 7327 "ps1.ml" 241 7324 7328
+)
+"ps1.ml" 241 7324 7343 "ps1.ml" 241 7324 7350
+type(
+  int
+)
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( mod )
+)
+"ps1.ml" 241 7324 7351 "ps1.ml" 241 7324 7352
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"ps1.ml" 241 7324 7353 "ps1.ml" 241 7324 7354
+type(
+  int
+)
+"ps1.ml" 241 7324 7343 "ps1.ml" 241 7324 7354
+type(
+  bool
+)
+"ps1.ml" 241 7324 7360 "ps1.ml" 241 7324 7361
+type(
+  int
+)
+ident(
+  int_ref x "ps1.ml" 241 7324 7327 "ps1.ml" 241 7324 7328
+)
+"ps1.ml" 241 7324 7365 "ps1.ml" 241 7324 7382
+type(
+  int -> int list -> int list
+)
+ident(
+  int_ref divs_of_n_in_list "ps1.ml" 238 7230 7238 "ps1.ml" 238 7230 7255
+)
+"ps1.ml" 241 7324 7383 "ps1.ml" 241 7324 7384
+type(
+  int
+)
+ident(
+  int_ref n "ps1.ml" 238 7230 7257 "ps1.ml" 238 7230 7258
+)
+"ps1.ml" 241 7324 7385 "ps1.ml" 241 7324 7389
+type(
+  int list
+)
+ident(
+  int_ref rest "ps1.ml" 241 7324 7332 "ps1.ml" 241 7324 7336
+)
+"ps1.ml" 241 7324 7365 "ps1.ml" 241 7324 7389
+call(
+  stack
+)
+type(
+  int list
+)
+"ps1.ml" 241 7324 7360 "ps1.ml" 241 7324 7389
+type(
+  int list
+)
+"ps1.ml" 242 7390 7397 "ps1.ml" 242 7390 7414
+type(
+  int -> int list -> int list
+)
+ident(
+  int_ref divs_of_n_in_list "ps1.ml" 238 7230 7238 "ps1.ml" 238 7230 7255
+)
+"ps1.ml" 242 7390 7415 "ps1.ml" 242 7390 7416
+type(
+  int
+)
+ident(
+  int_ref n "ps1.ml" 238 7230 7257 "ps1.ml" 238 7230 7258
+)
+"ps1.ml" 242 7390 7417 "ps1.ml" 242 7390 7421
+type(
+  int list
+)
+ident(
+  int_ref rest "ps1.ml" 241 7324 7332 "ps1.ml" 241 7324 7336
+)
+"ps1.ml" 242 7390 7397 "ps1.ml" 242 7390 7421
+call(
+  tail
+)
+type(
+  int list
+)
+"ps1.ml" 241 7324 7340 "ps1.ml" 242 7390 7421
+type(
+  int list
+)
+"ps1.ml" 239 7295 7297 "ps1.ml" 242 7390 7421
+type(
+  int list
+)
+type(
+  int list
+)
+"ps1.ml" 238 7230 7266 "ps1.ml" 242 7390 7421
+type(
+  int list -> int list
+)
+"ps1.ml" 238 7230 7256 "ps1.ml" 242 7390 7421
+type(
+  int -> int list -> int list
+)
+"ps1.ml" 244 7423 7427 "ps1.ml" 244 7423 7439
+type(
+  int -> int -> bool
+)
+ident(
+  def few_divisors "ps1.ml" 251 7594 7594 "ps1.ml" 1 0 -1
+)
+"ps1.ml" 244 7423 7441 "ps1.ml" 244 7423 7442
+type(
+  int
+)
+ident(
+  def n "ps1.ml" 244 7423 7450 "ps1.ml" 248 7555 7564
+)
+"ps1.ml" 244 7423 7451 "ps1.ml" 244 7423 7452
+type(
+  int
+)
+ident(
+  def m "ps1.ml" 244 7423 7460 "ps1.ml" 248 7555 7564
+)
+"ps1.ml" 245 7469 7474 "ps1.ml" 245 7469 7486
+type(
+  float -> int
+)
+ident(
+  ext_ref Core.Std.Float.to_int
+)
+"ps1.ml" 245 7469 7488 "ps1.ml" 245 7469 7492
+type(
+  int list -> float
+)
+ident(
+  int_ref numf "ps1.ml" 182 5585 5593 "ps1.ml" 182 5585 5597
+)
+"ps1.ml" 245 7469 7494 "ps1.ml" 245 7469 7511
+type(
+  int -> int list -> int list
+)
+ident(
+  int_ref divs_of_n_in_list "ps1.ml" 238 7230 7238 "ps1.ml" 238 7230 7255
+)
+"ps1.ml" 245 7469 7512 "ps1.ml" 245 7469 7513
+type(
+  int
+)
+ident(
+  int_ref n "ps1.ml" 244 7423 7441 "ps1.ml" 244 7423 7442
+)
+"ps1.ml" 245 7469 7515 "ps1.ml" 245 7469 7524
+type(
+  int -> int list
+)
+ident(
+  int_ref list_to_n "ps1.ml" 232 6998 7006 "ps1.ml" 232 6998 7015
+)
+"ps1.ml" 245 7469 7525 "ps1.ml" 245 7469 7526
+type(
+  int
+)
+ident(
+  int_ref n "ps1.ml" 244 7423 7441 "ps1.ml" 244 7423 7442
+)
+"ps1.ml" 245 7469 7515 "ps1.ml" 245 7469 7526
+call(
+  stack
+)
+type(
+  int list
+)
+"ps1.ml" 245 7469 7494 "ps1.ml" 245 7469 7527
+call(
+  stack
+)
+type(
+  int list
+)
+"ps1.ml" 245 7469 7488 "ps1.ml" 245 7469 7528
+call(
+  stack
+)
+type(
+  float
+)
+"ps1.ml" 245 7469 7474 "ps1.ml" 245 7469 7529
+call(
+  stack
+)
+type(
+  int
+)
+"ps1.ml" 245 7469 7530 "ps1.ml" 245 7469 7531
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( < )
+)
+"ps1.ml" 245 7469 7532 "ps1.ml" 245 7469 7533
+type(
+  int
+)
+ident(
+  int_ref m "ps1.ml" 244 7423 7451 "ps1.ml" 244 7423 7452
+)
+"ps1.ml" 245 7469 7474 "ps1.ml" 245 7469 7533
+type(
+  bool
+)
+"ps1.ml" 246 7539 7543 "ps1.ml" 246 7539 7547
+type(
+  bool
+)
+"ps1.ml" 248 7555 7559 "ps1.ml" 248 7555 7564
+type(
+  bool
+)
+"ps1.ml" 245 7469 7471 "ps1.ml" 248 7555 7564
+type(
+  bool
+)
+type(
+  bool
+)
+"ps1.ml" 244 7423 7450 "ps1.ml" 248 7555 7564
+type(
+  int -> bool
+)
+"ps1.ml" 244 7423 7440 "ps1.ml" 248 7555 7564
+type(
+  int -> int -> bool
+)
+"ps1.ml" 251 7594 7602 "ps1.ml" 251 7594 7614
+type(
+  int -> int -> bool
+)
+ident(
+  int_ref few_divisors "ps1.ml" 244 7423 7427 "ps1.ml" 244 7423 7439
+)
+"ps1.ml" 251 7594 7615 "ps1.ml" 251 7594 7617
+type(
+  int
+)
+"ps1.ml" 251 7594 7618 "ps1.ml" 251 7594 7619
+type(
+  int
+)
+"ps1.ml" 251 7594 7602 "ps1.ml" 251 7594 7619
+call(
+  stack
+)
+type(
+  bool
+)
+"ps1.ml" 251 7594 7594 "ps1.ml" 251 7594 7620
+type(
+  unit
+)
+"ps1.ml" 252 7621 7629 "ps1.ml" 252 7621 7641
+type(
+  int -> int -> bool
+)
+ident(
+  int_ref few_divisors "ps1.ml" 244 7423 7427 "ps1.ml" 244 7423 7439
+)
+"ps1.ml" 252 7621 7642 "ps1.ml" 252 7621 7643
+type(
+  int
+)
+"ps1.ml" 252 7621 7644 "ps1.ml" 252 7621 7645
+type(
+  int
+)
+"ps1.ml" 252 7621 7629 "ps1.ml" 252 7621 7645
+call(
+  stack
+)
+type(
+  bool
+)
+"ps1.ml" 252 7621 7646 "ps1.ml" 252 7621 7647
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"ps1.ml" 252 7621 7648 "ps1.ml" 252 7621 7653
+type(
+  bool
+)
+"ps1.ml" 252 7621 7629 "ps1.ml" 252 7621 7653
+type(
+  bool
+)
+"ps1.ml" 252 7621 7621 "ps1.ml" 252 7621 7654
+type(
+  unit
+)
+"ps1.ml" 253 7655 7663 "ps1.ml" 253 7655 7675
+type(
+  int -> int -> bool
+)
+ident(
+  int_ref few_divisors "ps1.ml" 244 7423 7427 "ps1.ml" 244 7423 7439
+)
+"ps1.ml" 253 7655 7676 "ps1.ml" 253 7655 7677
+type(
+  int
+)
+"ps1.ml" 253 7655 7678 "ps1.ml" 253 7655 7679
+type(
+  int
+)
+"ps1.ml" 253 7655 7663 "ps1.ml" 253 7655 7679
+call(
+  stack
+)
+type(
+  bool
+)
+"ps1.ml" 253 7655 7655 "ps1.ml" 253 7655 7680
+type(
+  unit
+)
+"ps1.ml" 254 7681 7689 "ps1.ml" 254 7681 7701
+type(
+  int -> int -> bool
+)
+ident(
+  int_ref few_divisors "ps1.ml" 244 7423 7427 "ps1.ml" 244 7423 7439
+)
+"ps1.ml" 254 7681 7702 "ps1.ml" 254 7681 7703
+type(
+  int
+)
+"ps1.ml" 254 7681 7704 "ps1.ml" 254 7681 7705
+type(
+  int
+)
+"ps1.ml" 254 7681 7689 "ps1.ml" 254 7681 7705
+call(
+  stack
+)
+type(
+  bool
+)
+"ps1.ml" 254 7681 7706 "ps1.ml" 254 7681 7707
+type(
+  bool -> bool -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"ps1.ml" 254 7681 7708 "ps1.ml" 254 7681 7713
+type(
+  bool
+)
+"ps1.ml" 254 7681 7689 "ps1.ml" 254 7681 7713
+type(
+  bool
+)
+"ps1.ml" 254 7681 7681 "ps1.ml" 254 7681 7714
+type(
+  unit
+)
+"ps1.ml" 280 8309 8317 "ps1.ml" 280 8309 8328
+type(
+  string -> string list -> string
+)
+ident(
+  def concat_list "ps1.ml" 280 8309 8309 "ps1.ml" 1 0 -1
+)
+"ps1.ml" 280 8309 8330 "ps1.ml" 280 8309 8333
+type(
+  string
+)
+ident(
+  def sep "ps1.ml" 280 8309 8344 "ps1.ml" 284 8416 8458
+)
+"ps1.ml" 280 8309 8345 "ps1.ml" 280 8309 8348
+type(
+  string list
+)
+ident(
+  def lst "ps1.ml" 280 8309 8364 "ps1.ml" 284 8416 8458
+)
+"ps1.ml" 281 8375 8383 "ps1.ml" 281 8375 8386
+type(
+  string list
+)
+ident(
+  int_ref lst "ps1.ml" 280 8309 8345 "ps1.ml" 280 8309 8348
+)
+"ps1.ml" 282 8392 8395 "ps1.ml" 282 8392 8397
+type(
+  string list
+)
+"ps1.ml" 282 8392 8401 "ps1.ml" 282 8392 8403
+type(
+  string
+)
+"ps1.ml" 283 8404 8408 "ps1.ml" 283 8404 8409
+type(
+  string list
+)
+type(
+  string
+)
+ident(
+  def x "ps1.ml" 283 8404 8414 "ps1.ml" 283 8404 8415
+)
+"ps1.ml" 283 8404 8407 "ps1.ml" 283 8404 8410
+type(
+  string list
+)
+"ps1.ml" 283 8404 8414 "ps1.ml" 283 8404 8415
+type(
+  string
+)
+ident(
+  int_ref x "ps1.ml" 283 8404 8408 "ps1.ml" 283 8404 8409
+)
+"ps1.ml" 284 8416 8419 "ps1.ml" 284 8416 8420
+type(
+  string
+)
+ident(
+  def x "ps1.ml" 284 8416 8430 "ps1.ml" 284 8416 8458
+)
+"ps1.ml" 284 8416 8424 "ps1.ml" 284 8416 8426
+type(
+  string list
+)
+ident(
+  def xs "ps1.ml" 284 8416 8430 "ps1.ml" 284 8416 8458
+)
+"ps1.ml" 284 8416 8419 "ps1.ml" 284 8416 8426
+type(
+  string list
+)
+"ps1.ml" 284 8416 8430 "ps1.ml" 284 8416 8431
+type(
+  string
+)
+ident(
+  int_ref x "ps1.ml" 284 8416 8419 "ps1.ml" 284 8416 8420
+)
+"ps1.ml" 284 8416 8432 "ps1.ml" 284 8416 8433
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"ps1.ml" 284 8416 8434 "ps1.ml" 284 8416 8437
+type(
+  string
+)
+ident(
+  int_ref sep "ps1.ml" 280 8309 8330 "ps1.ml" 280 8309 8333
+)
+"ps1.ml" 284 8416 8438 "ps1.ml" 284 8416 8439
+type(
+  string -> string -> string
+)
+ident(
+  ext_ref Pervasives.( ^ )
+)
+"ps1.ml" 284 8416 8440 "ps1.ml" 284 8416 8451
+type(
+  string -> string list -> string
+)
+ident(
+  int_ref concat_list "ps1.ml" 280 8309 8317 "ps1.ml" 280 8309 8328
+)
+"ps1.ml" 284 8416 8452 "ps1.ml" 284 8416 8455
+type(
+  string
+)
+ident(
+  int_ref sep "ps1.ml" 280 8309 8330 "ps1.ml" 280 8309 8333
+)
+"ps1.ml" 284 8416 8456 "ps1.ml" 284 8416 8458
+type(
+  string list
+)
+ident(
+  int_ref xs "ps1.ml" 284 8416 8424 "ps1.ml" 284 8416 8426
+)
+"ps1.ml" 284 8416 8440 "ps1.ml" 284 8416 8458
+call(
+  stack
+)
+type(
+  string
+)
+"ps1.ml" 284 8416 8434 "ps1.ml" 284 8416 8458
+call(
+  stack
+)
+type(
+  string
+)
+"ps1.ml" 284 8416 8430 "ps1.ml" 284 8416 8458
+call(
+  tail
+)
+type(
+  string
+)
+"ps1.ml" 281 8375 8377 "ps1.ml" 284 8416 8458
+type(
+  string
+)
+type(
+  string
+)
+"ps1.ml" 280 8309 8344 "ps1.ml" 284 8416 8458
+type(
+  string list -> string
+)
+"ps1.ml" 280 8309 8329 "ps1.ml" 284 8416 8458
+type(
+  string -> string list -> string
+)
+"ps1.ml" 286 8460 8468 "ps1.ml" 286 8460 8479
+type(
+  string -> string list -> string
+)
+ident(
+  int_ref concat_list "ps1.ml" 280 8309 8317 "ps1.ml" 280 8309 8328
+)
+"ps1.ml" 286 8460 8480 "ps1.ml" 286 8460 8484
+type(
+  string
+)
+"ps1.ml" 286 8460 8486 "ps1.ml" 286 8460 8492
+type(
+  string
+)
+"ps1.ml" 286 8460 8494 "ps1.ml" 286 8460 8500
+type(
+  string
+)
+"ps1.ml" 286 8460 8502 "ps1.ml" 286 8460 8509
+type(
+  string
+)
+type(
+  string list
+)
+"ps1.ml" 286 8460 8494 "ps1.ml" 286 8460 8509
+type(
+  string list
+)
+"ps1.ml" 286 8460 8486 "ps1.ml" 286 8460 8509
+type(
+  string list
+)
+"ps1.ml" 286 8460 8485 "ps1.ml" 286 8460 8510
+type(
+  string list
+)
+"ps1.ml" 286 8460 8468 "ps1.ml" 286 8460 8510
+call(
+  stack
+)
+type(
+  string
+)
+"ps1.ml" 286 8460 8511 "ps1.ml" 286 8460 8512
+type(
+  string -> string -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"ps1.ml" 286 8460 8513 "ps1.ml" 286 8460 8532
+type(
+  string
+)
+"ps1.ml" 286 8460 8468 "ps1.ml" 286 8460 8532
+type(
+  bool
+)
+"ps1.ml" 286 8460 8460 "ps1.ml" 286 8460 8533
+type(
+  unit
+)
+"ps1.ml" 287 8534 8542 "ps1.ml" 287 8534 8553
+type(
+  string -> string list -> string
+)
+ident(
+  int_ref concat_list "ps1.ml" 280 8309 8317 "ps1.ml" 280 8309 8328
+)
+"ps1.ml" 287 8534 8554 "ps1.ml" 287 8534 8559
+type(
+  string
+)
+"ps1.ml" 287 8534 8561 "ps1.ml" 287 8534 8566
+type(
+  string
+)
+"ps1.ml" 287 8534 8568 "ps1.ml" 287 8534 8574
+type(
+  string
+)
+"ps1.ml" 287 8534 8576 "ps1.ml" 287 8534 8583
+type(
+  string
+)
+type(
+  string list
+)
+"ps1.ml" 287 8534 8568 "ps1.ml" 287 8534 8583
+type(
+  string list
+)
+"ps1.ml" 287 8534 8561 "ps1.ml" 287 8534 8583
+type(
+  string list
+)
+"ps1.ml" 287 8534 8560 "ps1.ml" 287 8534 8584
+type(
+  string list
+)
+"ps1.ml" 287 8534 8542 "ps1.ml" 287 8534 8584
+call(
+  stack
+)
+type(
+  string
+)
+"ps1.ml" 287 8534 8585 "ps1.ml" 287 8534 8586
+type(
+  string -> string -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"ps1.ml" 287 8534 8587 "ps1.ml" 287 8534 8607
+type(
+  string
+)
+"ps1.ml" 287 8534 8542 "ps1.ml" 287 8534 8607
+type(
+  bool
+)
+"ps1.ml" 287 8534 8534 "ps1.ml" 287 8534 8608
+type(
+  unit
+)
+"ps1.ml" 288 8609 8617 "ps1.ml" 288 8609 8628
+type(
+  string -> string list -> string
+)
+ident(
+  int_ref concat_list "ps1.ml" 280 8309 8317 "ps1.ml" 280 8309 8328
+)
+"ps1.ml" 288 8609 8629 "ps1.ml" 288 8609 8633
+type(
+  string
+)
+"ps1.ml" 288 8609 8634 "ps1.ml" 288 8609 8636
+type(
+  string list
+)
+"ps1.ml" 288 8609 8617 "ps1.ml" 288 8609 8636
+call(
+  stack
+)
+type(
+  string
+)
+"ps1.ml" 288 8609 8637 "ps1.ml" 288 8609 8638
+type(
+  string -> string -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"ps1.ml" 288 8609 8640 "ps1.ml" 288 8609 8642
+type(
+  string
+)
+"ps1.ml" 288 8609 8617 "ps1.ml" 288 8609 8642
+type(
+  bool
+)
+"ps1.ml" 288 8609 8609 "ps1.ml" 288 8609 8643
+type(
+  unit
+)
+"ps1.ml" 289 8644 8652 "ps1.ml" 289 8644 8663
+type(
+  string -> string list -> string
+)
+ident(
+  int_ref concat_list "ps1.ml" 280 8309 8317 "ps1.ml" 280 8309 8328
+)
+"ps1.ml" 289 8644 8664 "ps1.ml" 289 8644 8668
+type(
+  string
+)
+"ps1.ml" 289 8644 8670 "ps1.ml" 289 8644 8675
+type(
+  string
+)
+type(
+  string list
+)
+"ps1.ml" 289 8644 8669 "ps1.ml" 289 8644 8676
+type(
+  string list
+)
+"ps1.ml" 289 8644 8652 "ps1.ml" 289 8644 8676
+call(
+  stack
+)
+type(
+  string
+)
+"ps1.ml" 289 8644 8677 "ps1.ml" 289 8644 8678
+type(
+  string -> string -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"ps1.ml" 289 8644 8679 "ps1.ml" 289 8644 8684
+type(
+  string
+)
+"ps1.ml" 289 8644 8652 "ps1.ml" 289 8644 8684
+type(
+  bool
+)
+"ps1.ml" 289 8644 8644 "ps1.ml" 289 8644 8685
+type(
+  unit
+)
+"ps1.ml" 313 9754 9758 "ps1.ml" 313 9754 9780
+type(
+  char -> (int * char) list -> (int * char) list
+)
+ident(
+  def add_char_to_run_length "ps1.ml" 319 9957 9957 "ps1.ml" 1 0 -1
+)
+"ps1.ml" 313 9754 9782 "ps1.ml" 313 9754 9783
+type(
+  char
+)
+ident(
+  def c "ps1.ml" 313 9754 9792 "ps1.ml" 317 9921 9955
+)
+"ps1.ml" 313 9754 9793 "ps1.ml" 313 9754 9795
+type(
+  (int * char) list
+)
+ident(
+  def rl "ps1.ml" 313 9754 9815 "ps1.ml" 317 9921 9955
+)
+"ps1.ml" 314 9835 9843 "ps1.ml" 314 9835 9845
+type(
+  (int * char) list
+)
+ident(
+  int_ref rl "ps1.ml" 313 9754 9793 "ps1.ml" 313 9754 9795
+)
+"ps1.ml" 315 9851 9854 "ps1.ml" 315 9851 9856
+type(
+  (int * char) list
+)
+"ps1.ml" 315 9851 9862 "ps1.ml" 315 9851 9863
+type(
+  int
+)
+"ps1.ml" 315 9851 9864 "ps1.ml" 315 9851 9865
+type(
+  char
+)
+ident(
+  int_ref c "ps1.ml" 313 9754 9782 "ps1.ml" 313 9754 9783
+)
+"ps1.ml" 315 9851 9862 "ps1.ml" 315 9851 9865
+type(
+  int * char
+)
+"ps1.ml" 315 9851 9861 "ps1.ml" 315 9851 9866
+type(
+  (int * char) list
+)
+"ps1.ml" 315 9851 9860 "ps1.ml" 315 9851 9867
+type(
+  (int * char) list
+)
+"ps1.ml" 316 9868 9872 "ps1.ml" 316 9868 9873
+type(
+  int
+)
+ident(
+  def x "ps1.ml" 316 9868 9888 "ps1.ml" 317 9921 9955
+)
+"ps1.ml" 316 9868 9874 "ps1.ml" 316 9868 9875
+type(
+  char
+)
+ident(
+  def y "ps1.ml" 316 9868 9888 "ps1.ml" 317 9921 9955
+)
+"ps1.ml" 316 9868 9872 "ps1.ml" 316 9868 9875
+type(
+  int * char
+)
+"ps1.ml" 316 9868 9880 "ps1.ml" 316 9868 9884
+type(
+  (int * char) list
+)
+ident(
+  def rest "ps1.ml" 316 9868 9888 "ps1.ml" 317 9921 9955
+)
+"ps1.ml" 316 9868 9871 "ps1.ml" 316 9868 9884
+type(
+  (int * char) list
+)
+"ps1.ml" 316 9868 9891 "ps1.ml" 316 9868 9892
+type(
+  char
+)
+ident(
+  int_ref c "ps1.ml" 313 9754 9782 "ps1.ml" 313 9754 9783
+)
+"ps1.ml" 316 9868 9893 "ps1.ml" 316 9868 9894
+type(
+  char -> char -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"ps1.ml" 316 9868 9895 "ps1.ml" 316 9868 9896
+type(
+  char
+)
+ident(
+  int_ref y "ps1.ml" 316 9868 9874 "ps1.ml" 316 9868 9875
+)
+"ps1.ml" 316 9868 9891 "ps1.ml" 316 9868 9896
+type(
+  bool
+)
+"ps1.ml" 316 9868 9903 "ps1.ml" 316 9868 9904
+type(
+  int
+)
+ident(
+  int_ref x "ps1.ml" 316 9868 9872 "ps1.ml" 316 9868 9873
+)
+"ps1.ml" 316 9868 9905 "ps1.ml" 316 9868 9906
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"ps1.ml" 316 9868 9907 "ps1.ml" 316 9868 9908
+type(
+  int
+)
+"ps1.ml" 316 9868 9903 "ps1.ml" 316 9868 9908
+type(
+  int
+)
+"ps1.ml" 316 9868 9910 "ps1.ml" 316 9868 9911
+type(
+  char
+)
+ident(
+  int_ref y "ps1.ml" 316 9868 9874 "ps1.ml" 316 9868 9875
+)
+"ps1.ml" 316 9868 9903 "ps1.ml" 316 9868 9911
+type(
+  int * char
+)
+"ps1.ml" 316 9868 9916 "ps1.ml" 316 9868 9920
+type(
+  (int * char) list
+)
+ident(
+  int_ref rest "ps1.ml" 316 9868 9880 "ps1.ml" 316 9868 9884
+)
+"ps1.ml" 316 9868 9902 "ps1.ml" 316 9868 9920
+type(
+  (int * char) list
+)
+"ps1.ml" 317 9921 9933 "ps1.ml" 317 9921 9934
+type(
+  int
+)
+"ps1.ml" 317 9921 9935 "ps1.ml" 317 9921 9936
+type(
+  char
+)
+ident(
+  int_ref c "ps1.ml" 313 9754 9782 "ps1.ml" 313 9754 9783
+)
+"ps1.ml" 317 9921 9933 "ps1.ml" 317 9921 9936
+type(
+  int * char
+)
+"ps1.ml" 317 9921 9942 "ps1.ml" 317 9921 9943
+type(
+  int
+)
+ident(
+  int_ref x "ps1.ml" 316 9868 9872 "ps1.ml" 316 9868 9873
+)
+"ps1.ml" 317 9921 9944 "ps1.ml" 317 9921 9945
+type(
+  char
+)
+ident(
+  int_ref y "ps1.ml" 316 9868 9874 "ps1.ml" 316 9868 9875
+)
+"ps1.ml" 317 9921 9942 "ps1.ml" 317 9921 9945
+type(
+  int * char
+)
+"ps1.ml" 317 9921 9951 "ps1.ml" 317 9921 9955
+type(
+  (int * char) list
+)
+ident(
+  int_ref rest "ps1.ml" 316 9868 9880 "ps1.ml" 316 9868 9884
+)
+"ps1.ml" 317 9921 9941 "ps1.ml" 317 9921 9955
+type(
+  (int * char) list
+)
+"ps1.ml" 317 9921 9932 "ps1.ml" 317 9921 9955
+type(
+  (int * char) list
+)
+"ps1.ml" 316 9868 9888 "ps1.ml" 317 9921 9955
+type(
+  (int * char) list
+)
+"ps1.ml" 314 9835 9837 "ps1.ml" 317 9921 9955
+type(
+  (int * char) list
+)
+type(
+  (int * char) list
+)
+"ps1.ml" 313 9754 9792 "ps1.ml" 317 9921 9955
+type(
+  (int * char) list -> (int * char) list
+)
+"ps1.ml" 313 9754 9781 "ps1.ml" 317 9921 9955
+type(
+  char -> (int * char) list -> (int * char) list
+)
+"ps1.ml" 319 9957 9965 "ps1.ml" 319 9957 9978
+type(
+  char list -> (int * char) list
+)
+ident(
+  def to_run_length "ps1.ml" 319 9957 9957 "ps1.ml" 1 0 -1
+)
+"ps1.ml" 319 9957 9980 "ps1.ml" 319 9957 9982
+type(
+  char list
+)
+ident(
+  def cs "ps1.ml" 319 9957 9996 "ps1.ml" 322 10046 10101
+)
+"ps1.ml" 320 10018 10026 "ps1.ml" 320 10018 10028
+type(
+  char list
+)
+ident(
+  int_ref cs "ps1.ml" 319 9957 9980 "ps1.ml" 319 9957 9982
+)
+"ps1.ml" 321 10034 10037 "ps1.ml" 321 10034 10039
+type(
+  char list
+)
+"ps1.ml" 321 10034 10043 "ps1.ml" 321 10034 10045
+type(
+  (int * char) list
+)
+"ps1.ml" 322 10046 10049 "ps1.ml" 322 10046 10050
+type(
+  char
+)
+ident(
+  def a "ps1.ml" 322 10046 10059 "ps1.ml" 322 10046 10101
+)
+"ps1.ml" 322 10046 10054 "ps1.ml" 322 10046 10055
+type(
+  char list
+)
+ident(
+  def b "ps1.ml" 322 10046 10059 "ps1.ml" 322 10046 10101
+)
+"ps1.ml" 322 10046 10049 "ps1.ml" 322 10046 10055
+type(
+  char list
+)
+"ps1.ml" 322 10046 10059 "ps1.ml" 322 10046 10081
+type(
+  char -> (int * char) list -> (int * char) list
+)
+ident(
+  int_ref add_char_to_run_length "ps1.ml" 313 9754 9758 "ps1.ml" 313 9754 9780
+)
+"ps1.ml" 322 10046 10082 "ps1.ml" 322 10046 10083
+type(
+  char
+)
+ident(
+  int_ref a "ps1.ml" 322 10046 10049 "ps1.ml" 322 10046 10050
+)
+"ps1.ml" 322 10046 10085 "ps1.ml" 322 10046 10098
+type(
+  char list -> (int * char) list
+)
+ident(
+  int_ref to_run_length "ps1.ml" 319 9957 9965 "ps1.ml" 319 9957 9978
+)
+"ps1.ml" 322 10046 10099 "ps1.ml" 322 10046 10100
+type(
+  char list
+)
+ident(
+  int_ref b "ps1.ml" 322 10046 10054 "ps1.ml" 322 10046 10055
+)
+"ps1.ml" 322 10046 10085 "ps1.ml" 322 10046 10100
+call(
+  stack
+)
+type(
+  (int * char) list
+)
+"ps1.ml" 322 10046 10059 "ps1.ml" 322 10046 10101
+call(
+  tail
+)
+type(
+  (int * char) list
+)
+"ps1.ml" 320 10018 10020 "ps1.ml" 322 10046 10101
+type(
+  (int * char) list
+)
+type(
+  (int * char) list
+)
+"ps1.ml" 319 9957 9979 "ps1.ml" 322 10046 10101
+type(
+  char list -> (int * char) list
+)
+"ps1.ml" 324 10103 10111 "ps1.ml" 324 10103 10126
+type(
+  (int * char) list -> char list
+)
+ident(
+  def from_run_length "ps1.ml" 324 10103 10103 "ps1.ml" 1 0 -1
+)
+"ps1.ml" 324 10103 10128 "ps1.ml" 324 10103 10130
+type(
+  (int * char) list
+)
+ident(
+  def rl "ps1.ml" 324 10103 10152 "ps1.ml" 330 10273 10320
+)
+"ps1.ml" 325 10166 10174 "ps1.ml" 325 10166 10176
+type(
+  (int * char) list
+)
+ident(
+  int_ref rl "ps1.ml" 324 10103 10128 "ps1.ml" 324 10103 10130
+)
+"ps1.ml" 326 10182 10185 "ps1.ml" 326 10182 10187
+type(
+  (int * char) list
+)
+"ps1.ml" 326 10182 10191 "ps1.ml" 326 10182 10193
+type(
+  char list
+)
+"ps1.ml" 327 10194 10198 "ps1.ml" 327 10194 10199
+type(
+  int
+)
+ident(
+  def x "ps1.ml" 327 10194 10214 "ps1.ml" 330 10273 10320
+)
+"ps1.ml" 327 10194 10200 "ps1.ml" 327 10194 10201
+type(
+  char
+)
+ident(
+  def y "ps1.ml" 327 10194 10214 "ps1.ml" 330 10273 10320
+)
+"ps1.ml" 327 10194 10198 "ps1.ml" 327 10194 10201
+type(
+  int * char
+)
+"ps1.ml" 327 10194 10206 "ps1.ml" 327 10194 10210
+type(
+  (int * char) list
+)
+ident(
+  def rest "ps1.ml" 327 10194 10214 "ps1.ml" 330 10273 10320
+)
+"ps1.ml" 327 10194 10197 "ps1.ml" 327 10194 10210
+type(
+  (int * char) list
+)
+"ps1.ml" 327 10194 10217 "ps1.ml" 327 10194 10218
+type(
+  int
+)
+ident(
+  int_ref x "ps1.ml" 327 10194 10198 "ps1.ml" 327 10194 10199
+)
+"ps1.ml" 327 10194 10219 "ps1.ml" 327 10194 10220
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"ps1.ml" 327 10194 10221 "ps1.ml" 327 10194 10222
+type(
+  int
+)
+"ps1.ml" 327 10194 10217 "ps1.ml" 327 10194 10222
+type(
+  bool
+)
+"ps1.ml" 328 10228 10236 "ps1.ml" 328 10228 10237
+type(
+  char
+)
+ident(
+  int_ref y "ps1.ml" 327 10194 10200 "ps1.ml" 327 10194 10201
+)
+"ps1.ml" 328 10228 10241 "ps1.ml" 328 10228 10256
+type(
+  (int * char) list -> char list
+)
+ident(
+  int_ref from_run_length "ps1.ml" 324 10103 10111 "ps1.ml" 324 10103 10126
+)
+"ps1.ml" 328 10228 10257 "ps1.ml" 328 10228 10261
+type(
+  (int * char) list
+)
+ident(
+  int_ref rest "ps1.ml" 327 10194 10206 "ps1.ml" 327 10194 10210
+)
+"ps1.ml" 328 10228 10241 "ps1.ml" 328 10228 10261
+call(
+  stack
+)
+type(
+  char list
+)
+"ps1.ml" 328 10228 10236 "ps1.ml" 328 10228 10261
+type(
+  char list
+)
+"ps1.ml" 330 10273 10281 "ps1.ml" 330 10273 10282
+type(
+  char
+)
+ident(
+  int_ref y "ps1.ml" 327 10194 10200 "ps1.ml" 327 10194 10201
+)
+"ps1.ml" 330 10273 10286 "ps1.ml" 330 10273 10301
+type(
+  (int * char) list -> char list
+)
+ident(
+  int_ref from_run_length "ps1.ml" 324 10103 10111 "ps1.ml" 324 10103 10126
+)
+"ps1.ml" 330 10273 10304 "ps1.ml" 330 10273 10305
+type(
+  int
+)
+ident(
+  int_ref x "ps1.ml" 327 10194 10198 "ps1.ml" 327 10194 10199
+)
+"ps1.ml" 330 10273 10305 "ps1.ml" 330 10273 10306
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"ps1.ml" 330 10273 10306 "ps1.ml" 330 10273 10307
+type(
+  int
+)
+"ps1.ml" 330 10273 10304 "ps1.ml" 330 10273 10307
+type(
+  int
+)
+"ps1.ml" 330 10273 10309 "ps1.ml" 330 10273 10310
+type(
+  char
+)
+ident(
+  int_ref y "ps1.ml" 327 10194 10200 "ps1.ml" 327 10194 10201
+)
+"ps1.ml" 330 10273 10304 "ps1.ml" 330 10273 10310
+type(
+  int * char
+)
+"ps1.ml" 330 10273 10315 "ps1.ml" 330 10273 10319
+type(
+  (int * char) list
+)
+ident(
+  int_ref rest "ps1.ml" 327 10194 10206 "ps1.ml" 327 10194 10210
+)
+"ps1.ml" 330 10273 10303 "ps1.ml" 330 10273 10319
+type(
+  (int * char) list
+)
+"ps1.ml" 330 10273 10286 "ps1.ml" 330 10273 10320
+call(
+  stack
+)
+type(
+  char list
+)
+"ps1.ml" 330 10273 10281 "ps1.ml" 330 10273 10320
+type(
+  char list
+)
+"ps1.ml" 327 10194 10214 "ps1.ml" 330 10273 10320
+type(
+  char list
+)
+"ps1.ml" 325 10166 10168 "ps1.ml" 330 10273 10320
+type(
+  char list
+)
+type(
+  char list
+)
+"ps1.ml" 324 10103 10127 "ps1.ml" 330 10273 10320
+type(
+  (int * char) list -> char list
+)
+"ps1.ml" 332 10322 10330 "ps1.ml" 332 10322 10345
+type(
+  (int * char) list -> char list
+)
+ident(
+  int_ref from_run_length "ps1.ml" 324 10103 10111 "ps1.ml" 324 10103 10126
+)
+"ps1.ml" 332 10322 10348 "ps1.ml" 332 10322 10349
+type(
+  int
+)
+"ps1.ml" 332 10322 10350 "ps1.ml" 332 10322 10353
+type(
+  char
+)
+"ps1.ml" 332 10322 10348 "ps1.ml" 332 10322 10353
+type(
+  int * char
+)
+"ps1.ml" 332 10322 10356 "ps1.ml" 332 10322 10357
+type(
+  int
+)
+"ps1.ml" 332 10322 10358 "ps1.ml" 332 10322 10361
+type(
+  char
+)
+"ps1.ml" 332 10322 10356 "ps1.ml" 332 10322 10361
+type(
+  int * char
+)
+"ps1.ml" 332 10322 10364 "ps1.ml" 332 10322 10365
+type(
+  int
+)
+"ps1.ml" 332 10322 10366 "ps1.ml" 332 10322 10369
+type(
+  char
+)
+"ps1.ml" 332 10322 10364 "ps1.ml" 332 10322 10369
+type(
+  int * char
+)
+"ps1.ml" 332 10322 10372 "ps1.ml" 332 10322 10373
+type(
+  int
+)
+"ps1.ml" 332 10322 10374 "ps1.ml" 332 10322 10377
+type(
+  char
+)
+"ps1.ml" 332 10322 10372 "ps1.ml" 332 10322 10377
+type(
+  int * char
+)
+"ps1.ml" 332 10322 10371 "ps1.ml" 332 10322 10378
+type(
+  (int * char) list
+)
+"ps1.ml" 332 10322 10363 "ps1.ml" 332 10322 10378
+type(
+  (int * char) list
+)
+"ps1.ml" 332 10322 10355 "ps1.ml" 332 10322 10378
+type(
+  (int * char) list
+)
+"ps1.ml" 332 10322 10347 "ps1.ml" 332 10322 10378
+type(
+  (int * char) list
+)
+"ps1.ml" 332 10322 10346 "ps1.ml" 332 10322 10379
+type(
+  (int * char) list
+)
+"ps1.ml" 332 10322 10330 "ps1.ml" 332 10322 10379
+call(
+  stack
+)
+type(
+  char list
+)
+"ps1.ml" 332 10322 10380 "ps1.ml" 332 10322 10381
+type(
+  char list -> char list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"ps1.ml" 333 10383 10385 "ps1.ml" 333 10383 10388
+type(
+  char
+)
+"ps1.ml" 333 10383 10389 "ps1.ml" 333 10383 10392
+type(
+  char
+)
+"ps1.ml" 333 10383 10393 "ps1.ml" 333 10383 10396
+type(
+  char
+)
+"ps1.ml" 333 10383 10397 "ps1.ml" 333 10383 10400
+type(
+  char
+)
+"ps1.ml" 333 10383 10401 "ps1.ml" 333 10383 10404
+type(
+  char
+)
+"ps1.ml" 333 10383 10405 "ps1.ml" 333 10383 10408
+type(
+  char
+)
+"ps1.ml" 333 10383 10409 "ps1.ml" 333 10383 10412
+type(
+  char
+)
+"ps1.ml" 333 10383 10413 "ps1.ml" 333 10383 10416
+type(
+  char
+)
+"ps1.ml" 333 10383 10417 "ps1.ml" 333 10383 10420
+type(
+  char
+)
+"ps1.ml" 333 10383 10421 "ps1.ml" 333 10383 10424
+type(
+  char
+)
+"ps1.ml" 333 10383 10425 "ps1.ml" 333 10383 10428
+type(
+  char
+)
+"ps1.ml" 333 10383 10429 "ps1.ml" 333 10383 10432
+type(
+  char
+)
+"ps1.ml" 333 10383 10433 "ps1.ml" 333 10383 10436
+type(
+  char
+)
+type(
+  char list
+)
+"ps1.ml" 333 10383 10429 "ps1.ml" 333 10383 10436
+type(
+  char list
+)
+"ps1.ml" 333 10383 10425 "ps1.ml" 333 10383 10436
+type(
+  char list
+)
+"ps1.ml" 333 10383 10421 "ps1.ml" 333 10383 10436
+type(
+  char list
+)
+"ps1.ml" 333 10383 10417 "ps1.ml" 333 10383 10436
+type(
+  char list
+)
+"ps1.ml" 333 10383 10413 "ps1.ml" 333 10383 10436
+type(
+  char list
+)
+"ps1.ml" 333 10383 10409 "ps1.ml" 333 10383 10436
+type(
+  char list
+)
+"ps1.ml" 333 10383 10405 "ps1.ml" 333 10383 10436
+type(
+  char list
+)
+"ps1.ml" 333 10383 10401 "ps1.ml" 333 10383 10436
+type(
+  char list
+)
+"ps1.ml" 333 10383 10397 "ps1.ml" 333 10383 10436
+type(
+  char list
+)
+"ps1.ml" 333 10383 10393 "ps1.ml" 333 10383 10436
+type(
+  char list
+)
+"ps1.ml" 333 10383 10389 "ps1.ml" 333 10383 10436
+type(
+  char list
+)
+"ps1.ml" 333 10383 10385 "ps1.ml" 333 10383 10436
+type(
+  char list
+)
+"ps1.ml" 333 10383 10384 "ps1.ml" 333 10383 10437
+type(
+  char list
+)
+"ps1.ml" 332 10322 10330 "ps1.ml" 333 10383 10437
+type(
+  bool
+)
+"ps1.ml" 332 10322 10322 "ps1.ml" 333 10383 10438
+type(
+  unit
+)
+"ps1.ml" 334 10439 10447 "ps1.ml" 334 10439 10460
+type(
+  char list -> (int * char) list
+)
+ident(
+  int_ref to_run_length "ps1.ml" 319 9957 9965 "ps1.ml" 319 9957 9978
+)
+"ps1.ml" 334 10439 10462 "ps1.ml" 334 10439 10477
+type(
+  (int * char) list -> char list
+)
+ident(
+  int_ref from_run_length "ps1.ml" 324 10103 10111 "ps1.ml" 324 10103 10126
+)
+"ps1.ml" 334 10439 10480 "ps1.ml" 334 10439 10481
+type(
+  int
+)
+"ps1.ml" 334 10439 10482 "ps1.ml" 334 10439 10485
+type(
+  char
+)
+"ps1.ml" 334 10439 10480 "ps1.ml" 334 10439 10485
+type(
+  int * char
+)
+"ps1.ml" 334 10439 10488 "ps1.ml" 334 10439 10489
+type(
+  int
+)
+"ps1.ml" 334 10439 10490 "ps1.ml" 334 10439 10493
+type(
+  char
+)
+"ps1.ml" 334 10439 10488 "ps1.ml" 334 10439 10493
+type(
+  int * char
+)
+"ps1.ml" 334 10439 10496 "ps1.ml" 334 10439 10497
+type(
+  int
+)
+"ps1.ml" 334 10439 10498 "ps1.ml" 334 10439 10501
+type(
+  char
+)
+"ps1.ml" 334 10439 10496 "ps1.ml" 334 10439 10501
+type(
+  int * char
+)
+"ps1.ml" 334 10439 10504 "ps1.ml" 334 10439 10505
+type(
+  int
+)
+"ps1.ml" 334 10439 10506 "ps1.ml" 334 10439 10509
+type(
+  char
+)
+"ps1.ml" 334 10439 10504 "ps1.ml" 334 10439 10509
+type(
+  int * char
+)
+"ps1.ml" 334 10439 10503 "ps1.ml" 334 10439 10510
+type(
+  (int * char) list
+)
+"ps1.ml" 334 10439 10495 "ps1.ml" 334 10439 10510
+type(
+  (int * char) list
+)
+"ps1.ml" 334 10439 10487 "ps1.ml" 334 10439 10510
+type(
+  (int * char) list
+)
+"ps1.ml" 334 10439 10479 "ps1.ml" 334 10439 10510
+type(
+  (int * char) list
+)
+"ps1.ml" 334 10439 10478 "ps1.ml" 334 10439 10511
+type(
+  (int * char) list
+)
+"ps1.ml" 334 10439 10462 "ps1.ml" 334 10439 10511
+call(
+  stack
+)
+type(
+  char list
+)
+"ps1.ml" 334 10439 10447 "ps1.ml" 334 10439 10512
+call(
+  stack
+)
+type(
+  (int * char) list
+)
+"ps1.ml" 334 10439 10513 "ps1.ml" 334 10439 10514
+type(
+  (int * char) list -> (int * char) list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"ps1.ml" 335 10515 10518 "ps1.ml" 335 10515 10519
+type(
+  int
+)
+"ps1.ml" 335 10515 10520 "ps1.ml" 335 10515 10523
+type(
+  char
+)
+"ps1.ml" 335 10515 10518 "ps1.ml" 335 10515 10523
+type(
+  int * char
+)
+"ps1.ml" 335 10515 10526 "ps1.ml" 335 10515 10527
+type(
+  int
+)
+"ps1.ml" 335 10515 10528 "ps1.ml" 335 10515 10531
+type(
+  char
+)
+"ps1.ml" 335 10515 10526 "ps1.ml" 335 10515 10531
+type(
+  int * char
+)
+"ps1.ml" 335 10515 10534 "ps1.ml" 335 10515 10535
+type(
+  int
+)
+"ps1.ml" 335 10515 10536 "ps1.ml" 335 10515 10539
+type(
+  char
+)
+"ps1.ml" 335 10515 10534 "ps1.ml" 335 10515 10539
+type(
+  int * char
+)
+"ps1.ml" 335 10515 10542 "ps1.ml" 335 10515 10543
+type(
+  int
+)
+"ps1.ml" 335 10515 10544 "ps1.ml" 335 10515 10547
+type(
+  char
+)
+"ps1.ml" 335 10515 10542 "ps1.ml" 335 10515 10547
+type(
+  int * char
+)
+"ps1.ml" 335 10515 10541 "ps1.ml" 335 10515 10548
+type(
+  (int * char) list
+)
+"ps1.ml" 335 10515 10533 "ps1.ml" 335 10515 10548
+type(
+  (int * char) list
+)
+"ps1.ml" 335 10515 10525 "ps1.ml" 335 10515 10548
+type(
+  (int * char) list
+)
+"ps1.ml" 335 10515 10517 "ps1.ml" 335 10515 10548
+type(
+  (int * char) list
+)
+"ps1.ml" 335 10515 10516 "ps1.ml" 335 10515 10549
+type(
+  (int * char) list
+)
+"ps1.ml" 334 10439 10447 "ps1.ml" 335 10515 10549
+type(
+  bool
+)
+"ps1.ml" 334 10439 10439 "ps1.ml" 335 10515 10550
+type(
+  unit
+)
+"ps1.ml" 336 10551 10559 "ps1.ml" 336 10551 10574
+type(
+  (int * char) list -> char list
+)
+ident(
+  int_ref from_run_length "ps1.ml" 324 10103 10111 "ps1.ml" 324 10103 10126
+)
+"ps1.ml" 336 10551 10576 "ps1.ml" 336 10551 10589
+type(
+  char list -> (int * char) list
+)
+ident(
+  int_ref to_run_length "ps1.ml" 319 9957 9965 "ps1.ml" 319 9957 9978
+)
+"ps1.ml" 336 10551 10591 "ps1.ml" 336 10551 10594
+type(
+  char
+)
+"ps1.ml" 336 10551 10595 "ps1.ml" 336 10551 10598
+type(
+  char
+)
+"ps1.ml" 336 10551 10599 "ps1.ml" 336 10551 10602
+type(
+  char
+)
+type(
+  char list
+)
+"ps1.ml" 336 10551 10595 "ps1.ml" 336 10551 10602
+type(
+  char list
+)
+"ps1.ml" 336 10551 10591 "ps1.ml" 336 10551 10602
+type(
+  char list
+)
+"ps1.ml" 336 10551 10590 "ps1.ml" 336 10551 10603
+type(
+  char list
+)
+"ps1.ml" 336 10551 10576 "ps1.ml" 336 10551 10603
+call(
+  stack
+)
+type(
+  (int * char) list
+)
+"ps1.ml" 336 10551 10559 "ps1.ml" 336 10551 10604
+call(
+  stack
+)
+type(
+  char list
+)
+"ps1.ml" 336 10551 10605 "ps1.ml" 336 10551 10606
+type(
+  char list -> char list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"ps1.ml" 336 10551 10608 "ps1.ml" 336 10551 10611
+type(
+  char
+)
+"ps1.ml" 336 10551 10612 "ps1.ml" 336 10551 10615
+type(
+  char
+)
+"ps1.ml" 336 10551 10616 "ps1.ml" 336 10551 10619
+type(
+  char
+)
+type(
+  char list
+)
+"ps1.ml" 336 10551 10612 "ps1.ml" 336 10551 10619
+type(
+  char list
+)
+"ps1.ml" 336 10551 10608 "ps1.ml" 336 10551 10619
+type(
+  char list
+)
+"ps1.ml" 336 10551 10607 "ps1.ml" 336 10551 10620
+type(
+  char list
+)
+"ps1.ml" 336 10551 10559 "ps1.ml" 336 10551 10620
+type(
+  bool
+)
+"ps1.ml" 336 10551 10551 "ps1.ml" 336 10551 10621
+type(
+  unit
+)
+"ps1.ml" 361 11442 11450 "ps1.ml" 361 11442 11464
+type(
+  ?pre:'a list -> 'a -> 'a list -> 'a list list
+)
+ident(
+  def comb_with_list "ps1.ml" 361 11442 11442 "ps1.ml" 1 0 -1
+)
+"ps1.ml" 361 11442 11481 "ps1.ml" 361 11442 11483
+type(
+  'a list
+)
+type(
+  'a list
+)
+ident(
+  int_ref *sth* "ps1.ml" 361 11442 11481 "ps1.ml" 361 11442 11483
+)
+type(
+  'a list option
+)
+type(
+  'a list option
+)
+type(
+  'a list
+)
+"ps1.ml" 361 11442 11465 "ps1.ml" 361 11442 11484
+type(
+  'a list
+)
+"ps1.ml" 361 11442 11486 "ps1.ml" 361 11442 11487
+type(
+  'a
+)
+ident(
+  def n "ps1.ml" 361 11442 11492 "ps1.ml" 366 11580 11644
+)
+"ps1.ml" 361 11442 11493 "ps1.ml" 361 11442 11496
+type(
+  'a list
+)
+ident(
+  def lst "ps1.ml" 362 11508 11509 "ps1.ml" 366 11580 11644
+)
+"ps1.ml" 363 11527 11535 "ps1.ml" 363 11527 11538
+type(
+  'a list
+)
+ident(
+  int_ref lst "ps1.ml" 361 11442 11493 "ps1.ml" 361 11442 11496
+)
+"ps1.ml" 364 11544 11547 "ps1.ml" 364 11544 11549
+type(
+  'a list
+)
+"ps1.ml" 364 11544 11554 "ps1.ml" 364 11544 11557
+type(
+  'a list
+)
+ident(
+  int_ref pre "ps1.ml" 361 11442 11465 "ps1.ml" 361 11442 11484
+)
+"ps1.ml" 364 11544 11558 "ps1.ml" 364 11544 11559
+type(
+  'a list -> 'a list -> 'a list
+)
+ident(
+  ext_ref Core.Std.( @ )
+)
+"ps1.ml" 364 11544 11561 "ps1.ml" 364 11544 11562
+type(
+  'a
+)
+ident(
+  int_ref n "ps1.ml" 361 11442 11486 "ps1.ml" 361 11442 11487
+)
+type(
+  'a list
+)
+"ps1.ml" 364 11544 11560 "ps1.ml" 364 11544 11563
+type(
+  'a list
+)
+"ps1.ml" 364 11544 11554 "ps1.ml" 364 11544 11563
+call(
+  stack
+)
+type(
+  'a list
+)
+type(
+  'a list list
+)
+"ps1.ml" 364 11544 11553 "ps1.ml" 364 11544 11564
+type(
+  'a list list
+)
+"ps1.ml" 365 11565 11568 "ps1.ml" 365 11565 11569
+type(
+  'a
+)
+ident(
+  def x "ps1.ml" 366 11580 11584 "ps1.ml" 366 11580 11644
+)
+"ps1.ml" 365 11565 11571 "ps1.ml" 365 11565 11575
+type(
+  'a list
+)
+ident(
+  def rest "ps1.ml" 366 11580 11584 "ps1.ml" 366 11580 11644
+)
+"ps1.ml" 365 11565 11568 "ps1.ml" 365 11565 11575
+type(
+  'a list
+)
+"ps1.ml" 366 11580 11585 "ps1.ml" 366 11580 11588
+type(
+  'a list
+)
+ident(
+  int_ref pre "ps1.ml" 361 11442 11465 "ps1.ml" 361 11442 11484
+)
+"ps1.ml" 366 11580 11589 "ps1.ml" 366 11580 11590
+type(
+  'a list -> 'a list -> 'a list
+)
+ident(
+  ext_ref Core.Std.( @ )
+)
+"ps1.ml" 366 11580 11592 "ps1.ml" 366 11580 11593
+type(
+  'a
+)
+ident(
+  int_ref n "ps1.ml" 361 11442 11486 "ps1.ml" 361 11442 11487
+)
+"ps1.ml" 366 11580 11597 "ps1.ml" 366 11580 11600
+type(
+  'a list
+)
+ident(
+  int_ref lst "ps1.ml" 361 11442 11493 "ps1.ml" 361 11442 11496
+)
+"ps1.ml" 366 11580 11592 "ps1.ml" 366 11580 11600
+type(
+  'a list
+)
+"ps1.ml" 366 11580 11585 "ps1.ml" 366 11580 11601
+call(
+  stack
+)
+type(
+  'a list
+)
+"ps1.ml" 366 11580 11606 "ps1.ml" 366 11580 11620
+type(
+  ?pre:'a list -> 'a -> 'a list -> 'a list list
+)
+ident(
+  int_ref comb_with_list "ps1.ml" 361 11442 11450 "ps1.ml" 361 11442 11464
+)
+"ps1.ml" 366 11580 11621 "ps1.ml" 366 11580 11622
+type(
+  'a
+)
+ident(
+  int_ref n "ps1.ml" 361 11442 11486 "ps1.ml" 361 11442 11487
+)
+"ps1.ml" 366 11580 11623 "ps1.ml" 366 11580 11627
+type(
+  'a list
+)
+ident(
+  int_ref rest "ps1.ml" 365 11565 11571 "ps1.ml" 365 11565 11575
+)
+"ps1.ml" 366 11580 11634 "ps1.ml" 366 11580 11637
+type(
+  'a list
+)
+ident(
+  int_ref pre "ps1.ml" 361 11442 11465 "ps1.ml" 361 11442 11484
+)
+"ps1.ml" 366 11580 11638 "ps1.ml" 366 11580 11639
+type(
+  'a list -> 'a list -> 'a list
+)
+ident(
+  ext_ref Core.Std.( @ )
+)
+"ps1.ml" 366 11580 11641 "ps1.ml" 366 11580 11642
+type(
+  'a
+)
+ident(
+  int_ref x "ps1.ml" 365 11565 11568 "ps1.ml" 365 11565 11569
+)
+type(
+  'a list
+)
+"ps1.ml" 366 11580 11640 "ps1.ml" 366 11580 11643
+type(
+  'a list
+)
+"ps1.ml" 366 11580 11634 "ps1.ml" 366 11580 11643
+call(
+  stack
+)
+type(
+  'a list
+)
+"ps1.ml" 366 11580 11606 "ps1.ml" 366 11580 11644
+call(
+  stack
+)
+type(
+  'a list list
+)
+"ps1.ml" 366 11580 11584 "ps1.ml" 366 11580 11644
+type(
+  'a list list
+)
+"ps1.ml" 363 11527 11529 "ps1.ml" 366 11580 11644
+type(
+  'a list list
+)
+type(
+  'a list list
+)
+"ps1.ml" 361 11442 11492 "ps1.ml" 366 11580 11644
+type(
+  'a list -> 'a list list
+)
+"ps1.ml" 361 11442 11485 "ps1.ml" 366 11580 11644
+type(
+  'a -> 'a list -> 'a list list
+)
+"ps1.ml" 361 11442 11465 "ps1.ml" 366 11580 11644
+type(
+  ?pre:'a list -> 'a -> 'a list -> 'a list list
+)
+type(
+  'a -> 'a list -> 'a list list
+)
+type(
+  'a list
+)
+type(
+  'a list option
+)
+ident(
+  int_ref *opt* "ps1.ml" 361 11442 11465 "ps1.ml" 366 11580 11644
+)
+type(
+  'a list option
+)
+"ps1.ml" 369 11710 11714 "ps1.ml" 369 11710 11729
+type(
+  'a -> 'a list list -> 'a list list
+)
+ident(
+  def comb_with_lists "ps1.ml" 371 11790 11790 "ps1.ml" 1 0 -1
+)
+"ps1.ml" 369 11710 11730 "ps1.ml" 369 11710 11731
+type(
+  'a
+)
+ident(
+  def n "ps1.ml" 369 11710 11732 "ps1.ml" 369 11710 11788
+)
+"ps1.ml" 369 11710 11732 "ps1.ml" 369 11710 11736
+type(
+  'a list list
+)
+ident(
+  def lsts "ps1.ml" 369 11710 11739 "ps1.ml" 369 11710 11788
+)
+"ps1.ml" 369 11710 11739 "ps1.ml" 369 11710 11750
+type(
+  'a list list list -> 'a list list
+)
+ident(
+  ext_ref Core.Std.List.concat
+)
+"ps1.ml" 369 11710 11752 "ps1.ml" 369 11710 11760
+type(
+  'a list list -> f:('a list -> 'a list list) -> 'a list list list
+)
+ident(
+  ext_ref Core.Std.List.map
+)
+"ps1.ml" 369 11710 11765 "ps1.ml" 369 11710 11779
+type(
+  ?pre:'a list -> 'a -> 'a list -> 'a list list
+)
+ident(
+  int_ref comb_with_list "ps1.ml" 361 11442 11450 "ps1.ml" 361 11442 11464
+)
+"ps1.ml" 369 11710 11780 "ps1.ml" 369 11710 11781
+type(
+  'a
+)
+ident(
+  int_ref n "ps1.ml" 369 11710 11730 "ps1.ml" 369 11710 11731
+)
+"ps1.ml" 369 11710 11765 "ps1.ml" 369 11710 11781
+call(
+  stack
+)
+type(
+  'a list -> 'a list list
+)
+"ps1.ml" 369 11710 11783 "ps1.ml" 369 11710 11787
+type(
+  'a list list
+)
+ident(
+  int_ref lsts "ps1.ml" 369 11710 11732 "ps1.ml" 369 11710 11736
+)
+"ps1.ml" 369 11710 11752 "ps1.ml" 369 11710 11787
+call(
+  stack
+)
+type(
+  'a list list list
+)
+"ps1.ml" 369 11710 11739 "ps1.ml" 369 11710 11788
+call(
+  tail
+)
+type(
+  'a list list
+)
+"ps1.ml" 369 11710 11732 "ps1.ml" 369 11710 11788
+type(
+  'a list list -> 'a list list
+)
+"ps1.ml" 369 11710 11730 "ps1.ml" 369 11710 11788
+type(
+  'a -> 'a list list -> 'a list list
+)
+"ps1.ml" 371 11790 11798 "ps1.ml" 371 11790 11805
+type(
+  'a list -> 'a list list
+)
+ident(
+  def permute "ps1.ml" 371 11790 11790 "ps1.ml" 1 0 -1
+)
+"ps1.ml" 371 11790 11807 "ps1.ml" 371 11790 11810
+type(
+  'a list
+)
+ident(
+  def lst "ps1.ml" 371 11790 11822 "ps1.ml" 375 11884 11928
+)
+"ps1.ml" 372 11839 11847 "ps1.ml" 372 11839 11850
+type(
+  'a list
+)
+ident(
+  int_ref lst "ps1.ml" 371 11790 11807 "ps1.ml" 371 11790 11810
+)
+"ps1.ml" 373 11856 11859 "ps1.ml" 373 11856 11861
+type(
+  'a list
+)
+"ps1.ml" 373 11856 11865 "ps1.ml" 373 11856 11867
+type(
+  'a list list
+)
+"ps1.ml" 374 11868 11872 "ps1.ml" 374 11868 11873
+type(
+  'a list
+)
+type(
+  'a
+)
+ident(
+  def x "ps1.ml" 374 11868 11879 "ps1.ml" 374 11868 11882
+)
+"ps1.ml" 374 11868 11871 "ps1.ml" 374 11868 11874
+type(
+  'a list
+)
+"ps1.ml" 374 11868 11880 "ps1.ml" 374 11868 11881
+type(
+  'a
+)
+ident(
+  int_ref x "ps1.ml" 374 11868 11872 "ps1.ml" 374 11868 11873
+)
+type(
+  'a list
+)
+"ps1.ml" 374 11868 11879 "ps1.ml" 374 11868 11882
+type(
+  'a list
+)
+type(
+  'a list list
+)
+"ps1.ml" 374 11868 11878 "ps1.ml" 374 11868 11883
+type(
+  'a list list
+)
+"ps1.ml" 375 11884 11887 "ps1.ml" 375 11884 11889
+type(
+  'a
+)
+ident(
+  def hd "ps1.ml" 375 11884 11897 "ps1.ml" 375 11884 11928
+)
+"ps1.ml" 375 11884 11891 "ps1.ml" 375 11884 11893
+type(
+  'a list
+)
+ident(
+  def tl "ps1.ml" 375 11884 11897 "ps1.ml" 375 11884 11928
+)
+"ps1.ml" 375 11884 11887 "ps1.ml" 375 11884 11893
+type(
+  'a list
+)
+"ps1.ml" 375 11884 11897 "ps1.ml" 375 11884 11912
+type(
+  'a -> 'a list list -> 'a list list
+)
+ident(
+  int_ref comb_with_lists "ps1.ml" 369 11710 11714 "ps1.ml" 369 11710 11729
+)
+"ps1.ml" 375 11884 11913 "ps1.ml" 375 11884 11915
+type(
+  'a
+)
+ident(
+  int_ref hd "ps1.ml" 375 11884 11887 "ps1.ml" 375 11884 11889
+)
+"ps1.ml" 375 11884 11917 "ps1.ml" 375 11884 11924
+type(
+  'a list -> 'a list list
+)
+ident(
+  int_ref permute "ps1.ml" 371 11790 11798 "ps1.ml" 371 11790 11805
+)
+"ps1.ml" 375 11884 11925 "ps1.ml" 375 11884 11927
+type(
+  'a list
+)
+ident(
+  int_ref tl "ps1.ml" 375 11884 11891 "ps1.ml" 375 11884 11893
+)
+"ps1.ml" 375 11884 11917 "ps1.ml" 375 11884 11927
+call(
+  stack
+)
+type(
+  'a list list
+)
+"ps1.ml" 375 11884 11897 "ps1.ml" 375 11884 11928
+call(
+  tail
+)
+type(
+  'a list list
+)
+"ps1.ml" 372 11839 11841 "ps1.ml" 375 11884 11928
+type(
+  'a list list
+)
+type(
+  'a list list
+)
+"ps1.ml" 371 11790 11806 "ps1.ml" 375 11884 11928
+type(
+  'a list -> 'a list list
+)
+"ps1.ml" 377 11930 11938 "ps1.ml" 377 11930 11945
+type(
+  char list -> char list list
+)
+ident(
+  int_ref permute "ps1.ml" 371 11790 11798 "ps1.ml" 371 11790 11805
+)
+"ps1.ml" 377 11930 11947 "ps1.ml" 377 11930 11950
+type(
+  char
+)
+type(
+  char list
+)
+"ps1.ml" 377 11930 11946 "ps1.ml" 377 11930 11951
+type(
+  char list
+)
+"ps1.ml" 377 11930 11938 "ps1.ml" 377 11930 11951
+call(
+  stack
+)
+type(
+  char list list
+)
+"ps1.ml" 377 11930 11952 "ps1.ml" 377 11930 11953
+type(
+  char list list -> char list list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"ps1.ml" 377 11930 11956 "ps1.ml" 377 11930 11959
+type(
+  char
+)
+type(
+  char list
+)
+"ps1.ml" 377 11930 11955 "ps1.ml" 377 11930 11960
+type(
+  char list
+)
+type(
+  char list list
+)
+"ps1.ml" 377 11930 11954 "ps1.ml" 377 11930 11961
+type(
+  char list list
+)
+"ps1.ml" 377 11930 11938 "ps1.ml" 377 11930 11961
+type(
+  bool
+)
+"ps1.ml" 377 11930 11930 "ps1.ml" 377 11930 11962
+type(
+  unit
+)
+"ps1.ml" 378 11963 11971 "ps1.ml" 378 11963 11978
+type(
+  int list -> int list list
+)
+ident(
+  int_ref permute "ps1.ml" 371 11790 11798 "ps1.ml" 371 11790 11805
+)
+"ps1.ml" 378 11963 11980 "ps1.ml" 378 11963 11981
+type(
+  int
+)
+"ps1.ml" 378 11963 11982 "ps1.ml" 378 11963 11983
+type(
+  int
+)
+type(
+  int list
+)
+"ps1.ml" 378 11963 11980 "ps1.ml" 378 11963 11983
+type(
+  int list
+)
+"ps1.ml" 378 11963 11979 "ps1.ml" 378 11963 11984
+type(
+  int list
+)
+"ps1.ml" 378 11963 11971 "ps1.ml" 378 11963 11984
+call(
+  stack
+)
+type(
+  int list list
+)
+"ps1.ml" 378 11963 11985 "ps1.ml" 378 11963 11986
+type(
+  int list list -> int list list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"ps1.ml" 378 11963 11989 "ps1.ml" 378 11963 11990
+type(
+  int
+)
+"ps1.ml" 378 11963 11991 "ps1.ml" 378 11963 11992
+type(
+  int
+)
+type(
+  int list
+)
+"ps1.ml" 378 11963 11989 "ps1.ml" 378 11963 11992
+type(
+  int list
+)
+"ps1.ml" 378 11963 11988 "ps1.ml" 378 11963 11993
+type(
+  int list
+)
+"ps1.ml" 378 11963 11995 "ps1.ml" 378 11963 11996
+type(
+  int
+)
+"ps1.ml" 378 11963 11997 "ps1.ml" 378 11963 11998
+type(
+  int
+)
+type(
+  int list
+)
+"ps1.ml" 378 11963 11995 "ps1.ml" 378 11963 11998
+type(
+  int list
+)
+"ps1.ml" 378 11963 11994 "ps1.ml" 378 11963 11999
+type(
+  int list
+)
+type(
+  int list list
+)
+"ps1.ml" 378 11963 11988 "ps1.ml" 378 11963 11999
+type(
+  int list list
+)
+"ps1.ml" 378 11963 11987 "ps1.ml" 378 11963 12000
+type(
+  int list list
+)
+"ps1.ml" 378 11963 11971 "ps1.ml" 378 11963 12000
+type(
+  bool
+)
+"ps1.ml" 378 11963 11963 "ps1.ml" 378 11963 12001
+type(
+  unit
+)
+"ps1.ml" 380 12072 12080 "ps1.ml" 380 12072 12087
+type(
+  int list -> int list list
+)
+ident(
+  int_ref permute "ps1.ml" 371 11790 11798 "ps1.ml" 371 11790 11805
+)
+"ps1.ml" 380 12072 12089 "ps1.ml" 380 12072 12090
+type(
+  int
+)
+"ps1.ml" 380 12072 12091 "ps1.ml" 380 12072 12092
+type(
+  int
+)
+"ps1.ml" 380 12072 12093 "ps1.ml" 380 12072 12094
+type(
+  int
+)
+type(
+  int list
+)
+"ps1.ml" 380 12072 12091 "ps1.ml" 380 12072 12094
+type(
+  int list
+)
+"ps1.ml" 380 12072 12089 "ps1.ml" 380 12072 12094
+type(
+  int list
+)
+"ps1.ml" 380 12072 12088 "ps1.ml" 380 12072 12095
+type(
+  int list
+)
+"ps1.ml" 380 12072 12080 "ps1.ml" 380 12072 12095
+call(
+  stack
+)
+type(
+  int list list
+)
+"ps1.ml" 380 12072 12096 "ps1.ml" 380 12072 12097
+type(
+  int list list -> int list list -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"ps1.ml" 380 12072 12100 "ps1.ml" 380 12072 12101
+type(
+  int
+)
+"ps1.ml" 380 12072 12102 "ps1.ml" 380 12072 12103
+type(
+  int
+)
+"ps1.ml" 380 12072 12104 "ps1.ml" 380 12072 12105
+type(
+  int
+)
+type(
+  int list
+)
+"ps1.ml" 380 12072 12102 "ps1.ml" 380 12072 12105
+type(
+  int list
+)
+"ps1.ml" 380 12072 12100 "ps1.ml" 380 12072 12105
+type(
+  int list
+)
+"ps1.ml" 380 12072 12099 "ps1.ml" 380 12072 12106
+type(
+  int list
+)
+"ps1.ml" 380 12072 12108 "ps1.ml" 380 12072 12109
+type(
+  int
+)
+"ps1.ml" 380 12072 12110 "ps1.ml" 380 12072 12111
+type(
+  int
+)
+"ps1.ml" 380 12072 12112 "ps1.ml" 380 12072 12113
+type(
+  int
+)
+type(
+  int list
+)
+"ps1.ml" 380 12072 12110 "ps1.ml" 380 12072 12113
+type(
+  int list
+)
+"ps1.ml" 380 12072 12108 "ps1.ml" 380 12072 12113
+type(
+  int list
+)
+"ps1.ml" 380 12072 12107 "ps1.ml" 380 12072 12114
+type(
+  int list
+)
+"ps1.ml" 380 12072 12116 "ps1.ml" 380 12072 12117
+type(
+  int
+)
+"ps1.ml" 380 12072 12118 "ps1.ml" 380 12072 12119
+type(
+  int
+)
+"ps1.ml" 380 12072 12120 "ps1.ml" 380 12072 12121
+type(
+  int
+)
+type(
+  int list
+)
+"ps1.ml" 380 12072 12118 "ps1.ml" 380 12072 12121
+type(
+  int list
+)
+"ps1.ml" 380 12072 12116 "ps1.ml" 380 12072 12121
+type(
+  int list
+)
+"ps1.ml" 380 12072 12115 "ps1.ml" 380 12072 12122
+type(
+  int list
+)
+"ps1.ml" 380 12072 12124 "ps1.ml" 380 12072 12125
+type(
+  int
+)
+"ps1.ml" 380 12072 12126 "ps1.ml" 380 12072 12127
+type(
+  int
+)
+"ps1.ml" 380 12072 12128 "ps1.ml" 380 12072 12129
+type(
+  int
+)
+type(
+  int list
+)
+"ps1.ml" 380 12072 12126 "ps1.ml" 380 12072 12129
+type(
+  int list
+)
+"ps1.ml" 380 12072 12124 "ps1.ml" 380 12072 12129
+type(
+  int list
+)
+"ps1.ml" 380 12072 12123 "ps1.ml" 380 12072 12130
+type(
+  int list
+)
+"ps1.ml" 380 12072 12132 "ps1.ml" 380 12072 12133
+type(
+  int
+)
+"ps1.ml" 380 12072 12134 "ps1.ml" 380 12072 12135
+type(
+  int
+)
+"ps1.ml" 380 12072 12136 "ps1.ml" 380 12072 12137
+type(
+  int
+)
+type(
+  int list
+)
+"ps1.ml" 380 12072 12134 "ps1.ml" 380 12072 12137
+type(
+  int list
+)
+"ps1.ml" 380 12072 12132 "ps1.ml" 380 12072 12137
+type(
+  int list
+)
+"ps1.ml" 380 12072 12131 "ps1.ml" 380 12072 12138
+type(
+  int list
+)
+"ps1.ml" 380 12072 12140 "ps1.ml" 380 12072 12141
+type(
+  int
+)
+"ps1.ml" 380 12072 12142 "ps1.ml" 380 12072 12143
+type(
+  int
+)
+"ps1.ml" 380 12072 12144 "ps1.ml" 380 12072 12145
+type(
+  int
+)
+type(
+  int list
+)
+"ps1.ml" 380 12072 12142 "ps1.ml" 380 12072 12145
+type(
+  int list
+)
+"ps1.ml" 380 12072 12140 "ps1.ml" 380 12072 12145
+type(
+  int list
+)
+"ps1.ml" 380 12072 12139 "ps1.ml" 380 12072 12146
+type(
+  int list
+)
+type(
+  int list list
+)
+"ps1.ml" 380 12072 12131 "ps1.ml" 380 12072 12146
+type(
+  int list list
+)
+"ps1.ml" 380 12072 12123 "ps1.ml" 380 12072 12146
+type(
+  int list list
+)
+"ps1.ml" 380 12072 12115 "ps1.ml" 380 12072 12146
+type(
+  int list list
+)
+"ps1.ml" 380 12072 12107 "ps1.ml" 380 12072 12146
+type(
+  int list list
+)
+"ps1.ml" 380 12072 12099 "ps1.ml" 380 12072 12146
+type(
+  int list list
+)
+"ps1.ml" 380 12072 12098 "ps1.ml" 380 12072 12147
+type(
+  int list list
+)
+"ps1.ml" 380 12072 12080 "ps1.ml" 380 12072 12147
+type(
+  bool
+)
+"ps1.ml" 380 12072 12072 "ps1.ml" 380 12072 12148
+type(
+  unit
+)

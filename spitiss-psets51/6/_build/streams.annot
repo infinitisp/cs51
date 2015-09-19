@@ -1,0 +1,2333 @@
+"streams.ml" 14 377 381 "streams.ml" 14 377 386
+type(
+  'a tree -> 'a
+)
+ident(
+  def headt "streams.ml" 23 595 595 "streams.ml" 1 0 -1
+)
+"streams.ml" 14 377 388 "streams.ml" 14 377 389
+type(
+  'a tree
+)
+ident(
+  def t "streams.ml" 14 377 400 "streams.ml" 16 426 448
+)
+"streams.ml" 15 407 415 "streams.ml" 15 407 416
+type(
+  'a tree
+)
+ident(
+  int_ref t "streams.ml" 14 377 388 "streams.ml" 14 377 389
+)
+"streams.ml" 15 407 417 "streams.ml" 15 407 419
+type(
+  unit
+)
+"streams.ml" 15 407 415 "streams.ml" 15 407 419
+call(
+  stack
+)
+type(
+  'a tr
+)
+"streams.ml" 16 426 435 "streams.ml" 16 426 436
+type(
+  'a
+)
+ident(
+  def x "streams.ml" 16 426 447 "streams.ml" 16 426 448
+)
+"streams.ml" 16 426 438 "streams.ml" 16 426 439
+type(
+  'a tree
+)
+"streams.ml" 16 426 441 "streams.ml" 16 426 442
+type(
+  'a tree
+)
+"streams.ml" 16 426 429 "streams.ml" 16 426 443
+type(
+  'a tr
+)
+"streams.ml" 16 426 447 "streams.ml" 16 426 448
+type(
+  'a
+)
+ident(
+  int_ref x "streams.ml" 16 426 435 "streams.ml" 16 426 436
+)
+"streams.ml" 15 407 409 "streams.ml" 16 426 448
+type(
+  'a
+)
+type(
+  'a
+)
+"streams.ml" 14 377 387 "streams.ml" 16 426 448
+type(
+  'a tree -> 'a
+)
+"streams.ml" 23 595 599 "streams.ml" 23 595 604
+type(
+  'a tree -> 'a tree
+)
+ident(
+  def ltail "streams.ml" 28 675 675 "streams.ml" 1 0 -1
+)
+"streams.ml" 23 595 606 "streams.ml" 23 595 607
+type(
+  'a tree
+)
+ident(
+  def t "streams.ml" 23 595 618 "streams.ml" 25 648 670
+)
+"streams.ml" 24 630 638 "streams.ml" 24 630 639
+type(
+  'a tree
+)
+ident(
+  int_ref t "streams.ml" 23 595 606 "streams.ml" 23 595 607
+)
+"streams.ml" 24 630 640 "streams.ml" 24 630 642
+type(
+  unit
+)
+"streams.ml" 24 630 638 "streams.ml" 24 630 642
+call(
+  stack
+)
+type(
+  'a tr
+)
+"streams.ml" 25 648 657 "streams.ml" 25 648 658
+type(
+  'a
+)
+"streams.ml" 25 648 660 "streams.ml" 25 648 661
+type(
+  'a tree
+)
+ident(
+  def x "streams.ml" 25 648 669 "streams.ml" 25 648 670
+)
+"streams.ml" 25 648 663 "streams.ml" 25 648 664
+type(
+  'a tree
+)
+"streams.ml" 25 648 651 "streams.ml" 25 648 665
+type(
+  'a tr
+)
+"streams.ml" 25 648 669 "streams.ml" 25 648 670
+type(
+  'a tree
+)
+ident(
+  int_ref x "streams.ml" 25 648 660 "streams.ml" 25 648 661
+)
+"streams.ml" 24 630 632 "streams.ml" 25 648 670
+type(
+  'a tree
+)
+type(
+  'a tree
+)
+"streams.ml" 23 595 605 "streams.ml" 25 648 670
+type(
+  'a tree -> 'a tree
+)
+"streams.ml" 28 675 679 "streams.ml" 28 675 684
+type(
+  'a tree -> 'a tree
+)
+ident(
+  def rtail "streams.ml" 37 880 880 "streams.ml" 1 0 -1
+)
+"streams.ml" 28 675 686 "streams.ml" 28 675 687
+type(
+  'a tree
+)
+ident(
+  def t "streams.ml" 28 675 698 "streams.ml" 30 728 750
+)
+"streams.ml" 29 710 718 "streams.ml" 29 710 719
+type(
+  'a tree
+)
+ident(
+  int_ref t "streams.ml" 28 675 686 "streams.ml" 28 675 687
+)
+"streams.ml" 29 710 720 "streams.ml" 29 710 722
+type(
+  unit
+)
+"streams.ml" 29 710 718 "streams.ml" 29 710 722
+call(
+  stack
+)
+type(
+  'a tr
+)
+"streams.ml" 30 728 737 "streams.ml" 30 728 738
+type(
+  'a
+)
+"streams.ml" 30 728 740 "streams.ml" 30 728 741
+type(
+  'a tree
+)
+"streams.ml" 30 728 743 "streams.ml" 30 728 744
+type(
+  'a tree
+)
+ident(
+  def x "streams.ml" 30 728 749 "streams.ml" 30 728 750
+)
+"streams.ml" 30 728 731 "streams.ml" 30 728 745
+type(
+  'a tr
+)
+"streams.ml" 30 728 749 "streams.ml" 30 728 750
+type(
+  'a tree
+)
+ident(
+  int_ref x "streams.ml" 30 728 743 "streams.ml" 30 728 744
+)
+"streams.ml" 29 710 712 "streams.ml" 30 728 750
+type(
+  'a tree
+)
+type(
+  'a tree
+)
+"streams.ml" 28 675 685 "streams.ml" 30 728 750
+type(
+  'a tree -> 'a tree
+)
+"streams.ml" 37 880 888 "streams.ml" 37 880 892
+type(
+  ('a -> 'b) -> 'a tree -> 'b tree
+)
+ident(
+  def mapt "streams.ml" 37 880 880 "streams.ml" 1 0 -1
+)
+"streams.ml" 37 880 894 "streams.ml" 37 880 895
+type(
+  'a -> 'b
+)
+ident(
+  def f "streams.ml" 37 880 907 "streams.ml" 38 932 998
+)
+"streams.ml" 37 880 908 "streams.ml" 37 880 909
+type(
+  'a tree
+)
+ident(
+  def t "streams.ml" 37 880 920 "streams.ml" 38 932 998
+)
+"streams.ml" 38 932 938 "streams.ml" 38 932 940
+type(
+  unit
+)
+"streams.ml" 38 932 950 "streams.ml" 38 932 951
+type(
+  'a -> 'b
+)
+ident(
+  int_ref f "streams.ml" 37 880 894 "streams.ml" 37 880 895
+)
+"streams.ml" 38 932 953 "streams.ml" 38 932 958
+type(
+  'a tree -> 'a
+)
+ident(
+  int_ref headt "streams.ml" 14 377 381 "streams.ml" 14 377 386
+)
+"streams.ml" 38 932 959 "streams.ml" 38 932 960
+type(
+  'a tree
+)
+ident(
+  int_ref t "streams.ml" 37 880 908 "streams.ml" 37 880 909
+)
+"streams.ml" 38 932 953 "streams.ml" 38 932 960
+call(
+  stack
+)
+type(
+  'a
+)
+"streams.ml" 38 932 950 "streams.ml" 38 932 961
+call(
+  stack
+)
+type(
+  'b
+)
+"streams.ml" 38 932 963 "streams.ml" 38 932 967
+type(
+  ('a -> 'b) -> 'a tree -> 'b tree
+)
+ident(
+  int_ref mapt "streams.ml" 37 880 888 "streams.ml" 37 880 892
+)
+"streams.ml" 38 932 968 "streams.ml" 38 932 969
+type(
+  'a -> 'b
+)
+ident(
+  int_ref f "streams.ml" 37 880 894 "streams.ml" 37 880 895
+)
+"streams.ml" 38 932 971 "streams.ml" 38 932 976
+type(
+  'a tree -> 'a tree
+)
+ident(
+  int_ref ltail "streams.ml" 23 595 599 "streams.ml" 23 595 604
+)
+"streams.ml" 38 932 977 "streams.ml" 38 932 978
+type(
+  'a tree
+)
+ident(
+  int_ref t "streams.ml" 37 880 908 "streams.ml" 37 880 909
+)
+"streams.ml" 38 932 971 "streams.ml" 38 932 978
+call(
+  stack
+)
+type(
+  'a tree
+)
+"streams.ml" 38 932 963 "streams.ml" 38 932 979
+call(
+  stack
+)
+type(
+  'b tree
+)
+"streams.ml" 38 932 981 "streams.ml" 38 932 985
+type(
+  ('a -> 'b) -> 'a tree -> 'b tree
+)
+ident(
+  int_ref mapt "streams.ml" 37 880 888 "streams.ml" 37 880 892
+)
+"streams.ml" 38 932 986 "streams.ml" 38 932 987
+type(
+  'a -> 'b
+)
+ident(
+  int_ref f "streams.ml" 37 880 894 "streams.ml" 37 880 895
+)
+"streams.ml" 38 932 989 "streams.ml" 38 932 994
+type(
+  'a tree -> 'a tree
+)
+ident(
+  int_ref rtail "streams.ml" 28 675 679 "streams.ml" 28 675 684
+)
+"streams.ml" 38 932 995 "streams.ml" 38 932 996
+type(
+  'a tree
+)
+ident(
+  int_ref t "streams.ml" 37 880 908 "streams.ml" 37 880 909
+)
+"streams.ml" 38 932 989 "streams.ml" 38 932 996
+call(
+  stack
+)
+type(
+  'a tree
+)
+"streams.ml" 38 932 981 "streams.ml" 38 932 997
+call(
+  stack
+)
+type(
+  'b tree
+)
+"streams.ml" 38 932 944 "streams.ml" 38 932 998
+type(
+  'b tr
+)
+"streams.ml" 38 932 938 "streams.ml" 38 932 998
+type(
+  'b tree
+)
+type(
+  'b tree
+)
+"streams.ml" 37 880 907 "streams.ml" 38 932 998
+type(
+  'a tree -> 'b tree
+)
+"streams.ml" 37 880 893 "streams.ml" 38 932 998
+type(
+  ('a -> 'b) -> 'a tree -> 'b tree
+)
+"streams.ml" 47 1308 1316 "streams.ml" 47 1308 1320
+type(
+  ('a -> 'b -> 'c) -> 'a tree -> 'b tree -> 'c tree
+)
+ident(
+  def zipt "streams.ml" 47 1308 1308 "streams.ml" 1 0 -1
+)
+"streams.ml" 47 1308 1322 "streams.ml" 47 1308 1323
+type(
+  'a -> 'b -> 'c
+)
+ident(
+  def f "streams.ml" 47 1308 1341 "streams.ml" 49 1455 1488
+)
+"streams.ml" 47 1308 1342 "streams.ml" 47 1308 1344
+type(
+  'a tree
+)
+ident(
+  def t1 "streams.ml" 47 1308 1355 "streams.ml" 49 1455 1488
+)
+"streams.ml" 47 1308 1356 "streams.ml" 47 1308 1358
+type(
+  'b tree
+)
+ident(
+  def t2 "streams.ml" 47 1308 1369 "streams.ml" 49 1455 1488
+)
+"streams.ml" 48 1381 1387 "streams.ml" 48 1381 1389
+type(
+  unit
+)
+"streams.ml" 48 1381 1399 "streams.ml" 48 1381 1400
+type(
+  'a -> 'b -> 'c
+)
+ident(
+  int_ref f "streams.ml" 47 1308 1322 "streams.ml" 47 1308 1323
+)
+"streams.ml" 48 1381 1402 "streams.ml" 48 1381 1407
+type(
+  'a tree -> 'a
+)
+ident(
+  int_ref headt "streams.ml" 14 377 381 "streams.ml" 14 377 386
+)
+"streams.ml" 48 1381 1408 "streams.ml" 48 1381 1410
+type(
+  'a tree
+)
+ident(
+  int_ref t1 "streams.ml" 47 1308 1342 "streams.ml" 47 1308 1344
+)
+"streams.ml" 48 1381 1402 "streams.ml" 48 1381 1410
+call(
+  stack
+)
+type(
+  'a
+)
+"streams.ml" 48 1381 1413 "streams.ml" 48 1381 1418
+type(
+  'b tree -> 'b
+)
+ident(
+  int_ref headt "streams.ml" 14 377 381 "streams.ml" 14 377 386
+)
+"streams.ml" 48 1381 1419 "streams.ml" 48 1381 1421
+type(
+  'b tree
+)
+ident(
+  int_ref t2 "streams.ml" 47 1308 1356 "streams.ml" 47 1308 1358
+)
+"streams.ml" 48 1381 1413 "streams.ml" 48 1381 1421
+call(
+  stack
+)
+type(
+  'b
+)
+"streams.ml" 48 1381 1399 "streams.ml" 48 1381 1422
+call(
+  stack
+)
+type(
+  'c
+)
+"streams.ml" 48 1381 1424 "streams.ml" 48 1381 1428
+type(
+  ('a -> 'b -> 'c) -> 'a tree -> 'b tree -> 'c tree
+)
+ident(
+  int_ref zipt "streams.ml" 47 1308 1316 "streams.ml" 47 1308 1320
+)
+"streams.ml" 48 1381 1429 "streams.ml" 48 1381 1430
+type(
+  'a -> 'b -> 'c
+)
+ident(
+  int_ref f "streams.ml" 47 1308 1322 "streams.ml" 47 1308 1323
+)
+"streams.ml" 48 1381 1432 "streams.ml" 48 1381 1437
+type(
+  'a tree -> 'a tree
+)
+ident(
+  int_ref ltail "streams.ml" 23 595 599 "streams.ml" 23 595 604
+)
+"streams.ml" 48 1381 1438 "streams.ml" 48 1381 1440
+type(
+  'a tree
+)
+ident(
+  int_ref t1 "streams.ml" 47 1308 1342 "streams.ml" 47 1308 1344
+)
+"streams.ml" 48 1381 1432 "streams.ml" 48 1381 1440
+call(
+  stack
+)
+type(
+  'a tree
+)
+"streams.ml" 48 1381 1443 "streams.ml" 48 1381 1448
+type(
+  'b tree -> 'b tree
+)
+ident(
+  int_ref ltail "streams.ml" 23 595 599 "streams.ml" 23 595 604
+)
+"streams.ml" 48 1381 1449 "streams.ml" 48 1381 1451
+type(
+  'b tree
+)
+ident(
+  int_ref t2 "streams.ml" 47 1308 1356 "streams.ml" 47 1308 1358
+)
+"streams.ml" 48 1381 1443 "streams.ml" 48 1381 1451
+call(
+  stack
+)
+type(
+  'b tree
+)
+"streams.ml" 48 1381 1424 "streams.ml" 48 1381 1452
+call(
+  stack
+)
+type(
+  'c tree
+)
+"streams.ml" 49 1455 1459 "streams.ml" 49 1455 1463
+type(
+  ('a -> 'b -> 'c) -> 'a tree -> 'b tree -> 'c tree
+)
+ident(
+  int_ref zipt "streams.ml" 47 1308 1316 "streams.ml" 47 1308 1320
+)
+"streams.ml" 49 1455 1464 "streams.ml" 49 1455 1465
+type(
+  'a -> 'b -> 'c
+)
+ident(
+  int_ref f "streams.ml" 47 1308 1322 "streams.ml" 47 1308 1323
+)
+"streams.ml" 49 1455 1467 "streams.ml" 49 1455 1472
+type(
+  'a tree -> 'a tree
+)
+ident(
+  int_ref rtail "streams.ml" 28 675 679 "streams.ml" 28 675 684
+)
+"streams.ml" 49 1455 1473 "streams.ml" 49 1455 1475
+type(
+  'a tree
+)
+ident(
+  int_ref t1 "streams.ml" 47 1308 1342 "streams.ml" 47 1308 1344
+)
+"streams.ml" 49 1455 1467 "streams.ml" 49 1455 1475
+call(
+  stack
+)
+type(
+  'a tree
+)
+"streams.ml" 49 1455 1478 "streams.ml" 49 1455 1483
+type(
+  'b tree -> 'b tree
+)
+ident(
+  int_ref rtail "streams.ml" 28 675 679 "streams.ml" 28 675 684
+)
+"streams.ml" 49 1455 1484 "streams.ml" 49 1455 1486
+type(
+  'b tree
+)
+ident(
+  int_ref t2 "streams.ml" 47 1308 1356 "streams.ml" 47 1308 1358
+)
+"streams.ml" 49 1455 1478 "streams.ml" 49 1455 1486
+call(
+  stack
+)
+type(
+  'b tree
+)
+"streams.ml" 49 1455 1459 "streams.ml" 49 1455 1487
+call(
+  stack
+)
+type(
+  'c tree
+)
+"streams.ml" 48 1381 1393 "streams.ml" 49 1455 1488
+type(
+  'c tr
+)
+"streams.ml" 48 1381 1387 "streams.ml" 49 1455 1488
+type(
+  'c tree
+)
+type(
+  'c tree
+)
+"streams.ml" 47 1308 1355 "streams.ml" 49 1455 1488
+type(
+  'b tree -> 'c tree
+)
+"streams.ml" 47 1308 1341 "streams.ml" 49 1455 1488
+type(
+  'a tree -> 'b tree -> 'c tree
+)
+"streams.ml" 47 1308 1321 "streams.ml" 49 1455 1488
+type(
+  ('a -> 'b -> 'c) -> 'a tree -> 'b tree -> 'c tree
+)
+"streams.ml" 55 1556 1564 "streams.ml" 55 1556 1569
+type(
+  int tree
+)
+ident(
+  def onest "streams.ml" 55 1556 1556 "streams.ml" 1 0 -1
+)
+"streams.ml" 55 1556 1570 "streams.ml" 55 1556 1572
+type(
+  unit
+)
+"streams.ml" 56 1575 1583 "streams.ml" 56 1575 1584
+type(
+  int
+)
+"streams.ml" 56 1575 1586 "streams.ml" 56 1575 1591
+type(
+  int tree
+)
+ident(
+  int_ref onest "streams.ml" 55 1556 1564 "streams.ml" 55 1556 1569
+)
+"streams.ml" 56 1575 1593 "streams.ml" 56 1575 1598
+type(
+  int tree
+)
+ident(
+  int_ref onest "streams.ml" 55 1556 1564 "streams.ml" 55 1556 1569
+)
+"streams.ml" 56 1575 1577 "streams.ml" 56 1575 1599
+type(
+  int tr
+)
+"streams.ml" 55 1556 1570 "streams.ml" 56 1575 1599
+type(
+  unit -> int tr
+)
+"streams.ml" 75 1945 1953 "streams.ml" 75 1945 1963
+type(
+  int tree
+)
+ident(
+  def doubletree "streams.ml" 75 1945 1945 "streams.ml" 1 0 -1
+)
+"streams.ml" 75 1945 1964 "streams.ml" 75 1945 1966
+type(
+  unit
+)
+"streams.ml" 76 1969 1977 "streams.ml" 76 1969 1978
+type(
+  int
+)
+"streams.ml" 76 1969 1980 "streams.ml" 76 1969 1984
+type(
+  (int -> int) -> int tree -> int tree
+)
+ident(
+  int_ref mapt "streams.ml" 37 880 888 "streams.ml" 37 880 892
+)
+"streams.ml" 76 1969 1986 "streams.ml" 76 1969 1991
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( * )
+)
+"streams.ml" 76 1969 1992 "streams.ml" 76 1969 1993
+type(
+  int
+)
+"streams.ml" 76 1969 1986 "streams.ml" 76 1969 1993
+call(
+  stack
+)
+type(
+  int -> int
+)
+"streams.ml" 76 1969 1995 "streams.ml" 76 1969 2005
+type(
+  int tree
+)
+ident(
+  int_ref doubletree "streams.ml" 75 1945 1953 "streams.ml" 75 1945 1963
+)
+"streams.ml" 76 1969 1980 "streams.ml" 76 1969 2005
+call(
+  stack
+)
+type(
+  int tree
+)
+"streams.ml" 76 1969 2007 "streams.ml" 76 1969 2011
+type(
+  (int -> int) -> int tree -> int tree
+)
+ident(
+  int_ref mapt "streams.ml" 37 880 888 "streams.ml" 37 880 892
+)
+"streams.ml" 76 1969 2013 "streams.ml" 76 1969 2018
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( * )
+)
+"streams.ml" 76 1969 2019 "streams.ml" 76 1969 2020
+type(
+  int
+)
+"streams.ml" 76 1969 2013 "streams.ml" 76 1969 2020
+call(
+  stack
+)
+type(
+  int -> int
+)
+"streams.ml" 76 1969 2022 "streams.ml" 76 1969 2032
+type(
+  int tree
+)
+ident(
+  int_ref doubletree "streams.ml" 75 1945 1953 "streams.ml" 75 1945 1963
+)
+"streams.ml" 76 1969 2007 "streams.ml" 76 1969 2032
+call(
+  stack
+)
+type(
+  int tree
+)
+"streams.ml" 76 1969 1971 "streams.ml" 76 1969 2033
+type(
+  int tr
+)
+"streams.ml" 75 1945 1964 "streams.ml" 76 1969 2033
+type(
+  unit -> int tr
+)
+"streams.ml" 78 2035 2043 "streams.ml" 78 2035 2051
+type(
+  int tree
+)
+ident(
+  def treenats "streams.ml" 78 2035 2035 "streams.ml" 1 0 -1
+)
+"streams.ml" 78 2035 2052 "streams.ml" 78 2035 2054
+type(
+  unit
+)
+"streams.ml" 79 2057 2065 "streams.ml" 79 2057 2066
+type(
+  int
+)
+"streams.ml" 79 2057 2068 "streams.ml" 79 2057 2072
+type(
+  (int -> int -> int) -> int tree -> int tree -> int tree
+)
+ident(
+  int_ref zipt "streams.ml" 47 1308 1316 "streams.ml" 47 1308 1320
+)
+"streams.ml" 79 2057 2073 "streams.ml" 79 2057 2076
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"streams.ml" 79 2057 2077 "streams.ml" 79 2057 2087
+type(
+  int tree
+)
+ident(
+  int_ref doubletree "streams.ml" 75 1945 1953 "streams.ml" 75 1945 1963
+)
+"streams.ml" 79 2057 2088 "streams.ml" 79 2057 2096
+type(
+  int tree
+)
+ident(
+  int_ref treenats "streams.ml" 78 2035 2043 "streams.ml" 78 2035 2051
+)
+"streams.ml" 79 2057 2068 "streams.ml" 79 2057 2096
+call(
+  stack
+)
+type(
+  int tree
+)
+"streams.ml" 79 2057 2098 "streams.ml" 79 2057 2102
+type(
+  (int -> int -> int) -> int tree -> int tree -> int tree
+)
+ident(
+  int_ref zipt "streams.ml" 47 1308 1316 "streams.ml" 47 1308 1320
+)
+"streams.ml" 79 2057 2103 "streams.ml" 79 2057 2106
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"streams.ml" 79 2057 2108 "streams.ml" 79 2057 2112
+type(
+  (int -> int -> int) -> int tree -> int tree -> int tree
+)
+ident(
+  int_ref zipt "streams.ml" 47 1308 1316 "streams.ml" 47 1308 1320
+)
+"streams.ml" 79 2057 2113 "streams.ml" 79 2057 2116
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"streams.ml" 79 2057 2117 "streams.ml" 79 2057 2127
+type(
+  int tree
+)
+ident(
+  int_ref doubletree "streams.ml" 75 1945 1953 "streams.ml" 75 1945 1963
+)
+"streams.ml" 79 2057 2128 "streams.ml" 79 2057 2138
+type(
+  int tree
+)
+ident(
+  int_ref doubletree "streams.ml" 75 1945 1953 "streams.ml" 75 1945 1963
+)
+"streams.ml" 79 2057 2108 "streams.ml" 79 2057 2138
+call(
+  stack
+)
+type(
+  int tree
+)
+"streams.ml" 79 2057 2140 "streams.ml" 79 2057 2148
+type(
+  int tree
+)
+ident(
+  int_ref treenats "streams.ml" 78 2035 2043 "streams.ml" 78 2035 2051
+)
+"streams.ml" 79 2057 2098 "streams.ml" 79 2057 2148
+call(
+  stack
+)
+type(
+  int tree
+)
+"streams.ml" 79 2057 2059 "streams.ml" 79 2057 2149
+type(
+  int tr
+)
+"streams.ml" 78 2035 2052 "streams.ml" 79 2057 2149
+type(
+  unit -> int tr
+)
+"streams.ml" 87 2527 2535 "streams.ml" 87 2527 2540
+type(
+  int tree -> int
+)
+ident(
+  int_ref headt "streams.ml" 14 377 381 "streams.ml" 14 377 386
+)
+"streams.ml" 87 2527 2542 "streams.ml" 87 2527 2547
+type(
+  int tree -> int tree
+)
+ident(
+  int_ref rtail "streams.ml" 28 675 679 "streams.ml" 28 675 684
+)
+"streams.ml" 87 2527 2548 "streams.ml" 87 2527 2556
+type(
+  int tree
+)
+ident(
+  int_ref treenats "streams.ml" 78 2035 2043 "streams.ml" 78 2035 2051
+)
+"streams.ml" 87 2527 2542 "streams.ml" 87 2527 2556
+call(
+  stack
+)
+type(
+  int tree
+)
+"streams.ml" 87 2527 2535 "streams.ml" 87 2527 2557
+call(
+  stack
+)
+type(
+  int
+)
+"streams.ml" 87 2527 2558 "streams.ml" 87 2527 2559
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"streams.ml" 87 2527 2560 "streams.ml" 87 2527 2561
+type(
+  int
+)
+"streams.ml" 87 2527 2535 "streams.ml" 87 2527 2561
+type(
+  bool
+)
+"streams.ml" 87 2527 2527 "streams.ml" 87 2527 2562
+type(
+  unit
+)
+"streams.ml" 88 2563 2571 "streams.ml" 88 2563 2576
+type(
+  int tree -> int
+)
+ident(
+  int_ref headt "streams.ml" 14 377 381 "streams.ml" 14 377 386
+)
+"streams.ml" 88 2563 2578 "streams.ml" 88 2563 2583
+type(
+  int tree -> int tree
+)
+ident(
+  int_ref ltail "streams.ml" 23 595 599 "streams.ml" 23 595 604
+)
+"streams.ml" 88 2563 2585 "streams.ml" 88 2563 2590
+type(
+  int tree -> int tree
+)
+ident(
+  int_ref ltail "streams.ml" 23 595 599 "streams.ml" 23 595 604
+)
+"streams.ml" 88 2563 2591 "streams.ml" 88 2563 2599
+type(
+  int tree
+)
+ident(
+  int_ref treenats "streams.ml" 78 2035 2043 "streams.ml" 78 2035 2051
+)
+"streams.ml" 88 2563 2585 "streams.ml" 88 2563 2599
+call(
+  stack
+)
+type(
+  int tree
+)
+"streams.ml" 88 2563 2578 "streams.ml" 88 2563 2600
+call(
+  stack
+)
+type(
+  int tree
+)
+"streams.ml" 88 2563 2571 "streams.ml" 88 2563 2601
+call(
+  stack
+)
+type(
+  int
+)
+"streams.ml" 88 2563 2602 "streams.ml" 88 2563 2603
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"streams.ml" 88 2563 2604 "streams.ml" 88 2563 2605
+type(
+  int
+)
+"streams.ml" 88 2563 2571 "streams.ml" 88 2563 2605
+type(
+  bool
+)
+"streams.ml" 88 2563 2563 "streams.ml" 88 2563 2606
+type(
+  unit
+)
+"streams.ml" 89 2607 2615 "streams.ml" 89 2607 2620
+type(
+  int tree -> int
+)
+ident(
+  int_ref headt "streams.ml" 14 377 381 "streams.ml" 14 377 386
+)
+"streams.ml" 89 2607 2622 "streams.ml" 89 2607 2627
+type(
+  int tree -> int tree
+)
+ident(
+  int_ref ltail "streams.ml" 23 595 599 "streams.ml" 23 595 604
+)
+"streams.ml" 89 2607 2629 "streams.ml" 89 2607 2634
+type(
+  int tree -> int tree
+)
+ident(
+  int_ref ltail "streams.ml" 23 595 599 "streams.ml" 23 595 604
+)
+"streams.ml" 89 2607 2636 "streams.ml" 89 2607 2641
+type(
+  int tree -> int tree
+)
+ident(
+  int_ref ltail "streams.ml" 23 595 599 "streams.ml" 23 595 604
+)
+"streams.ml" 89 2607 2642 "streams.ml" 89 2607 2650
+type(
+  int tree
+)
+ident(
+  int_ref treenats "streams.ml" 78 2035 2043 "streams.ml" 78 2035 2051
+)
+"streams.ml" 89 2607 2636 "streams.ml" 89 2607 2650
+call(
+  stack
+)
+type(
+  int tree
+)
+"streams.ml" 89 2607 2629 "streams.ml" 89 2607 2651
+call(
+  stack
+)
+type(
+  int tree
+)
+"streams.ml" 89 2607 2622 "streams.ml" 89 2607 2652
+call(
+  stack
+)
+type(
+  int tree
+)
+"streams.ml" 89 2607 2615 "streams.ml" 89 2607 2653
+call(
+  stack
+)
+type(
+  int
+)
+"streams.ml" 89 2607 2654 "streams.ml" 89 2607 2655
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"streams.ml" 89 2607 2656 "streams.ml" 89 2607 2657
+type(
+  int
+)
+"streams.ml" 89 2607 2615 "streams.ml" 89 2607 2657
+type(
+  bool
+)
+"streams.ml" 89 2607 2607 "streams.ml" 89 2607 2658
+type(
+  unit
+)
+"streams.ml" 90 2659 2667 "streams.ml" 90 2659 2672
+type(
+  int tree -> int
+)
+ident(
+  int_ref headt "streams.ml" 14 377 381 "streams.ml" 14 377 386
+)
+"streams.ml" 90 2659 2674 "streams.ml" 90 2659 2679
+type(
+  int tree -> int tree
+)
+ident(
+  int_ref rtail "streams.ml" 28 675 679 "streams.ml" 28 675 684
+)
+"streams.ml" 90 2659 2681 "streams.ml" 90 2659 2686
+type(
+  int tree -> int tree
+)
+ident(
+  int_ref ltail "streams.ml" 23 595 599 "streams.ml" 23 595 604
+)
+"streams.ml" 90 2659 2688 "streams.ml" 90 2659 2693
+type(
+  int tree -> int tree
+)
+ident(
+  int_ref ltail "streams.ml" 23 595 599 "streams.ml" 23 595 604
+)
+"streams.ml" 90 2659 2694 "streams.ml" 90 2659 2702
+type(
+  int tree
+)
+ident(
+  int_ref treenats "streams.ml" 78 2035 2043 "streams.ml" 78 2035 2051
+)
+"streams.ml" 90 2659 2688 "streams.ml" 90 2659 2702
+call(
+  stack
+)
+type(
+  int tree
+)
+"streams.ml" 90 2659 2681 "streams.ml" 90 2659 2703
+call(
+  stack
+)
+type(
+  int tree
+)
+"streams.ml" 90 2659 2674 "streams.ml" 90 2659 2704
+call(
+  stack
+)
+type(
+  int tree
+)
+"streams.ml" 90 2659 2667 "streams.ml" 90 2659 2705
+call(
+  stack
+)
+type(
+  int
+)
+"streams.ml" 90 2659 2706 "streams.ml" 90 2659 2707
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"streams.ml" 90 2659 2708 "streams.ml" 90 2659 2709
+type(
+  int
+)
+"streams.ml" 90 2659 2667 "streams.ml" 90 2659 2709
+type(
+  bool
+)
+"streams.ml" 90 2659 2659 "streams.ml" 90 2659 2710
+type(
+  unit
+)
+"streams.ml" 91 2711 2719 "streams.ml" 91 2711 2724
+type(
+  int tree -> int
+)
+ident(
+  int_ref headt "streams.ml" 14 377 381 "streams.ml" 14 377 386
+)
+"streams.ml" 91 2711 2726 "streams.ml" 91 2711 2731
+type(
+  int tree -> int tree
+)
+ident(
+  int_ref ltail "streams.ml" 23 595 599 "streams.ml" 23 595 604
+)
+"streams.ml" 91 2711 2733 "streams.ml" 91 2711 2738
+type(
+  int tree -> int tree
+)
+ident(
+  int_ref rtail "streams.ml" 28 675 679 "streams.ml" 28 675 684
+)
+"streams.ml" 91 2711 2740 "streams.ml" 91 2711 2745
+type(
+  int tree -> int tree
+)
+ident(
+  int_ref ltail "streams.ml" 23 595 599 "streams.ml" 23 595 604
+)
+"streams.ml" 91 2711 2746 "streams.ml" 91 2711 2754
+type(
+  int tree
+)
+ident(
+  int_ref treenats "streams.ml" 78 2035 2043 "streams.ml" 78 2035 2051
+)
+"streams.ml" 91 2711 2740 "streams.ml" 91 2711 2754
+call(
+  stack
+)
+type(
+  int tree
+)
+"streams.ml" 91 2711 2733 "streams.ml" 91 2711 2755
+call(
+  stack
+)
+type(
+  int tree
+)
+"streams.ml" 91 2711 2726 "streams.ml" 91 2711 2756
+call(
+  stack
+)
+type(
+  int tree
+)
+"streams.ml" 91 2711 2719 "streams.ml" 91 2711 2757
+call(
+  stack
+)
+type(
+  int
+)
+"streams.ml" 91 2711 2758 "streams.ml" 91 2711 2759
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"streams.ml" 91 2711 2760 "streams.ml" 91 2711 2762
+type(
+  int
+)
+"streams.ml" 91 2711 2719 "streams.ml" 91 2711 2762
+type(
+  bool
+)
+"streams.ml" 91 2711 2711 "streams.ml" 91 2711 2763
+type(
+  unit
+)
+"streams.ml" 92 2764 2772 "streams.ml" 92 2764 2777
+type(
+  int tree -> int
+)
+ident(
+  int_ref headt "streams.ml" 14 377 381 "streams.ml" 14 377 386
+)
+"streams.ml" 92 2764 2779 "streams.ml" 92 2764 2784
+type(
+  int tree -> int tree
+)
+ident(
+  int_ref rtail "streams.ml" 28 675 679 "streams.ml" 28 675 684
+)
+"streams.ml" 92 2764 2786 "streams.ml" 92 2764 2791
+type(
+  int tree -> int tree
+)
+ident(
+  int_ref rtail "streams.ml" 28 675 679 "streams.ml" 28 675 684
+)
+"streams.ml" 92 2764 2793 "streams.ml" 92 2764 2798
+type(
+  int tree -> int tree
+)
+ident(
+  int_ref ltail "streams.ml" 23 595 599 "streams.ml" 23 595 604
+)
+"streams.ml" 92 2764 2799 "streams.ml" 92 2764 2807
+type(
+  int tree
+)
+ident(
+  int_ref treenats "streams.ml" 78 2035 2043 "streams.ml" 78 2035 2051
+)
+"streams.ml" 92 2764 2793 "streams.ml" 92 2764 2807
+call(
+  stack
+)
+type(
+  int tree
+)
+"streams.ml" 92 2764 2786 "streams.ml" 92 2764 2808
+call(
+  stack
+)
+type(
+  int tree
+)
+"streams.ml" 92 2764 2779 "streams.ml" 92 2764 2809
+call(
+  stack
+)
+type(
+  int tree
+)
+"streams.ml" 92 2764 2772 "streams.ml" 92 2764 2810
+call(
+  stack
+)
+type(
+  int
+)
+"streams.ml" 92 2764 2811 "streams.ml" 92 2764 2812
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"streams.ml" 92 2764 2813 "streams.ml" 92 2764 2815
+type(
+  int
+)
+"streams.ml" 92 2764 2772 "streams.ml" 92 2764 2815
+type(
+  bool
+)
+"streams.ml" 92 2764 2764 "streams.ml" 92 2764 2816
+type(
+  unit
+)
+"streams.ml" 93 2817 2825 "streams.ml" 93 2817 2830
+type(
+  int tree -> int
+)
+ident(
+  int_ref headt "streams.ml" 14 377 381 "streams.ml" 14 377 386
+)
+"streams.ml" 93 2817 2832 "streams.ml" 93 2817 2837
+type(
+  int tree -> int tree
+)
+ident(
+  int_ref ltail "streams.ml" 23 595 599 "streams.ml" 23 595 604
+)
+"streams.ml" 93 2817 2839 "streams.ml" 93 2817 2844
+type(
+  int tree -> int tree
+)
+ident(
+  int_ref ltail "streams.ml" 23 595 599 "streams.ml" 23 595 604
+)
+"streams.ml" 93 2817 2846 "streams.ml" 93 2817 2851
+type(
+  int tree -> int tree
+)
+ident(
+  int_ref rtail "streams.ml" 28 675 679 "streams.ml" 28 675 684
+)
+"streams.ml" 93 2817 2852 "streams.ml" 93 2817 2860
+type(
+  int tree
+)
+ident(
+  int_ref treenats "streams.ml" 78 2035 2043 "streams.ml" 78 2035 2051
+)
+"streams.ml" 93 2817 2846 "streams.ml" 93 2817 2860
+call(
+  stack
+)
+type(
+  int tree
+)
+"streams.ml" 93 2817 2839 "streams.ml" 93 2817 2861
+call(
+  stack
+)
+type(
+  int tree
+)
+"streams.ml" 93 2817 2832 "streams.ml" 93 2817 2862
+call(
+  stack
+)
+type(
+  int tree
+)
+"streams.ml" 93 2817 2825 "streams.ml" 93 2817 2863
+call(
+  stack
+)
+type(
+  int
+)
+"streams.ml" 93 2817 2864 "streams.ml" 93 2817 2865
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( = )
+)
+"streams.ml" 93 2817 2866 "streams.ml" 93 2817 2868
+type(
+  int
+)
+"streams.ml" 93 2817 2825 "streams.ml" 93 2817 2868
+type(
+  bool
+)
+"streams.ml" 93 2817 2817 "streams.ml" 93 2817 2869
+type(
+  unit
+)
+"streams.ml" 110 3301 3309 "streams.ml" 110 3301 3313
+type(
+  int stream
+)
+ident(
+  def ones "streams.ml" 110 3301 3301 "streams.ml" 1 0 -1
+)
+"streams.ml" 110 3301 3321 "streams.ml" 110 3301 3322
+type(
+  int
+)
+"streams.ml" 110 3301 3329 "streams.ml" 110 3301 3333
+type(
+  int stream
+)
+ident(
+  int_ref ones "streams.ml" 110 3301 3309 "streams.ml" 110 3301 3313
+)
+"streams.ml" 110 3301 3324 "streams.ml" 110 3301 3334
+type(
+  int stream lazy_t
+)
+"streams.ml" 110 3301 3316 "streams.ml" 110 3301 3335
+type(
+  int stream
+)
+"streams.ml" 115 3398 3402 "streams.ml" 115 3398 3406
+type(
+  'a stream -> 'a
+)
+ident(
+  def head "streams.ml" 120 3466 3466 "streams.ml" 1 0 -1
+)
+"streams.ml" 115 3398 3408 "streams.ml" 115 3398 3409
+type(
+  'a stream
+)
+ident(
+  def s "streams.ml" 115 3398 3421 "streams.ml" 117 3443 3461
+)
+"streams.ml" 116 3428 3436 "streams.ml" 116 3428 3437
+type(
+  'a stream
+)
+ident(
+  int_ref s "streams.ml" 115 3398 3408 "streams.ml" 115 3398 3409
+)
+"streams.ml" 117 3443 3451 "streams.ml" 117 3443 3452
+type(
+  'a
+)
+ident(
+  def x "streams.ml" 117 3443 3460 "streams.ml" 117 3443 3461
+)
+"streams.ml" 117 3443 3454 "streams.ml" 117 3443 3455
+type(
+  'a stream lazy_t
+)
+"streams.ml" 117 3443 3446 "streams.ml" 117 3443 3456
+type(
+  'a stream
+)
+"streams.ml" 117 3443 3460 "streams.ml" 117 3443 3461
+type(
+  'a
+)
+ident(
+  int_ref x "streams.ml" 117 3443 3451 "streams.ml" 117 3443 3452
+)
+"streams.ml" 116 3428 3430 "streams.ml" 117 3443 3461
+type(
+  'a
+)
+type(
+  'a
+)
+"streams.ml" 115 3398 3407 "streams.ml" 117 3443 3461
+type(
+  'a stream -> 'a
+)
+"streams.ml" 120 3466 3470 "streams.ml" 120 3466 3474
+type(
+  'a stream -> 'a stream
+)
+ident(
+  def tail "streams.ml" 128 3585 3585 "streams.ml" 1 0 -1
+)
+"streams.ml" 120 3466 3476 "streams.ml" 120 3466 3477
+type(
+  'a stream
+)
+ident(
+  def s "streams.ml" 121 3491 3493 "streams.ml" 122 3506 3535
+)
+"streams.ml" 121 3491 3499 "streams.ml" 121 3491 3500
+type(
+  'a stream
+)
+ident(
+  int_ref s "streams.ml" 120 3466 3476 "streams.ml" 120 3466 3477
+)
+"streams.ml" 122 3506 3514 "streams.ml" 122 3506 3515
+type(
+  'a
+)
+"streams.ml" 122 3506 3517 "streams.ml" 122 3506 3518
+type(
+  'a stream lazy_t
+)
+ident(
+  def x "streams.ml" 122 3506 3523 "streams.ml" 122 3506 3535
+)
+"streams.ml" 122 3506 3509 "streams.ml" 122 3506 3519
+type(
+  'a stream
+)
+"streams.ml" 122 3506 3523 "streams.ml" 122 3506 3533
+type(
+  'a stream lazy_t -> 'a stream
+)
+ident(
+  ext_ref Core.Std.Lazy.force
+)
+"streams.ml" 122 3506 3534 "streams.ml" 122 3506 3535
+type(
+  'a stream lazy_t
+)
+ident(
+  int_ref x "streams.ml" 122 3506 3517 "streams.ml" 122 3506 3518
+)
+"streams.ml" 122 3506 3523 "streams.ml" 122 3506 3535
+call(
+  tail
+)
+type(
+  'a stream
+)
+"streams.ml" 121 3491 3493 "streams.ml" 122 3506 3535
+type(
+  'a stream
+)
+"streams.ml" 120 3466 3475 "streams.ml" 122 3506 3535
+type(
+  'a stream -> 'a stream
+)
+"streams.ml" 128 3585 3593 "streams.ml" 128 3585 3596
+type(
+  ('a -> 'b) -> 'a stream -> 'b stream
+)
+ident(
+  def map "streams.ml" 128 3585 3585 "streams.ml" 1 0 -1
+)
+"streams.ml" 128 3585 3598 "streams.ml" 128 3585 3599
+type(
+  'a -> 'b
+)
+ident(
+  def f "streams.ml" 128 3585 3610 "streams.ml" 130 3653 3709
+)
+"streams.ml" 128 3585 3611 "streams.ml" 128 3585 3612
+type(
+  'a stream
+)
+ident(
+  def s "streams.ml" 128 3585 3624 "streams.ml" 130 3653 3709
+)
+"streams.ml" 129 3638 3646 "streams.ml" 129 3638 3647
+type(
+  'a stream
+)
+ident(
+  int_ref s "streams.ml" 128 3585 3611 "streams.ml" 128 3585 3612
+)
+"streams.ml" 130 3653 3661 "streams.ml" 130 3653 3662
+type(
+  'a
+)
+ident(
+  def x "streams.ml" 130 3653 3670 "streams.ml" 130 3653 3709
+)
+"streams.ml" 130 3653 3664 "streams.ml" 130 3653 3665
+type(
+  'a stream lazy_t
+)
+ident(
+  def y "streams.ml" 130 3653 3670 "streams.ml" 130 3653 3709
+)
+"streams.ml" 130 3653 3656 "streams.ml" 130 3653 3666
+type(
+  'a stream
+)
+"streams.ml" 130 3653 3676 "streams.ml" 130 3653 3677
+type(
+  'a -> 'b
+)
+ident(
+  int_ref f "streams.ml" 128 3585 3598 "streams.ml" 128 3585 3599
+)
+"streams.ml" 130 3653 3678 "streams.ml" 130 3653 3679
+type(
+  'a
+)
+ident(
+  int_ref x "streams.ml" 130 3653 3661 "streams.ml" 130 3653 3662
+)
+"streams.ml" 130 3653 3676 "streams.ml" 130 3653 3679
+call(
+  stack
+)
+type(
+  'b
+)
+"streams.ml" 130 3653 3687 "streams.ml" 130 3653 3690
+type(
+  ('a -> 'b) -> 'a stream -> 'b stream
+)
+ident(
+  int_ref map "streams.ml" 128 3585 3593 "streams.ml" 128 3585 3596
+)
+"streams.ml" 130 3653 3691 "streams.ml" 130 3653 3692
+type(
+  'a -> 'b
+)
+ident(
+  int_ref f "streams.ml" 128 3585 3598 "streams.ml" 128 3585 3599
+)
+"streams.ml" 130 3653 3694 "streams.ml" 130 3653 3704
+type(
+  'a stream lazy_t -> 'a stream
+)
+ident(
+  ext_ref Core.Std.Lazy.force
+)
+"streams.ml" 130 3653 3705 "streams.ml" 130 3653 3706
+type(
+  'a stream lazy_t
+)
+ident(
+  int_ref y "streams.ml" 130 3653 3664 "streams.ml" 130 3653 3665
+)
+"streams.ml" 130 3653 3694 "streams.ml" 130 3653 3706
+call(
+  stack
+)
+type(
+  'a stream
+)
+"streams.ml" 130 3653 3687 "streams.ml" 130 3653 3707
+call(
+  tail
+)
+type(
+  'b stream
+)
+"streams.ml" 130 3653 3681 "streams.ml" 130 3653 3708
+type(
+  'b stream lazy_t
+)
+"streams.ml" 130 3653 3670 "streams.ml" 130 3653 3709
+type(
+  'b stream
+)
+"streams.ml" 129 3638 3640 "streams.ml" 130 3653 3709
+type(
+  'b stream
+)
+type(
+  'b stream
+)
+"streams.ml" 128 3585 3610 "streams.ml" 130 3653 3709
+type(
+  'a stream -> 'b stream
+)
+"streams.ml" 128 3585 3597 "streams.ml" 130 3653 3709
+type(
+  ('a -> 'b) -> 'a stream -> 'b stream
+)
+"streams.ml" 136 3757 3765 "streams.ml" 136 3757 3769
+type(
+  int stream
+)
+ident(
+  def nats "streams.ml" 136 3757 3757 "streams.ml" 1 0 -1
+)
+"streams.ml" 136 3757 3778 "streams.ml" 136 3757 3779
+type(
+  int
+)
+"streams.ml" 136 3757 3786 "streams.ml" 136 3757 3789
+type(
+  (int -> int) -> int stream -> int stream
+)
+ident(
+  int_ref map "streams.ml" 128 3585 3593 "streams.ml" 128 3585 3596
+)
+"streams.ml" 136 3757 3791 "streams.ml" 136 3757 3794
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( + )
+)
+"streams.ml" 136 3757 3795 "streams.ml" 136 3757 3796
+type(
+  int
+)
+"streams.ml" 136 3757 3791 "streams.ml" 136 3757 3796
+call(
+  stack
+)
+type(
+  int -> int
+)
+"streams.ml" 136 3757 3798 "streams.ml" 136 3757 3802
+type(
+  int stream
+)
+ident(
+  int_ref nats "streams.ml" 136 3757 3765 "streams.ml" 136 3757 3769
+)
+"streams.ml" 136 3757 3786 "streams.ml" 136 3757 3802
+call(
+  tail
+)
+type(
+  int stream
+)
+"streams.ml" 136 3757 3781 "streams.ml" 136 3757 3803
+type(
+  int stream lazy_t
+)
+"streams.ml" 136 3757 3772 "streams.ml" 136 3757 3804
+type(
+  int stream
+)
+"streams.ml" 143 4017 4025 "streams.ml" 143 4017 4028
+type(
+  int -> 'a stream -> 'a
+)
+ident(
+  def nth "streams.ml" 143 4017 4017 "streams.ml" 1 0 -1
+)
+"streams.ml" 143 4017 4030 "streams.ml" 143 4017 4031
+type(
+  int
+)
+ident(
+  def n "streams.ml" 143 4017 4037 "streams.ml" 146 4102 4143
+)
+"streams.ml" 143 4017 4038 "streams.ml" 143 4017 4039
+type(
+  'a stream
+)
+ident(
+  def s "streams.ml" 143 4017 4051 "streams.ml" 146 4102 4143
+)
+"streams.ml" 144 4058 4063 "streams.ml" 144 4058 4064
+type(
+  int
+)
+ident(
+  int_ref n "streams.ml" 143 4017 4030 "streams.ml" 143 4017 4031
+)
+"streams.ml" 144 4058 4065 "streams.ml" 144 4058 4067
+type(
+  int -> int -> bool
+)
+ident(
+  ext_ref Pervasives.( <= )
+)
+"streams.ml" 144 4058 4068 "streams.ml" 144 4058 4069
+type(
+  int
+)
+"streams.ml" 144 4058 4063 "streams.ml" 144 4058 4069
+type(
+  bool
+)
+"streams.ml" 144 4058 4075 "streams.ml" 144 4058 4079
+type(
+  'a stream -> 'a
+)
+ident(
+  int_ref head "streams.ml" 115 3398 3402 "streams.ml" 115 3398 3406
+)
+"streams.ml" 144 4058 4080 "streams.ml" 144 4058 4081
+type(
+  'a stream
+)
+ident(
+  int_ref s "streams.ml" 143 4017 4038 "streams.ml" 143 4017 4039
+)
+"streams.ml" 144 4058 4075 "streams.ml" 144 4058 4081
+call(
+  tail
+)
+type(
+  'a
+)
+"streams.ml" 145 4087 4095 "streams.ml" 145 4087 4096
+type(
+  'a stream
+)
+ident(
+  int_ref s "streams.ml" 143 4017 4038 "streams.ml" 143 4017 4039
+)
+"streams.ml" 146 4102 4111 "streams.ml" 146 4102 4112
+type(
+  'a
+)
+"streams.ml" 146 4102 4113 "streams.ml" 146 4102 4114
+type(
+  'a stream lazy_t
+)
+ident(
+  def t "streams.ml" 146 4102 4119 "streams.ml" 146 4102 4143
+)
+"streams.ml" 146 4102 4105 "streams.ml" 146 4102 4115
+type(
+  'a stream
+)
+"streams.ml" 146 4102 4119 "streams.ml" 146 4102 4122
+type(
+  int -> 'a stream -> 'a
+)
+ident(
+  int_ref nth "streams.ml" 143 4017 4025 "streams.ml" 143 4017 4028
+)
+"streams.ml" 146 4102 4124 "streams.ml" 146 4102 4125
+type(
+  int
+)
+ident(
+  int_ref n "streams.ml" 143 4017 4030 "streams.ml" 143 4017 4031
+)
+"streams.ml" 146 4102 4125 "streams.ml" 146 4102 4126
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( - )
+)
+"streams.ml" 146 4102 4126 "streams.ml" 146 4102 4127
+type(
+  int
+)
+"streams.ml" 146 4102 4124 "streams.ml" 146 4102 4127
+type(
+  int
+)
+"streams.ml" 146 4102 4130 "streams.ml" 146 4102 4140
+type(
+  'a stream lazy_t -> 'a stream
+)
+ident(
+  ext_ref Core.Std.Lazy.force
+)
+"streams.ml" 146 4102 4141 "streams.ml" 146 4102 4142
+type(
+  'a stream lazy_t
+)
+ident(
+  int_ref t "streams.ml" 146 4102 4113 "streams.ml" 146 4102 4114
+)
+"streams.ml" 146 4102 4130 "streams.ml" 146 4102 4142
+call(
+  stack
+)
+type(
+  'a stream
+)
+"streams.ml" 146 4102 4119 "streams.ml" 146 4102 4143
+call(
+  tail
+)
+type(
+  'a
+)
+"streams.ml" 145 4087 4089 "streams.ml" 146 4102 4143
+type(
+  'a
+)
+"streams.ml" 144 4058 4060 "streams.ml" 146 4102 4143
+type(
+  'a
+)
+type(
+  'a
+)
+"streams.ml" 143 4017 4037 "streams.ml" 146 4102 4143
+type(
+  'a stream -> 'a
+)
+"streams.ml" 143 4017 4029 "streams.ml" 146 4102 4143
+type(
+  int -> 'a stream -> 'a
+)
+"streams.ml" 156 4469 4477 "streams.ml" 156 4469 4482
+type(
+  int stream -> int stream -> int stream
+)
+ident(
+  def merge "streams.ml" 156 4469 4469 "streams.ml" 1 0 -1
+)
+"streams.ml" 156 4469 4484 "streams.ml" 156 4469 4486
+type(
+  int stream
+)
+ident(
+  def s1 "streams.ml" 156 4469 4499 "streams.ml" 160 4658 4710
+)
+"streams.ml" 156 4469 4500 "streams.ml" 156 4469 4502
+type(
+  int stream
+)
+ident(
+  def s2 "streams.ml" 156 4469 4515 "streams.ml" 160 4658 4710
+)
+"streams.ml" 157 4530 4538 "streams.ml" 157 4530 4549
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Core.Std.Int.compare
+)
+"streams.ml" 157 4530 4551 "streams.ml" 157 4530 4555
+type(
+  int stream -> int
+)
+ident(
+  int_ref head "streams.ml" 115 3398 3402 "streams.ml" 115 3398 3406
+)
+"streams.ml" 157 4530 4556 "streams.ml" 157 4530 4558
+type(
+  int stream
+)
+ident(
+  int_ref s1 "streams.ml" 156 4469 4484 "streams.ml" 156 4469 4486
+)
+"streams.ml" 157 4530 4551 "streams.ml" 157 4530 4558
+call(
+  stack
+)
+type(
+  int
+)
+"streams.ml" 157 4530 4561 "streams.ml" 157 4530 4565
+type(
+  int stream -> int
+)
+ident(
+  int_ref head "streams.ml" 115 3398 3402 "streams.ml" 115 3398 3406
+)
+"streams.ml" 157 4530 4566 "streams.ml" 157 4530 4568
+type(
+  int stream
+)
+ident(
+  int_ref s2 "streams.ml" 156 4469 4500 "streams.ml" 156 4469 4502
+)
+"streams.ml" 157 4530 4561 "streams.ml" 157 4530 4568
+call(
+  stack
+)
+type(
+  int
+)
+"streams.ml" 157 4530 4538 "streams.ml" 157 4530 4569
+call(
+  stack
+)
+type(
+  int
+)
+"streams.ml" 158 4575 4579 "streams.ml" 158 4575 4580
+type(
+  int
+)
+"streams.ml" 158 4575 4586 "streams.ml" 158 4575 4591
+type(
+  int stream -> int stream -> int stream
+)
+ident(
+  int_ref merge "streams.ml" 156 4469 4477 "streams.ml" 156 4469 4482
+)
+"streams.ml" 158 4575 4592 "streams.ml" 158 4575 4594
+type(
+  int stream
+)
+ident(
+  int_ref s1 "streams.ml" 156 4469 4484 "streams.ml" 156 4469 4486
+)
+"streams.ml" 158 4575 4596 "streams.ml" 158 4575 4600
+type(
+  int stream -> int stream
+)
+ident(
+  int_ref tail "streams.ml" 120 3466 3470 "streams.ml" 120 3466 3474
+)
+"streams.ml" 158 4575 4601 "streams.ml" 158 4575 4603
+type(
+  int stream
+)
+ident(
+  int_ref s2 "streams.ml" 156 4469 4500 "streams.ml" 156 4469 4502
+)
+"streams.ml" 158 4575 4596 "streams.ml" 158 4575 4603
+call(
+  stack
+)
+type(
+  int stream
+)
+"streams.ml" 158 4575 4586 "streams.ml" 158 4575 4604
+call(
+  tail
+)
+type(
+  int stream
+)
+"streams.ml" 159 4605 4609 "streams.ml" 159 4605 4611
+type(
+  int
+)
+"streams.ml" 159 4605 4622 "streams.ml" 159 4605 4626
+type(
+  int stream -> int
+)
+ident(
+  int_ref head "streams.ml" 115 3398 3402 "streams.ml" 115 3398 3406
+)
+"streams.ml" 159 4605 4627 "streams.ml" 159 4605 4629
+type(
+  int stream
+)
+ident(
+  int_ref s1 "streams.ml" 156 4469 4484 "streams.ml" 156 4469 4486
+)
+"streams.ml" 159 4605 4622 "streams.ml" 159 4605 4629
+call(
+  stack
+)
+type(
+  int
+)
+"streams.ml" 159 4605 4637 "streams.ml" 159 4605 4642
+type(
+  int stream -> int stream -> int stream
+)
+ident(
+  int_ref merge "streams.ml" 156 4469 4477 "streams.ml" 156 4469 4482
+)
+"streams.ml" 159 4605 4644 "streams.ml" 159 4605 4648
+type(
+  int stream -> int stream
+)
+ident(
+  int_ref tail "streams.ml" 120 3466 3470 "streams.ml" 120 3466 3474
+)
+"streams.ml" 159 4605 4649 "streams.ml" 159 4605 4651
+type(
+  int stream
+)
+ident(
+  int_ref s1 "streams.ml" 156 4469 4484 "streams.ml" 156 4469 4486
+)
+"streams.ml" 159 4605 4644 "streams.ml" 159 4605 4651
+call(
+  stack
+)
+type(
+  int stream
+)
+"streams.ml" 159 4605 4653 "streams.ml" 159 4605 4655
+type(
+  int stream
+)
+ident(
+  int_ref s2 "streams.ml" 156 4469 4500 "streams.ml" 156 4469 4502
+)
+"streams.ml" 159 4605 4637 "streams.ml" 159 4605 4655
+call(
+  tail
+)
+type(
+  int stream
+)
+"streams.ml" 159 4605 4631 "streams.ml" 159 4605 4656
+type(
+  int stream lazy_t
+)
+"streams.ml" 159 4605 4616 "streams.ml" 159 4605 4657
+type(
+  int stream
+)
+"streams.ml" 160 4658 4662 "streams.ml" 160 4658 4663
+type(
+  int
+)
+"streams.ml" 160 4658 4675 "streams.ml" 160 4658 4679
+type(
+  int stream -> int
+)
+ident(
+  int_ref head "streams.ml" 115 3398 3402 "streams.ml" 115 3398 3406
+)
+"streams.ml" 160 4658 4680 "streams.ml" 160 4658 4682
+type(
+  int stream
+)
+ident(
+  int_ref s2 "streams.ml" 156 4469 4500 "streams.ml" 156 4469 4502
+)
+"streams.ml" 160 4658 4675 "streams.ml" 160 4658 4682
+call(
+  stack
+)
+type(
+  int
+)
+"streams.ml" 160 4658 4690 "streams.ml" 160 4658 4695
+type(
+  int stream -> int stream -> int stream
+)
+ident(
+  int_ref merge "streams.ml" 156 4469 4477 "streams.ml" 156 4469 4482
+)
+"streams.ml" 160 4658 4696 "streams.ml" 160 4658 4698
+type(
+  int stream
+)
+ident(
+  int_ref s1 "streams.ml" 156 4469 4484 "streams.ml" 156 4469 4486
+)
+"streams.ml" 160 4658 4700 "streams.ml" 160 4658 4704
+type(
+  int stream -> int stream
+)
+ident(
+  int_ref tail "streams.ml" 120 3466 3470 "streams.ml" 120 3466 3474
+)
+"streams.ml" 160 4658 4705 "streams.ml" 160 4658 4707
+type(
+  int stream
+)
+ident(
+  int_ref s2 "streams.ml" 156 4469 4500 "streams.ml" 156 4469 4502
+)
+"streams.ml" 160 4658 4700 "streams.ml" 160 4658 4707
+call(
+  stack
+)
+type(
+  int stream
+)
+"streams.ml" 160 4658 4690 "streams.ml" 160 4658 4708
+call(
+  tail
+)
+type(
+  int stream
+)
+"streams.ml" 160 4658 4684 "streams.ml" 160 4658 4709
+type(
+  int stream lazy_t
+)
+"streams.ml" 160 4658 4669 "streams.ml" 160 4658 4710
+type(
+  int stream
+)
+"streams.ml" 157 4530 4532 "streams.ml" 160 4658 4710
+type(
+  int stream
+)
+type(
+  int stream
+)
+"streams.ml" 156 4469 4499 "streams.ml" 160 4658 4710
+type(
+  int stream -> int stream
+)
+"streams.ml" 156 4469 4483 "streams.ml" 160 4658 4710
+type(
+  int stream -> int stream -> int stream
+)
+"streams.ml" 178 5265 5269 "streams.ml" 178 5265 5274
+type(
+  int -> int stream -> int stream
+)
+ident(
+  def scale "streams.ml" 202 6303 6303 "streams.ml" 1 0 -1
+)
+"streams.ml" 178 5265 5275 "streams.ml" 178 5265 5276
+type(
+  int
+)
+ident(
+  def n "streams.ml" 178 5265 5279 "streams.ml" 178 5265 5292
+)
+"streams.ml" 178 5265 5279 "streams.ml" 178 5265 5282
+type(
+  (int -> int) -> int stream -> int stream
+)
+ident(
+  int_ref map "streams.ml" 128 3585 3593 "streams.ml" 128 3585 3596
+)
+"streams.ml" 178 5265 5284 "streams.ml" 178 5265 5289
+type(
+  int -> int -> int
+)
+ident(
+  ext_ref Pervasives.( * )
+)
+"streams.ml" 178 5265 5290 "streams.ml" 178 5265 5291
+type(
+  int
+)
+ident(
+  int_ref n "streams.ml" 178 5265 5275 "streams.ml" 178 5265 5276
+)
+"streams.ml" 178 5265 5284 "streams.ml" 178 5265 5291
+call(
+  stack
+)
+type(
+  int -> int
+)
+"streams.ml" 178 5265 5279 "streams.ml" 178 5265 5292
+call(
+  tail
+)
+type(
+  int stream -> int stream
+)
+"streams.ml" 178 5265 5275 "streams.ml" 178 5265 5292
+type(
+  int -> int stream -> int stream
+)
+"streams.ml" 202 6303 6311 "streams.ml" 202 6303 6326
+type(
+  int stream
+)
+ident(
+  def selectivestream "streams.ml" 202 6303 6303 "streams.ml" 1 0 -1
+)
+"streams.ml" 202 6303 6334 "streams.ml" 202 6303 6335
+type(
+  int
+)
+"streams.ml" 202 6303 6342 "streams.ml" 202 6303 6347
+type(
+  int stream -> int stream -> int stream
+)
+ident(
+  int_ref merge "streams.ml" 156 4469 4477 "streams.ml" 156 4469 4482
+)
+"streams.ml" 202 6303 6349 "streams.ml" 202 6303 6354
+type(
+  int -> int stream -> int stream
+)
+ident(
+  int_ref scale "streams.ml" 178 5265 5269 "streams.ml" 178 5265 5274
+)
+"streams.ml" 202 6303 6355 "streams.ml" 202 6303 6356
+type(
+  int
+)
+"streams.ml" 202 6303 6357 "streams.ml" 202 6303 6372
+type(
+  int stream
+)
+ident(
+  int_ref selectivestream "streams.ml" 202 6303 6311 "streams.ml" 202 6303 6326
+)
+"streams.ml" 202 6303 6349 "streams.ml" 202 6303 6372
+call(
+  stack
+)
+type(
+  int stream
+)
+"streams.ml" 203 6375 6386 "streams.ml" 203 6375 6391
+type(
+  int -> int stream -> int stream
+)
+ident(
+  int_ref scale "streams.ml" 178 5265 5269 "streams.ml" 178 5265 5274
+)
+"streams.ml" 203 6375 6392 "streams.ml" 203 6375 6393
+type(
+  int
+)
+"streams.ml" 203 6375 6394 "streams.ml" 203 6375 6409
+type(
+  int stream
+)
+ident(
+  int_ref selectivestream "streams.ml" 202 6303 6311 "streams.ml" 202 6303 6326
+)
+"streams.ml" 203 6375 6386 "streams.ml" 203 6375 6409
+call(
+  stack
+)
+type(
+  int stream
+)
+"streams.ml" 202 6303 6342 "streams.ml" 203 6375 6410
+call(
+  tail
+)
+type(
+  int stream
+)
+"streams.ml" 202 6303 6337 "streams.ml" 203 6375 6411
+type(
+  int stream lazy_t
+)
+"streams.ml" 202 6303 6329 "streams.ml" 203 6375 6412
+type(
+  int stream
+)
+"streams.ml" 209 6626 6630 "streams.ml" 209 6626 6643
+type(
+  int
+)
+ident(
+  def minutes_spent "streams.ml" 209 6626 6654 "streams.ml" 1 0 -1
+)
+"streams.ml" 209 6626 6652 "streams.ml" 209 6626 6654
+type(
+  int
+)
+type(
+  int
+)

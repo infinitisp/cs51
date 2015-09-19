@@ -1,0 +1,92 @@
+"Baratheon.ml" 7 115 131 "Baratheon.ml" 7 115 132
+type(
+  int * int
+)
+"Baratheon.ml" 7 115 133 "Baratheon.ml" 7 115 137
+type(
+  < get_danger_event : < get_die_event : unit Event51.Event51.event;
+                         get_pos : int * int; receive_damage : unit; .. >
+                       Event51.Event51.event;
+    get_pos : int * int; .. >
+)
+"Baratheon.ml" 8 150 158 "Baratheon.ml" 8 150 162
+type(
+  < danger : world_object_i -> unit; die : unit; draw : unit;
+    draw_picture : unit; draw_z_axis : int; forfeit_gold : int option;
+    get_danger_event : world_object_i Event51.Event51.event;
+    get_die_event : unit Event51.Event51.event; get_name : string;
+    get_pos : int * int; is_obstacle : bool;
+    next_direction : Direction.direction option; receive_damage : unit;
+    receive_gold : int list -> int list; reset_life : unit;
+    smells_like_gold : int option; .. >
+)
+"Baratheon.ml" 9 164 180 "Baratheon.ml" 9 164 181
+type(
+  int * int
+)
+ident(
+  int_ref p "Baratheon.ml" 7 115 131 "Baratheon.ml" 7 115 132
+)
+"Baratheon.ml" 9 164 182 "Baratheon.ml" 9 164 186
+type(
+  < get_danger_event : < get_die_event : unit Event51.Event51.event;
+                         get_pos : int * int; receive_damage : unit; .. >
+                       Event51.Event51.event;
+    get_pos : int * int; .. >
+  as 'a
+)
+ident(
+  int_ref city "Baratheon.ml" 7 115 133 "Baratheon.ml" 7 115 137
+)
+"Baratheon.ml" 23 493 514 "Baratheon.ml" 23 493 525
+type(
+  string
+)
+type(
+  string
+)
+"Baratheon.ml" 23 493 495 "Baratheon.ml" 23 493 525
+type(
+  (< danger : world_object_i -> unit; die : unit; draw : unit;
+     draw_picture : unit; draw_z_axis : int; forfeit_gold : int option;
+     get_danger_event : world_object_i Event51.Event51.event;
+     get_die_event : unit Event51.Event51.event; get_name : string;
+     get_pos : int * int; is_obstacle : bool;
+     next_direction : Direction.direction option; receive_damage : unit;
+     receive_gold : int list -> int list; reset_life : unit;
+     smells_like_gold : int option; .. >
+   as 'b) ->
+  string
+)
+"Baratheon.ml" 24 526 575 "Baratheon.ml" 24 526 591
+type(
+  (int -> int) -> Direction.direction
+)
+ident(
+  ext_ref Direction.random
+)
+"Baratheon.ml" 24 526 592 "Baratheon.ml" 24 526 602
+type(
+  int -> int
+)
+ident(
+  ext_ref World.rand
+)
+"Baratheon.ml" 24 526 575 "Baratheon.ml" 24 526 602
+call(
+  stack
+)
+type(
+  Direction.direction
+)
+"Baratheon.ml" 24 526 569 "Baratheon.ml" 24 526 603
+type(
+  Direction.direction option
+)
+type(
+  Direction.direction option
+)
+"Baratheon.ml" 24 526 528 "Baratheon.ml" 24 526 603
+type(
+  'b -> Direction.direction option
+)
